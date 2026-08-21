@@ -1,0 +1,369 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Snelste stijgers</title>
+<style>
+:root {
+  color-scheme: light;
+  --surface-0: #f4f3f0;
+  --surface-1: #fcfcfb;
+  --surface-2: #eeede9;
+  --border:    #dedcd6;
+  --text-primary:   #0b0b0b;
+  --text-secondary: #52514e;
+  --text-muted:     #7d7c76;
+  --series-1: #2a78d6;
+  --good:     #0ca30c;
+  --critical: #d03b3b;
+  --warning:  #fab219;
+  --accent-soft: #e8f0fc;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --surface-0: #121211;
+    --surface-1: #1a1a19;
+    --surface-2: #232322;
+    --border:    #34342f;
+    --text-primary:   #ffffff;
+    --text-secondary: #c3c2b7;
+    --text-muted:     #8d8c83;
+    --series-1: #3987e5;
+    --accent-soft: #16263a;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --surface-0: #121211; --surface-1: #1a1a19; --surface-2: #232322;
+  --border: #34342f; --text-primary: #ffffff; --text-secondary: #c3c2b7;
+  --text-muted: #8d8c83; --series-1: #3987e5; --accent-soft: #16263a;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--surface-0); color: var(--text-primary);
+  font: 15px/1.5 ui-sans-serif, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+.wrap { max-width: 1180px; margin: 0 auto; padding: 32px 20px 72px; }
+header h1 { font-size: 26px; margin: 0 0 4px; letter-spacing: -0.01em; }
+header .lede { color: var(--text-secondary); margin: 0 0 24px; font-size: 14px; }
+.tiles { display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(168px, 1fr)); margin-bottom: 26px; }
+.tile { background: var(--surface-1); border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px; }
+.tile-label { font-size: 11px; text-transform: uppercase; letter-spacing: .07em; color: var(--text-muted); }
+.tile-value { font-size: 26px; font-weight: 650; margin: 4px 0 2px; letter-spacing: -0.02em; }
+.tile-sub { font-size: 12px; color: var(--text-secondary); }
+nav { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 26px; }
+nav a { font-size: 13px; padding: 5px 11px; border-radius: 999px; background: var(--surface-2);
+        color: var(--text-secondary); text-decoration: none; border: 1px solid var(--border); }
+nav a:hover { color: var(--text-primary); }
+.store { background: var(--surface-1); border: 1px solid var(--border); border-radius: 14px;
+          padding: 20px; margin-bottom: 22px; }
+.store-head { display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;
+               align-items: baseline; margin-bottom: 14px; }
+.store-head h3 { margin: 0; font-size: 18px; letter-spacing: -0.01em; }
+.domain { font-size: 13px; color: var(--series-1); text-decoration: none; }
+.store-meta { font-size: 12.5px; color: var(--text-muted); }
+.sub { font-size: 13px; text-transform: uppercase; letter-spacing: .06em;
+        color: var(--text-muted); margin: 22px 0 10px; font-weight: 600; }
+.grid { display: grid; gap: 12px; grid-template-columns: repeat(auto-fill, minmax(198px, 1fr)); }
+.card { background: var(--surface-2); border: 1px solid var(--border); border-radius: 12px;
+         overflow: hidden; display: flex; flex-direction: column; }
+.card-new { border-style: dashed; }
+.thumb { aspect-ratio: 1/1; background: var(--surface-1); display: flex; align-items: center; justify-content: center; }
+.thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.thumb.no-img::after { content: "geen foto"; font-size: 12px; color: var(--text-muted); }
+.card-body { padding: 11px 12px 13px; display: flex; flex-direction: column; gap: 7px; }
+.card-top { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.badge { font-size: 12px; font-weight: 650; padding: 2px 8px; border-radius: 6px; white-space: nowrap; }
+.badge-up { background: color-mix(in srgb, var(--good) 16%, transparent); color: var(--good); }
+.badge-down { background: color-mix(in srgb, var(--critical) 16%, transparent); color: var(--critical); }
+.badge-new { background: var(--accent-soft); color: var(--series-1); }
+.badge-flat { background: var(--surface-1); color: var(--text-muted); }
+.rank { font-size: 12.5px; color: var(--text-secondary); font-variant-numeric: tabular-nums; }
+.card-title { margin: 0; font-size: 14px; line-height: 1.35; font-weight: 600; }
+.card-title a { color: var(--text-primary); text-decoration: none; }
+.card-title a:hover { text-decoration: underline; }
+.card-meta { font-size: 13px; color: var(--text-secondary); font-variant-numeric: tabular-nums; }
+.spark { display: block; overflow: visible; }
+.spark-line { fill: none; stroke: var(--series-1); stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+.spark-end { fill: var(--series-1); stroke: var(--surface-2); stroke-width: 2; }
+.spark-flat { stroke: var(--border); stroke-width: 2; stroke-dasharray: 3 4; }
+.chips { display: flex; flex-wrap: wrap; gap: 5px; }
+.chip { font-size: 11px; color: var(--text-muted); background: var(--surface-1);
+         border: 1px solid var(--border); border-radius: 5px; padding: 1px 6px; }
+.note { font-size: 13px; color: var(--text-secondary); background: var(--surface-2);
+         border-left: 3px solid var(--warning); padding: 9px 12px; border-radius: 0 8px 8px 0; margin: 0 0 14px; }
+.muted { color: var(--text-muted); font-size: 13.5px; }
+.more { margin-top: 16px; }
+.more summary { cursor: pointer; font-size: 13px; color: var(--text-secondary); }
+.table-wrap { overflow-x: auto; margin-top: 12px; }
+table { border-collapse: collapse; width: 100%; font-size: 13px; }
+th, td { text-align: left; padding: 7px 10px; border-bottom: 1px solid var(--border); white-space: nowrap; }
+th { color: var(--text-muted); font-weight: 600; font-size: 11.5px;
+      text-transform: uppercase; letter-spacing: .05em; }
+td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+td a { color: var(--series-1); }
+footer { margin-top: 30px; font-size: 12px; color: var(--text-muted); line-height: 1.7; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Snelste stijgers</h1>
+    <p class="lede">Run van 2026-08-21 15:47 &middot; stijging gemeten over 3 dagen &middot;
+       top 5 per store &middot; drempel: minstens 10 plekken omhoog en nu binnen de top 300</p>
+  </header>
+  <div class="tiles"><div class='tile'><div class='tile-label'>Stores gevolgd</div><div class='tile-value'>2</div><div class='tile-sub'>actief in deze run</div></div><div class='tile'><div class='tile-label'>Producten in beeld</div><div class='tile-value'>2 000</div><div class='tile-sub'>posities vastgelegd</div></div><div class='tile'><div class='tile-label'>Historie</div><div class='tile-value'>1</div><div class='tile-sub'>snapshots diep</div></div><div class='tile'><div class='tile-label'>Nieuwe binnenkomers</div><div class='tile-value'>0</div><div class='tile-sub'>top 150</div></div><div class='tile'><div class='tile-label'>Al eerder gehad</div><div class='tile-value'>0</div><div class='tile-sub'>overgeslagen, nooit dubbel</div></div></div>
+  <nav><a href='#store-byemiliarose.com'>By Emilia Rose</a><a href='#store-thehillsnashville.com'>The Hills Nashville</a></nav>
+  
+    <section class="store" id="store-averylanebrighton.com">
+      <div class="store-head">
+        <div>
+          <h3>Avery Lane Brighton</h3>
+          <a class="domain" href="https://averylanebrighton.com/collections/all?sort_by=best-selling"
+             target="_blank" rel="noopener">averylanebrighton.com</a>
+        </div>
+        <div class="store-meta">0 producten gevolgd &middot; 0 snapshots</div>
+      </div>
+      <p class='note'>nog geen snapshots</p>
+      <div class="grid"><p class='muted'>Geen stijgers boven de drempel.</p></div>
+      
+      <details class="more">
+        <summary>Tabelweergave en volgende 0 stijgers</summary>
+        <p class='muted'>Geen rijen.</p>
+      </details>
+    </section>
+    <section class="store" id="store-byemiliarose.com">
+      <div class="store-head">
+        <div>
+          <h3>By Emilia Rose</h3>
+          <a class="domain" href="https://byemiliarose.com/collections/all?sort_by=best-selling"
+             target="_blank" rel="noopener">byemiliarose.com</a>
+        </div>
+        <div class="store-meta">1000 producten gevolgd &middot; 1 snapshots</div>
+      </div>
+      <p class='note'>eerste meting: er is nog geen vorige dag om mee te vergelijken. Vanaf de tweede run verschijnen hier stijgers.</p>
+      <div class="grid"><p class='muted'>Geen stijgers boven de drempel.</p></div>
+      
+      <details class="more">
+        <summary>Tabelweergave en volgende 0 stijgers</summary>
+        <p class='muted'>Geen rijen.</p>
+      </details>
+    </section>
+    <section class="store" id="store-bymayberry.co">
+      <div class="store-head">
+        <div>
+          <h3>By Mayberry</h3>
+          <a class="domain" href="https://bymayberry.co/collections/all?sort_by=best-selling"
+             target="_blank" rel="noopener">bymayberry.co</a>
+        </div>
+        <div class="store-meta">0 producten gevolgd &middot; 0 snapshots</div>
+      </div>
+      <p class='note'>nog geen snapshots</p>
+      <div class="grid"><p class='muted'>Geen stijgers boven de drempel.</p></div>
+      
+      <details class="more">
+        <summary>Tabelweergave en volgende 0 stijgers</summary>
+        <p class='muted'>Geen rijen.</p>
+      </details>
+    </section>
+    <section class="store" id="store-byseabourne.com">
+      <div class="store-head">
+        <div>
+          <h3>By Seabourne</h3>
+          <a class="domain" href="https://byseabourne.com/collections/all?sort_by=best-selling"
+             target="_blank" rel="noopener">byseabourne.com</a>
+        </div>
+        <div class="store-meta">0 producten gevolgd &middot; 0 snapshots</div>
+      </div>
+      <p class='note'>nog geen snapshots</p>
+      <div class="grid"><p class='muted'>Geen stijgers boven de drempel.</p></div>
+      
+      <details class="more">
+        <summary>Tabelweergave en volgende 0 stijgers</summary>
+        <p class='muted'>Geen rijen.</p>
+      </details>
+    </section>
+    <section class="store" id="store-drune.de">
+      <div class="store-head">
+        <div>
+          <h3>Drune</h3>
+          <a class="domain" href="https://drune.de/collections/all?sort_by=best-selling"
+             target="_blank" rel="noopener">drune.de</a>
+        </div>
+        <div class="store-meta">0 producten gevolgd &middot; 0 snapshots</div>
+      </div>
+      <p class='note'>nog geen snapshots</p>
+      <div class="grid"><p class='muted'>Geen stijgers boven de drempel.</p></div>
+      
+      <details class="more">
+        <summary>Tabelweergave en volgende 0 stijgers</summary>
+        <p class='muted'>Geen rijen.</p>
+      </details>
+    </section>
+    <section class="store" id="store-elle-charleston.com">
+      <div class="store-head">
+        <div>
+          <h3>Elle Charleston</h3>
+          <a class="domain" href="https://elle-charleston.com/collections/all?sort_by=best-selling"
+             target="_blank" rel="noopener">elle-charleston.com</a>
+        </div>
+        <div class="store-meta">0 producten gevolgd &middot; 0 snapshots</div>
+      </div>
+      <p class='note'>nog geen snapshots</p>
+      <div class="grid"><p class='muted'>Geen stijgers boven de drempel.</p></div>
+      
+      <details class="more">
+        <summary>Tabelweergave en volgende 0 stijgers</summary>
+        <p class='muted'>Geen rijen.</p>
+      </details>
+    </section>
+    <section class="store" id="store-hausofmode.de">
+      <div class="store-head">
+        <div>
+          <h3>Haus of Mode</h3>
+          <a class="domain" href="https://hausofmode.de/collections/all?sort_by=best-selling"
+             target="_blank" rel="noopener">hausofmode.de</a>
+        </div>
+        <div class="store-meta">0 producten gevolgd &middot; 0 snapshots</div>
+      </div>
+      <p class='note'>nog geen snapshots</p>
+      <div class="grid"><p class='muted'>Geen stijgers boven de drempel.</p></div>
+      
+      <details class="more">
+        <summary>Tabelweergave en volgende 0 stijgers</summary>
+        <p class='muted'>Geen rijen.</p>
+      </details>
+    </section>
+    <section class="store" id="store-jessicabybee.com">
+      <div class="store-head">
+        <div>
+          <h3>Jessica by Bee</h3>
+          <a class="domain" href="https://jessicabybee.com/collections/all?sort_by=best-selling"
+             target="_blank" rel="noopener">jessicabybee.com</a>
+        </div>
+        <div class="store-meta">0 producten gevolgd &middot; 0 snapshots</div>
+      </div>
+      <p class='note'>nog geen snapshots</p>
+      <div class="grid"><p class='muted'>Geen stijgers boven de drempel.</p></div>
+      
+      <details class="more">
+        <summary>Tabelweergave en volgende 0 stijgers</summary>
+        <p class='muted'>Geen rijen.</p>
+      </details>
+    </section>
+    <section class="store" id="store-leonboutique.co">
+      <div class="store-head">
+        <div>
+          <h3>Leon Boutique</h3>
+          <a class="domain" href="https://leonboutique.co/collections/all?sort_by=best-selling"
+             target="_blank" rel="noopener">leonboutique.co</a>
+        </div>
+        <div class="store-meta">0 producten gevolgd &middot; 0 snapshots</div>
+      </div>
+      <p class='note'>nog geen snapshots</p>
+      <div class="grid"><p class='muted'>Geen stijgers boven de drempel.</p></div>
+      
+      <details class="more">
+        <summary>Tabelweergave en volgende 0 stijgers</summary>
+        <p class='muted'>Geen rijen.</p>
+      </details>
+    </section>
+    <section class="store" id="store-lunelondon.co.uk">
+      <div class="store-head">
+        <div>
+          <h3>Lune London</h3>
+          <a class="domain" href="https://lunelondon.co.uk/collections/all?sort_by=best-selling"
+             target="_blank" rel="noopener">lunelondon.co.uk</a>
+        </div>
+        <div class="store-meta">0 producten gevolgd &middot; 0 snapshots</div>
+      </div>
+      <p class='note'>nog geen snapshots</p>
+      <div class="grid"><p class='muted'>Geen stijgers boven de drempel.</p></div>
+      
+      <details class="more">
+        <summary>Tabelweergave en volgende 0 stijgers</summary>
+        <p class='muted'>Geen rijen.</p>
+      </details>
+    </section>
+    <section class="store" id="store-madebyjessica.store">
+      <div class="store-head">
+        <div>
+          <h3>Made by Jessica</h3>
+          <a class="domain" href="https://madebyjessica.store/collections/all?sort_by=best-selling"
+             target="_blank" rel="noopener">madebyjessica.store</a>
+        </div>
+        <div class="store-meta">0 producten gevolgd &middot; 0 snapshots</div>
+      </div>
+      <p class='note'>nog geen snapshots</p>
+      <div class="grid"><p class='muted'>Geen stijgers boven de drempel.</p></div>
+      
+      <details class="more">
+        <summary>Tabelweergave en volgende 0 stijgers</summary>
+        <p class='muted'>Geen rijen.</p>
+      </details>
+    </section>
+    <section class="store" id="store-redlich-becker.de">
+      <div class="store-head">
+        <div>
+          <h3>Redlich &amp; Becker</h3>
+          <a class="domain" href="https://redlich-becker.de/collections/all?sort_by=best-selling"
+             target="_blank" rel="noopener">redlich-becker.de</a>
+        </div>
+        <div class="store-meta">0 producten gevolgd &middot; 0 snapshots</div>
+      </div>
+      <p class='note'>nog geen snapshots</p>
+      <div class="grid"><p class='muted'>Geen stijgers boven de drempel.</p></div>
+      
+      <details class="more">
+        <summary>Tabelweergave en volgende 0 stijgers</summary>
+        <p class='muted'>Geen rijen.</p>
+      </details>
+    </section>
+    <section class="store" id="store-thehillsnashville.com">
+      <div class="store-head">
+        <div>
+          <h3>The Hills Nashville</h3>
+          <a class="domain" href="https://thehillsnashville.com/collections/all?sort_by=best-selling"
+             target="_blank" rel="noopener">thehillsnashville.com</a>
+        </div>
+        <div class="store-meta">1000 producten gevolgd &middot; 1 snapshots</div>
+      </div>
+      <p class='note'>eerste meting: er is nog geen vorige dag om mee te vergelijken. Vanaf de tweede run verschijnen hier stijgers.</p>
+      <div class="grid"><p class='muted'>Geen stijgers boven de drempel.</p></div>
+      
+      <details class="more">
+        <summary>Tabelweergave en volgende 0 stijgers</summary>
+        <p class='muted'>Geen rijen.</p>
+      </details>
+    </section>
+    <section class="store" id="store-wright-london.co">
+      <div class="store-head">
+        <div>
+          <h3>Wright London</h3>
+          <a class="domain" href="https://wright-london.co/collections/all?sort_by=best-selling"
+             target="_blank" rel="noopener">wright-london.co</a>
+        </div>
+        <div class="store-meta">0 producten gevolgd &middot; 0 snapshots</div>
+      </div>
+      <p class='note'>nog geen snapshots</p>
+      <div class="grid"><p class='muted'>Geen stijgers boven de drempel.</p></div>
+      
+      <details class="more">
+        <summary>Tabelweergave en volgende 0 stijgers</summary>
+        <p class='muted'>Geen rijen.</p>
+      </details>
+    </section>
+  <section class='store'><h3>Zonder data</h3><p class='muted'>averylanebrighton.com, bymayberry.co, byseabourne.com, drune.de, elle-charleston.com, hausofmode.de, jessicabybee.com, leonboutique.co, lunelondon.co.uk, madebyjessica.store, redlich-becker.de, wright-london.co</p></section>
+  <footer>
+    Positie 1 is de bestverkopende. Een sprong van #340 naar #45 telt als +295.<br>
+    De sparkline toont het rangverloop over de laatste snapshots; omhoog betekent stijgen.<br>
+    Score = plekken gestegen gedeeld door de wortel van de huidige positie, zodat winst dicht bij de top zwaarder weegt.<br>
+    Elk product hier is nieuw voor jou: alles wat al eens in een rapport stond wordt automatisch overgeslagen.<br>
+    Naast dit dashboard staat <strong>shopify_import.csv</strong>, klaar voor Producten &rarr; Importeren in je eigen store.
+  </footer>
+</div>
+</body>
+</html>
