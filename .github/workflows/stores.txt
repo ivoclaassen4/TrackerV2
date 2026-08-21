@@ -1,0 +1,18 @@
+# Een store per regel. Alleen het domein, zonder https:// en zonder pad.
+# Achter de streep mag je een eigen naam zetten.
+# Een # ervoor betekent gepauzeerd.
+
+redlich-becker.de     | Redlich & Becker
+drune.de              | Drune
+lunelondon.co.uk      | Lune London
+byemiliarose.com      | By Emilia Rose
+thehillsnashville.com | The Hills Nashville
+madebyjessica.store   | Made by Jessica
+jessicabybee.com      | Jessica by Bee
+averylanebrighton.com | Avery Lane Brighton
+wright-london.co      | Wright London
+leonboutique.co       | Leon Boutique
+elle-charleston.com   | Elle Charleston
+byseabourne.com       | By Seabourne
+bymayberry.co         | By Mayberry
+hausofmode.de         | Haus of Mode
