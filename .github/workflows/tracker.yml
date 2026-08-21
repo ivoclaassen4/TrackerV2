@@ -1,0 +1,117 @@
+name: Rank tracker
+
+on:
+  schedule:
+    # 05:10 UTC = 07:10 Nederlandse zomertijd, 06:10 in de winter.
+    # Elke dag een snapshot, want zonder dagelijkse meting is er geen trend.
+    - cron: "10 5 * * *"
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "Over hoeveel dagen de stijging gemeten wordt"
+        required: false
+        default: "3"
+      export:
+        description: "Ook de Shopify import-CSV bouwen?"
+        type: boolean
+        required: false
+        default: true
+      snapshot:
+        description: "Ook een verse snapshot ophalen? Nee = alleen opnieuw rapporteren."
+        type: boolean
+        required: false
+        default: true
+      redetect:
+        description: "Opnieuw bepalen hoe de best-selling volgorde opgehaald wordt"
+        type: boolean
+        required: false
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rank-tracker
+  cancel-in-progress: false
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Dependencies
+        run: |
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            pip install requests PyYAML
+          fi
+
+      - name: Zoek het startbestand
+        id: entry
+        run: |
+          mkdir -p data reports
+          # Twee indelingen werken allebei: alles in een bestand, of de map tracker
+          # met run.py ernaast. Hij pakt wat er is.
+          if [ -f rank_tracker.py ]; then
+            echo "file=rank_tracker.py" >> "$GITHUB_OUTPUT"
+          elif [ -f run.py ] && [ -d tracker ]; then
+            echo "file=run.py" >> "$GITHUB_OUTPUT"
+          else
+            echo "::error::Geen rank_tracker.py en geen run.py met map tracker gevonden. Upload er een van."
+            exit 1
+          fi
+          if [ ! -f stores.txt ]; then
+            echo "::error::stores.txt ontbreekt. Zonder dat bestand weet hij niet welke stores hij moet volgen."
+            exit 1
+          fi
+          echo "Startbestand gevonden. Stores in de lijst:"
+          grep -cvE '^\s*(#|$)' stores.txt
+
+      - name: Snapshot ophalen
+        if: ${{ github.event_name != 'workflow_dispatch' || inputs.snapshot }}
+        run: |
+          python "${{ steps.entry.outputs.file }}" snapshot ${{ (github.event_name == 'workflow_dispatch' && inputs.redetect) && '--redetect' || '' }}
+
+      - name: Rapport bouwen
+        run: |
+          python "${{ steps.entry.outputs.file }}" report --days "${{ github.event_name == 'workflow_dispatch' && inputs.days || 3 }}" ${{ (github.event_name == 'workflow_dispatch' && !inputs.export) && '--no-export' || '' }}
+
+      - name: Samenvatting op de run-pagina
+        if: always()
+        run: cat reports/summary.md >> "$GITHUB_STEP_SUMMARY" || true
+
+      - name: Dashboard en CSV als download
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: stijgers-${{ github.run_number }}
+          path: |
+            reports/index.html
+            reports/risers_latest.csv
+            reports/shopify_import.csv
+            reports/risers_latest.json
+          retention-days: 90
+
+      - name: Data terugschrijven naar de repo
+        if: always()
+        run: |
+          git config user.name  "rank-tracker"
+          git config user.email "rank-tracker@users.noreply.github.com"
+          git add -A data reports || git add -A
+          if git diff --cached --quiet; then
+            echo "niets gewijzigd"
+            exit 0
+          fi
+          git commit -m "snapshot $(date -u +%Y-%m-%d)"
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push && break
+            sleep 5
+          done
