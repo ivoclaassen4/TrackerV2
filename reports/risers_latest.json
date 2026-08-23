@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-08-21 15:47",
+  "run_at": "2026-08-23 05:44",
   "config": {
     "max_products": 1000,
     "lookback_days": 3,
@@ -31,23 +31,8 @@
       "store_id": 8,
       "domain": "averylanebrighton.com",
       "label": "Avery Lane Brighton",
-      "days_tracked": 0,
-      "current_day": null,
-      "baseline_day": null,
-      "baseline_gap": null,
-      "total_products": 0,
-      "risers": [],
-      "runners_up": [],
-      "new_entrants": [],
-      "skipped_known": 0,
-      "note": "nog geen snapshots"
-    },
-    {
-      "store_id": 4,
-      "domain": "byemiliarose.com",
-      "label": "By Emilia Rose",
       "days_tracked": 1,
-      "current_day": "2026-08-21",
+      "current_day": "2026-08-23",
       "baseline_day": null,
       "baseline_gap": null,
       "total_products": 1000,
@@ -56,6 +41,455 @@
       "new_entrants": [],
       "skipped_known": 0,
       "note": "eerste meting: er is nog geen vorige dag om mee te vergelijken. Vanaf de tweede run verschijnen hier stijgers."
+    },
+    {
+      "store_id": 4,
+      "domain": "byemiliarose.com",
+      "label": "By Emilia Rose",
+      "days_tracked": 2,
+      "current_day": "2026-08-23",
+      "baseline_day": "2026-08-21",
+      "baseline_gap": 2,
+      "total_products": 1000,
+      "risers": [
+        {
+          "handle": "womens-leather-flat-shoes-with-square-toe-for-everyday-wear",
+          "title": "Women's Leather Flat Shoes with Square Toe for Everyday Wear",
+          "url": "https://byemiliarose.com/products/womens-leather-flat-shoes-with-square-toe-for-everyday-wear",
+          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sLeatherFlatShoeswithSquareToeforEverydayWear_1.png?v=1783335098",
+          "price": 33.0,
+          "vendor": "Emilia Rose",
+          "created_at": "2026-07-08",
+          "rank_now": 273,
+          "rank_before": 380,
+          "delta": 107,
+          "pct": 28.2,
+          "weighted": 6.48,
+          "streak": 1,
+          "spark": [
+            380,
+            273
+          ],
+          "spark_days": [
+            "2026-08-21",
+            "2026-08-23"
+          ],
+          "history": {}
+        },
+        {
+          "handle": "womens-orthopaedic-ankle-boots-with-side-zipper-for-all-day-comfort-2",
+          "title": "Women's Orthopaedic Ankle Boots with Side Zipper for All-Day Comfort",
+          "url": "https://byemiliarose.com/products/womens-orthopaedic-ankle-boots-with-side-zipper-for-all-day-comfort-2",
+          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sOrthopaedicAnkleBootswithSideZipperforAll-DayComfort_1_68bdd653-aeb3-4713-9143-eabca85802c3.png?v=1783335375",
+          "price": 55.0,
+          "vendor": "Emilia Rose",
+          "created_at": "2026-07-08",
+          "rank_now": 203,
+          "rank_before": 273,
+          "delta": 70,
+          "pct": 25.6,
+          "weighted": 4.91,
+          "streak": 1,
+          "spark": [
+            273,
+            203
+          ],
+          "spark_days": [
+            "2026-08-21",
+            "2026-08-23"
+          ],
+          "history": {}
+        },
+        {
+          "handle": "womens-orthopaedic-loafers-with-slip-on-design-for-winter",
+          "title": "Women's Orthopaedic Loafers with Slip On Design for Winter",
+          "url": "https://byemiliarose.com/products/womens-orthopaedic-loafers-with-slip-on-design-for-winter",
+          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sOrthopaedicLoaferswithSlipOnDesignforWinter_1.png?v=1783334050",
+          "price": 48.0,
+          "vendor": "Emilia Rose",
+          "created_at": "2026-07-08",
+          "rank_now": 142,
+          "rank_before": 201,
+          "delta": 59,
+          "pct": 29.4,
+          "weighted": 4.95,
+          "streak": 1,
+          "spark": [
+            201,
+            142
+          ],
+          "spark_days": [
+            "2026-08-21",
+            "2026-08-23"
+          ],
+          "history": {}
+        },
+        {
+          "handle": "button-front-cropped-jacket-with-flap-pockets",
+          "title": "Women’s Cropped Jacket with Button Front",
+          "url": "https://byemiliarose.com/products/button-front-cropped-jacket-with-flap-pockets",
+          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sCroppedJacketwithButtonFront.jpg?v=1783333582",
+          "price": 99.0,
+          "vendor": "Emilia Melbourne",
+          "created_at": "2026-07-10",
+          "rank_now": 285,
+          "rank_before": 333,
+          "delta": 48,
+          "pct": 14.4,
+          "weighted": 2.84,
+          "streak": 1,
+          "spark": [
+            333,
+            285
+          ],
+          "spark_days": [
+            "2026-08-21",
+            "2026-08-23"
+          ],
+          "history": {}
+        },
+        {
+          "handle": "womens-mary-jane-pumps-with-block-heel-for-office-wear",
+          "title": "Women's Mary Jane Pumps with Block Heel for Office Wear",
+          "url": "https://byemiliarose.com/products/womens-mary-jane-pumps-with-block-heel-for-office-wear",
+          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sMaryJanePumpswithBlockHeelforOfficeWear_1.png?v=1783334088",
+          "price": 70.0,
+          "vendor": "Emilia Rose",
+          "created_at": "2026-07-08",
+          "rank_now": 275,
+          "rank_before": 316,
+          "delta": 41,
+          "pct": 13.0,
+          "weighted": 2.47,
+          "streak": 1,
+          "spark": [
+            316,
+            275
+          ],
+          "spark_days": [
+            "2026-08-21",
+            "2026-08-23"
+          ],
+          "history": {}
+        }
+      ],
+      "runners_up": [
+        {
+          "handle": "womens-orthopaedic-sandals-with-crisscross-strap-design-for-summer",
+          "title": "Women's Orthopaedic Sandals with Crisscross Strap Design for Summer",
+          "url": "https://byemiliarose.com/products/womens-orthopaedic-sandals-with-crisscross-strap-design-for-summer",
+          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sOrthopaedicSandalswithCrisscrossStrapDesignforSummer_1.png?v=1783334133",
+          "price": 33.0,
+          "vendor": "Emilia Rose",
+          "created_at": "2026-07-08",
+          "rank_now": 241,
+          "rank_before": 275,
+          "delta": 34,
+          "pct": 12.4,
+          "weighted": 2.19,
+          "streak": 1,
+          "spark": [
+            275,
+            241
+          ],
+          "spark_days": [
+            "2026-08-21",
+            "2026-08-23"
+          ],
+          "history": {}
+        },
+        {
+          "handle": "womens-jumpsuit-with-sequin-surface-and-straight-legs",
+          "title": "Women’s Jumpsuit with Sequin Surface and Straight Legs",
+          "url": "https://byemiliarose.com/products/womens-jumpsuit-with-sequin-surface-and-straight-legs",
+          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sJumpsuitwithSequinSurfaceandStraightLegs_5.png?v=1783334337",
+          "price": 92.0,
+          "vendor": "Emilia Melbourne",
+          "created_at": "2026-07-10",
+          "rank_now": 255,
+          "rank_before": 286,
+          "delta": 31,
+          "pct": 10.8,
+          "weighted": 1.94,
+          "streak": 1,
+          "spark": [
+            286,
+            255
+          ],
+          "spark_days": [
+            "2026-08-21",
+            "2026-08-23"
+          ],
+          "history": {}
+        },
+        {
+          "handle": "women-s-trousers-with-elasticated-waistband-and-drawstring",
+          "title": "Women S Trousers With Elasticated Waistband And Drawstring",
+          "url": "https://byemiliarose.com/products/women-s-trousers-with-elasticated-waistband-and-drawstring",
+          "image": null,
+          "price": null,
+          "vendor": null,
+          "created_at": null,
+          "rank_now": 231,
+          "rank_before": 261,
+          "delta": 30,
+          "pct": 11.5,
+          "weighted": 1.97,
+          "streak": 1,
+          "spark": [
+            261,
+            231
+          ],
+          "spark_days": [
+            "2026-08-21",
+            "2026-08-23"
+          ],
+          "history": {}
+        },
+        {
+          "handle": "womens-block-heel-sandals-with-cushioned-insole",
+          "title": "Women's Block Heel Sandals with Cushioned Insole",
+          "url": "https://byemiliarose.com/products/womens-block-heel-sandals-with-cushioned-insole",
+          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sBlockHeelSandalswithCushionedInsole_1.jpg?v=1783334053",
+          "price": 70.0,
+          "vendor": "Emilia Rose",
+          "created_at": "2026-07-08",
+          "rank_now": 235,
+          "rank_before": 265,
+          "delta": 30,
+          "pct": 11.3,
+          "weighted": 1.96,
+          "streak": 1,
+          "spark": [
+            265,
+            235
+          ],
+          "spark_days": [
+            "2026-08-21",
+            "2026-08-23"
+          ],
+          "history": {}
+        },
+        {
+          "handle": "women-s-top-and-trousers-set-with-round-neck-and-straight-legs",
+          "title": "Women S Top And Trousers Set With Round Neck And Straight Legs",
+          "url": "https://byemiliarose.com/products/women-s-top-and-trousers-set-with-round-neck-and-straight-legs",
+          "image": null,
+          "price": null,
+          "vendor": null,
+          "created_at": null,
+          "rank_now": 229,
+          "rank_before": 258,
+          "delta": 29,
+          "pct": 11.2,
+          "weighted": 1.92,
+          "streak": 1,
+          "spark": [
+            258,
+            229
+          ],
+          "spark_days": [
+            "2026-08-21",
+            "2026-08-23"
+          ],
+          "history": {}
+        },
+        {
+          "handle": "womens-oxford-shoes-with-lace-up-closure-for-casual-wear",
+          "title": "Women's Oxford Shoes with Lace Up Closure for Casual Wear",
+          "url": "https://byemiliarose.com/products/womens-oxford-shoes-with-lace-up-closure-for-casual-wear",
+          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sOxfordShoeswithLaceUpClosureforCasualWear_1_04a99d69-d8e8-42fb-b32d-00c171bec361.png?v=1783333828",
+          "price": 41.0,
+          "vendor": "Emilia Rose",
+          "created_at": "2026-07-08",
+          "rank_now": 175,
+          "rank_before": 200,
+          "delta": 25,
+          "pct": 12.5,
+          "weighted": 1.89,
+          "streak": 1,
+          "spark": [
+            200,
+            175
+          ],
+          "spark_days": [
+            "2026-08-21",
+            "2026-08-23"
+          ],
+          "history": {}
+        },
+        {
+          "handle": "womens-orthopaedic-sandals-with-crisscross-straps-for-summer",
+          "title": "Women's Orthopaedic Sandals with Crisscross Straps for Summer",
+          "url": "https://byemiliarose.com/products/womens-orthopaedic-sandals-with-crisscross-straps-for-summer",
+          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sOrthopaedicSandalswithMidHeightHeelforSummer_1.png?v=1783334468",
+          "price": 33.0,
+          "vendor": "Emilia Rose",
+          "created_at": "2026-07-08",
+          "rank_now": 143,
+          "rank_before": 161,
+          "delta": 18,
+          "pct": 11.2,
+          "weighted": 1.51,
+          "streak": 1,
+          "spark": [
+            161,
+            143
+          ],
+          "spark_days": [
+            "2026-08-21",
+            "2026-08-23"
+          ],
+          "history": {}
+        },
+        {
+          "handle": "womens-sandals-with-cushioned-footbed-and-buckle-fastening",
+          "title": "Women's Sandals with Cushioned Footbed and Buckle Fastening",
+          "url": "https://byemiliarose.com/products/womens-sandals-with-cushioned-footbed-and-buckle-fastening",
+          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sSandalswithCushionedFootbedandBuckleFastening_9.png?v=1785401496",
+          "price": 33.0,
+          "vendor": "Emilia Rose",
+          "created_at": "2026-07-08",
+          "rank_now": 141,
+          "rank_before": 156,
+          "delta": 15,
+          "pct": 9.6,
+          "weighted": 1.26,
+          "streak": 1,
+          "spark": [
+            156,
+            141
+          ],
+          "spark_days": [
+            "2026-08-21",
+            "2026-08-23"
+          ],
+          "history": {}
+        },
+        {
+          "handle": "womens-orthopaedic-ankle-boots-with-side-zipper-for-all-day-comfort-1",
+          "title": "Women's Orthopaedic Ankle Boots with Side Zipper for All-Day Comfort",
+          "url": "https://byemiliarose.com/products/womens-orthopaedic-ankle-boots-with-side-zipper-for-all-day-comfort-1",
+          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sOrthopaedicAnkleBootswithSideZipperforAll-DayComfort_1_94f09c7a-b492-4854-9249-4c956373ac1d.png?v=1783335216",
+          "price": 41.0,
+          "vendor": "Emilia Rose",
+          "created_at": "2026-07-08",
+          "rank_now": 72,
+          "rank_before": 84,
+          "delta": 12,
+          "pct": 14.3,
+          "weighted": 1.41,
+          "streak": 1,
+          "spark": [
+            84,
+            72
+          ],
+          "spark_days": [
+            "2026-08-21",
+            "2026-08-23"
+          ],
+          "history": {}
+        },
+        {
+          "handle": "womens-orthopaedic-heels-with-pointed-toe-shape-for-office-wear",
+          "title": "Women's Orthopaedic Heels with Pointed Toe Shape for Office Wear",
+          "url": "https://byemiliarose.com/products/womens-orthopaedic-heels-with-pointed-toe-shape-for-office-wear",
+          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sOrthopaedicHeelswithPointedToeShapeforOfficeWear_1.png?v=1783333624",
+          "price": 41.0,
+          "vendor": "Emilia Rose",
+          "created_at": "2026-07-08",
+          "rank_now": 75,
+          "rank_before": 85,
+          "delta": 10,
+          "pct": 11.8,
+          "weighted": 1.15,
+          "streak": 1,
+          "spark": [
+            85,
+            75
+          ],
+          "spark_days": [
+            "2026-08-21",
+            "2026-08-23"
+          ],
+          "history": {}
+        },
+        {
+          "handle": "womens-leather-flat-shoes-with-buckle-strap-for-everyday-wear",
+          "title": "Women's Leather Flat Shoes with Buckle Strap for Everyday Wear",
+          "url": "https://byemiliarose.com/products/womens-leather-flat-shoes-with-buckle-strap-for-everyday-wear",
+          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sLeatherFlatShoeswithBuckleStrapforEverydayWear_1.png?v=1783322688",
+          "price": 41.0,
+          "vendor": "Emilia Rose",
+          "created_at": "2026-07-08",
+          "rank_now": 127,
+          "rank_before": 137,
+          "delta": 10,
+          "pct": 7.3,
+          "weighted": 0.89,
+          "streak": 1,
+          "spark": [
+            137,
+            127
+          ],
+          "spark_days": [
+            "2026-08-21",
+            "2026-08-23"
+          ],
+          "history": {}
+        },
+        {
+          "handle": "women-s-dress-with-slim-straps-and-draped-skirt",
+          "title": "Women’s Dress with Slim Straps and Draped Skirt",
+          "url": "https://byemiliarose.com/products/women-s-dress-with-slim-straps-and-draped-skirt",
+          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sDresswithSlimStrapsandDrapedSkirt_1.png?v=1783336065",
+          "price": 55.0,
+          "vendor": "Emilia Melbourne",
+          "created_at": "2026-07-10",
+          "rank_now": 135,
+          "rank_before": 145,
+          "delta": 10,
+          "pct": 6.9,
+          "weighted": 0.86,
+          "streak": 1,
+          "spark": [
+            145,
+            135
+          ],
+          "spark_days": [
+            "2026-08-21",
+            "2026-08-23"
+          ],
+          "history": {}
+        },
+        {
+          "handle": "women-s-tank-top-with-v-neck-and-sleeveless-design-1",
+          "title": "Women S Tank Top With V Neck And Sleeveless Design 1",
+          "url": "https://byemiliarose.com/products/women-s-tank-top-with-v-neck-and-sleeveless-design-1",
+          "image": null,
+          "price": null,
+          "vendor": null,
+          "created_at": null,
+          "rank_now": 139,
+          "rank_before": 149,
+          "delta": 10,
+          "pct": 6.7,
+          "weighted": 0.85,
+          "streak": 1,
+          "spark": [
+            149,
+            139
+          ],
+          "spark_days": [
+            "2026-08-21",
+            "2026-08-23"
+          ],
+          "history": {}
+        }
+      ],
+      "new_entrants": [],
+      "skipped_known": 0,
+      "note": null
     },
     {
       "store_id": 13,
@@ -136,16 +570,16 @@
       "store_id": 7,
       "domain": "jessicabybee.com",
       "label": "Jessica by Bee",
-      "days_tracked": 0,
-      "current_day": null,
+      "days_tracked": 1,
+      "current_day": "2026-08-23",
       "baseline_day": null,
       "baseline_gap": null,
-      "total_products": 0,
+      "total_products": 797,
       "risers": [],
       "runners_up": [],
       "new_entrants": [],
       "skipped_known": 0,
-      "note": "nog geen snapshots"
+      "note": "eerste meting: er is nog geen vorige dag om mee te vergelijken. Vanaf de tweede run verschijnen hier stijgers."
     },
     {
       "store_id": 10,
@@ -181,38 +615,8 @@
       "store_id": 6,
       "domain": "madebyjessica.store",
       "label": "Made by Jessica",
-      "days_tracked": 0,
-      "current_day": null,
-      "baseline_day": null,
-      "baseline_gap": null,
-      "total_products": 0,
-      "risers": [],
-      "runners_up": [],
-      "new_entrants": [],
-      "skipped_known": 0,
-      "note": "nog geen snapshots"
-    },
-    {
-      "store_id": 1,
-      "domain": "redlich-becker.de",
-      "label": "Redlich & Becker",
-      "days_tracked": 0,
-      "current_day": null,
-      "baseline_day": null,
-      "baseline_gap": null,
-      "total_products": 0,
-      "risers": [],
-      "runners_up": [],
-      "new_entrants": [],
-      "skipped_known": 0,
-      "note": "nog geen snapshots"
-    },
-    {
-      "store_id": 5,
-      "domain": "thehillsnashville.com",
-      "label": "The Hills Nashville",
       "days_tracked": 1,
-      "current_day": "2026-08-21",
+      "current_day": "2026-08-23",
       "baseline_day": null,
       "baseline_gap": null,
       "total_products": 1000,
@@ -223,19 +627,74 @@
       "note": "eerste meting: er is nog geen vorige dag om mee te vergelijken. Vanaf de tweede run verschijnen hier stijgers."
     },
     {
-      "store_id": 9,
-      "domain": "wright-london.co",
-      "label": "Wright London",
-      "days_tracked": 0,
-      "current_day": null,
+      "store_id": 1,
+      "domain": "redlich-becker.de",
+      "label": "Redlich & Becker",
+      "days_tracked": 1,
+      "current_day": "2026-08-23",
       "baseline_day": null,
       "baseline_gap": null,
-      "total_products": 0,
+      "total_products": 1000,
       "risers": [],
       "runners_up": [],
       "new_entrants": [],
       "skipped_known": 0,
-      "note": "nog geen snapshots"
+      "note": "eerste meting: er is nog geen vorige dag om mee te vergelijken. Vanaf de tweede run verschijnen hier stijgers."
+    },
+    {
+      "store_id": 5,
+      "domain": "thehillsnashville.com",
+      "label": "The Hills Nashville",
+      "days_tracked": 2,
+      "current_day": "2026-08-23",
+      "baseline_day": "2026-08-21",
+      "baseline_gap": 2,
+      "total_products": 1000,
+      "risers": [
+        {
+          "handle": "amber",
+          "title": "Amber | Orthopedic Sandals",
+          "url": "https://thehillsnashville.com/products/amber",
+          "image": "https://cdn.shopify.com/s/files/1/1017/6325/2566/files/021c4b50bd5c4e17bd453f1595bac6f8.jpg?v=1783338696",
+          "price": 24.95,
+          "vendor": "The Hills Nashville",
+          "created_at": "2026-07-06",
+          "rank_now": 68,
+          "rank_before": 79,
+          "delta": 11,
+          "pct": 13.9,
+          "weighted": 1.33,
+          "streak": 1,
+          "spark": [
+            79,
+            68
+          ],
+          "spark_days": [
+            "2026-08-21",
+            "2026-08-23"
+          ],
+          "history": {}
+        }
+      ],
+      "runners_up": [],
+      "new_entrants": [],
+      "skipped_known": 0,
+      "note": null
+    },
+    {
+      "store_id": 9,
+      "domain": "wright-london.co",
+      "label": "Wright London",
+      "days_tracked": 1,
+      "current_day": "2026-08-23",
+      "baseline_day": null,
+      "baseline_gap": null,
+      "total_products": 638,
+      "risers": [],
+      "runners_up": [],
+      "new_entrants": [],
+      "skipped_known": 0,
+      "note": "eerste meting: er is nog geen vorige dag om mee te vergelijken. Vanaf de tweede run verschijnen hier stijgers."
     }
   ]
 }
