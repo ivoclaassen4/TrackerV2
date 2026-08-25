@@ -1,11 +1,60 @@
 {
- "averylanebrighton.com": {},
+ "averylanebrighton.com": {
+  "alana-elegant-dress": {
+   "first_reported": "2026-08-25",
+   "rank": 255,
+   "title": "Alana | Elegant Dress",
+   "url": "https://averylanebrighton.com/products/alana-elegant-dress"
+  },
+  "andra-orthopaedic-boots": {
+   "first_reported": "2026-08-25",
+   "rank": 219,
+   "title": "Andra | Orthopaedic Boots",
+   "url": "https://averylanebrighton.com/products/andra-orthopaedic-boots"
+  },
+  "laura-comfortable-orthopaedic-sandal": {
+   "first_reported": "2026-08-25",
+   "rank": 125,
+   "title": "Laura Comfortable Orthopaedic Sandal",
+   "url": "https://averylanebrighton.com/products/laura-comfortable-orthopaedic-sandal"
+  },
+  "rael-orthopaedic-mary-jane-shoes": {
+   "first_reported": "2026-08-25",
+   "rank": 198,
+   "title": "Rael Orthopaedic Mary Jane Shoes",
+   "url": "https://averylanebrighton.com/products/rael-orthopaedic-mary-jane-shoes"
+  },
+  "rinley-orthopaedic-boots": {
+   "first_reported": "2026-08-25",
+   "rank": 264,
+   "title": "Rinley Orthopaedic Boots",
+   "url": "https://averylanebrighton.com/products/rinley-orthopaedic-boots"
+  }
+ },
  "byemiliarose.com": {
   "button-front-cropped-jacket-with-flap-pockets": {
    "first_reported": "2026-08-23",
    "rank": 285,
    "title": "Women’s Cropped Jacket with Button Front",
    "url": "https://byemiliarose.com/products/button-front-cropped-jacket-with-flap-pockets"
+  },
+  "women-s-knee-length-dress-with-v-neckline-and-pleated-skirt": {
+   "first_reported": "2026-08-25",
+   "rank": 113,
+   "title": "Women S Knee Length Dress With V Neckline And Pleated Skirt",
+   "url": "https://byemiliarose.com/products/women-s-knee-length-dress-with-v-neckline-and-pleated-skirt"
+  },
+  "women-s-loungewear-set-with-elastic-waistband-and-short-sleeves": {
+   "first_reported": "2026-08-25",
+   "rank": 207,
+   "title": "Women’s Loungewear Set with Elastic Waistband and Short Sleeves",
+   "url": "https://byemiliarose.com/products/women-s-loungewear-set-with-elastic-waistband-and-short-sleeves"
+  },
+  "womens-jumpsuit-with-sequin-surface-and-straight-legs": {
+   "first_reported": "2026-08-25",
+   "rank": 228,
+   "title": "Women’s Jumpsuit with Sequin Surface and Straight Legs",
+   "url": "https://byemiliarose.com/products/womens-jumpsuit-with-sequin-surface-and-straight-legs"
   },
   "womens-leather-flat-shoes-with-square-toe-for-everyday-wear": {
    "first_reported": "2026-08-23",
@@ -30,6 +79,18 @@
    "rank": 142,
    "title": "Women's Orthopaedic Loafers with Slip On Design for Winter",
    "url": "https://byemiliarose.com/products/womens-orthopaedic-loafers-with-slip-on-design-for-winter"
+  },
+  "womens-orthopaedic-wedge-slide-sandals-with-wedge-platform-for-summer": {
+   "first_reported": "2026-08-25",
+   "rank": 247,
+   "title": "Women's Orthopaedic Wedge Slide Sandals with Wedge Platform for Summer",
+   "url": "https://byemiliarose.com/products/womens-orthopaedic-wedge-slide-sandals-with-wedge-platform-for-summer"
+  },
+  "womens-sandals-with-ankle-strap-and-block-heel-sole": {
+   "first_reported": "2026-08-25",
+   "rank": 277,
+   "title": "Women's Sandals with Ankle Strap and Block Heel Sole",
+   "url": "https://byemiliarose.com/products/womens-sandals-with-ankle-strap-and-block-heel-sole"
   }
  },
  "bymayberry.co": {},
@@ -37,18 +98,75 @@
  "drune.de": {},
  "elle-charleston.com": {},
  "hausofmode.de": {},
- "jessicabybee.com": {},
+ "jessicabybee.com": {
+  "adriana-short-sleeve-abstract-print-knee-length-dress": {
+   "first_reported": "2026-08-25",
+   "rank": 273,
+   "title": "Adriana | Short Sleeve Abstract Print Knee Length Dress",
+   "url": "https://jessicabybee.com/products/adriana-short-sleeve-abstract-print-knee-length-dress"
+  },
+  "evadne-embroidered-v-neck-maxi-dress-copy": {
+   "first_reported": "2026-08-25",
+   "rank": 282,
+   "title": "Zafrina | Abstract Pattern Midi Dress",
+   "url": "https://jessicabybee.com/products/evadne-embroidered-v-neck-maxi-dress-copy"
+  },
+  "gemma-strapless-smocked-bodice-midi-dress": {
+   "first_reported": "2026-08-25",
+   "rank": 241,
+   "title": "Gemma | Smocked Strapless Bodice Tiered Maxi Dress",
+   "url": "https://jessicabybee.com/products/gemma-strapless-smocked-bodice-midi-dress"
+  },
+  "lena-relaxed-turtleneck-knit-maxi-dress": {
+   "first_reported": "2026-08-25",
+   "rank": 281,
+   "title": "Lena | Relaxed V-neck Knit Midi Dress",
+   "url": "https://jessicabybee.com/products/lena-relaxed-turtleneck-knit-maxi-dress"
+  },
+  "rosium-spaghetti-strap-lace-bodice-knee-length-dress": {
+   "first_reported": "2026-08-25",
+   "rank": 269,
+   "title": "Rosium | Spaghetti Strap Lace Bodice Knee Length Dress",
+   "url": "https://jessicabybee.com/products/rosium-spaghetti-strap-lace-bodice-knee-length-dress"
+  }
+ },
  "leonboutique.co": {},
  "lunelondon.co.uk": {},
- "madebyjessica.store": {},
+ "madebyjessica.store": {
+  "knitted-button-cardigan-for-women-soft-cozy-layering-piece": {
+   "first_reported": "2026-08-25",
+   "rank": 81,
+   "title": "Women's Knitted Button Cardigan with V-Neckline and Long Sleeves",
+   "url": "https://madebyjessica.store/products/knitted-button-cardigan-for-women-soft-cozy-layering-piece"
+  }
+ },
  "redlich-becker.de": {},
  "thehillsnashville.com": {
+  "abigail": {
+   "first_reported": "2026-08-25",
+   "rank": 175,
+   "title": "Abigail | Elegant Sweater With Zipper",
+   "url": "https://thehillsnashville.com/products/abigail"
+  },
   "amber": {
    "first_reported": "2026-08-23",
    "rank": 68,
    "title": "Amber | Orthopedic Sandals",
    "url": "https://thehillsnashville.com/products/amber"
+  },
+  "kathryn": {
+   "first_reported": "2026-08-25",
+   "rank": 74,
+   "title": "Kathryn | Comfy Buckle Sandals",
+   "url": "https://thehillsnashville.com/products/kathryn"
   }
  },
- "wright-london.co": {}
+ "wright-london.co": {
+  "kalina-women-s-embroidered-mid-sleeve-blouse": {
+   "first_reported": "2026-08-25",
+   "rank": 274,
+   "title": "Kalina | Women’s Embroidered Mid Sleeve Blouse",
+   "url": "https://wright-london.co/products/kalina-women-s-embroidered-mid-sleeve-blouse"
+  }
+ }
 }
