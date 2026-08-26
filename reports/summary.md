@@ -1,28 +1,30 @@
-## Snelste stijgers - 2026-08-25 05:47
+## Snelste stijgers - 2026-08-26 05:49
 
-Venster: 3 dagen | top 5 per store | 6 producten overgeslagen omdat je ze al eerder kreeg
+Venster: 3 dagen | top 5 per store | 20 producten overgeslagen omdat je ze al eerder kreeg
 
 Download onderaan deze pagina bij **Artifacts**: `shopify_import.csv` kun je direct in Shopify importeren via Producten, Importeren.
 
-### Avery Lane Brighton (1000 producten, 2 snapshots)
+### Avery Lane Brighton (1000 producten, 3 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Rinley Orthopaedic Boots | 316 | 264 | +52 |  | [open](https://averylanebrighton.com/products/rinley-orthopaedic-boots) |
-| 2 | Alana | Elegant Dress | 304 | 255 | +49 | 29.95 | [open](https://averylanebrighton.com/products/alana-elegant-dress) |
-| 3 | Andra | Orthopaedic Boots | 262 | 219 | +43 | 29.95 | [open](https://averylanebrighton.com/products/andra-orthopaedic-boots) |
-| 4 | Rael Orthopaedic Mary Jane Shoes | 239 | 198 | +41 |  | [open](https://averylanebrighton.com/products/rael-orthopaedic-mary-jane-shoes) |
-| 5 | Laura Comfortable Orthopaedic Sandal | 163 | 125 | +38 |  | [open](https://averylanebrighton.com/products/laura-comfortable-orthopaedic-sandal) |
+| 1 | Jynna | Orthopaedic Shoes | 300 | 241 | +59 | 39.95 | [open](https://averylanebrighton.com/products/jynna-orthopaedic-shoes) |
+| 2 | Auvie | Elegant Jumper | 166 | 114 | +52 | 34.95 | [open](https://averylanebrighton.com/products/auvie-elegant-sweater) |
+| 3 | Raely Orthopaedic Boots | 273 | 229 | +44 |  | [open](https://averylanebrighton.com/products/raely-orthopaedic-boots) |
+| 4 | Milene Refined Elegance | 224 | 182 | +42 |  | [open](https://averylanebrighton.com/products/milene-refined-elegance) |
+| 5 | Beth | Elegant Boots | 268 | 226 | +42 | 39.95 | [open](https://averylanebrighton.com/products/beth-elegant-boots) |
 
-### By Emilia Rose (1000 producten, 3 snapshots)
+### By Emilia Rose (1000 producten, 4 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Women's Orthopaedic Wedge Slide Sandals with Wedge Platform  | 387 | 247 | +140 | 41.00 | [open](https://byemiliarose.com/products/womens-orthopaedic-wedge-slide-sandals-with-wedge-platform-for-summer) |
-| 2 | Women S Knee Length Dress With V Neckline And Pleated Skirt | 251 | 113 | +138 |  | [open](https://byemiliarose.com/products/women-s-knee-length-dress-with-v-neckline-and-pleated-skirt) |
-| 3 | Women's Sandals with Ankle Strap and Block Heel Sole | 373 | 277 | +96 | 33.00 | [open](https://byemiliarose.com/products/womens-sandals-with-ankle-strap-and-block-heel-sole) |
-| 4 | Women’s Loungewear Set with Elastic Waistband and Short Slee | 298 | 207 | +91 | 37.00 | [open](https://byemiliarose.com/products/women-s-loungewear-set-with-elastic-waistband-and-short-sleeves) |
-| 5 | Women’s Jumpsuit with Sequin Surface and Straight Legs | 286 | 228 | +58 | 92.00 | [open](https://byemiliarose.com/products/womens-jumpsuit-with-sequin-surface-and-straight-legs) |
+| 1 | Women's Leather Sandals with Round Toe and Slip-On | 382 | 280 | +102 | 48.00 | [open](https://byemiliarose.com/products/womens-leather-sandals-with-round-toe-and-slip-on) |
+| 2 | Women S Shorts With Elasticated Waistband And Drawstring | 233 | 168 | +65 |  | [open](https://byemiliarose.com/products/women-s-shorts-with-elasticated-waistband-and-drawstring) |
+| 3 | Women S Swimsuit With Strapless Neckline And Ruched Front | 226 | 164 | +62 |  | [open](https://byemiliarose.com/products/women-s-swimsuit-with-strapless-neckline-and-ruched-front) |
+| 4 | Women S Short Dress With V Neck And Long Sleeves | 290 | 235 | +55 |  | [open](https://byemiliarose.com/products/women-s-short-dress-with-v-neck-and-long-sleeves) |
+| 5 | Women’s Midi Dress with Off-Shoulder Neckline and Lantern Sl | 188 | 142 | +46 | 70.00 | [open](https://byemiliarose.com/products/women-s-midi-dress-with-off-shoulder-neckline-and-lantern-sleeves) |
+
+Nieuw binnengekomen: [Women’s Floral Dress with Round Neckline](https://byemiliarose.com/products/women-s-floral-dress-with-round-neckline-and-tie-waist) (#122)
 
 ### By Mayberry
 
@@ -44,15 +46,15 @@ _geen data opgehaald_
 
 _geen data opgehaald_
 
-### Jessica by Bee (797 producten, 2 snapshots)
+### Jessica by Bee (797 producten, 3 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Gemma | Smocked Strapless Bodice Tiered Maxi Dress | 304 | 241 | +63 | 34.95 | [open](https://jessicabybee.com/products/gemma-strapless-smocked-bodice-midi-dress) |
-| 2 | Adriana | Short Sleeve Abstract Print Knee Length Dress | 308 | 273 | +35 | 34.95 | [open](https://jessicabybee.com/products/adriana-short-sleeve-abstract-print-knee-length-dress) |
-| 3 | Lena | Relaxed V-neck Knit Midi Dress | 315 | 281 | +34 | 34.95 | [open](https://jessicabybee.com/products/lena-relaxed-turtleneck-knit-maxi-dress) |
-| 4 | Zafrina | Abstract Pattern Midi Dress | 316 | 282 | +34 | 34.95 | [open](https://jessicabybee.com/products/evadne-embroidered-v-neck-maxi-dress-copy) |
-| 5 | Rosium | Spaghetti Strap Lace Bodice Knee Length Dress | 301 | 269 | +32 | 34.95 | [open](https://jessicabybee.com/products/rosium-spaghetti-strap-lace-bodice-knee-length-dress) |
+| 1 | Reef | Wool Print Jumpsuit | 291 | 237 | +54 | 34.95 | [open](https://jessicabybee.com/products/reef-wool-print-jumpsuit) |
+| 2 | Rivelle | Halter Draped Midi Dress | 324 | 289 | +35 | 34.95 | [open](https://jessicabybee.com/products/rivelle-halter-draped-midi-dress) |
+| 3 | Sanna | Hen Motif Jumpsuit | 157 | 130 | +27 | 34.95 | [open](https://jessicabybee.com/products/sanna-hen-motif-jumpsuit) |
+| 4 | Hollis | Coastal Tile Dress | 205 | 179 | +26 | 34.95 | [open](https://jessicabybee.com/products/hollis-coastal-tile-dress) |
+| 5 | Halia | Meadow Gather Midi Dress | 283 | 259 | +24 | 34.95 | [open](https://jessicabybee.com/products/halia-meadow-gather-midi-dress) |
 
 ### Leon Boutique
 
@@ -62,25 +64,28 @@ _geen data opgehaald_
 
 _geen data opgehaald_
 
-### Made by Jessica (1000 producten, 2 snapshots)
+### Made by Jessica (1000 producten, 3 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Women's Knitted Button Cardigan with V-Neckline and Long Sle | 91 | 81 | +10 | 29.95 | [open](https://madebyjessica.store/products/knitted-button-cardigan-for-women-soft-cozy-layering-piece) |
+| 1 | Women's Wide-Leg Trousers with Adjustable Drawstring Waistba | 504 | 285 | +219 | 34.95 | [open](https://madebyjessica.store/products/women-s-wide-leg-full-length-trousers-with-drawstring-waist) |
+| 2 | Patchwork Knit Sweater Womens Colour Block Jumper | 318 | 221 | +97 |  | [open](https://madebyjessica.store/products/patchwork-knit-sweater-womens-colour-block-jumper) |
+| 3 | Women's Casual Trousers with Waistband and Front Pockets | 120 | 106 | +14 | 29.95 | [open](https://madebyjessica.store/products/elastic-waist-pants-for-women-comfy-relaxed-fit) |
 
-### Redlich & Becker (1000 producten, 2 snapshots)
+### Redlich & Becker (1000 producten, 3 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-### The Hills Nashville (1000 producten, 3 snapshots)
+### The Hills Nashville (1000 producten, 4 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Abigail | Elegant Sweater With Zipper | 258 | 175 | +83 | 19.95 | [open](https://thehillsnashville.com/products/abigail) |
-| 2 | Kathryn | Comfy Buckle Sandals | 93 | 74 | +19 | 39.95 | [open](https://thehillsnashville.com/products/kathryn) |
+| 1 | Claudine | Sophisticated Top | 594 | 210 | +384 | 29.95 | [open](https://thehillsnashville.com/products/claudine) |
+| 2 | Quinley | 406 | 250 | +156 |  | [open](https://thehillsnashville.com/products/quinley) |
+| 3 | Kianna | Elegant Blouse | 357 | 227 | +130 | 19.95 | [open](https://thehillsnashville.com/products/kianna) |
+| 4 | Belle | Comfortable Pants | 354 | 226 | +128 | 24.95 | [open](https://thehillsnashville.com/products/belle) |
+| 5 | Meya Orthopedic Sneakers%E2%84%A2 Copy | 128 | 88 | +40 |  | [open](https://thehillsnashville.com/products/meya-orthopedic-sneakers%E2%84%A2-copy) |
 
-### Wright London (638 producten, 2 snapshots)
+### Wright London (638 producten, 3 snapshots)
 
-| # | Product | Was | Nu | Stijging | Prijs | Link |
-|---|---------|----:|---:|---------:|------:|------|
-| 1 | Kalina | Women’s Embroidered Mid Sleeve Blouse | 305 | 274 | +31 | 29.95 | [open](https://wright-london.co/products/kalina-women-s-embroidered-mid-sleeve-blouse) |
+_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
