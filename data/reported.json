@@ -18,12 +18,6 @@
    "title": "Andra | Orthopaedic Boots",
    "url": "https://averylanebrighton.com/products/andra-orthopaedic-boots"
   },
-  "annalysiah-comfortable-jacket": {
-   "first_reported": "2026-09-04",
-   "rank": 268,
-   "title": "Annalysiah | Comfortable Jacket",
-   "url": "https://averylanebrighton.com/products/annalysiah-comfortable-jacket"
-  },
   "auvie-elegant-sweater": {
    "first_reported": "2026-08-26",
    "rank": 114,
@@ -36,23 +30,11 @@
    "title": "Beth | Elegant Boots",
    "url": "https://averylanebrighton.com/products/beth-elegant-boots"
   },
-  "delysanne-sophisticated-sweater": {
+  "cay-orthopaedic-boots": {
    "first_reported": "2026-09-04",
-   "rank": 273,
-   "title": "Delysanne | Sophisticated Jumper",
-   "url": "https://averylanebrighton.com/products/delysanne-sophisticated-sweater"
-  },
-  "haele-orthopaedic-ankle-boots": {
-   "first_reported": "2026-09-04",
-   "rank": 200,
-   "title": "Haele | Orthopaedic Ankle Boots",
-   "url": "https://averylanebrighton.com/products/haele-orthopaedic-ankle-boots"
-  },
-  "jennifer-wool-check-coat": {
-   "first_reported": "2026-09-04",
-   "rank": 275,
-   "title": "Jennifer Wool Check Coat",
-   "url": "https://averylanebrighton.com/products/jennifer-wool-check-coat"
+   "rank": 198,
+   "title": "Cay | Orthopaedic Boots",
+   "url": "https://averylanebrighton.com/products/cay-orthopaedic-boots"
   },
   "jynna-orthopaedic-shoes": {
    "first_reported": "2026-08-26",
@@ -66,17 +48,35 @@
    "title": "Laura Comfortable Orthopaedic Sandal",
    "url": "https://averylanebrighton.com/products/laura-comfortable-orthopaedic-sandal"
   },
+  "liah-orthopaedic-boots": {
+   "first_reported": "2026-09-04",
+   "rank": 264,
+   "title": "Liah Orthopaedic Boots",
+   "url": "https://averylanebrighton.com/products/liah-orthopaedic-boots"
+  },
   "marilyn-orthopaedic-sandals": {
    "first_reported": "2026-09-01",
    "rank": 265,
    "title": "Marilyn Orthopaedic Sandals",
    "url": "https://averylanebrighton.com/products/marilyn-orthopaedic-sandals"
   },
+  "melissa-orthopaedic-loafers": {
+   "first_reported": "2026-09-04",
+   "rank": 227,
+   "title": "Melissa Orthopaedic Loafers",
+   "url": "https://averylanebrighton.com/products/melissa-orthopaedic-loafers"
+  },
   "milene-refined-elegance": {
    "first_reported": "2026-08-26",
    "rank": 182,
    "title": "Milene Refined Elegance",
    "url": "https://averylanebrighton.com/products/milene-refined-elegance"
+  },
+  "olivia-elegant-leather-shoulder-bag": {
+   "first_reported": "2026-09-04",
+   "rank": 291,
+   "title": "Olivia Elegant Leather Shoulder Bag",
+   "url": "https://averylanebrighton.com/products/olivia-elegant-leather-shoulder-bag"
   },
   "rael-orthopaedic-mary-jane-shoes": {
    "first_reported": "2026-08-25",
@@ -89,12 +89,6 @@
    "rank": 229,
    "title": "Raely Orthopaedic Boots",
    "url": "https://averylanebrighton.com/products/raely-orthopaedic-boots"
-  },
-  "ren-comfortable-coat": {
-   "first_reported": "2026-09-04",
-   "rank": 193,
-   "title": "Amara | Plush Hooded Coat",
-   "url": "https://averylanebrighton.com/products/ren-comfortable-coat"
   },
   "rinley-orthopaedic-boots": {
    "first_reported": "2026-08-25",
@@ -113,6 +107,12 @@
    "rank": 177,
    "title": "Rosalynne Comfortable Cardigan",
    "url": "https://averylanebrighton.com/products/rosalynne-comfortable-cardigan"
+  },
+  "talen-orthopaedic-boots": {
+   "first_reported": "2026-09-04",
+   "rank": 85,
+   "title": "Talen Orthopaedic Boots",
+   "url": "https://averylanebrighton.com/products/talen-orthopaedic-boots"
   },
   "tivona-sophisticated-jacket": {
    "first_reported": "2026-09-01",
@@ -133,6 +133,18 @@
    "rank": 227,
    "title": "Women’s Blouse with Pleated Front and Split Three-Quarter Sleeves",
    "url": "https://byemiliarose.com/products/women-s-blouse-with-pleated-front-and-long-sleeves"
+  },
+  "women-s-blouse-with-v-neck-and-short-sleeves": {
+   "first_reported": "2026-09-05",
+   "rank": 207,
+   "title": "Women’s Blouse with V-Neck and Short Sleeves",
+   "url": "https://byemiliarose.com/products/women-s-blouse-with-v-neck-and-short-sleeves"
+  },
+  "women-s-dress-with-high-neckline-and-long-sleeves": {
+   "first_reported": "2026-09-05",
+   "rank": 156,
+   "title": "Women’s Dress with High Neckline and Long Sleeves",
+   "url": "https://byemiliarose.com/products/women-s-dress-with-high-neckline-and-long-sleeves"
   },
   "women-s-floral-dress-with-round-neckline-and-tie-waist": {
    "first_reported": "2026-08-26",
@@ -194,6 +206,18 @@
    "title": "Women S Two Piece Set With Asymmetric Top And Midi Skirt",
    "url": "https://byemiliarose.com/products/women-s-two-piece-set-with-asymmetric-top-and-midi-skirt"
   },
+  "women-s-utility-jacket-with-double-breasted-closure-and-belt": {
+   "first_reported": "2026-09-05",
+   "rank": 57,
+   "title": "Women S Utility Jacket With Double Breasted Closure And Belt",
+   "url": "https://byemiliarose.com/products/women-s-utility-jacket-with-double-breasted-closure-and-belt"
+  },
+  "women-s-v-neck-cami-top-with-spaghetti-straps": {
+   "first_reported": "2026-09-05",
+   "rank": 188,
+   "title": "Women S V Neck Cami Top With Spaghetti Straps",
+   "url": "https://byemiliarose.com/products/women-s-v-neck-cami-top-with-spaghetti-straps"
+  },
   "women-s-waistcoat-with-lapel-collar-and-button-closure": {
    "first_reported": "2026-09-04",
    "rank": 272,
@@ -217,6 +241,12 @@
    "rank": 273,
    "title": "Women's Leather Flat Shoes with Square Toe for Everyday Wear",
    "url": "https://byemiliarose.com/products/womens-leather-flat-shoes-with-square-toe-for-everyday-wear"
+  },
+  "womens-leather-heels-with-buckle-fastening-and-cushioned-sole": {
+   "first_reported": "2026-09-05",
+   "rank": 213,
+   "title": "Women's Leather Heels with Buckle Fastening and Cushioned Sole",
+   "url": "https://byemiliarose.com/products/womens-leather-heels-with-buckle-fastening-and-cushioned-sole"
   },
   "womens-leather-loafers-with-slip-on-design-for-all-season-wear": {
    "first_reported": "2026-09-04",
@@ -321,6 +351,12 @@
    "title": "Fable | Long Sleeve Wrap Overlap Skirt Midi Dress",
    "url": "https://jessicabybee.com/products/fable-long-sleeve-wrap-overlap-skirt-midi-dress"
   },
+  "faelina-sleeveless-keyhole-ruched-midi-dress": {
+   "first_reported": "2026-09-05",
+   "rank": 281,
+   "title": "Faelina | Sleeveless Keyhole Ruched Midi Dress",
+   "url": "https://jessicabybee.com/products/faelina-sleeveless-keyhole-ruched-midi-dress"
+  },
   "gemma-strapless-smocked-bodice-midi-dress": {
    "first_reported": "2026-08-25",
    "rank": 241,
@@ -357,6 +393,18 @@
    "title": "Margaret | Long Sleeve High Neck Lace Midi Dress",
    "url": "https://jessicabybee.com/products/margaret-long-sleeve-high-neck-lace-midi-dress"
   },
+  "olympas-halter-bodice-floral-skirt-maxi-dress": {
+   "first_reported": "2026-09-05",
+   "rank": 147,
+   "title": "Olympas | Halter Bodice Floral Skirt Maxi Dress",
+   "url": "https://jessicabybee.com/products/olympas-halter-bodice-floral-skirt-maxi-dress"
+  },
+  "ramse-short-sleeve-oversized-top-and-wide-leg-pants-set": {
+   "first_reported": "2026-09-05",
+   "rank": 248,
+   "title": "Ramse | Short Sleeve Oversized Top And Wide Leg Pants Set",
+   "url": "https://jessicabybee.com/products/ramse-short-sleeve-oversized-top-and-wide-leg-pants-set"
+  },
   "reef-wool-print-jumpsuit": {
    "first_reported": "2026-08-26",
    "rank": 237,
@@ -387,11 +435,23 @@
    "title": "Sanna | Hen Motif Jumpsuit",
    "url": "https://jessicabybee.com/products/sanna-hen-motif-jumpsuit"
   },
+  "siomara-one-shoulder-wide-sleeve-top-and-wide-leg-pants-set": {
+   "first_reported": "2026-09-05",
+   "rank": 298,
+   "title": "Siomara | One Shoulder Wide Sleeve Top And Wide Leg Pants Set",
+   "url": "https://jessicabybee.com/products/siomara-one-shoulder-wide-sleeve-top-and-wide-leg-pants-set"
+  },
   "valeria-oversized-knit-maxi-sweater-dress": {
    "first_reported": "2026-09-01",
    "rank": 222,
    "title": "VALERIA | Oversized Knit Maxi Sweater Dress",
    "url": "https://jessicabybee.com/products/valeria-oversized-knit-maxi-sweater-dress"
+  },
+  "valium-halter-neck-high-side-slit-maxi-dress": {
+   "first_reported": "2026-09-05",
+   "rank": 171,
+   "title": "Valium | Halter Neck High Side Slit Maxi Dress",
+   "url": "https://jessicabybee.com/products/valium-halter-neck-high-side-slit-maxi-dress"
   },
   "womens-t-strap-mary-jane-shoes-brogue-block-heel": {
    "first_reported": "2026-09-01",
@@ -452,14 +512,7 @@
    "url": "https://madebyjessica.store/products/women-s-wide-leg-full-length-trousers-with-drawstring-waist"
   }
  },
- "redlich-becker.de": {
-  "rnb-damen-leinenhose-mit-baumwollanteil-und-elastischem-bund": {
-   "first_reported": "2026-09-04",
-   "rank": 44,
-   "title": "Rnb Damen Leinenhose Mit Baumwollanteil Und Elastischem Bund",
-   "url": "https://redlich-becker.de/products/rnb-damen-leinenhose-mit-baumwollanteil-und-elastischem-bund"
-  }
- },
+ "redlich-becker.de": {},
  "thehillsnashville.com": {
   "abigail": {
    "first_reported": "2026-08-25",

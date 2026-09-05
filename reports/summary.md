@@ -1,6 +1,6 @@
-## Snelste stijgers - 2026-09-04 09:37
+## Snelste stijgers - 2026-09-05 09:02
 
-Venster: 3 dagen | top 5 per store | 15 producten overgeslagen omdat je ze al eerder kreeg
+Venster: 3 dagen | top 5 per store | 34 producten overgeslagen omdat je ze al eerder kreeg
 
 Download onderaan deze pagina bij **Artifacts**: `shopify_import.csv` kun je direct in Shopify importeren via Producten, Importeren.
 
@@ -8,21 +8,21 @@ Download onderaan deze pagina bij **Artifacts**: `shopify_import.csv` kun je dir
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Haele | Orthopaedic Ankle Boots | 300 | 200 | +100 | 34.95 | [open](https://averylanebrighton.com/products/haele-orthopaedic-ankle-boots) |
-| 2 | Annalysiah | Comfortable Jacket | 347 | 268 | +79 | 34.95 | [open](https://averylanebrighton.com/products/annalysiah-comfortable-jacket) |
-| 3 | Amara | Plush Hooded Coat | 237 | 193 | +44 | 29.95 | [open](https://averylanebrighton.com/products/ren-comfortable-coat) |
-| 4 | Jennifer Wool Check Coat | 311 | 275 | +36 | 49.95 | [open](https://averylanebrighton.com/products/jennifer-wool-check-coat) |
-| 5 | Delysanne | Sophisticated Jumper | 304 | 273 | +31 | 24.95 | [open](https://averylanebrighton.com/products/delysanne-sophisticated-sweater) |
+| 1 | Liah Orthopaedic Boots | 292 | 264 | +28 |  | [open](https://averylanebrighton.com/products/liah-orthopaedic-boots) |
+| 2 | Olivia Elegant Leather Shoulder Bag | 319 | 291 | +28 |  | [open](https://averylanebrighton.com/products/olivia-elegant-leather-shoulder-bag) |
+| 3 | Cay | Orthopaedic Boots | 223 | 198 | +25 | 29.95 | [open](https://averylanebrighton.com/products/cay-orthopaedic-boots) |
+| 4 | Melissa Orthopaedic Loafers | 248 | 227 | +21 |  | [open](https://averylanebrighton.com/products/melissa-orthopaedic-loafers) |
+| 5 | Talen Orthopaedic Boots | 104 | 85 | +19 |  | [open](https://averylanebrighton.com/products/talen-orthopaedic-boots) |
 
-### By Emilia Rose (1000 producten, 6 snapshots)
+### By Emilia Rose (1000 producten, 7 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Women’s Maxi Skirt with Elastic Waist and Tiered Panels | 373 | 259 | +114 | 59.00 | [open](https://byemiliarose.com/products/women-s-maxi-skirt-with-elastic-waist-and-tiered-panels-1) |
-| 2 | Women S Two Piece Set With Asymmetric Top And Midi Skirt | 372 | 291 | +81 |  | [open](https://byemiliarose.com/products/women-s-two-piece-set-with-asymmetric-top-and-midi-skirt) |
-| 3 | Women's Leather Loafers with Slip On Design for All Season W | 349 | 278 | +71 | 74.00 | [open](https://byemiliarose.com/products/womens-leather-loafers-with-slip-on-design-for-all-season-wear) |
-| 4 | Women S Waistcoat With Lapel Collar And Button Closure | 336 | 272 | +64 |  | [open](https://byemiliarose.com/products/women-s-waistcoat-with-lapel-collar-and-button-closure) |
-| 5 | Women’s Blouse with Collar and Button Fastening | 290 | 232 | +58 | 56.00 | [open](https://byemiliarose.com/products/women-sblouse-with-collar-and-button-fastening) |
+| 1 | Women S V Neck Cami Top With Spaghetti Straps | 260 | 188 | +72 |  | [open](https://byemiliarose.com/products/women-s-v-neck-cami-top-with-spaghetti-straps) |
+| 2 | Women’s Dress with High Neckline and Long Sleeves | 224 | 156 | +68 | 63.00 | [open](https://byemiliarose.com/products/women-s-dress-with-high-neckline-and-long-sleeves) |
+| 3 | Women's Leather Heels with Buckle Fastening and Cushioned So | 271 | 213 | +58 | 56.00 | [open](https://byemiliarose.com/products/womens-leather-heels-with-buckle-fastening-and-cushioned-sole) |
+| 4 | Women’s Blouse with V-Neck and Short Sleeves | 261 | 207 | +54 | 59.00 | [open](https://byemiliarose.com/products/women-s-blouse-with-v-neck-and-short-sleeves) |
+| 5 | Women S Utility Jacket With Double Breasted Closure And Belt | 99 | 57 | +42 |  | [open](https://byemiliarose.com/products/women-s-utility-jacket-with-double-breasted-closure-and-belt) |
 
 ### By Mayberry
 
@@ -44,15 +44,15 @@ _eerste meting: er is nog geen vorige dag om mee te vergelijken. Vanaf de tweede
 
 _eerste meting: er is nog geen vorige dag om mee te vergelijken. Vanaf de tweede run verschijnen hier stijgers._
 
-### Jessica by Bee (805 producten, 5 snapshots)
+### Jessica by Bee (812 producten, 6 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Fable | Long Sleeve Wrap Overlap Skirt Midi Dress | 363 | 290 | +73 | 49.95 | [open](https://jessicabybee.com/products/fable-long-sleeve-wrap-overlap-skirt-midi-dress) |
-| 2 | Margaret | Long Sleeve High Neck Lace Midi Dress | 336 | 276 | +60 | 44.95 | [open](https://jessicabybee.com/products/margaret-long-sleeve-high-neck-lace-midi-dress) |
-| 3 | Elowen | Floral Wrap V Neck Maxi Dress | 331 | 272 | +59 | 39.95 | [open](https://jessicabybee.com/products/elowen-floral-wrap-v-neck-maxi-dress) |
-| 4 | Evadra | One Shoulder Draped Bodice Maxi Dress | 285 | 242 | +43 | 54.95 | [open](https://jessicabybee.com/products/evadra-one-shoulder-draped-bodice-maxi-dress) |
-| 5 | Kirax | Clean Layered Knee Length Dress | 274 | 235 | +39 | 34.95 | [open](https://jessicabybee.com/products/kirax-clean-layered-knee-length-dress) |
+| 1 | Faelina | Sleeveless Keyhole Ruched Midi Dress | 337 | 281 | +56 | 34.95 | [open](https://jessicabybee.com/products/faelina-sleeveless-keyhole-ruched-midi-dress) |
+| 2 | Ramse | Short Sleeve Oversized Top And Wide Leg Pants Set | 291 | 248 | +43 | 39.95 | [open](https://jessicabybee.com/products/ramse-short-sleeve-oversized-top-and-wide-leg-pants-set) |
+| 3 | Siomara | One Shoulder Wide Sleeve Top And Wide Leg Pants Se | 329 | 298 | +31 | 54.95 | [open](https://jessicabybee.com/products/siomara-one-shoulder-wide-sleeve-top-and-wide-leg-pants-set) |
+| 4 | Olympas | Halter Bodice Floral Skirt Maxi Dress | 175 | 147 | +28 | 44.95 | [open](https://jessicabybee.com/products/olympas-halter-bodice-floral-skirt-maxi-dress) |
+| 5 | Valium | Halter Neck High Side Slit Maxi Dress | 195 | 171 | +24 | 34.95 | [open](https://jessicabybee.com/products/valium-halter-neck-high-side-slit-maxi-dress) |
 
 ### Leon Boutique (1000 producten, 1 snapshots)
 
@@ -70,15 +70,9 @@ _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen 
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-Nieuw binnengekomen: [Rnb Damen Leinenhose Mit Baumwollanteil ](https://redlich-becker.de/products/rnb-damen-leinenhose-mit-baumwollanteil-und-elastischem-bund) (#44)
+### The Hills Nashville (1000 producten, 7 snapshots)
 
-### The Hills Nashville (1000 producten, 6 snapshots)
-
-| # | Product | Was | Nu | Stijging | Prijs | Link |
-|---|---------|----:|---:|---------:|------:|------|
-| 1 | Valerianne | 332 | 217 | +115 |  | [open](https://thehillsnashville.com/products/valerianne) |
-| 2 | Margot | 113 | 83 | +30 |  | [open](https://thehillsnashville.com/products/margot) |
-| 3 | Ivana | Orthopedic Sandals | 47 | 36 | +11 | 24.95 | [open](https://thehillsnashville.com/products/ivana) |
+_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
 ### Wright London (638 producten, 5 snapshots)
 
