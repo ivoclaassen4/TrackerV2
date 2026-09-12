@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-09-11 09:39",
+  "run_at": "2026-09-12 09:17",
   "config": {
     "max_products": 1000,
     "lookback_days": 3,
@@ -31,118 +31,37 @@
       "store_id": 8,
       "domain": "averylanebrighton.com",
       "label": "Avery Lane Brighton",
-      "days_tracked": 9,
-      "current_day": "2026-09-11",
+      "days_tracked": 10,
+      "current_day": "2026-09-12",
       "baseline_day": "2026-09-08",
-      "baseline_gap": 3,
+      "baseline_gap": 4,
       "total_products": 1000,
       "risers": [
         {
-          "handle": "iva-comfortable-coat",
-          "title": "Iva | Comfortable Coat",
-          "url": "https://averylanebrighton.com/products/iva-comfortable-coat",
-          "image": "https://cdn.shopify.com/s/files/1/0739/9948/2949/files/UrbanShield-Trendsetter-Regenmantel-in-Ubergrosse-Leyna-Moda-16_720x-Photoroom.webp?v=1783337667",
-          "price": 34.95,
-          "vendor": "Avery Lane Brighton",
-          "created_at": "2026-07-07",
-          "rank_now": 121,
-          "rank_before": 146,
-          "delta": 25,
-          "pct": 17.1,
-          "weighted": 2.27,
-          "streak": 2,
-          "spark": [
-            199,
-            201,
-            187,
-            153,
-            155,
-            144,
-            146,
-            130,
-            121
-          ],
-          "spark_days": [
-            "2026-08-23",
-            "2026-08-25",
-            "2026-08-26",
-            "2026-09-01",
-            "2026-09-04",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 34,
-            "14": 66
-          }
-        },
-        {
-          "handle": "claribel-refined-midi-dress",
-          "title": "Claribel | Refined Midi Dress",
-          "url": "https://averylanebrighton.com/products/claribel-refined-midi-dress",
-          "image": "https://cdn.shopify.com/s/files/1/0739/9948/2949/files/claribel.png?v=1783338197",
-          "price": 39.95,
-          "vendor": "Avery Lane Brighton",
-          "created_at": "2026-07-07",
-          "rank_now": 123,
-          "rank_before": 140,
-          "delta": 17,
-          "pct": 12.1,
-          "weighted": 1.53,
-          "streak": 2,
-          "spark": [
-            198,
-            179,
-            181,
-            144,
-            142,
-            137,
-            140,
-            127,
-            123
-          ],
-          "spark_days": [
-            "2026-08-23",
-            "2026-08-25",
-            "2026-08-26",
-            "2026-09-01",
-            "2026-09-04",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 19,
-            "14": 58
-          }
-        },
-        {
-          "handle": "kendra-elegant-orthopaedic-clogs",
-          "title": "Kendra | Elegant Orthopaedic Clogs",
-          "url": "https://averylanebrighton.com/products/kendra-elegant-orthopaedic-clogs",
-          "image": "https://cdn.shopify.com/s/files/1/0739/9948/2949/files/7750960863bd4802b665fe0647cbb1a4.jpg?v=1783337533",
+          "handle": "bellisse-orthopaedic-sandals",
+          "title": "Bellisse | Orthopaedic Sandals",
+          "url": "https://averylanebrighton.com/products/bellisse-orthopaedic-sandals",
+          "image": "https://cdn.shopify.com/s/files/1/0739/9948/2949/files/O1CN010o8utJ1xEIF90leJw__2214930996411-0-cib_720x-Photoroom.jpg?v=1783337427",
           "price": 29.95,
           "vendor": "Avery Lane Brighton",
           "created_at": "2026-07-07",
-          "rank_now": 195,
-          "rank_before": 211,
-          "delta": 16,
-          "pct": 7.6,
-          "weighted": 1.15,
-          "streak": 0,
+          "rank_now": 292,
+          "rank_before": 320,
+          "delta": 28,
+          "pct": 8.8,
+          "weighted": 1.64,
+          "streak": 1,
           "spark": [
-            246,
-            248,
-            254,
-            221,
-            206,
-            207,
-            211,
-            194,
-            195
+            266,
+            270,
+            277,
+            301,
+            311,
+            317,
+            320,
+            302,
+            303,
+            292
           ],
           "spark_days": [
             "2026-08-23",
@@ -153,37 +72,168 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
-            "7": 11,
-            "14": 59
+            "7": 19,
+            "14": -15
           }
         },
         {
-          "handle": "seryphina-orthopaedic-sneakers",
-          "title": "Seryphina Orthopaedic Sneakers",
-          "url": "https://averylanebrighton.com/products/seryphina-orthopaedic-sneakers",
+          "handle": "kaitlyn-womens-wedding-guest-high-low-elegant-dress",
+          "title": "Kaitlyn | Women’s Wedding Guest High-Low Elegant Dress",
+          "url": "https://averylanebrighton.com/products/kaitlyn-womens-wedding-guest-high-low-elegant-dress",
+          "image": "https://cdn.shopify.com/s/files/1/0739/9948/2949/files/1_Asymmetric_Dress_Midi.png?v=1783337606",
+          "price": 39.95,
+          "vendor": "Avery Lane Brighton",
+          "created_at": "2026-07-07",
+          "rank_now": 132,
+          "rank_before": 144,
+          "delta": 12,
+          "pct": 8.3,
+          "weighted": 1.04,
+          "streak": 1,
+          "spark": [
+            179,
+            174,
+            159,
+            152,
+            139,
+            146,
+            144,
+            139,
+            139,
+            132
+          ],
+          "spark_days": [
+            "2026-08-23",
+            "2026-08-25",
+            "2026-08-26",
+            "2026-09-01",
+            "2026-09-04",
+            "2026-09-07",
+            "2026-09-08",
+            "2026-09-10",
+            "2026-09-11",
+            "2026-09-12"
+          ],
+          "history": {
+            "7": 7,
+            "14": 27
+          }
+        },
+        {
+          "handle": "alice-womens-modern-printed-beach-swimsuit",
+          "title": "Alice | Women’s Modern Printed Beach Swimsuit",
+          "url": "https://averylanebrighton.com/products/alice-womens-modern-printed-beach-swimsuit",
+          "image": "https://cdn.shopify.com/s/files/1/0739/9948/2949/files/1_720x-Photoroom_c2bf1657-8cb3-4cd1-b1b5-774548f6e40e.jpg?v=1783338019",
+          "price": 29.95,
+          "vendor": "Avery Lane Brighton",
+          "created_at": "2026-07-06",
+          "rank_now": 149,
+          "rank_before": 160,
+          "delta": 11,
+          "pct": 6.9,
+          "weighted": 0.9,
+          "streak": 1,
+          "spark": [
+            138,
+            138,
+            128,
+            147,
+            156,
+            160,
+            160,
+            158,
+            159,
+            149
+          ],
+          "spark_days": [
+            "2026-08-23",
+            "2026-08-25",
+            "2026-08-26",
+            "2026-09-01",
+            "2026-09-04",
+            "2026-09-07",
+            "2026-09-08",
+            "2026-09-10",
+            "2026-09-11",
+            "2026-09-12"
+          ],
+          "history": {
+            "7": 7,
+            "14": -21
+          }
+        },
+        {
+          "handle": "haele-orthopaedic-ankle-boots",
+          "title": "Haele | Orthopaedic Ankle Boots",
+          "url": "https://averylanebrighton.com/products/haele-orthopaedic-ankle-boots",
+          "image": "https://cdn.shopify.com/s/files/1/0739/9948/2949/files/bottine-city-flair-nouvelle-collection-497492.jpg?v=1783337484",
+          "price": 34.95,
+          "vendor": "Avery Lane Brighton",
+          "created_at": "2026-07-06",
+          "rank_now": 174,
+          "rank_before": 185,
+          "delta": 11,
+          "pct": 5.9,
+          "weighted": 0.83,
+          "streak": 1,
+          "spark": [
+            394,
+            366,
+            353,
+            300,
+            200,
+            189,
+            185,
+            180,
+            180,
+            174
+          ],
+          "spark_days": [
+            "2026-08-23",
+            "2026-08-25",
+            "2026-08-26",
+            "2026-09-01",
+            "2026-09-04",
+            "2026-09-07",
+            "2026-09-08",
+            "2026-09-10",
+            "2026-09-11",
+            "2026-09-12"
+          ],
+          "history": {
+            "7": 26,
+            "14": 179
+          }
+        },
+        {
+          "handle": "mysa-comfortable-sweater",
+          "title": "Mysa Comfortable Sweater",
+          "url": "https://averylanebrighton.com/products/mysa-comfortable-sweater",
           "image": null,
           "price": null,
           "vendor": null,
           "created_at": null,
-          "rank_now": 266,
-          "rank_before": 282,
-          "delta": 16,
-          "pct": 5.7,
-          "weighted": 0.98,
-          "streak": 0,
+          "rank_now": 62,
+          "rank_before": 72,
+          "delta": 10,
+          "pct": 13.9,
+          "weighted": 1.27,
+          "streak": 7,
           "spark": [
-            283,
-            266,
-            273,
-            275,
-            278,
-            279,
-            282,
-            265,
-            266
+            142,
+            137,
+            138,
+            91,
+            79,
+            73,
+            72,
+            64,
+            63,
+            62
           ],
           "spark_days": [
             "2026-08-23",
@@ -194,100 +244,186 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
-            "7": 12,
-            "14": 7
+            "7": 17,
+            "14": 76
           }
         }
       ],
       "runners_up": [],
       "new_entrants": [],
-      "skipped_known": 10,
+      "skipped_known": 15,
       "note": null
     },
     {
       "store_id": 4,
       "domain": "byemiliarose.com",
       "label": "By Emilia Rose",
-      "days_tracked": 11,
-      "current_day": "2026-09-11",
+      "days_tracked": 12,
+      "current_day": "2026-09-12",
       "baseline_day": "2026-09-08",
-      "baseline_gap": 3,
+      "baseline_gap": 4,
       "total_products": 1000,
       "risers": [
         {
-          "handle": "women-s-cardigan-with-open-front-and-short-sleeves",
-          "title": "Women’s Cardigan with Open Front and Short Sleeves",
-          "url": "https://byemiliarose.com/products/women-s-cardigan-with-open-front-and-short-sleeves",
-          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sCardiganwithOpenFrontandShortSleeves_1.png?v=1783334150",
+          "handle": "womens-oversized-v-neck-sweater-dress-with-long-sleeves",
+          "title": "Women's Oversized V-Neck Sweater Dress with Long Sleeves",
+          "url": "https://byemiliarose.com/products/womens-oversized-v-neck-sweater-dress-with-long-sleeves",
+          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/12237858619_2071968757_3d05434a-136b-42e1-b104-3938b8f31e9a.jpg?v=1788526092",
+          "price": 15.0,
+          "vendor": "Emilia",
+          "created_at": "2026-09-04",
+          "rank_now": 293,
+          "rank_before": 846,
+          "delta": 553,
+          "pct": 65.4,
+          "weighted": 32.31,
+          "streak": 1,
+          "spark": [
+            null,
+            null,
+            null,
+            null,
+            814,
+            836,
+            846,
+            344,
+            347,
+            293
+          ],
+          "spark_days": [
+            "2026-08-25",
+            "2026-08-26",
+            "2026-09-01",
+            "2026-09-04",
+            "2026-09-05",
+            "2026-09-07",
+            "2026-09-08",
+            "2026-09-10",
+            "2026-09-11",
+            "2026-09-12"
+          ],
+          "history": {
+            "7": 521,
+            "14": null
+          }
+        },
+        {
+          "handle": "womens-belted-wool-wrap-coat-with-notched-collar",
+          "title": "Women's Belted Wool Wrap Coat with Notched Collar",
+          "url": "https://byemiliarose.com/products/womens-belted-wool-wrap-coat-with-notched-collar",
+          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/PicsTemplate22-2025-11-06T155745.744.png?v=1788845720",
+          "price": 158.0,
+          "vendor": "Emilia",
+          "created_at": "2026-09-08",
+          "rank_now": 292,
+          "rank_before": 833,
+          "delta": 541,
+          "pct": 64.9,
+          "weighted": 31.66,
+          "streak": 2,
+          "spark": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            833,
+            857,
+            632,
+            292
+          ],
+          "spark_days": [
+            "2026-08-25",
+            "2026-08-26",
+            "2026-09-01",
+            "2026-09-04",
+            "2026-09-05",
+            "2026-09-07",
+            "2026-09-08",
+            "2026-09-10",
+            "2026-09-11",
+            "2026-09-12"
+          ],
+          "history": {
+            "7": null,
+            "14": null
+          }
+        },
+        {
+          "handle": "women-s-dress-with-v-neck-and-tiered-skirt",
+          "title": "Women’s Dress with V Neck and Tiered Skirt",
+          "url": "https://byemiliarose.com/products/women-s-dress-with-v-neck-and-tiered-skirt",
+          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sDresswithVNeckandTieredSkirt_1.png?v=1783336021",
+          "price": 74.0,
+          "vendor": "Emilia Melbourne",
+          "created_at": "2026-07-10",
+          "rank_now": 259,
+          "rank_before": 417,
+          "delta": 158,
+          "pct": 37.9,
+          "weighted": 9.82,
+          "streak": 1,
+          "spark": [
+            453,
+            455,
+            380,
+            393,
+            399,
+            407,
+            417,
+            433,
+            440,
+            259
+          ],
+          "spark_days": [
+            "2026-08-25",
+            "2026-08-26",
+            "2026-09-01",
+            "2026-09-04",
+            "2026-09-05",
+            "2026-09-07",
+            "2026-09-08",
+            "2026-09-10",
+            "2026-09-11",
+            "2026-09-12"
+          ],
+          "history": {
+            "7": 140,
+            "14": 196
+          }
+        },
+        {
+          "handle": "women-s-blouse-with-round-neck-and-embroidered-detail",
+          "title": "Women’s Blouse with Round Neck and Embroidered Detail",
+          "url": "https://byemiliarose.com/products/women-s-blouse-with-round-neck-and-embroidered-detail",
+          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sBlousewithRoundNeckandEmbroideredDetail_7.png?v=1783335204",
           "price": 55.0,
           "vendor": "Emilia Melbourne",
-          "created_at": "2026-07-06",
-          "rank_now": 190,
-          "rank_before": 286,
-          "delta": 96,
-          "pct": 33.6,
-          "weighted": 6.96,
-          "streak": 0,
-          "spark": [
-            262,
-            267,
-            268,
-            293,
-            299,
-            300,
-            279,
-            286,
-            186,
-            190
-          ],
-          "spark_days": [
-            "2026-08-23",
-            "2026-08-25",
-            "2026-08-26",
-            "2026-09-01",
-            "2026-09-04",
-            "2026-09-05",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 109,
-            "14": 78
-          }
-        },
-        {
-          "handle": "women-s-maxi-skirt-with-elastic-waist-and-tiered-panel",
-          "title": "Women’s Maxi Skirt with Elastic Waist and Tiered Panels",
-          "url": "https://byemiliarose.com/products/women-s-maxi-skirt-with-elastic-waist-and-tiered-panel",
-          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sMaxiSkirtwithElasticWaistandTieredPanels_1_a6e49275-dd37-48df-9148-e5969065e112.png?v=1783334276",
-          "price": 41.0,
-          "vendor": "Emilia Rose",
           "created_at": "2026-07-10",
-          "rank_now": 226,
-          "rank_before": 304,
+          "rank_now": 234,
+          "rank_before": 312,
           "delta": 78,
-          "pct": 25.7,
-          "weighted": 5.19,
-          "streak": 2,
+          "pct": 25.0,
+          "weighted": 5.1,
+          "streak": 1,
           "spark": [
-            419,
-            435,
-            437,
-            319,
-            329,
-            292,
-            301,
-            304,
-            248,
-            226
+            308,
+            311,
+            332,
+            347,
+            350,
+            310,
+            312,
+            294,
+            295,
+            234
           ],
           "spark_days": [
-            "2026-08-23",
             "2026-08-25",
             "2026-08-26",
             "2026-09-01",
@@ -296,41 +432,41 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
-            "7": 103,
-            "14": 211
+            "7": 116,
+            "14": 77
           }
         },
         {
-          "handle": "women-s-blazer-with-open-front-and-structured-lapel",
-          "title": "Women’s Blazer with Open Front and Structured Lapel",
-          "url": "https://byemiliarose.com/products/women-s-blazer-with-open-front-and-structured-lapel",
-          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sBlazerwithOpenFrontandStructuredLapel_5.png?v=1783333540",
-          "price": 52.0,
+          "handle": "women-s-crop-top-with-twist-front-and-short-sleeves",
+          "title": "Women’s Crop Top with Twist Front and Short Sleeves",
+          "url": "https://byemiliarose.com/products/women-s-crop-top-with-twist-front-and-short-sleeves",
+          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sCropTopwithTwistFrontandShortSleeves_5.png?v=1783333861",
+          "price": 48.0,
           "vendor": "Emilia Rose",
           "created_at": "2026-07-12",
-          "rank_now": 288,
-          "rank_before": 339,
-          "delta": 51,
-          "pct": 15.0,
-          "weighted": 3.01,
-          "streak": 2,
+          "rank_now": 252,
+          "rank_before": 299,
+          "delta": 47,
+          "pct": 15.7,
+          "weighted": 2.96,
+          "streak": 1,
           "spark": [
-            282,
-            289,
-            291,
-            314,
-            324,
-            325,
-            335,
-            339,
-            312,
-            288
+            252,
+            254,
+            278,
+            285,
+            286,
+            296,
+            299,
+            309,
+            311,
+            252
           ],
           "spark_days": [
-            "2026-08-23",
             "2026-08-25",
             "2026-08-26",
             "2026-09-01",
@@ -339,97 +475,12 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
-            "7": 36,
-            "14": 3
-          }
-        },
-        {
-          "handle": "women-s-dress-with-v-neck-and-draped-bodice",
-          "title": "Women’s Dress with V Neck and Draped Bodice",
-          "url": "https://byemiliarose.com/products/women-s-dress-with-v-neck-and-draped-bodice",
-          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sDresswithVNeckandDrapedBodice_1.png?v=1783333907",
-          "price": 37.0,
-          "vendor": "Emilia Melbourne",
-          "created_at": "2026-07-06",
-          "rank_now": 122,
-          "rank_before": 155,
-          "delta": 33,
-          "pct": 21.3,
-          "weighted": 2.99,
-          "streak": 2,
-          "spark": [
-            196,
-            180,
-            187,
-            163,
-            166,
-            168,
-            151,
-            155,
-            148,
-            122
-          ],
-          "spark_days": [
-            "2026-08-23",
-            "2026-08-25",
-            "2026-08-26",
-            "2026-09-01",
-            "2026-09-04",
-            "2026-09-05",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 44,
-            "14": 65
-          }
-        },
-        {
-          "handle": "women-s-midi-dress-with-v-shaped-neckline-and-long-sleeves",
-          "title": "Women’s Midi Dress with V-Shaped Neckline and Long Sleeves",
-          "url": "https://byemiliarose.com/products/women-s-midi-dress-with-v-shaped-neckline-and-long-sleeves",
-          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sMidiDresswithV-ShapedNecklineandLongSleeves_1.png?v=1783334103",
-          "price": 81.0,
-          "vendor": "Emilia Melbourne",
-          "created_at": "2026-07-10",
-          "rank_now": 165,
-          "rank_before": 195,
-          "delta": 30,
-          "pct": 15.4,
-          "weighted": 2.34,
-          "streak": 2,
-          "spark": [
-            192,
-            198,
-            205,
-            198,
-            181,
-            185,
-            191,
-            195,
-            173,
-            165
-          ],
-          "spark_days": [
-            "2026-08-23",
-            "2026-08-25",
-            "2026-08-26",
-            "2026-09-01",
-            "2026-09-04",
-            "2026-09-05",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 16,
-            "14": 40
+            "7": 34,
+            "14": 2
           }
         }
       ],
@@ -442,14 +493,13 @@
           "price": 172.0,
           "vendor": "Emilia Melbourne",
           "created_at": "2026-07-10",
-          "rank_now": 183,
+          "rank_now": 185,
           "rank_before": 212,
-          "delta": 29,
-          "pct": 13.7,
-          "weighted": 2.14,
-          "streak": 2,
+          "delta": 27,
+          "pct": 12.7,
+          "weighted": 1.99,
+          "streak": 0,
           "spark": [
-            183,
             177,
             182,
             193,
@@ -458,10 +508,10 @@
             209,
             212,
             206,
-            183
+            183,
+            185
           ],
           "spark_days": [
-            "2026-08-23",
             "2026-08-25",
             "2026-08-26",
             "2026-09-01",
@@ -470,41 +520,41 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
-            "7": 15,
-            "14": -1
+            "7": 18,
+            "14": -3
           }
         },
         {
-          "handle": "womens-orthopaedic-leather-sandals-with-adjustable-strap",
-          "title": "Women's Orthopaedic Leather Sandals with Adjustable Strap",
-          "url": "https://byemiliarose.com/products/womens-orthopaedic-leather-sandals-with-adjustable-strap",
-          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sOrthopaedicLeatherSandalswithAdjustableStrap_1.jpg?v=1783333638",
-          "price": 55.0,
-          "vendor": "Emilia Rose",
-          "created_at": "2026-07-08",
-          "rank_now": 234,
-          "rank_before": 262,
-          "delta": 28,
-          "pct": 10.7,
-          "weighted": 1.83,
-          "streak": 0,
+          "handle": "women-s-cardigan-with-open-front-and-long-sleeves",
+          "title": "Women’s Cardigan with Open Front and Long Sleeves",
+          "url": "https://byemiliarose.com/products/women-s-cardigan-with-open-front-and-long-sleeves",
+          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sCardiganwithOpenFrontandLongSleeves_1.png?v=1783334011",
+          "price": 37.0,
+          "vendor": "Emilia Melbourne",
+          "created_at": "2026-07-06",
+          "rank_now": 152,
+          "rank_before": 178,
+          "delta": 26,
+          "pct": 14.6,
+          "weighted": 2.11,
+          "streak": 2,
           "spark": [
             236,
-            244,
-            248,
-            268,
-            244,
-            246,
-            253,
-            262,
-            231,
-            234
+            212,
+            203,
+            183,
+            189,
+            174,
+            178,
+            187,
+            177,
+            152
           ],
           "spark_days": [
-            "2026-08-23",
             "2026-08-25",
             "2026-08-26",
             "2026-09-01",
@@ -513,97 +563,12 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
-            "7": 10,
-            "14": 14
-          }
-        },
-        {
-          "handle": "womens-leather-wedge-shoes-with-cushioned-footbed",
-          "title": "Women's Leather Wedge Shoes with Cushioned Footbed",
-          "url": "https://byemiliarose.com/products/womens-leather-wedge-shoes-with-cushioned-footbed",
-          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sLeatherWedgeShoeswithCushionedFootbed_1.jpg?v=1783333820",
-          "price": 77.0,
-          "vendor": "Emilia Rose",
-          "created_at": "2026-07-08",
-          "rank_now": 236,
-          "rank_before": 263,
-          "delta": 27,
-          "pct": 10.3,
-          "weighted": 1.76,
-          "streak": 0,
-          "spark": [
-            237,
-            211,
-            216,
-            233,
-            245,
-            247,
-            254,
-            263,
-            233,
-            236
-          ],
-          "spark_days": [
-            "2026-08-23",
-            "2026-08-25",
-            "2026-08-26",
-            "2026-09-01",
-            "2026-09-04",
-            "2026-09-05",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 9,
-            "14": -20
-          }
-        },
-        {
-          "handle": "womens-tunic-top-with-patchwork-pattern-and-ribbed-cuffs",
-          "title": "Womens Tunic Top With Patchwork Pattern And Ribbed Cuffs",
-          "url": "https://byemiliarose.com/products/womens-tunic-top-with-patchwork-pattern-and-ribbed-cuffs",
-          "image": null,
-          "price": null,
-          "vendor": null,
-          "created_at": null,
-          "rank_now": 140,
-          "rank_before": 166,
-          "delta": 26,
-          "pct": 15.7,
-          "weighted": 2.2,
-          "streak": 0,
-          "spark": [
-            138,
-            145,
-            149,
-            148,
-            154,
-            157,
-            163,
-            166,
-            138,
-            140
-          ],
-          "spark_days": [
-            "2026-08-23",
-            "2026-08-25",
-            "2026-08-26",
-            "2026-09-01",
-            "2026-09-04",
-            "2026-09-05",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 14,
-            "14": 9
+            "7": 37,
+            "14": 60
           }
         },
         {
@@ -614,14 +579,13 @@
           "price": 92.0,
           "vendor": "Emilia Rose",
           "created_at": "2026-07-08",
-          "rank_now": 203,
+          "rank_now": 204,
           "rank_before": 229,
-          "delta": 26,
-          "pct": 11.4,
-          "weighted": 1.82,
+          "delta": 25,
+          "pct": 10.9,
+          "weighted": 1.75,
           "streak": 0,
           "spark": [
-            204,
             215,
             192,
             209,
@@ -630,10 +594,10 @@
             223,
             229,
             200,
-            203
+            203,
+            204
           ],
           "spark_days": [
-            "2026-08-23",
             "2026-08-25",
             "2026-08-26",
             "2026-09-01",
@@ -642,183 +606,12 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 11,
-            "14": -11
-          }
-        },
-        {
-          "handle": "women-s-jumpsuit-withv-neckline-and-widelegs",
-          "title": "Women’s Jumpsuit with V Neckline and Wide Legs",
-          "url": "https://byemiliarose.com/products/women-s-jumpsuit-withv-neckline-and-widelegs",
-          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sJumpsuitwithVNecklineandWideLegs_2.png?v=1769600910",
-          "price": 77.0,
-          "vendor": "Emilia Rose",
-          "created_at": "2026-07-10",
-          "rank_now": 137,
-          "rank_before": 161,
-          "delta": 24,
-          "pct": 14.9,
-          "weighted": 2.05,
-          "streak": 0,
-          "spark": [
-            168,
-            154,
-            158,
-            173,
-            150,
-            152,
-            157,
-            161,
-            135,
-            137
-          ],
-          "spark_days": [
-            "2026-08-23",
-            "2026-08-25",
-            "2026-08-26",
-            "2026-09-01",
-            "2026-09-04",
-            "2026-09-05",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
             "7": 13,
-            "14": 21
-          }
-        },
-        {
-          "handle": "women-s-long-dress-with-v-neck-and-side-slit",
-          "title": "Women’s Long Dress with V-Neck and Side Slit",
-          "url": "https://byemiliarose.com/products/women-s-long-dress-with-v-neck-and-side-slit",
-          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sLongDresswithV-NeckandSideSlit_1.png?v=1783335002",
-          "price": 66.0,
-          "vendor": "Emilia Melbourne",
-          "created_at": "2026-07-10",
-          "rank_now": 258,
-          "rank_before": 282,
-          "delta": 24,
-          "pct": 8.5,
-          "weighted": 1.49,
-          "streak": 0,
-          "spark": [
-            217,
-            231,
-            236,
-            256,
-            266,
-            267,
-            275,
-            282,
-            256,
-            258
-          ],
-          "spark_days": [
-            "2026-08-23",
-            "2026-08-25",
-            "2026-08-26",
-            "2026-09-01",
-            "2026-09-04",
-            "2026-09-05",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 8,
-            "14": -22
-          }
-        },
-        {
-          "handle": "women-s-jumpsuit-with-v-neckline-and-elastic-waist",
-          "title": "Women’s Jumpsuit with V Neckline and Elastic Waist",
-          "url": "https://byemiliarose.com/products/women-s-jumpsuit-with-v-neckline-and-elastic-waist",
-          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sJumpsuitwithVNecklineandElasticWaist_1.png?v=1783333744",
-          "price": 85.0,
-          "vendor": "Emilia Rose",
-          "created_at": "2026-07-10",
-          "rank_now": 255,
-          "rank_before": 278,
-          "delta": 23,
-          "pct": 8.3,
-          "weighted": 1.44,
-          "streak": 1,
-          "spark": [
-            254,
-            260,
-            262,
-            252,
-            261,
-            262,
-            270,
-            278,
-            290,
-            255
-          ],
-          "spark_days": [
-            "2026-08-23",
-            "2026-08-25",
-            "2026-08-26",
-            "2026-09-01",
-            "2026-09-04",
-            "2026-09-05",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 6,
-            "14": 7
-          }
-        },
-        {
-          "handle": "v-neck-midi-dress-with-short-sleeves",
-          "title": "V-Neck Midi Dress With Short Sleeves",
-          "url": "https://byemiliarose.com/products/v-neck-midi-dress-with-short-sleeves",
-          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/V-NeckMidiDressWithShortSleeves_7.jpg?v=1783333940",
-          "price": 85.0,
-          "vendor": "Emilia Melbourne",
-          "created_at": "2026-07-10",
-          "rank_now": 262,
-          "rank_before": 283,
-          "delta": 21,
-          "pct": 7.4,
-          "weighted": 1.3,
-          "streak": 0,
-          "spark": [
-            220,
-            234,
-            239,
-            258,
-            267,
-            268,
-            276,
-            283,
-            260,
-            262
-          ],
-          "spark_days": [
-            "2026-08-23",
-            "2026-08-25",
-            "2026-08-26",
-            "2026-09-01",
-            "2026-09-04",
-            "2026-09-05",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 5,
-            "14": -23
+            "14": -12
           }
         },
         {
@@ -829,14 +622,13 @@
           "price": 77.0,
           "vendor": "Emilia Melbourne",
           "created_at": "2026-07-10",
-          "rank_now": 147,
+          "rank_now": 140,
           "rank_before": 164,
-          "delta": 17,
-          "pct": 10.4,
-          "weighted": 1.4,
-          "streak": 1,
+          "delta": 24,
+          "pct": 14.6,
+          "weighted": 2.03,
+          "streak": 2,
           "spark": [
-            149,
             159,
             162,
             158,
@@ -845,10 +637,10 @@
             160,
             164,
             172,
-            147
+            147,
+            140
           ],
           "spark_days": [
-            "2026-08-23",
             "2026-08-25",
             "2026-08-26",
             "2026-09-01",
@@ -857,84 +649,41 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
-            "7": 4,
-            "14": 15
+            "7": 14,
+            "14": 22
           }
         },
         {
-          "handle": "women-s-blouse-with-round-neck-and-embroidered-detail",
-          "title": "Women’s Blouse with Round Neck and Embroidered Detail",
-          "url": "https://byemiliarose.com/products/women-s-blouse-with-round-neck-and-embroidered-detail",
-          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sBlousewithRoundNeckandEmbroideredDetail_7.png?v=1783335204",
-          "price": 55.0,
-          "vendor": "Emilia Melbourne",
-          "created_at": "2026-07-10",
-          "rank_now": 295,
-          "rank_before": 312,
-          "delta": 17,
-          "pct": 5.4,
-          "weighted": 0.99,
-          "streak": 0,
-          "spark": [
-            297,
-            308,
-            311,
-            332,
-            347,
-            350,
-            310,
-            312,
-            294,
-            295
-          ],
-          "spark_days": [
-            "2026-08-23",
-            "2026-08-25",
-            "2026-08-26",
-            "2026-09-01",
-            "2026-09-04",
-            "2026-09-05",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 52,
-            "14": 16
-          }
-        },
-        {
-          "handle": "women-s-top-and-trousers-set-with-round-neck-and-straight-legs",
-          "title": "Women S Top And Trousers Set With Round Neck And Straight Legs",
-          "url": "https://byemiliarose.com/products/women-s-top-and-trousers-set-with-round-neck-and-straight-legs",
+          "handle": "womens-tunic-top-with-patchwork-pattern-and-ribbed-cuffs",
+          "title": "Womens Tunic Top With Patchwork Pattern And Ribbed Cuffs",
+          "url": "https://byemiliarose.com/products/womens-tunic-top-with-patchwork-pattern-and-ribbed-cuffs",
           "image": null,
           "price": null,
           "vendor": null,
           "created_at": null,
-          "rank_now": 271,
-          "rank_before": 287,
-          "delta": 16,
-          "pct": 5.6,
-          "weighted": 0.97,
+          "rank_now": 142,
+          "rank_before": 166,
+          "delta": 24,
+          "pct": 14.5,
+          "weighted": 2.01,
           "streak": 0,
           "spark": [
-            229,
-            238,
-            241,
-            262,
-            270,
-            272,
-            282,
-            287,
-            269,
-            271
+            145,
+            149,
+            148,
+            154,
+            157,
+            163,
+            166,
+            138,
+            140,
+            142
           ],
           "spark_days": [
-            "2026-08-23",
             "2026-08-25",
             "2026-08-26",
             "2026-09-01",
@@ -943,11 +692,356 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
-            "7": -1,
-            "14": -30
+            "7": 15,
+            "14": 7
+          }
+        },
+        {
+          "handle": "women-s-jumpsuit-withv-neckline-and-widelegs",
+          "title": "Women’s Jumpsuit with V Neckline and Wide Legs",
+          "url": "https://byemiliarose.com/products/women-s-jumpsuit-withv-neckline-and-widelegs",
+          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sJumpsuitwithVNecklineandWideLegs_2.png?v=1769600910",
+          "price": 77.0,
+          "vendor": "Emilia Rose",
+          "created_at": "2026-07-10",
+          "rank_now": 138,
+          "rank_before": 161,
+          "delta": 23,
+          "pct": 14.3,
+          "weighted": 1.96,
+          "streak": 0,
+          "spark": [
+            154,
+            158,
+            173,
+            150,
+            152,
+            157,
+            161,
+            135,
+            137,
+            138
+          ],
+          "spark_days": [
+            "2026-08-25",
+            "2026-08-26",
+            "2026-09-01",
+            "2026-09-04",
+            "2026-09-05",
+            "2026-09-07",
+            "2026-09-08",
+            "2026-09-10",
+            "2026-09-11",
+            "2026-09-12"
+          ],
+          "history": {
+            "7": 14,
+            "14": 20
+          }
+        },
+        {
+          "handle": "womens-orthopaedic-leather-sandals-with-adjustable-strap",
+          "title": "Women's Orthopaedic Leather Sandals with Adjustable Strap",
+          "url": "https://byemiliarose.com/products/womens-orthopaedic-leather-sandals-with-adjustable-strap",
+          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sOrthopaedicLeatherSandalswithAdjustableStrap_1.jpg?v=1783333638",
+          "price": 55.0,
+          "vendor": "Emilia Rose",
+          "created_at": "2026-07-08",
+          "rank_now": 239,
+          "rank_before": 262,
+          "delta": 23,
+          "pct": 8.8,
+          "weighted": 1.49,
+          "streak": 0,
+          "spark": [
+            244,
+            248,
+            268,
+            244,
+            246,
+            253,
+            262,
+            231,
+            234,
+            239
+          ],
+          "spark_days": [
+            "2026-08-25",
+            "2026-08-26",
+            "2026-09-01",
+            "2026-09-04",
+            "2026-09-05",
+            "2026-09-07",
+            "2026-09-08",
+            "2026-09-10",
+            "2026-09-11",
+            "2026-09-12"
+          ],
+          "history": {
+            "7": 7,
+            "14": 9
+          }
+        },
+        {
+          "handle": "womens-leather-wedge-shoes-with-cushioned-footbed",
+          "title": "Women's Leather Wedge Shoes with Cushioned Footbed",
+          "url": "https://byemiliarose.com/products/womens-leather-wedge-shoes-with-cushioned-footbed",
+          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sLeatherWedgeShoeswithCushionedFootbed_1.jpg?v=1783333820",
+          "price": 77.0,
+          "vendor": "Emilia Rose",
+          "created_at": "2026-07-08",
+          "rank_now": 241,
+          "rank_before": 263,
+          "delta": 22,
+          "pct": 8.4,
+          "weighted": 1.42,
+          "streak": 0,
+          "spark": [
+            211,
+            216,
+            233,
+            245,
+            247,
+            254,
+            263,
+            233,
+            236,
+            241
+          ],
+          "spark_days": [
+            "2026-08-25",
+            "2026-08-26",
+            "2026-09-01",
+            "2026-09-04",
+            "2026-09-05",
+            "2026-09-07",
+            "2026-09-08",
+            "2026-09-10",
+            "2026-09-11",
+            "2026-09-12"
+          ],
+          "history": {
+            "7": 6,
+            "14": -25
+          }
+        },
+        {
+          "handle": "womens-oversized-blouse-with-long-sleeves-and-shimmering-design",
+          "title": "Women's Oversized Blouse with Long Sleeves and Shimmering Design",
+          "url": "https://byemiliarose.com/products/womens-oversized-blouse-with-long-sleeves-and-shimmering-design",
+          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sOversizedBlousewithLongSleevesandShimmeringDesign_1.png?v=1783333934",
+          "price": 74.0,
+          "vendor": "Emilia Melbourne",
+          "created_at": "2026-07-10",
+          "rank_now": 178,
+          "rank_before": 197,
+          "delta": 19,
+          "pct": 9.6,
+          "weighted": 1.42,
+          "streak": 1,
+          "spark": [
+            201,
+            208,
+            225,
+            233,
+            236,
+            192,
+            197,
+            184,
+            188,
+            178
+          ],
+          "spark_days": [
+            "2026-08-25",
+            "2026-08-26",
+            "2026-09-01",
+            "2026-09-04",
+            "2026-09-05",
+            "2026-09-07",
+            "2026-09-08",
+            "2026-09-10",
+            "2026-09-11",
+            "2026-09-12"
+          ],
+          "history": {
+            "7": 58,
+            "14": 30
+          }
+        },
+        {
+          "handle": "women-s-long-dress-with-v-neck-and-side-slit",
+          "title": "Women’s Long Dress with V-Neck and Side Slit",
+          "url": "https://byemiliarose.com/products/women-s-long-dress-with-v-neck-and-side-slit",
+          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sLongDresswithV-NeckandSideSlit_1.png?v=1783335002",
+          "price": 66.0,
+          "vendor": "Emilia Melbourne",
+          "created_at": "2026-07-10",
+          "rank_now": 263,
+          "rank_before": 282,
+          "delta": 19,
+          "pct": 6.7,
+          "weighted": 1.17,
+          "streak": 0,
+          "spark": [
+            231,
+            236,
+            256,
+            266,
+            267,
+            275,
+            282,
+            256,
+            258,
+            263
+          ],
+          "spark_days": [
+            "2026-08-25",
+            "2026-08-26",
+            "2026-09-01",
+            "2026-09-04",
+            "2026-09-05",
+            "2026-09-07",
+            "2026-09-08",
+            "2026-09-10",
+            "2026-09-11",
+            "2026-09-12"
+          ],
+          "history": {
+            "7": 4,
+            "14": -27
+          }
+        },
+        {
+          "handle": "women-s-jumpsuit-with-v-neckline-and-elastic-waist",
+          "title": "Women’s Jumpsuit with V Neckline and Elastic Waist",
+          "url": "https://byemiliarose.com/products/women-s-jumpsuit-with-v-neckline-and-elastic-waist",
+          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sJumpsuitwithVNecklineandElasticWaist_1.png?v=1783333744",
+          "price": 85.0,
+          "vendor": "Emilia Rose",
+          "created_at": "2026-07-10",
+          "rank_now": 260,
+          "rank_before": 278,
+          "delta": 18,
+          "pct": 6.5,
+          "weighted": 1.12,
+          "streak": 0,
+          "spark": [
+            260,
+            262,
+            252,
+            261,
+            262,
+            270,
+            278,
+            290,
+            255,
+            260
+          ],
+          "spark_days": [
+            "2026-08-25",
+            "2026-08-26",
+            "2026-09-01",
+            "2026-09-04",
+            "2026-09-05",
+            "2026-09-07",
+            "2026-09-08",
+            "2026-09-10",
+            "2026-09-11",
+            "2026-09-12"
+          ],
+          "history": {
+            "7": 2,
+            "14": 2
+          }
+        },
+        {
+          "handle": "womens-orthopaedic-ankle-boots-with-side-zip-closure-for-fall",
+          "title": "Women's Orthopaedic Ankle Boots with Side Zip Closure for Fall",
+          "url": "https://byemiliarose.com/products/womens-orthopaedic-ankle-boots-with-side-zip-closure-for-fall",
+          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sOrthopaedicAnkleBootswithSideZipClosureforFall_1_919366f2-c408-453f-a597-aba81a20025d.png?v=1783334641",
+          "price": 41.0,
+          "vendor": "Emilia Rose",
+          "created_at": "2026-07-08",
+          "rank_now": 119,
+          "rank_before": 136,
+          "delta": 17,
+          "pct": 12.5,
+          "weighted": 1.56,
+          "streak": 1,
+          "spark": [
+            185,
+            177,
+            134,
+            130,
+            123,
+            134,
+            136,
+            125,
+            126,
+            119
+          ],
+          "spark_days": [
+            "2026-08-25",
+            "2026-08-26",
+            "2026-09-01",
+            "2026-09-04",
+            "2026-09-05",
+            "2026-09-07",
+            "2026-09-08",
+            "2026-09-10",
+            "2026-09-11",
+            "2026-09-12"
+          ],
+          "history": {
+            "7": 4,
+            "14": 58
+          }
+        },
+        {
+          "handle": "v-neck-midi-dress-with-short-sleeves",
+          "title": "V-Neck Midi Dress With Short Sleeves",
+          "url": "https://byemiliarose.com/products/v-neck-midi-dress-with-short-sleeves",
+          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/V-NeckMidiDressWithShortSleeves_7.jpg?v=1783333940",
+          "price": 85.0,
+          "vendor": "Emilia Melbourne",
+          "created_at": "2026-07-10",
+          "rank_now": 267,
+          "rank_before": 283,
+          "delta": 16,
+          "pct": 5.7,
+          "weighted": 0.98,
+          "streak": 0,
+          "spark": [
+            234,
+            239,
+            258,
+            267,
+            268,
+            276,
+            283,
+            260,
+            262,
+            267
+          ],
+          "spark_days": [
+            "2026-08-25",
+            "2026-08-26",
+            "2026-09-01",
+            "2026-09-04",
+            "2026-09-05",
+            "2026-09-07",
+            "2026-09-08",
+            "2026-09-10",
+            "2026-09-11",
+            "2026-09-12"
+          ],
+          "history": {
+            "7": 1,
+            "14": -28
           }
         },
         {
@@ -965,7 +1059,6 @@
           "weighted": 1.35,
           "streak": 0,
           "spark": [
-            117,
             114,
             106,
             102,
@@ -974,10 +1067,10 @@
             105,
             106,
             92,
+            93,
             93
           ],
           "spark_days": [
-            "2026-08-23",
             "2026-08-25",
             "2026-08-26",
             "2026-09-01",
@@ -986,7 +1079,8 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
             "7": 9,
@@ -994,33 +1088,32 @@
           }
         },
         {
-          "handle": "longline-blazer-with-button-front",
-          "title": "Women’s Longline Blazer with Notched Lapel and Front Buttons",
-          "url": "https://byemiliarose.com/products/longline-blazer-with-button-front",
-          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sLonglineBlazerwithNotchedLapelandFrontButtons_4.jpg?v=1783333501",
-          "price": 66.0,
+          "handle": "women-midi-dress-with-round-neck-and-pockets",
+          "title": "Women Midi Dress with Round Neck and Pockets",
+          "url": "https://byemiliarose.com/products/women-midi-dress-with-round-neck-and-pockets",
+          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/WomenMidiDresswithRoundNeckandPockets_1.png?v=1783334499",
+          "price": 70.0,
           "vendor": "Emilia Melbourne",
           "created_at": "2026-07-10",
-          "rank_now": 225,
-          "rank_before": 237,
-          "delta": 12,
-          "pct": 5.1,
-          "weighted": 0.8,
-          "streak": 1,
+          "rank_now": 97,
+          "rank_before": 110,
+          "delta": 13,
+          "pct": 11.8,
+          "weighted": 1.32,
+          "streak": 2,
           "spark": [
-            338,
-            294,
-            296,
-            282,
-            289,
-            290,
-            266,
-            237,
-            246,
-            225
+            197,
+            184,
+            142,
+            138,
+            127,
+            112,
+            110,
+            111,
+            102,
+            97
           ],
           "spark_days": [
-            "2026-08-23",
             "2026-08-25",
             "2026-08-26",
             "2026-09-01",
@@ -1029,59 +1122,17 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
-            "7": 64,
-            "14": 71
-          }
-        },
-        {
-          "handle": "women-s-maxi-skirt-with-elastic-waist-and-sequin-surface",
-          "title": "Women’s Maxi Skirt with Elastic Waist and Sequin Surface",
-          "url": "https://byemiliarose.com/products/women-s-maxi-skirt-with-elastic-waist-and-sequin-surface",
-          "image": "https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sMaxiSkirtwithElasticWaistandSequinSurface_8.png?v=1783333431",
-          "price": 66.0,
-          "vendor": "Emilia Melbourne",
-          "created_at": "2026-07-10",
-          "rank_now": 119,
-          "rank_before": 129,
-          "delta": 10,
-          "pct": 7.8,
-          "weighted": 0.92,
-          "streak": 0,
-          "spark": [
-            145,
-            139,
-            141,
-            155,
-            147,
-            124,
-            126,
-            129,
-            119,
-            119
-          ],
-          "spark_days": [
-            "2026-08-23",
-            "2026-08-25",
-            "2026-08-26",
-            "2026-09-01",
-            "2026-09-04",
-            "2026-09-05",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 28,
-            "14": 22
+            "7": 30,
+            "14": 87
           }
         }
       ],
       "new_entrants": [],
-      "skipped_known": 15,
+      "skipped_known": 24,
       "note": null
     },
     {
@@ -1103,179 +1154,82 @@
       "store_id": 12,
       "domain": "byseabourne.com",
       "label": "By Seabourne",
-      "days_tracked": 5,
-      "current_day": "2026-09-11",
+      "days_tracked": 6,
+      "current_day": "2026-09-12",
       "baseline_day": "2026-09-08",
-      "baseline_gap": 3,
+      "baseline_gap": 4,
       "total_products": 728,
       "risers": [
         {
-          "handle": "aria-womens-sleeveless-wide-leg-jumpsuit-v-neck-tie-waist-print",
-          "title": "Aria | Women's Sleeveless Wide Leg Jumpsuit V-Neck Tie Waist Print",
-          "url": "https://byseabourne.com/products/aria-womens-sleeveless-wide-leg-jumpsuit-v-neck-tie-waist-print",
-          "image": "https://cdn.shopify.com/s/files/1/0952/6175/3687/files/ugyftr_4b863650-bb41-40ec-a7cf-989fa5e42c9c.webp?v=1773813138",
-          "price": 79.95,
+          "handle": "chelsea-leather-shoes",
+          "title": "Chelsea™ | Leather Shoes",
+          "url": "https://byseabourne.com/products/chelsea-leather-shoes",
+          "image": "https://cdn.shopify.com/s/files/1/0952/6175/3687/files/Progettosenzatitolo-2025-04-26T110420.212.png?v=1763683235",
+          "price": 119.95,
           "vendor": "SEABOURNE",
-          "created_at": "2026-03-21",
-          "rank_now": 299,
-          "rank_before": 385,
-          "delta": 86,
-          "pct": 22.3,
-          "weighted": 4.97,
-          "streak": 3,
+          "created_at": "2025-11-21",
+          "rank_now": 195,
+          "rank_before": 262,
+          "delta": 67,
+          "pct": 25.6,
+          "weighted": 4.8,
+          "streak": 4,
           "spark": [
-            390,
-            394,
-            385,
-            376,
-            299
-          ],
-          "spark_days": [
-            "2026-09-04",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 91,
-            "14": 91
-          }
-        },
-        {
-          "handle": "darcy-retro-floral-dress",
-          "title": "Darcy™ | Retro Floral Dress",
-          "url": "https://byseabourne.com/products/darcy-retro-floral-dress",
-          "image": "https://cdn.shopify.com/s/files/1/0952/6175/3687/files/wmremove-transformed_3_05f40613-05b5-403a-8f15-ccf32acd4933_1.webp?v=1761812630",
-          "price": 84.95,
-          "vendor": "SEABOURNE",
-          "created_at": "2025-10-30",
-          "rank_now": 217,
-          "rank_before": 264,
-          "delta": 47,
-          "pct": 17.8,
-          "weighted": 3.19,
-          "streak": 3,
-          "spark": [
-            259,
-            267,
-            264,
-            231,
-            217
-          ],
-          "spark_days": [
-            "2026-09-04",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 42,
-            "14": 42
-          }
-        },
-        {
-          "handle": "tessa-womens-3-4-sleeve-pleated-top-scoop-neck-casual-everyday-top",
-          "title": "Tessa Womens 3 4 Sleeve Pleated Top Scoop Neck Casual Everyday Top",
-          "url": "https://byseabourne.com/products/tessa-womens-3-4-sleeve-pleated-top-scoop-neck-casual-everyday-top",
-          "image": null,
-          "price": null,
-          "vendor": null,
-          "created_at": null,
-          "rank_now": 192,
-          "rank_before": 237,
-          "delta": 45,
-          "pct": 19.0,
-          "weighted": 3.25,
-          "streak": 3,
-          "spark": [
-            238,
-            241,
-            237,
-            205,
-            192
-          ],
-          "spark_days": [
-            "2026-09-04",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 46,
-            "14": 46
-          }
-        },
-        {
-          "handle": "wildflower-drift-jumpsuit",
-          "title": "Annabelle | Wildflower Drift Jumpsuit",
-          "url": "https://byseabourne.com/products/wildflower-drift-jumpsuit",
-          "image": "https://cdn.shopify.com/s/files/1/0952/6175/3687/files/d2e7de85-9d81-4c65-ba00-6e891bfc2e47.jpg?v=1760563643",
-          "price": 69.95,
-          "vendor": "SEABOURNE",
-          "created_at": "2025-10-16",
-          "rank_now": 204,
-          "rank_before": 248,
-          "delta": 44,
-          "pct": 17.7,
-          "weighted": 3.08,
-          "streak": 3,
-          "spark": [
-            249,
-            254,
-            248,
-            241,
-            204
-          ],
-          "spark_days": [
-            "2026-09-04",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 45,
-            "14": 45
-          }
-        },
-        {
-          "handle": "louison-mocassins",
-          "title": "Louison™ | Mocassins",
-          "url": "https://byseabourne.com/products/louison-mocassins",
-          "image": "https://cdn.shopify.com/s/files/1/0952/6175/3687/files/1_17d28178-a352-4c24-9bbe-d064982e614e.png?v=1760383429",
-          "price": 154.95,
-          "vendor": "SEABOURNE",
-          "created_at": "2026-08-10",
-          "rank_now": 210,
-          "rank_before": 250,
-          "delta": 40,
-          "pct": 16.0,
-          "weighted": 2.76,
-          "streak": 3,
-          "spark": [
-            250,
+            258,
+            266,
+            262,
             256,
-            250,
-            243,
-            210
+            238,
+            195
           ],
           "spark_days": [
             "2026-09-04",
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
-            "7": 40,
-            "14": 40
+            "7": 63,
+            "14": 63
           }
-        }
-      ],
-      "runners_up": [
+        },
+        {
+          "handle": "elara-watercolour-dreams-blouse",
+          "title": "Elara™ | Watercolour Dreams Blouse",
+          "url": "https://byseabourne.com/products/elara-watercolour-dreams-blouse",
+          "image": "https://cdn.shopify.com/s/files/1/0952/6175/3687/files/10_1a6b84b8-912c-4165-932a-ad50dff1538d.png?v=1761887944",
+          "price": 94.95,
+          "vendor": "SEABOURNE",
+          "created_at": "2025-10-31",
+          "rank_now": 218,
+          "rank_before": 263,
+          "delta": 45,
+          "pct": 17.1,
+          "weighted": 3.05,
+          "streak": 4,
+          "spark": [
+            289,
+            295,
+            263,
+            257,
+            239,
+            218
+          ],
+          "spark_days": [
+            "2026-09-04",
+            "2026-09-07",
+            "2026-09-08",
+            "2026-09-10",
+            "2026-09-11",
+            "2026-09-12"
+          ],
+          "history": {
+            "7": 71,
+            "14": 71
+          }
+        },
         {
           "handle": "harper-womens-belted-high-neck-midi-dress-split-sleeve",
           "title": "Harper | Women's Belted High Neck Midi Dress Split Sleeve",
@@ -1289,12 +1243,13 @@
           "delta": 39,
           "pct": 11.6,
           "weighted": 2.27,
-          "streak": 3,
+          "streak": 0,
           "spark": [
             339,
             343,
             335,
             328,
+            296,
             296
           ],
           "spark_days": [
@@ -1302,7 +1257,8 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
             "7": 43,
@@ -1322,12 +1278,13 @@
           "delta": 39,
           "pct": 11.6,
           "weighted": 2.26,
-          "streak": 4,
+          "streak": 0,
           "spark": [
             388,
             344,
             336,
             329,
+            297,
             297
           ],
           "spark_days": [
@@ -1335,7 +1292,8 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
             "7": 91,
@@ -1355,12 +1313,13 @@
           "delta": 39,
           "pct": 11.6,
           "weighted": 2.26,
-          "streak": 3,
+          "streak": 0,
           "spark": [
             340,
             345,
             337,
             330,
+            298,
             298
           ],
           "spark_days": [
@@ -1368,13 +1327,16 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
             "7": 42,
             "14": 42
           }
-        },
+        }
+      ],
+      "runners_up": [
         {
           "handle": "santorini-long-dress",
           "title": "Santorini Long Dress",
@@ -1388,12 +1350,13 @@
           "delta": 39,
           "pct": 11.5,
           "weighted": 2.25,
-          "streak": 3,
+          "streak": 0,
           "spark": [
             343,
             347,
             339,
             332,
+            300,
             300
           ],
           "spark_days": [
@@ -1401,7 +1364,8 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
             "7": 43,
@@ -1421,12 +1385,13 @@
           "delta": 38,
           "pct": 11.4,
           "weighted": 2.22,
-          "streak": 3,
+          "streak": 0,
           "spark": [
             335,
             339,
             332,
             326,
+            294,
             294
           ],
           "spark_days": [
@@ -1434,7 +1399,8 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
             "7": 41,
@@ -1454,12 +1420,13 @@
           "delta": 38,
           "pct": 11.4,
           "weighted": 2.21,
-          "streak": 3,
+          "streak": 0,
           "spark": [
             337,
             341,
             333,
             327,
+            295,
             295
           ],
           "spark_days": [
@@ -1467,7 +1434,8 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
             "7": 42,
@@ -1487,12 +1455,13 @@
           "delta": 37,
           "pct": 11.2,
           "weighted": 2.17,
-          "streak": 3,
+          "streak": 0,
           "spark": [
             331,
             336,
             329,
             323,
+            292,
             292
           ],
           "spark_days": [
@@ -1500,7 +1469,8 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
             "7": 39,
@@ -1520,12 +1490,13 @@
           "delta": 37,
           "pct": 11.2,
           "weighted": 2.16,
-          "streak": 3,
+          "streak": 0,
           "spark": [
             333,
             337,
             330,
             324,
+            293,
             293
           ],
           "spark_days": [
@@ -1533,7 +1504,8 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
             "7": 40,
@@ -1553,12 +1525,13 @@
           "delta": 36,
           "pct": 11.0,
           "weighted": 2.11,
-          "streak": 3,
+          "streak": 0,
           "spark": [
             329,
             334,
             327,
             321,
+            291,
             291
           ],
           "spark_days": [
@@ -1566,7 +1539,8 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
             "7": 38,
@@ -1586,12 +1560,13 @@
           "delta": 34,
           "pct": 10.6,
           "weighted": 2.01,
-          "streak": 3,
+          "streak": 0,
           "spark": [
             323,
             328,
             321,
             316,
+            287,
             287
           ],
           "spark_days": [
@@ -1599,7 +1574,8 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
             "7": 36,
@@ -1619,12 +1595,13 @@
           "delta": 34,
           "pct": 10.6,
           "weighted": 2.0,
-          "streak": 3,
+          "streak": 0,
           "spark": [
             325,
             329,
             322,
             317,
+            288,
             288
           ],
           "spark_days": [
@@ -1632,7 +1609,8 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
             "7": 37,
@@ -1652,12 +1630,13 @@
           "delta": 34,
           "pct": 10.5,
           "weighted": 2.0,
-          "streak": 3,
+          "streak": 0,
           "spark": [
             326,
             330,
             323,
             318,
+            289,
             289
           ],
           "spark_days": [
@@ -1665,7 +1644,8 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
             "7": 37,
@@ -1685,12 +1665,13 @@
           "delta": 34,
           "pct": 10.5,
           "weighted": 2.0,
-          "streak": 3,
+          "streak": 0,
           "spark": [
             327,
             331,
             324,
             319,
+            290,
             290
           ],
           "spark_days": [
@@ -1698,7 +1679,8 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
             "7": 37,
@@ -1718,12 +1700,13 @@
           "delta": 33,
           "pct": 16.7,
           "weighted": 2.57,
-          "streak": 3,
+          "streak": 0,
           "spark": [
             199,
             202,
             198,
             171,
+            165,
             165
           ],
           "spark_days": [
@@ -1731,7 +1714,8 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
             "7": 34,
@@ -1751,12 +1735,13 @@
           "delta": 33,
           "pct": 10.3,
           "weighted": 1.95,
-          "streak": 3,
+          "streak": 0,
           "spark": [
             321,
             326,
             319,
             314,
+            286,
             286
           ],
           "spark_days": [
@@ -1764,16 +1749,122 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
             "7": 35,
             "14": 35
           }
+        },
+        {
+          "handle": "victoria%E2%84%A2-lightweight-hoodie-with-buttons",
+          "title": "Victoria%E2%84%A2 Lightweight Hoodie With Buttons",
+          "url": "https://byseabourne.com/products/victoria%E2%84%A2-lightweight-hoodie-with-buttons",
+          "image": null,
+          "price": null,
+          "vendor": null,
+          "created_at": null,
+          "rank_now": 153,
+          "rank_before": 183,
+          "delta": 30,
+          "pct": 16.4,
+          "weighted": 2.43,
+          "streak": 0,
+          "spark": [
+            184,
+            187,
+            183,
+            177,
+            153,
+            153
+          ],
+          "spark_days": [
+            "2026-09-04",
+            "2026-09-07",
+            "2026-09-08",
+            "2026-09-10",
+            "2026-09-11",
+            "2026-09-12"
+          ],
+          "history": {
+            "7": 31,
+            "14": 31
+          }
+        },
+        {
+          "handle": "collarbone-necklace-with-tassels",
+          "title": "Collarbone Necklace with Tassels",
+          "url": "https://byseabourne.com/products/collarbone-necklace-with-tassels",
+          "image": "https://cdn.shopify.com/s/files/1/0952/6175/3687/files/celeb.png?v=1760564154",
+          "price": 69.95,
+          "vendor": "SEABOURNE",
+          "created_at": "2025-10-16",
+          "rank_now": 285,
+          "rank_before": 314,
+          "delta": 29,
+          "pct": 9.2,
+          "weighted": 1.72,
+          "streak": 0,
+          "spark": [
+            316,
+            321,
+            314,
+            309,
+            285,
+            285
+          ],
+          "spark_days": [
+            "2026-09-04",
+            "2026-09-07",
+            "2026-09-08",
+            "2026-09-10",
+            "2026-09-11",
+            "2026-09-12"
+          ],
+          "history": {
+            "7": 31,
+            "14": 31
+          }
+        },
+        {
+          "handle": "amara%E2%84%A2-elegant-summer-dress",
+          "title": "Amara%E2%84%A2 Elegant Summer Dress",
+          "url": "https://byseabourne.com/products/amara%E2%84%A2-elegant-summer-dress",
+          "image": null,
+          "price": null,
+          "vendor": null,
+          "created_at": null,
+          "rank_now": 277,
+          "rank_before": 305,
+          "delta": 28,
+          "pct": 9.2,
+          "weighted": 1.68,
+          "streak": 0,
+          "spark": [
+            305,
+            311,
+            305,
+            300,
+            277,
+            277
+          ],
+          "spark_days": [
+            "2026-09-04",
+            "2026-09-07",
+            "2026-09-08",
+            "2026-09-10",
+            "2026-09-11",
+            "2026-09-12"
+          ],
+          "history": {
+            "7": 28,
+            "14": 28
+          }
         }
       ],
       "new_entrants": [],
-      "skipped_known": 15,
+      "skipped_known": 20,
       "note": null
     },
     {
@@ -1795,179 +1886,12 @@
       "store_id": 11,
       "domain": "elle-charleston.com",
       "label": "Elle Charleston",
-      "days_tracked": 5,
-      "current_day": "2026-09-11",
+      "days_tracked": 6,
+      "current_day": "2026-09-12",
       "baseline_day": "2026-09-08",
-      "baseline_gap": 3,
+      "baseline_gap": 4,
       "total_products": 1000,
       "risers": [
-        {
-          "handle": "olivia-womens-open-front-34-sleeve-cropped-cardigan",
-          "title": "Olivia Womens Open Front 34 Sleeve Cropped Cardigan",
-          "url": "https://elle-charleston.com/products/olivia-womens-open-front-34-sleeve-cropped-cardigan",
-          "image": null,
-          "price": null,
-          "vendor": null,
-          "created_at": null,
-          "rank_now": 280,
-          "rank_before": 312,
-          "delta": 32,
-          "pct": 10.3,
-          "weighted": 1.91,
-          "streak": 2,
-          "spark": [
-            375,
-            311,
-            312,
-            309,
-            280
-          ],
-          "spark_days": [
-            "2026-09-04",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 95,
-            "14": 95
-          }
-        },
-        {
-          "handle": "grace-womens-orthopedic-sandals-slip-on-gold-accent-glitter",
-          "title": "Grace | Women's Orthopedic Sandals Slip-On Gold Accent Glitter",
-          "url": "https://elle-charleston.com/products/grace-womens-orthopedic-sandals-slip-on-gold-accent-glitter",
-          "image": "https://cdn.shopify.com/s/files/1/0959/2776/3327/files/womens-orthopedic-sandals-slip-on-gold-accent-glitter-1.jpg?v=1778838427",
-          "price": 32.95,
-          "vendor": "Jennifer & John Charleston",
-          "created_at": "2026-05-15",
-          "rank_now": 299,
-          "rank_before": 325,
-          "delta": 26,
-          "pct": 8.0,
-          "weighted": 1.5,
-          "streak": 2,
-          "spark": [
-            351,
-            324,
-            325,
-            315,
-            299
-          ],
-          "spark_days": [
-            "2026-09-04",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 52,
-            "14": 52
-          }
-        },
-        {
-          "handle": "kyadae",
-          "title": "Kyadae | Women's Breathable Orthopedic Shoes with Arch Support",
-          "url": "https://elle-charleston.com/products/kyadae",
-          "image": "https://cdn.shopify.com/s/files/1/0959/2776/3327/files/Sddb76343158746f0b63c05e9cca4f16c8_720x-Photoroom.jpg?v=1763349694",
-          "price": 56.95,
-          "vendor": "Jennifer & John Charleston",
-          "created_at": "2025-11-18",
-          "rank_now": 240,
-          "rank_before": 256,
-          "delta": 16,
-          "pct": 6.2,
-          "weighted": 1.03,
-          "streak": 1,
-          "spark": [
-            268,
-            255,
-            256,
-            259,
-            240
-          ],
-          "spark_days": [
-            "2026-09-04",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 28,
-            "14": 28
-          }
-        },
-        {
-          "handle": "penelope-womens-leather-woven-pointed-toe-slingback-comfortable-sandals",
-          "title": "Penelope Womens Leather Woven Pointed Toe Slingback Comfortable Sandals",
-          "url": "https://elle-charleston.com/products/penelope-womens-leather-woven-pointed-toe-slingback-comfortable-sandals",
-          "image": null,
-          "price": null,
-          "vendor": null,
-          "created_at": null,
-          "rank_now": 268,
-          "rank_before": 284,
-          "delta": 16,
-          "pct": 5.6,
-          "weighted": 0.98,
-          "streak": 2,
-          "spark": [
-            293,
-            284,
-            284,
-            276,
-            268
-          ],
-          "spark_days": [
-            "2026-09-04",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 25,
-            "14": 25
-          }
-        },
-        {
-          "handle": "charles-mens-cargo-pocket-casual-knee-length-shorts",
-          "title": "Charles | Men's Cargo Pocket Casual Knee Length Shorts",
-          "url": "https://elle-charleston.com/products/charles-mens-cargo-pocket-casual-knee-length-shorts",
-          "image": "https://cdn.shopify.com/s/files/1/0959/2776/3327/files/men-s-cargo-shorts-with-side-pockets-01.jpg?v=1776070349",
-          "price": 66.95,
-          "vendor": "Jennifer & John Charleston",
-          "created_at": "2026-04-17",
-          "rank_now": 271,
-          "rank_before": 287,
-          "delta": 16,
-          "pct": 5.6,
-          "weighted": 0.97,
-          "streak": 2,
-          "spark": [
-            298,
-            286,
-            287,
-            278,
-            271
-          ],
-          "spark_days": [
-            "2026-09-04",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 27,
-            "14": 27
-          }
-        }
-      ],
-      "runners_up": [
         {
           "handle": "maeve",
           "title": "Maeve",
@@ -1981,12 +1905,13 @@
           "delta": 16,
           "pct": 5.4,
           "weighted": 0.96,
-          "streak": 2,
+          "streak": 0,
           "spark": [
             306,
             293,
             294,
             286,
+            278,
             278
           ],
           "spark_days": [
@@ -1994,7 +1919,8 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
             "7": 28,
@@ -2014,12 +1940,13 @@
           "delta": 16,
           "pct": 5.3,
           "weighted": 0.95,
-          "streak": 2,
+          "streak": 0,
           "spark": [
             320,
             298,
             301,
             292,
+            285,
             285
           ],
           "spark_days": [
@@ -2027,7 +1954,8 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
             "7": 35,
@@ -2047,12 +1975,13 @@
           "delta": 15,
           "pct": 5.4,
           "weighted": 0.92,
-          "streak": 1,
+          "streak": 0,
           "spark": [
             289,
             280,
             280,
             283,
+            265,
             265
           ],
           "spark_days": [
@@ -2060,7 +1989,8 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
             "7": 24,
@@ -2069,7 +1999,7 @@
         },
         {
           "handle": "jermaine",
-          "title": "Jermaine | Men's Relaxed Cotton Blend Shirt with Vertical Stripes",
+          "title": "Jermaine | Relaxed Striped Cotton Shirt",
           "url": "https://elle-charleston.com/products/jermaine",
           "image": "https://cdn.shopify.com/s/files/1/0959/2776/3327/files/S6f49024e68e342c3a7572fc3487f5398B_42487c71-c115-4e69-a1c1-43365bd7e77d.webp?v=1763787310",
           "price": 51.95,
@@ -2080,12 +2010,13 @@
           "delta": 15,
           "pct": 5.2,
           "weighted": 0.91,
-          "streak": 2,
+          "streak": 0,
           "spark": [
             299,
             287,
             288,
             280,
+            273,
             273
           ],
           "spark_days": [
@@ -2093,7 +2024,8 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
             "7": 26,
@@ -2113,12 +2045,13 @@
           "delta": 15,
           "pct": 5.0,
           "weighted": 0.89,
-          "streak": 2,
+          "streak": 0,
           "spark": [
             318,
             295,
             298,
             290,
+            283,
             283
           ],
           "spark_days": [
@@ -2126,13 +2059,16 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
             "7": 35,
             "14": 35
           }
-        },
+        }
+      ],
+      "runners_up": [
         {
           "handle": "harper-womens-rhinestone-t-strap-flat-sandals-slip-on",
           "title": "Harper | Women's Rhinestone T-Strap Flat Sandals Slip-On",
@@ -2146,12 +2082,13 @@
           "delta": 15,
           "pct": 5.0,
           "weighted": 0.89,
-          "streak": 2,
+          "streak": 0,
           "spark": [
             319,
             296,
             299,
             291,
+            284,
             284
           ],
           "spark_days": [
@@ -2159,7 +2096,8 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
             "7": 35,
@@ -2167,36 +2105,38 @@
           }
         },
         {
-          "handle": "reese",
-          "title": "Reese",
-          "url": "https://elle-charleston.com/products/reese",
-          "image": null,
-          "price": null,
-          "vendor": null,
-          "created_at": null,
-          "rank_now": 251,
-          "rank_before": 264,
-          "delta": 13,
-          "pct": 4.9,
-          "weighted": 0.82,
-          "streak": 2,
+          "handle": "hailey-women-wedding-guest-elegant-wrap-maxi-dress",
+          "title": "Hailey | Women Wedding Guest Elegant Wrap Maxi Dress",
+          "url": "https://elle-charleston.com/products/hailey-women-wedding-guest-elegant-wrap-maxi-dress",
+          "image": "https://cdn.shopify.com/s/files/1/0959/2776/3327/files/O1CN01idS3ae26XN2k15deW__2206619717671-0-cib.jpg?v=1772686006",
+          "price": 77.95,
+          "vendor": "Jennifer & John Charleston",
+          "created_at": "2026-03-18",
+          "rank_now": 204,
+          "rank_before": 218,
+          "delta": 14,
+          "pct": 6.4,
+          "weighted": 0.98,
+          "streak": 3,
           "spark": [
-            275,
-            264,
-            264,
-            258,
-            251
+            224,
+            218,
+            218,
+            213,
+            207,
+            204
           ],
           "spark_days": [
             "2026-09-04",
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
-            "7": 24,
-            "14": 24
+            "7": 20,
+            "14": 20
           }
         },
         {
@@ -2212,12 +2152,13 @@
           "delta": 13,
           "pct": 4.3,
           "weighted": 0.76,
-          "streak": 1,
+          "streak": 0,
           "spark": [
             312,
             299,
             302,
             304,
+            289,
             289
           ],
           "spark_days": [
@@ -2225,7 +2166,8 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
             "7": 23,
@@ -2245,12 +2187,13 @@
           "delta": 13,
           "pct": 4.2,
           "weighted": 0.76,
-          "streak": 2,
+          "streak": 0,
           "spark": [
             324,
             304,
             306,
             300,
+            293,
             293
           ],
           "spark_days": [
@@ -2258,7 +2201,8 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
             "7": 31,
@@ -2266,102 +2210,73 @@
           }
         },
         {
+          "handle": "reese",
+          "title": "Reese",
+          "url": "https://elle-charleston.com/products/reese",
+          "image": null,
+          "price": null,
+          "vendor": null,
+          "created_at": null,
+          "rank_now": 252,
+          "rank_before": 264,
+          "delta": 12,
+          "pct": 4.5,
+          "weighted": 0.76,
+          "streak": 0,
+          "spark": [
+            275,
+            264,
+            264,
+            258,
+            251,
+            252
+          ],
+          "spark_days": [
+            "2026-09-04",
+            "2026-09-07",
+            "2026-09-08",
+            "2026-09-10",
+            "2026-09-11",
+            "2026-09-12"
+          ],
+          "history": {
+            "7": 23,
+            "14": 23
+          }
+        },
+        {
           "handle": "celionette",
-          "title": "Celionette | Women's Orthopedic Wedge Sandals with Arch Support",
+          "title": "Celionette | Orthopedic Wedge Sandals",
           "url": "https://elle-charleston.com/products/celionette",
           "image": "https://cdn.shopify.com/s/files/1/0959/2776/3327/files/ElizaBlairandBrooksP1_720x-Photoroom.jpg?v=1763349600",
           "price": 41.95,
           "vendor": "Jennifer & John Charleston",
           "created_at": "2025-11-18",
-          "rank_now": 298,
+          "rank_now": 299,
           "rank_before": 311,
-          "delta": 13,
-          "pct": 4.2,
-          "weighted": 0.75,
-          "streak": 4,
+          "delta": 12,
+          "pct": 3.9,
+          "weighted": 0.69,
+          "streak": 0,
           "spark": [
             338,
             321,
             311,
             308,
-            298
+            298,
+            299
           ],
           "spark_days": [
             "2026-09-04",
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
-            "7": 40,
-            "14": 40
-          }
-        },
-        {
-          "handle": "victoria-womens-boho-v-neck-long-sleeve-casual-top",
-          "title": "Victoria Womens Boho V Neck Long Sleeve Casual Top",
-          "url": "https://elle-charleston.com/products/victoria-womens-boho-v-neck-long-sleeve-casual-top",
-          "image": null,
-          "price": null,
-          "vendor": null,
-          "created_at": null,
-          "rank_now": 300,
-          "rank_before": 313,
-          "delta": 13,
-          "pct": 4.2,
-          "weighted": 0.75,
-          "streak": 2,
-          "spark": [
-            327,
-            312,
-            313,
-            310,
-            300
-          ],
-          "spark_days": [
-            "2026-09-04",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 27,
-            "14": 27
-          }
-        },
-        {
-          "handle": "hailey-women-wedding-guest-elegant-wrap-maxi-dress",
-          "title": "Hailey | Women Wedding Guest Elegant Wrap Maxi Dress",
-          "url": "https://elle-charleston.com/products/hailey-women-wedding-guest-elegant-wrap-maxi-dress",
-          "image": "https://cdn.shopify.com/s/files/1/0959/2776/3327/files/O1CN01idS3ae26XN2k15deW__2206619717671-0-cib.jpg?v=1772686006",
-          "price": 77.95,
-          "vendor": "Jennifer & John Charleston",
-          "created_at": "2026-03-18",
-          "rank_now": 207,
-          "rank_before": 218,
-          "delta": 11,
-          "pct": 5.0,
-          "weighted": 0.76,
-          "streak": 2,
-          "spark": [
-            224,
-            218,
-            218,
-            213,
-            207
-          ],
-          "spark_days": [
-            "2026-09-04",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 17,
-            "14": 17
+            "7": 39,
+            "14": 39
           }
         },
         {
@@ -2377,12 +2292,13 @@
           "delta": 11,
           "pct": 4.7,
           "weighted": 0.73,
-          "streak": 2,
+          "streak": 0,
           "spark": [
             249,
             236,
             236,
             229,
+            225,
             225
           ],
           "spark_days": [
@@ -2390,7 +2306,8 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
             "7": 24,
@@ -2399,7 +2316,7 @@
         },
         {
           "handle": "kendall",
-          "title": "Kendall | Women's Wedge Heel Sandals with Rhinestones and Thick Sole",
+          "title": "Kendall | Orthopedic Strass Sandals",
           "url": "https://elle-charleston.com/products/kendall",
           "image": "https://cdn.shopify.com/s/files/1/0959/2776/3327/files/spp_20250225174605_4a39bbf0e04129f8281961bad6fef730_82baec07-46af-48cc-9c29-ce5b39a38b9e_720x-Photoroom.jpg?v=1763349625",
           "price": 41.95,
@@ -2410,12 +2327,13 @@
           "delta": 11,
           "pct": 4.4,
           "weighted": 0.71,
-          "streak": 1,
+          "streak": 0,
           "spark": [
             264,
             252,
             252,
             253,
+            241,
             241
           ],
           "spark_days": [
@@ -2423,11 +2341,47 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
             "7": 23,
             "14": 23
+          }
+        },
+        {
+          "handle": "grace-denim-western-print-high-waist-wide-leg-pants",
+          "title": "Grace | Denim Western Print High-Waist Wide-Leg Pants",
+          "url": "https://elle-charleston.com/products/grace-denim-western-print-high-waist-wide-leg-pants",
+          "image": "https://cdn.shopify.com/s/files/1/0959/2776/3327/files/denim-western-print-high-waist-wide-leg-pants-1.jpg?v=1779372692",
+          "price": 99.95,
+          "vendor": "Jennifer & John Charleston",
+          "created_at": "2026-05-22",
+          "rank_now": 255,
+          "rank_before": 266,
+          "delta": 11,
+          "pct": 4.1,
+          "weighted": 0.69,
+          "streak": 0,
+          "spark": [
+            285,
+            276,
+            266,
+            268,
+            255,
+            255
+          ],
+          "spark_days": [
+            "2026-09-04",
+            "2026-09-07",
+            "2026-09-08",
+            "2026-09-10",
+            "2026-09-11",
+            "2026-09-12"
+          ],
+          "history": {
+            "7": 30,
+            "14": 30
           }
         },
         {
@@ -2438,44 +2392,81 @@
           "price": null,
           "vendor": null,
           "created_at": null,
-          "rank_now": 250,
+          "rank_now": 251,
           "rank_before": 261,
-          "delta": 11,
-          "pct": 4.2,
-          "weighted": 0.7,
-          "streak": 2,
+          "delta": 10,
+          "pct": 3.8,
+          "weighted": 0.63,
+          "streak": 0,
           "spark": [
             271,
             261,
             261,
             256,
-            250
+            250,
+            251
           ],
           "spark_days": [
             "2026-09-04",
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
-            "7": 21,
-            "14": 21
+            "7": 20,
+            "14": 20
+          }
+        },
+        {
+          "handle": "florence-womens-boho-floral-short-sleeve-maxi-dress",
+          "title": "Florence | Women's Boho Floral Short Sleeve Maxi Dress",
+          "url": "https://elle-charleston.com/products/florence-womens-boho-floral-short-sleeve-maxi-dress",
+          "image": "https://cdn.shopify.com/s/files/1/0959/2776/3327/files/ppdr2305020-01.jpg?v=1776574515",
+          "price": 46.95,
+          "vendor": "Jennifer & John Charleston",
+          "created_at": "2026-04-20",
+          "rank_now": 297,
+          "rank_before": 307,
+          "delta": 10,
+          "pct": 3.3,
+          "weighted": 0.58,
+          "streak": 2,
+          "spark": [
+            321,
+            307,
+            307,
+            311,
+            301,
+            297
+          ],
+          "spark_days": [
+            "2026-09-04",
+            "2026-09-07",
+            "2026-09-08",
+            "2026-09-10",
+            "2026-09-11",
+            "2026-09-12"
+          ],
+          "history": {
+            "7": 24,
+            "14": 24
           }
         }
       ],
       "new_entrants": [],
-      "skipped_known": 9,
+      "skipped_known": 14,
       "note": null
     },
     {
       "store_id": 14,
       "domain": "hausofmode.de",
       "label": "Haus of Mode",
-      "days_tracked": 5,
-      "current_day": "2026-09-11",
+      "days_tracked": 6,
+      "current_day": "2026-09-12",
       "baseline_day": "2026-09-08",
-      "baseline_gap": 3,
+      "baseline_gap": 4,
       "total_products": 1000,
       "risers": [],
       "runners_up": [],
@@ -2487,40 +2478,39 @@
       "store_id": 7,
       "domain": "jessicabybee.com",
       "label": "Jessica by Bee",
-      "days_tracked": 10,
-      "current_day": "2026-09-11",
+      "days_tracked": 11,
+      "current_day": "2026-09-12",
       "baseline_day": "2026-09-08",
-      "baseline_gap": 3,
-      "total_products": 744,
+      "baseline_gap": 4,
+      "total_products": 749,
       "risers": [
         {
-          "handle": "caelia-calm-line-maxi-dress",
-          "title": "Caelia | Calm Line Maxi Dress",
-          "url": "https://jessicabybee.com/products/caelia-calm-line-maxi-dress",
-          "image": "https://cdn.shopify.com/s/files/1/0684/9105/1121/files/1_21d5c9d9-406d-409a-88d7-359b34bccdba.png?v=1783321815",
-          "price": 29.95,
+          "handle": "womens-hooded-long-down-jacket-with-full-length-coverage",
+          "title": "Women's Hooded Long Down Jacket with Full-Length Coverage",
+          "url": "https://jessicabybee.com/products/womens-hooded-long-down-jacket-with-full-length-coverage",
+          "image": "https://cdn.shopify.com/s/files/1/0684/9105/1121/files/Vrouwen-Ultra-Lichtgewicht-Packable-Lange-Puffer-Jas-2023-Nieuwe-Herfst-Winter-Warme-Hoed-Afneembare-Capuchon-Dames.jpg_640x640_1_4d4f1287-2ff2-4e59-ad2e-049d1487c537.jpg?v=1788844686",
+          "price": 64.95,
           "vendor": "Jessica By Bee",
-          "created_at": "2026-07-06",
-          "rank_now": 293,
-          "rank_before": 317,
-          "delta": 24,
-          "pct": 7.6,
-          "weighted": 1.4,
-          "streak": 0,
+          "created_at": "2026-09-08",
+          "rank_now": 237,
+          "rank_before": 654,
+          "delta": 417,
+          "pct": 63.8,
+          "weighted": 27.09,
+          "streak": 3,
           "spark": [
-            331,
-            336,
-            336,
-            345,
-            352,
-            355,
-            316,
-            317,
-            291,
-            293
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            654,
+            525,
+            409,
+            237
           ],
           "spark_days": [
-            "2026-08-23",
             "2026-08-25",
             "2026-08-26",
             "2026-09-01",
@@ -2529,170 +2519,41 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
-            "7": 59,
-            "14": 43
+            "7": null,
+            "14": null
           }
         },
         {
-          "handle": "omene-crochet-fringe-bell-sleeve-cover-up-mini-dress",
-          "title": "Omene | Crochet Fringe Bell Sleeve Cover Up Mini Dress",
-          "url": "https://jessicabybee.com/products/omene-crochet-fringe-bell-sleeve-cover-up-mini-dress",
-          "image": "https://cdn.shopify.com/s/files/1/0684/9105/1121/files/1_5f05465d-4997-41c1-a223-7c9ec0e10fff.png?v=1783330896",
-          "price": 39.95,
-          "vendor": "Jessica By Bee",
-          "created_at": "2026-07-06",
-          "rank_now": 100,
-          "rank_before": 123,
-          "delta": 23,
-          "pct": 18.7,
-          "weighted": 2.3,
-          "streak": 0,
-          "spark": [
-            123,
-            125,
-            110,
-            117,
-            120,
-            123,
-            120,
-            123,
-            100,
-            100
-          ],
-          "spark_days": [
-            "2026-08-23",
-            "2026-08-25",
-            "2026-08-26",
-            "2026-09-01",
-            "2026-09-04",
-            "2026-09-05",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 20,
-            "14": 10
-          }
-        },
-        {
-          "handle": "meadow-draped-halter-botanical-panel-maxi-dress",
-          "title": "Meadow | Draped Halter Botanical Panel Maxi Dress",
-          "url": "https://jessicabybee.com/products/meadow-draped-halter-botanical-panel-maxi-dress",
-          "image": "https://cdn.shopify.com/s/files/1/0684/9105/1121/files/1_21ce0c5f-b7ee-4165-b4f7-6822848ef373.png?v=1783330550",
-          "price": 49.95,
-          "vendor": "Jessica By Bee",
-          "created_at": "2026-07-06",
-          "rank_now": 251,
-          "rank_before": 274,
-          "delta": 23,
-          "pct": 8.4,
-          "weighted": 1.45,
-          "streak": 0,
-          "spark": [
-            245,
-            246,
-            249,
-            262,
-            266,
-            270,
-            273,
-            274,
-            250,
-            251
-          ],
-          "spark_days": [
-            "2026-08-23",
-            "2026-08-25",
-            "2026-08-26",
-            "2026-09-01",
-            "2026-09-04",
-            "2026-09-05",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 15,
-            "14": -2
-          }
-        },
-        {
-          "handle": "fiora-floral-print-v-neck-tiered-midi-dress",
-          "title": "Fiora | Floral Print V Neck Tiered Midi Dress",
-          "url": "https://jessicabybee.com/products/fiora-floral-print-v-neck-tiered-midi-dress",
-          "image": "https://cdn.shopify.com/s/files/1/0684/9105/1121/files/1_77586ee1-0294-41aa-b0e2-4000bd6ea27b.png?v=1783331345",
-          "price": 29.95,
-          "vendor": "Jessica By Bee",
-          "created_at": "2026-07-06",
-          "rank_now": 290,
-          "rank_before": 313,
-          "delta": 23,
-          "pct": 7.3,
-          "weighted": 1.35,
-          "streak": 1,
-          "spark": [
-            374,
-            331,
-            331,
-            303,
-            310,
-            311,
-            312,
-            313,
-            320,
-            290
-          ],
-          "spark_days": [
-            "2026-08-23",
-            "2026-08-25",
-            "2026-08-26",
-            "2026-09-01",
-            "2026-09-04",
-            "2026-09-05",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 20,
-            "14": 41
-          }
-        },
-        {
-          "handle": "dahlia-sleeveless-gathered-front-detail-mini-dress",
-          "title": "Dahlia | Sleeveless Gathered Front Detail Mini Dress",
-          "url": "https://jessicabybee.com/products/dahlia-sleeveless-gathered-front-detail-mini-dress",
-          "image": "https://cdn.shopify.com/s/files/1/0684/9105/1121/files/1_d8ebb831-3a3a-470d-8792-ea76b4b93fa6.png?v=1783330599",
+          "handle": "virella-sleeveless-boat-neck-fitted-maxi-dress",
+          "title": "Virella | Women’s Off-Shoulder Twist Back Bodycon Maxi Dress",
+          "url": "https://jessicabybee.com/products/virella-sleeveless-boat-neck-fitted-maxi-dress",
+          "image": "https://cdn.shopify.com/s/files/1/0684/9105/1121/files/VirellaWomen_sOff-ShoulderTwistBackBodyconMaxiDress_1.png?v=1783679247",
           "price": 34.95,
           "vendor": "Jessica By Bee",
           "created_at": "2026-07-06",
-          "rank_now": 277,
-          "rank_before": 298,
-          "delta": 21,
-          "pct": 7.0,
-          "weighted": 1.26,
-          "streak": 0,
+          "rank_now": 199,
+          "rank_before": 225,
+          "delta": 26,
+          "pct": 11.6,
+          "weighted": 1.84,
+          "streak": 1,
           "spark": [
-            268,
-            274,
-            275,
-            288,
-            293,
-            295,
-            297,
-            298,
-            276,
-            277
+            244,
+            247,
+            214,
+            219,
+            221,
+            224,
+            225,
+            210,
+            210,
+            199
           ],
           "spark_days": [
-            "2026-08-23",
             "2026-08-25",
             "2026-08-26",
             "2026-09-01",
@@ -2701,11 +2562,141 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
-            "7": 16,
-            "14": -2
+            "7": 22,
+            "14": 48
+          }
+        },
+        {
+          "handle": "hoku-poised-abstract-knee-length-dress",
+          "title": "Hoku | Poised Abstract Knee Length Dress",
+          "url": "https://jessicabybee.com/products/hoku-poised-abstract-knee-length-dress",
+          "image": "https://cdn.shopify.com/s/files/1/0684/9105/1121/files/1_aacb4fbc-c9e3-4766-b73d-51e10f87a054.png?v=1783330927",
+          "price": 34.95,
+          "vendor": "Jessica By Bee",
+          "created_at": "2026-07-06",
+          "rank_now": 150,
+          "rank_before": 172,
+          "delta": 22,
+          "pct": 12.8,
+          "weighted": 1.8,
+          "streak": 1,
+          "spark": [
+            185,
+            186,
+            194,
+            174,
+            175,
+            170,
+            172,
+            157,
+            158,
+            150
+          ],
+          "spark_days": [
+            "2026-08-25",
+            "2026-08-26",
+            "2026-09-01",
+            "2026-09-04",
+            "2026-09-05",
+            "2026-09-07",
+            "2026-09-08",
+            "2026-09-10",
+            "2026-09-11",
+            "2026-09-12"
+          ],
+          "history": {
+            "7": 25,
+            "14": 36
+          }
+        },
+        {
+          "handle": "zelie-rooster-motif-jumpsuit",
+          "title": "Zelie | Rooster Motif Jumpsuit",
+          "url": "https://jessicabybee.com/products/zelie-rooster-motif-jumpsuit",
+          "image": "https://cdn.shopify.com/s/files/1/0684/9105/1121/files/1_e94841b1-34a6-49ab-b871-3d7938041e62.png?v=1783330530",
+          "price": 34.95,
+          "vendor": "Jessica By Bee",
+          "created_at": "2026-07-06",
+          "rank_now": 100,
+          "rank_before": 121,
+          "delta": 21,
+          "pct": 17.4,
+          "weighted": 2.1,
+          "streak": 3,
+          "spark": [
+            113,
+            116,
+            120,
+            119,
+            122,
+            118,
+            121,
+            113,
+            105,
+            100
+          ],
+          "spark_days": [
+            "2026-08-25",
+            "2026-08-26",
+            "2026-09-01",
+            "2026-09-04",
+            "2026-09-05",
+            "2026-09-07",
+            "2026-09-08",
+            "2026-09-10",
+            "2026-09-11",
+            "2026-09-12"
+          ],
+          "history": {
+            "7": 22,
+            "14": 16
+          }
+        },
+        {
+          "handle": "velis-striped-v-neck-pocket-midi-dress",
+          "title": "Velis | Striped V Neck Pocket Midi Dress",
+          "url": "https://jessicabybee.com/products/velis-striped-v-neck-pocket-midi-dress",
+          "image": "https://cdn.shopify.com/s/files/1/0684/9105/1121/files/1_205f1f0a-98c8-4cb7-ae57-8d78c2545388.png?v=1783321683",
+          "price": 39.95,
+          "vendor": "Jessica By Bee",
+          "created_at": "2026-07-06",
+          "rank_now": 248,
+          "rank_before": 268,
+          "delta": 20,
+          "pct": 7.5,
+          "weighted": 1.27,
+          "streak": 1,
+          "spark": [
+            236,
+            239,
+            254,
+            261,
+            263,
+            266,
+            268,
+            270,
+            270,
+            248
+          ],
+          "spark_days": [
+            "2026-08-25",
+            "2026-08-26",
+            "2026-09-01",
+            "2026-09-04",
+            "2026-09-05",
+            "2026-09-07",
+            "2026-09-08",
+            "2026-09-10",
+            "2026-09-11",
+            "2026-09-12"
+          ],
+          "history": {
+            "7": 15,
+            "14": -9
           }
         }
       ],
@@ -2718,14 +2709,13 @@
           "price": 44.95,
           "vendor": "Jessica By Bee",
           "created_at": "2026-07-06",
-          "rank_now": 218,
+          "rank_now": 219,
           "rank_before": 238,
-          "delta": 20,
-          "pct": 8.4,
-          "weighted": 1.35,
-          "streak": 1,
+          "delta": 19,
+          "pct": 8.0,
+          "weighted": 1.28,
+          "streak": 0,
           "spark": [
-            212,
             213,
             213,
             226,
@@ -2734,10 +2724,10 @@
             236,
             238,
             239,
-            218
+            218,
+            219
           ],
           "spark_days": [
-            "2026-08-23",
             "2026-08-25",
             "2026-08-26",
             "2026-09-01",
@@ -2746,11 +2736,141 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
             "7": 14,
-            "14": -5
+            "14": -6
+          }
+        },
+        {
+          "handle": "owen-color-block-stripe-midi-dress",
+          "title": "Owen | Color Block Stripe Midi Dress",
+          "url": "https://jessicabybee.com/products/owen-color-block-stripe-midi-dress",
+          "image": "https://cdn.shopify.com/s/files/1/0684/9105/1121/files/1_c9f5caac-caf8-4632-9abf-ed5f39dd37c3.png?v=1783321851",
+          "price": 34.95,
+          "vendor": "Jessica By Bee",
+          "created_at": "2026-07-06",
+          "rank_now": 160,
+          "rank_before": 178,
+          "delta": 18,
+          "pct": 10.1,
+          "weighted": 1.42,
+          "streak": 1,
+          "spark": [
+            184,
+            185,
+            178,
+            184,
+            187,
+            177,
+            178,
+            174,
+            174,
+            160
+          ],
+          "spark_days": [
+            "2026-08-25",
+            "2026-08-26",
+            "2026-09-01",
+            "2026-09-04",
+            "2026-09-05",
+            "2026-09-07",
+            "2026-09-08",
+            "2026-09-10",
+            "2026-09-11",
+            "2026-09-12"
+          ],
+          "history": {
+            "7": 27,
+            "14": 25
+          }
+        },
+        {
+          "handle": "velora-soft-flow-midi-dress",
+          "title": "Velora | Soft Flow Midi Dress",
+          "url": "https://jessicabybee.com/products/velora-soft-flow-midi-dress",
+          "image": "https://cdn.shopify.com/s/files/1/0684/9105/1121/files/1_c8aeb384-733d-4eb7-97b3-8cbc72ca5ae8.png?v=1783330764",
+          "price": 34.95,
+          "vendor": "Jessica By Bee",
+          "created_at": "2026-07-06",
+          "rank_now": 224,
+          "rank_before": 242,
+          "delta": 18,
+          "pct": 7.4,
+          "weighted": 1.2,
+          "streak": 1,
+          "spark": [
+            217,
+            217,
+            230,
+            236,
+            236,
+            240,
+            242,
+            243,
+            244,
+            224
+          ],
+          "spark_days": [
+            "2026-08-25",
+            "2026-08-26",
+            "2026-09-01",
+            "2026-09-04",
+            "2026-09-05",
+            "2026-09-07",
+            "2026-09-08",
+            "2026-09-10",
+            "2026-09-11",
+            "2026-09-12"
+          ],
+          "history": {
+            "7": 12,
+            "14": -7
+          }
+        },
+        {
+          "handle": "jonah-coastal-midi-dress",
+          "title": "Jonah | Coastal Midi Dress",
+          "url": "https://jessicabybee.com/products/jonah-coastal-midi-dress",
+          "image": "https://cdn.shopify.com/s/files/1/0684/9105/1121/files/1_690d603a-2370-4cc4-8fdb-683cf4ac22be.png?v=1783321864",
+          "price": 34.95,
+          "vendor": "Jessica By Bee",
+          "created_at": "2026-07-06",
+          "rank_now": 174,
+          "rank_before": 191,
+          "delta": 17,
+          "pct": 8.9,
+          "weighted": 1.29,
+          "streak": 1,
+          "spark": [
+            197,
+            197,
+            204,
+            199,
+            186,
+            190,
+            191,
+            181,
+            181,
+            174
+          ],
+          "spark_days": [
+            "2026-08-25",
+            "2026-08-26",
+            "2026-09-01",
+            "2026-09-04",
+            "2026-09-05",
+            "2026-09-07",
+            "2026-09-08",
+            "2026-09-10",
+            "2026-09-11",
+            "2026-09-12"
+          ],
+          "history": {
+            "7": 12,
+            "14": 23
           }
         },
         {
@@ -2761,14 +2881,13 @@
           "price": 34.95,
           "vendor": "Jessica By Bee",
           "created_at": "2026-07-06",
-          "rank_now": 238,
+          "rank_now": 241,
           "rank_before": 255,
-          "delta": 17,
-          "pct": 6.7,
-          "weighted": 1.1,
+          "delta": 14,
+          "pct": 5.5,
+          "weighted": 0.9,
           "streak": 0,
           "spark": [
-            231,
             232,
             234,
             244,
@@ -2777,10 +2896,10 @@
             253,
             255,
             236,
-            238
+            238,
+            241
           ],
           "spark_days": [
-            "2026-08-23",
             "2026-08-25",
             "2026-08-26",
             "2026-09-01",
@@ -2789,140 +2908,12 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
-            "7": 12,
-            "14": -4
-          }
-        },
-        {
-          "handle": "zelie-rooster-motif-jumpsuit",
-          "title": "Zelie | Rooster Motif Jumpsuit",
-          "url": "https://jessicabybee.com/products/zelie-rooster-motif-jumpsuit",
-          "image": "https://cdn.shopify.com/s/files/1/0684/9105/1121/files/1_e94841b1-34a6-49ab-b871-3d7938041e62.png?v=1783330530",
-          "price": 34.95,
-          "vendor": "Jessica By Bee",
-          "created_at": "2026-07-06",
-          "rank_now": 105,
-          "rank_before": 121,
-          "delta": 16,
-          "pct": 13.2,
-          "weighted": 1.56,
-          "streak": 2,
-          "spark": [
-            120,
-            113,
-            116,
-            120,
-            119,
-            122,
-            118,
-            121,
-            113,
-            105
-          ],
-          "spark_days": [
-            "2026-08-23",
-            "2026-08-25",
-            "2026-08-26",
-            "2026-09-01",
-            "2026-09-04",
-            "2026-09-05",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 14,
-            "14": 11
-          }
-        },
-        {
-          "handle": "virella-sleeveless-boat-neck-fitted-maxi-dress",
-          "title": "Virella | Women’s Off-Shoulder Twist Back Bodycon Maxi Dress",
-          "url": "https://jessicabybee.com/products/virella-sleeveless-boat-neck-fitted-maxi-dress",
-          "image": "https://cdn.shopify.com/s/files/1/0684/9105/1121/files/VirellaWomen_sOff-ShoulderTwistBackBodyconMaxiDress_1.png?v=1783679247",
-          "price": 34.95,
-          "vendor": "Jessica By Bee",
-          "created_at": "2026-07-06",
-          "rank_now": 210,
-          "rank_before": 225,
-          "delta": 15,
-          "pct": 6.7,
-          "weighted": 1.04,
-          "streak": 0,
-          "spark": [
-            242,
-            244,
-            247,
-            214,
-            219,
-            221,
-            224,
-            225,
-            210,
-            210
-          ],
-          "spark_days": [
-            "2026-08-23",
-            "2026-08-25",
-            "2026-08-26",
-            "2026-09-01",
-            "2026-09-04",
-            "2026-09-05",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 9,
-            "14": 37
-          }
-        },
-        {
-          "handle": "hoku-poised-abstract-knee-length-dress",
-          "title": "Hoku | Poised Abstract Knee Length Dress",
-          "url": "https://jessicabybee.com/products/hoku-poised-abstract-knee-length-dress",
-          "image": "https://cdn.shopify.com/s/files/1/0684/9105/1121/files/1_aacb4fbc-c9e3-4766-b73d-51e10f87a054.png?v=1783330927",
-          "price": 34.95,
-          "vendor": "Jessica By Bee",
-          "created_at": "2026-07-06",
-          "rank_now": 158,
-          "rank_before": 172,
-          "delta": 14,
-          "pct": 8.1,
-          "weighted": 1.11,
-          "streak": 0,
-          "spark": [
-            198,
-            185,
-            186,
-            194,
-            174,
-            175,
-            170,
-            172,
-            157,
-            158
-          ],
-          "spark_days": [
-            "2026-08-23",
-            "2026-08-25",
-            "2026-08-26",
-            "2026-09-01",
-            "2026-09-04",
-            "2026-09-05",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 16,
-            "14": 28
+            "7": 10,
+            "14": -7
           }
         },
         {
@@ -2938,9 +2929,8 @@
           "delta": 12,
           "pct": 13.0,
           "weighted": 1.34,
-          "streak": 3,
+          "streak": 0,
           "spark": [
-            103,
             106,
             107,
             88,
@@ -2949,10 +2939,10 @@
             93,
             92,
             85,
+            80,
             80
           ],
           "spark_days": [
-            "2026-08-23",
             "2026-08-25",
             "2026-08-26",
             "2026-09-01",
@@ -2961,7 +2951,8 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
             "7": 10,
@@ -2969,33 +2960,32 @@
           }
         },
         {
-          "handle": "dara-women-s-sleeveless-v-neck-wide-leg-utility-jumpsuit",
-          "title": "Dara | Women’s High-Neck Cap-Sleeve Ruched-Waist Harem Jumpsuit",
-          "url": "https://jessicabybee.com/products/dara-women-s-sleeveless-v-neck-wide-leg-utility-jumpsuit",
-          "image": "https://cdn.shopify.com/s/files/1/0684/9105/1121/files/DaraWomen_sHigh-NeckCap-SleeveRuched-WaistHaremJumpsuit_1.png?v=1786717536",
-          "price": 49.95,
+          "handle": "genevieve-three-quarter-sleeve-wrap-bodice-midi-dress",
+          "title": "Genevieve | Three Quarter Sleeve Wrap Bodice Midi Dress",
+          "url": "https://jessicabybee.com/products/genevieve-three-quarter-sleeve-wrap-bodice-midi-dress",
+          "image": "https://cdn.shopify.com/s/files/1/0684/9105/1121/files/GenevieveThreeQuarterSleeveWrapBodiceMidiDress.png?v=1783330335",
+          "price": 54.95,
           "vendor": "Jessica By Bee",
           "created_at": "2026-07-06",
-          "rank_now": 201,
-          "rank_before": 212,
+          "rank_now": 99,
+          "rank_before": 110,
           "delta": 11,
-          "pct": 5.2,
-          "weighted": 0.78,
-          "streak": 0,
+          "pct": 10.0,
+          "weighted": 1.11,
+          "streak": 1,
           "spark": [
-            206,
-            207,
-            207,
-            199,
-            206,
-            208,
-            212,
-            212,
-            200,
-            201
+            148,
+            150,
+            130,
+            121,
+            113,
+            109,
+            110,
+            104,
+            104,
+            99
           ],
           "spark_days": [
-            "2026-08-23",
             "2026-08-25",
             "2026-08-26",
             "2026-09-01",
@@ -3004,155 +2994,173 @@
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
-            "7": 5,
-            "14": 6
-          }
-        },
-        {
-          "handle": "jonah-coastal-midi-dress",
-          "title": "Jonah | Coastal Midi Dress",
-          "url": "https://jessicabybee.com/products/jonah-coastal-midi-dress",
-          "image": "https://cdn.shopify.com/s/files/1/0684/9105/1121/files/1_690d603a-2370-4cc4-8fdb-683cf4ac22be.png?v=1783321864",
-          "price": 34.95,
-          "vendor": "Jessica By Bee",
-          "created_at": "2026-07-06",
-          "rank_now": 181,
-          "rank_before": 191,
-          "delta": 10,
-          "pct": 5.2,
-          "weighted": 0.74,
-          "streak": 0,
-          "spark": [
-            194,
-            197,
-            197,
-            204,
-            199,
-            186,
-            190,
-            191,
-            181,
-            181
-          ],
-          "spark_days": [
-            "2026-08-23",
-            "2026-08-25",
-            "2026-08-26",
-            "2026-09-01",
-            "2026-09-04",
-            "2026-09-05",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 18,
-            "14": 16
+            "7": 14,
+            "14": 51
           }
         }
       ],
-      "new_entrants": [
-        {
-          "handle": "elara-puff-sleeve-floral-maxi-dress",
-          "title": "Elara | Puff Sleeve Floral Maxi Dress",
-          "url": "https://jessicabybee.com/products/elara-puff-sleeve-floral-maxi-dress",
-          "image": "https://cdn.shopify.com/s/files/1/0684/9105/1121/files/ElaraPuffSleeveFloralMaxiDress_1.png?v=1789053479",
-          "price": 39.95,
-          "rank_now": 112,
-          "rank_before": null,
-          "delta": null,
-          "created_at": "2026-07-06",
-          "was_in_catalog": true,
-          "baseline_total": 831
-        }
-      ],
-      "skipped_known": 10,
+      "new_entrants": [],
+      "skipped_known": 17,
       "note": null
     },
     {
       "store_id": 10,
       "domain": "leonboutique.co",
       "label": "Leon Boutique",
-      "days_tracked": 5,
-      "current_day": "2026-09-11",
+      "days_tracked": 6,
+      "current_day": "2026-09-12",
       "baseline_day": "2026-09-08",
-      "baseline_gap": 3,
+      "baseline_gap": 4,
       "total_products": 1000,
       "risers": [
         {
-          "handle": "doris-elegantes-damen-fruhjahrs-blazer-kleid",
-          "title": "Doris | Elegantes Damen Frühjahrs Blazer-Kleid",
-          "url": "https://leonboutique.co/products/doris-elegantes-damen-fruhjahrs-blazer-kleid",
-          "image": "https://cdn.shopify.com/s/files/1/0873/5080/4829/files/Womens-Knee-Length-Lapel-Fitted-Midi-Dress-Elegant-Formal-Style.jpg?v=1766122755",
-          "price": 58.95,
-          "vendor": "Fjorden Mode",
-          "created_at": "2026-08-06",
-          "rank_now": 253,
-          "rank_before": 266,
-          "delta": 13,
-          "pct": 4.9,
-          "weighted": 0.82,
-          "streak": 2,
-          "spark": [
-            261,
-            258,
-            266,
-            255,
-            253
-          ],
-          "spark_days": [
-            "2026-09-04",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 8,
-            "14": 8
-          }
-        },
-        {
-          "handle": "tobias-herren-leinen-langarm-hemd-mit-grandad-kragen",
-          "title": "Tobias Herren Leinen Langarm Hemd Mit Grandad Kragen",
-          "url": "https://leonboutique.co/products/tobias-herren-leinen-langarm-hemd-mit-grandad-kragen",
+          "handle": "katharina-damen-rmellose-stehkragen-v-ausschnitt-gestreifte-bluse",
+          "title": "Katharina Damen Rmellose Stehkragen V Ausschnitt Gestreifte Bluse",
+          "url": "https://leonboutique.co/products/katharina-damen-rmellose-stehkragen-v-ausschnitt-gestreifte-bluse",
           "image": null,
           "price": null,
           "vendor": null,
           "created_at": null,
-          "rank_now": 175,
-          "rank_before": 185,
-          "delta": 10,
-          "pct": 5.4,
-          "weighted": 0.76,
-          "streak": 2,
+          "rank_now": 198,
+          "rank_before": 211,
+          "delta": 13,
+          "pct": 6.2,
+          "weighted": 0.92,
+          "streak": 3,
           "spark": [
-            180,
-            180,
-            185,
-            180,
-            175
+            211,
+            210,
+            211,
+            206,
+            203,
+            198
           ],
           "spark_days": [
             "2026-09-04",
             "2026-09-07",
             "2026-09-08",
             "2026-09-10",
-            "2026-09-11"
+            "2026-09-11",
+            "2026-09-12"
           ],
           "history": {
-            "7": 5,
-            "14": 5
+            "7": 13,
+            "14": 13
+          }
+        },
+        {
+          "handle": "stefanie-4398",
+          "title": "Stefanie 4398",
+          "url": "https://leonboutique.co/products/stefanie-4398",
+          "image": null,
+          "price": null,
+          "vendor": null,
+          "created_at": null,
+          "rank_now": 268,
+          "rank_before": 279,
+          "delta": 11,
+          "pct": 3.9,
+          "weighted": 0.67,
+          "streak": 3,
+          "spark": [
+            288,
+            275,
+            279,
+            278,
+            270,
+            268
+          ],
+          "spark_days": [
+            "2026-09-04",
+            "2026-09-07",
+            "2026-09-08",
+            "2026-09-10",
+            "2026-09-11",
+            "2026-09-12"
+          ],
+          "history": {
+            "7": 20,
+            "14": 20
+          }
+        },
+        {
+          "handle": "lena-damen-leinen-kimono-rmel-bluse-und-weite-hose-set",
+          "title": "Lena Damen Leinen Kimono Rmel Bluse Und Weite Hose Set",
+          "url": "https://leonboutique.co/products/lena-damen-leinen-kimono-rmel-bluse-und-weite-hose-set",
+          "image": null,
+          "price": null,
+          "vendor": null,
+          "created_at": null,
+          "rank_now": 283,
+          "rank_before": 293,
+          "delta": 10,
+          "pct": 3.4,
+          "weighted": 0.59,
+          "streak": 1,
+          "spark": [
+            284,
+            285,
+            293,
+            286,
+            287,
+            283
+          ],
+          "spark_days": [
+            "2026-09-04",
+            "2026-09-07",
+            "2026-09-08",
+            "2026-09-10",
+            "2026-09-11",
+            "2026-09-12"
+          ],
+          "history": {
+            "7": 1,
+            "14": 1
+          }
+        },
+        {
+          "handle": "leonie-damen-plissee-midi-slip-kleid-mit-bustier-korsett",
+          "title": "Leonie Damen Plissee Midi Slip Kleid Mit Bustier Korsett",
+          "url": "https://leonboutique.co/products/leonie-damen-plissee-midi-slip-kleid-mit-bustier-korsett",
+          "image": null,
+          "price": null,
+          "vendor": null,
+          "created_at": null,
+          "rank_now": 298,
+          "rank_before": 308,
+          "delta": 10,
+          "pct": 3.2,
+          "weighted": 0.58,
+          "streak": 1,
+          "spark": [
+            295,
+            300,
+            308,
+            307,
+            308,
+            298
+          ],
+          "spark_days": [
+            "2026-09-04",
+            "2026-09-07",
+            "2026-09-08",
+            "2026-09-10",
+            "2026-09-11",
+            "2026-09-12"
+          ],
+          "history": {
+            "7": -3,
+            "14": -3
           }
         }
       ],
       "runners_up": [],
       "new_entrants": [],
-      "skipped_known": 4,
+      "skipped_known": 5,
       "note": null
     },
     {
@@ -3174,10 +3182,10 @@
       "store_id": 6,
       "domain": "madebyjessica.store",
       "label": "Made by Jessica",
-      "days_tracked": 9,
-      "current_day": "2026-09-11",
+      "days_tracked": 10,
+      "current_day": "2026-09-12",
       "baseline_day": "2026-09-08",
-      "baseline_gap": 3,
+      "baseline_gap": 4,
       "total_products": 1000,
       "risers": [],
       "runners_up": [],
@@ -3189,10 +3197,10 @@
       "store_id": 1,
       "domain": "redlich-becker.de",
       "label": "Redlich & Becker",
-      "days_tracked": 9,
-      "current_day": "2026-09-11",
+      "days_tracked": 10,
+      "current_day": "2026-09-12",
       "baseline_day": "2026-09-08",
-      "baseline_gap": 3,
+      "baseline_gap": 4,
       "total_products": 1000,
       "risers": [],
       "runners_up": [],
@@ -3204,103 +3212,16 @@
       "store_id": 5,
       "domain": "thehillsnashville.com",
       "label": "The Hills Nashville",
-      "days_tracked": 11,
-      "current_day": "2026-09-11",
+      "days_tracked": 12,
+      "current_day": "2026-09-12",
       "baseline_day": "2026-09-08",
-      "baseline_gap": 3,
+      "baseline_gap": 4,
       "total_products": 1000,
-      "risers": [
-        {
-          "handle": "maple",
-          "title": "Maple",
-          "url": "https://thehillsnashville.com/products/maple",
-          "image": null,
-          "price": null,
-          "vendor": null,
-          "created_at": null,
-          "rank_now": 207,
-          "rank_before": 315,
-          "delta": 108,
-          "pct": 34.3,
-          "weighted": 7.51,
-          "streak": 1,
-          "spark": [
-            585,
-            588,
-            313,
-            314,
-            315,
-            315,
-            315,
-            315,
-            316,
-            207
-          ],
-          "spark_days": [
-            "2026-08-23",
-            "2026-08-25",
-            "2026-08-26",
-            "2026-09-01",
-            "2026-09-04",
-            "2026-09-05",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 108,
-            "14": 106
-          }
-        },
-        {
-          "handle": "susana",
-          "title": "Susana",
-          "url": "https://thehillsnashville.com/products/susana",
-          "image": null,
-          "price": null,
-          "vendor": null,
-          "created_at": null,
-          "rank_now": 74,
-          "rank_before": 92,
-          "delta": 18,
-          "pct": 19.6,
-          "weighted": 2.09,
-          "streak": 1,
-          "spark": [
-            87,
-            88,
-            89,
-            91,
-            92,
-            92,
-            92,
-            92,
-            92,
-            74
-          ],
-          "spark_days": [
-            "2026-08-23",
-            "2026-08-25",
-            "2026-08-26",
-            "2026-09-01",
-            "2026-09-04",
-            "2026-09-05",
-            "2026-09-07",
-            "2026-09-08",
-            "2026-09-10",
-            "2026-09-11"
-          ],
-          "history": {
-            "7": 18,
-            "14": 15
-          }
-        }
-      ],
+      "risers": [],
       "runners_up": [],
       "new_entrants": [],
-      "skipped_known": 2,
-      "note": null
+      "skipped_known": 4,
+      "note": "geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)."
     },
     {
       "store_id": 9,

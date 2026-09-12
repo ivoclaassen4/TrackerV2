@@ -1,97 +1,95 @@
-## Snelste stijgers - 2026-09-11 09:39
+## Snelste stijgers - 2026-09-12 09:17
 
-Venster: 3 dagen | top 5 per store | 66 producten overgeslagen omdat je ze al eerder kreeg
+Venster: 3 dagen | top 5 per store | 100 producten overgeslagen omdat je ze al eerder kreeg
 
 Download onderaan deze pagina bij **Artifacts**: `shopify_import.csv` kun je direct in Shopify importeren via Producten, Importeren.
 
-### Avery Lane Brighton (1000 producten, 9 snapshots)
+### Avery Lane Brighton (1000 producten, 10 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Iva | Comfortable Coat | 146 | 121 | +25 | 34.95 | [open](https://averylanebrighton.com/products/iva-comfortable-coat) |
-| 2 | Claribel | Refined Midi Dress | 140 | 123 | +17 | 39.95 | [open](https://averylanebrighton.com/products/claribel-refined-midi-dress) |
-| 3 | Kendra | Elegant Orthopaedic Clogs | 211 | 195 | +16 | 29.95 | [open](https://averylanebrighton.com/products/kendra-elegant-orthopaedic-clogs) |
-| 4 | Seryphina Orthopaedic Sneakers | 282 | 266 | +16 |  | [open](https://averylanebrighton.com/products/seryphina-orthopaedic-sneakers) |
+| 1 | Bellisse | Orthopaedic Sandals | 320 | 292 | +28 | 29.95 | [open](https://averylanebrighton.com/products/bellisse-orthopaedic-sandals) |
+| 2 | Kaitlyn | Women’s Wedding Guest High-Low Elegant Dress | 144 | 132 | +12 | 39.95 | [open](https://averylanebrighton.com/products/kaitlyn-womens-wedding-guest-high-low-elegant-dress) |
+| 3 | Alice | Women’s Modern Printed Beach Swimsuit | 160 | 149 | +11 | 29.95 | [open](https://averylanebrighton.com/products/alice-womens-modern-printed-beach-swimsuit) |
+| 4 | Haele | Orthopaedic Ankle Boots | 185 | 174 | +11 | 34.95 | [open](https://averylanebrighton.com/products/haele-orthopaedic-ankle-boots) |
+| 5 | Mysa Comfortable Sweater | 72 | 62 | +10 |  | [open](https://averylanebrighton.com/products/mysa-comfortable-sweater) |
 
-### By Emilia Rose (1000 producten, 11 snapshots)
+### By Emilia Rose (1000 producten, 12 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Women’s Cardigan with Open Front and Short Sleeves | 286 | 190 | +96 | 55.00 | [open](https://byemiliarose.com/products/women-s-cardigan-with-open-front-and-short-sleeves) |
-| 2 | Women’s Maxi Skirt with Elastic Waist and Tiered Panels | 304 | 226 | +78 | 41.00 | [open](https://byemiliarose.com/products/women-s-maxi-skirt-with-elastic-waist-and-tiered-panel) |
-| 3 | Women’s Blazer with Open Front and Structured Lapel | 339 | 288 | +51 | 52.00 | [open](https://byemiliarose.com/products/women-s-blazer-with-open-front-and-structured-lapel) |
-| 4 | Women’s Dress with V Neck and Draped Bodice | 155 | 122 | +33 | 37.00 | [open](https://byemiliarose.com/products/women-s-dress-with-v-neck-and-draped-bodice) |
-| 5 | Women’s Midi Dress with V-Shaped Neckline and Long Sleeves | 195 | 165 | +30 | 81.00 | [open](https://byemiliarose.com/products/women-s-midi-dress-with-v-shaped-neckline-and-long-sleeves) |
+| 1 | Women's Oversized V-Neck Sweater Dress with Long Sleeves | 846 | 293 | +553 | 15.00 | [open](https://byemiliarose.com/products/womens-oversized-v-neck-sweater-dress-with-long-sleeves) |
+| 2 | Women's Belted Wool Wrap Coat with Notched Collar | 833 | 292 | +541 | 158.00 | [open](https://byemiliarose.com/products/womens-belted-wool-wrap-coat-with-notched-collar) |
+| 3 | Women’s Dress with V Neck and Tiered Skirt | 417 | 259 | +158 | 74.00 | [open](https://byemiliarose.com/products/women-s-dress-with-v-neck-and-tiered-skirt) |
+| 4 | Women’s Blouse with Round Neck and Embroidered Detail | 312 | 234 | +78 | 55.00 | [open](https://byemiliarose.com/products/women-s-blouse-with-round-neck-and-embroidered-detail) |
+| 5 | Women’s Crop Top with Twist Front and Short Sleeves | 299 | 252 | +47 | 48.00 | [open](https://byemiliarose.com/products/women-s-crop-top-with-twist-front-and-short-sleeves) |
 
 ### By Mayberry
 
 _geen data opgehaald_
 
-### By Seabourne (728 producten, 5 snapshots)
+### By Seabourne (728 producten, 6 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Aria | Women's Sleeveless Wide Leg Jumpsuit V-Neck Tie Waist | 385 | 299 | +86 | 79.95 | [open](https://byseabourne.com/products/aria-womens-sleeveless-wide-leg-jumpsuit-v-neck-tie-waist-print) |
-| 2 | Darcy™ | Retro Floral Dress | 264 | 217 | +47 | 84.95 | [open](https://byseabourne.com/products/darcy-retro-floral-dress) |
-| 3 | Tessa Womens 3 4 Sleeve Pleated Top Scoop Neck Casual Everyd | 237 | 192 | +45 |  | [open](https://byseabourne.com/products/tessa-womens-3-4-sleeve-pleated-top-scoop-neck-casual-everyday-top) |
-| 4 | Annabelle | Wildflower Drift Jumpsuit | 248 | 204 | +44 | 69.95 | [open](https://byseabourne.com/products/wildflower-drift-jumpsuit) |
-| 5 | Louison™ | Mocassins | 250 | 210 | +40 | 154.95 | [open](https://byseabourne.com/products/louison-mocassins) |
+| 1 | Chelsea™ | Leather Shoes | 262 | 195 | +67 | 119.95 | [open](https://byseabourne.com/products/chelsea-leather-shoes) |
+| 2 | Elara™ | Watercolour Dreams Blouse | 263 | 218 | +45 | 94.95 | [open](https://byseabourne.com/products/elara-watercolour-dreams-blouse) |
+| 3 | Harper | Women's Belted High Neck Midi Dress Split Sleeve | 335 | 296 | +39 | 124.95 | [open](https://byseabourne.com/products/harper-womens-belted-high-neck-midi-dress-split-sleeve) |
+| 4 | Sorrento Womens Striped Linen Top Wide Leg Pants Set | 336 | 297 | +39 |  | [open](https://byseabourne.com/products/sorrento-womens-striped-linen-top-wide-leg-pants-set) |
+| 5 | Flora | Women's Floral Print V-Neck Short Sleeve Blouse Top | 337 | 298 | +39 | 67.95 | [open](https://byseabourne.com/products/flora-womens-floral-print-v-neck-short-sleeve-blouse-top) |
 
 ### Drune
 
 _geen data opgehaald_
 
-### Elle Charleston (1000 producten, 5 snapshots)
+### Elle Charleston (1000 producten, 6 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Olivia Womens Open Front 34 Sleeve Cropped Cardigan | 312 | 280 | +32 |  | [open](https://elle-charleston.com/products/olivia-womens-open-front-34-sleeve-cropped-cardigan) |
-| 2 | Grace | Women's Orthopedic Sandals Slip-On Gold Accent Glitt | 325 | 299 | +26 | 32.95 | [open](https://elle-charleston.com/products/grace-womens-orthopedic-sandals-slip-on-gold-accent-glitter) |
-| 3 | Kyadae | Women's Breathable Orthopedic Shoes with Arch Suppo | 256 | 240 | +16 | 56.95 | [open](https://elle-charleston.com/products/kyadae) |
-| 4 | Penelope Womens Leather Woven Pointed Toe Slingback Comforta | 284 | 268 | +16 |  | [open](https://elle-charleston.com/products/penelope-womens-leather-woven-pointed-toe-slingback-comfortable-sandals) |
-| 5 | Charles | Men's Cargo Pocket Casual Knee Length Shorts | 287 | 271 | +16 | 66.95 | [open](https://elle-charleston.com/products/charles-mens-cargo-pocket-casual-knee-length-shorts) |
+| 1 | Maeve | 294 | 278 | +16 |  | [open](https://elle-charleston.com/products/maeve) |
+| 2 | Sophia Linen Wide Leg Pants High Waisted Smocked Waist Flowi | 301 | 285 | +16 |  | [open](https://elle-charleston.com/products/sophia-linen-wide-leg-pants-high-waisted-smocked-waist-flowing) |
+| 3 | Lily%E2%84%A2 Ultra Light Quilted Jacket | 280 | 265 | +15 |  | [open](https://elle-charleston.com/products/lily%E2%84%A2-ultra-light-quilted-jacket) |
+| 4 | Jermaine | Relaxed Striped Cotton Shirt | 288 | 273 | +15 | 51.95 | [open](https://elle-charleston.com/products/jermaine) |
+| 5 | Harper | Women's Tweed Two Piece Set with Cropped Button-Fro | 298 | 283 | +15 | 70.95 | [open](https://elle-charleston.com/products/harper-two-piece-tweed-set-cropped-jacket-wide-leg-pants) |
 
-### Haus of Mode (1000 producten, 5 snapshots)
+### Haus of Mode (1000 producten, 6 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-### Jessica by Bee (744 producten, 10 snapshots)
+### Jessica by Bee (749 producten, 11 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Caelia | Calm Line Maxi Dress | 317 | 293 | +24 | 29.95 | [open](https://jessicabybee.com/products/caelia-calm-line-maxi-dress) |
-| 2 | Omene | Crochet Fringe Bell Sleeve Cover Up Mini Dress | 123 | 100 | +23 | 39.95 | [open](https://jessicabybee.com/products/omene-crochet-fringe-bell-sleeve-cover-up-mini-dress) |
-| 3 | Meadow | Draped Halter Botanical Panel Maxi Dress | 274 | 251 | +23 | 49.95 | [open](https://jessicabybee.com/products/meadow-draped-halter-botanical-panel-maxi-dress) |
-| 4 | Fiora | Floral Print V Neck Tiered Midi Dress | 313 | 290 | +23 | 29.95 | [open](https://jessicabybee.com/products/fiora-floral-print-v-neck-tiered-midi-dress) |
-| 5 | Dahlia | Sleeveless Gathered Front Detail Mini Dress | 298 | 277 | +21 | 34.95 | [open](https://jessicabybee.com/products/dahlia-sleeveless-gathered-front-detail-mini-dress) |
+| 1 | Women's Hooded Long Down Jacket with Full-Length Coverage | 654 | 237 | +417 | 64.95 | [open](https://jessicabybee.com/products/womens-hooded-long-down-jacket-with-full-length-coverage) |
+| 2 | Virella | Women’s Off-Shoulder Twist Back Bodycon Maxi Dress | 225 | 199 | +26 | 34.95 | [open](https://jessicabybee.com/products/virella-sleeveless-boat-neck-fitted-maxi-dress) |
+| 3 | Hoku | Poised Abstract Knee Length Dress | 172 | 150 | +22 | 34.95 | [open](https://jessicabybee.com/products/hoku-poised-abstract-knee-length-dress) |
+| 4 | Zelie | Rooster Motif Jumpsuit | 121 | 100 | +21 | 34.95 | [open](https://jessicabybee.com/products/zelie-rooster-motif-jumpsuit) |
+| 5 | Velis | Striped V Neck Pocket Midi Dress | 268 | 248 | +20 | 39.95 | [open](https://jessicabybee.com/products/velis-striped-v-neck-pocket-midi-dress) |
 
-Nieuw binnengekomen: [Elara | Puff Sleeve Floral Maxi Dress](https://jessicabybee.com/products/elara-puff-sleeve-floral-maxi-dress) (#112)
-
-### Leon Boutique (1000 producten, 5 snapshots)
+### Leon Boutique (1000 producten, 6 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Doris | Elegantes Damen Frühjahrs Blazer-Kleid | 266 | 253 | +13 | 58.95 | [open](https://leonboutique.co/products/doris-elegantes-damen-fruhjahrs-blazer-kleid) |
-| 2 | Tobias Herren Leinen Langarm Hemd Mit Grandad Kragen | 185 | 175 | +10 |  | [open](https://leonboutique.co/products/tobias-herren-leinen-langarm-hemd-mit-grandad-kragen) |
+| 1 | Katharina Damen Rmellose Stehkragen V Ausschnitt Gestreifte  | 211 | 198 | +13 |  | [open](https://leonboutique.co/products/katharina-damen-rmellose-stehkragen-v-ausschnitt-gestreifte-bluse) |
+| 2 | Stefanie 4398 | 279 | 268 | +11 |  | [open](https://leonboutique.co/products/stefanie-4398) |
+| 3 | Lena Damen Leinen Kimono Rmel Bluse Und Weite Hose Set | 293 | 283 | +10 |  | [open](https://leonboutique.co/products/lena-damen-leinen-kimono-rmel-bluse-und-weite-hose-set) |
+| 4 | Leonie Damen Plissee Midi Slip Kleid Mit Bustier Korsett | 308 | 298 | +10 |  | [open](https://leonboutique.co/products/leonie-damen-plissee-midi-slip-kleid-mit-bustier-korsett) |
 
 ### Lune London
 
 _geen data opgehaald_
 
-### Made by Jessica (1000 producten, 9 snapshots)
+### Made by Jessica (1000 producten, 10 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-### Redlich & Becker (1000 producten, 9 snapshots)
+### Redlich & Becker (1000 producten, 10 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-### The Hills Nashville (1000 producten, 11 snapshots)
+### The Hills Nashville (1000 producten, 12 snapshots)
 
-| # | Product | Was | Nu | Stijging | Prijs | Link |
-|---|---------|----:|---:|---------:|------:|------|
-| 1 | Maple | 315 | 207 | +108 |  | [open](https://thehillsnashville.com/products/maple) |
-| 2 | Susana | 92 | 74 | +18 |  | [open](https://thehillsnashville.com/products/susana) |
+_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
 ### Wright London (638 producten, 7 snapshots)
 
