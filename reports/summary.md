@@ -1,99 +1,87 @@
-## Snelste stijgers - 2026-09-15 10:04
+## Snelste stijgers - 2026-09-16 09:56
 
-Venster: 3 dagen | top 5 per store | 43 producten overgeslagen omdat je ze al eerder kreeg
+Venster: 3 dagen | top 5 per store | 66 producten overgeslagen omdat je ze al eerder kreeg
 
 Download onderaan deze pagina bij **Artifacts**: `shopify_import.csv` kun je direct in Shopify importeren via Producten, Importeren.
 
-### Avery Lane Brighton (1000 producten, 12 snapshots)
+### Avery Lane Brighton (1000 producten, 13 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Pravira Elegant Shoes | 245 | 219 | +26 |  | [open](https://averylanebrighton.com/products/pravira-elegant-shoes) |
-| 2 | Danyzheiah | Orthopaedic Trainers | 238 | 222 | +16 | 39.95 | [open](https://averylanebrighton.com/products/danyzheiah-orthopaedic-sneakers) |
-| 3 | Ida | Elegant Midi Dress | 283 | 268 | +15 | 39.95 | [open](https://averylanebrighton.com/products/ida-elegant-midi-dress) |
-| 4 | Centenia | Elegant Roll Neck Jumper | 266 | 254 | +12 | 24.95 | [open](https://averylanebrighton.com/products/centenia-elegant-turtleneck-sweater) |
-| 5 | Hailey | Women's Wedding Guest Elegant Wrap Maxi Dress | 184 | 173 | +11 | 29.95 | [open](https://averylanebrighton.com/products/hailey-womens-wedding-guest-elegant-wrap-maxi-dress) |
+| 1 | Carmeliyah | Orthopaedic Trainers | 207 | 196 | +11 | 29.95 | [open](https://averylanebrighton.com/products/carmeliyah-orthopaedic-sneakers) |
+| 2 | Hilary | Sophisticated Trousers | 246 | 235 | +11 | 29.95 | [open](https://averylanebrighton.com/products/hilary-sophisticated-trousers) |
+| 3 | Madison Elegant Short Dress | 265 | 254 | +11 |  | [open](https://averylanebrighton.com/products/madison-elegant-short-dress) |
+| 4 | Saryphiah Comfortable Blouse | 203 | 193 | +10 |  | [open](https://averylanebrighton.com/products/saryphiah-comfortable-blouse) |
+| 5 | Sary Comfort Walkers | 258 | 248 | +10 |  | [open](https://averylanebrighton.com/products/sary-comfort-walkers) |
 
-### By Emilia Rose (1000 producten, 15 snapshots)
+### By Emilia Rose (1000 producten, 16 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Women's Orthopaedic Ankle Boots with Side Zipper for All-Day | 314 | 258 | +56 | 33.00 | [open](https://byemiliarose.com/products/womens-orthopaedic-ankle-boots-with-side-zipper-for-all-day-comfort) |
-| 2 | Women's Wedge Sandals with T Strap and Cushioned Footbed | 282 | 251 | +31 | 55.00 | [open](https://byemiliarose.com/products/womens-wedge-sandals-with-t-strap-and-cushioned-footbed) |
-| 3 | Women's Orthopaedic Sandals with Textured Sole for Everyday  | 290 | 260 | +30 | 77.00 | [open](https://byemiliarose.com/products/womens-orthopaedic-sandals-with-textured-sole-for-everyday-wear) |
-| 4 | Women’s Blouse with Button Closure and Short Sleeves | 274 | 246 | +28 | 70.00 | [open](https://byemiliarose.com/products/women-s-blouse-with-button-closure-and-short-sleeves) |
-| 5 | Women’s Midi Dress with V-Neckline and Side Pockets | 269 | 242 | +27 | 73.00 | [open](https://byemiliarose.com/products/women-s-midi-dress-with-v-neckline-and-side-pockets-1) |
+| 1 | Women S Two Piece Set With Crop Top And Drawstring Shorts | 260 | 193 | +67 |  | [open](https://byemiliarose.com/products/women-s-two-piece-set-with-crop-top-and-drawstring-shorts) |
+| 2 | Women’s Dress with High Neck and Draped Front | 268 | 242 | +26 | 59.00 | [open](https://byemiliarose.com/products/women-s-dress-with-high-neck-and-draped-front) |
+| 3 | Women’s Midi Dress with Pleated Skirt and Floral Print | 269 | 243 | +26 | 66.00 | [open](https://byemiliarose.com/products/pleated-floral-midi-dress-for-women) |
+| 4 | Women's Orthopaedic Loafers with Textured Upper for Everyday | 249 | 233 | +16 | 59.00 | [open](https://byemiliarose.com/products/womens-orthopaedic-loafers-with-textured-upper-for-everyday-wear) |
+| 5 | Women S V Neck Top With Sequin Decoration And Versatile Fit | 85 | 70 | +15 |  | [open](https://byemiliarose.com/products/women-s-v-neck-top-with-sequin-decoration-and-versatile-fit) |
 
 ### By Mayberry
 
 _geen data opgehaald_
 
-### By Seabourne (728 producten, 8 snapshots)
+### By Seabourne (728 producten, 9 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Beth%E2%84%A2 Colourful Floral Dress | 224 | 188 | +36 |  | [open](https://byseabourne.com/products/beth%E2%84%A2-colourful-floral-dress) |
-| 2 | Seraphina Womens Striped Wide Leg Pants | 327 | 294 | +33 |  | [open](https://byseabourne.com/products/seraphina-womens-striped-wide-leg-pants) |
-| 3 | Amara%E2%84%A2 Boho Woven Wedge Sandals | 319 | 289 | +30 |  | [open](https://byseabourne.com/products/amara%E2%84%A2-boho-woven-wedge-sandals) |
-| 4 | Thessa Womens Striped Collared Short Sleeve Blouse | 321 | 292 | +29 |  | [open](https://byseabourne.com/products/thessa-womens-striped-collared-short-sleeve-blouse) |
-| 5 | Giselle%E2%84%A2 Floral V Neck Dress | 279 | 253 | +26 |  | [open](https://byseabourne.com/products/giselle%E2%84%A2-floral-v-neck-dress) |
+| 1 | Rhea™ | Shoulder Bag | 269 | 202 | +67 | 79.95 | [open](https://byseabourne.com/products/rhea-shoulder-bag) |
+| 2 | Calvina | Women's Black Ankle Strap Wedge Sandals | 292 | 260 | +32 | 94.95 | [open](https://byseabourne.com/products/calvina-womens-black-ankle-strap-wedge-sandals) |
+| 3 | Elise%E2%84%A2 Embroidered Long Sleeve Blouse | 274 | 248 | +26 |  | [open](https://byseabourne.com/products/elise%E2%84%A2-embroidered-long-sleeve-blouse) |
+| 4 | Monroe%E2%84%A2 Soft Striped Blouse | 145 | 129 | +16 |  | [open](https://byseabourne.com/products/monroe%E2%84%A2-soft-striped-blouse) |
+| 5 | Sonia Solid High Waist Swimsuit | 207 | 192 | +15 |  | [open](https://byseabourne.com/products/sonia-solid-high-waist-swimsuit) |
 
 ### Drune
 
 _geen data opgehaald_
 
-### Elle Charleston (1000 producten, 8 snapshots)
+### Elle Charleston (1000 producten, 9 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Harper | Women's Rhinestone T-Strap Flat Sandals Slip-On | 284 | 254 | +30 | 51.95 | [open](https://elle-charleston.com/products/harper-womens-rhinestone-t-strap-flat-sandals-slip-on) |
-| 2 | Evelyn | Women's Strappy Heeled Sandals Ankle Strap Block He | 296 | 269 | +27 | 76.95 | [open](https://elle-charleston.com/products/evelyn-womens-strappy-heeled-sandals-ankle-strap-block-heel) |
-| 3 | Penelope Womens Fall Wedding Guest Pleated Tulle Midi Dress  | 312 | 286 | +26 |  | [open](https://elle-charleston.com/products/penelope-womens-fall-wedding-guest-pleated-tulle-midi-dress-bustier-bodice) |
-| 4 | Grace | Women's Orthopedic Block-Heel Strappy Sandals | 254 | 230 | +24 | 51.95 | [open](https://elle-charleston.com/products/grace-womens-orthopedic-block-heel-strappy-sandals) |
-| 5 | Isabella | Women's Orthopedic Wedge Sandals Cushioned Platfo | 219 | 209 | +10 | 29.95 | [open](https://elle-charleston.com/products/isabella-womens-orthopedic-wedge-sandals-cushioned-platform-slip-on) |
+| 1 | Rin | 121 | 110 | +11 |  | [open](https://elle-charleston.com/products/rin) |
 
-### Haus of Mode (1000 producten, 8 snapshots)
+### Haus of Mode (1000 producten, 9 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-### Jessica by Bee (715 producten, 13 snapshots)
+### Jessica by Bee (679 producten, 14 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Fair Isle Crew-Neck Jumper with Geometric Pattern | 361 | 283 | +78 | 39.95 | [open](https://jessicabybee.com/products/fair-isle-crew-neck-jumper-with-geometric-pattern) |
-| 2 | Lana | Long Sleeve Turtleneck Defined Waist Midi Dress | 350 | 277 | +73 | 34.95 | [open](https://jessicabybee.com/products/lana-long-sleeve-turtleneck-defined-waist-midi-dress) |
-| 3 | Women's Mary Jane Shoes Round Toe Single Strap Low Block Hee | 315 | 284 | +31 | 59.95 | [open](https://jessicabybee.com/products/womens-mary-jane-shoes-round-toe-single-strap-low-block-heel) |
-| 4 | Hugo | Garden Dot Midi Dress | 326 | 295 | +31 | 34.95 | [open](https://jessicabybee.com/products/hugo-garden-dot-midi-dress) |
-| 5 | Isla | Pleated Full Skirt Turtleneck Maxi Dress | 204 | 183 | +21 | 34.95 | [open](https://jessicabybee.com/products/camille-ruched-velvet-midi-dress-copy) |
+| 1 | Thalira | Sleeveless V Neck Pleated Maxi Dress | 220 | 198 | +22 | 44.95 | [open](https://jessicabybee.com/products/thalira-sleeveless-v-neck-pleated-maxi-dress) |
+| 2 | Solange | Halter Neck Blouse Floral Wide Leg Set | 281 | 264 | +17 | 54.95 | [open](https://jessicabybee.com/products/solange-halter-neck-blouse-floral-wide-leg-set) |
+| 3 | Elanthea | Sheer Bodice Floral Maxi Dress | 118 | 107 | +11 | 34.95 | [open](https://jessicabybee.com/products/elanthea-sheer-bodice-floral-maxi-dress) |
+| 4 | Marisol | Layered Drape Cold Shoulder Top Wide Leg Set | 182 | 171 | +11 | 64.95 | [open](https://jessicabybee.com/products/marisol-layered-drape-cold-shoulder-top-wide-leg-set) |
 
-### Leon Boutique (1000 producten, 8 snapshots)
+### Leon Boutique (1000 producten, 9 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Felix | Herren Vintage Klassische Hose mit Hoher Taille und  | 251 | 236 | +15 | 59.95 | [open](https://leonboutique.co/products/felix-herren-vintage-klassische-hose-mit-hoher-taille-und-falten) |
-| 2 | Doris | Damen Lässiges Langarmshirt, Enganliegend | 254 | 241 | +13 | 37.95 | [open](https://leonboutique.co/products/doris-damen-lassiges-langarmshirt-enganliegend) |
-| 3 | Women S Midi Wrap Dress Elegant Silhouette For All Occasions | 304 | 293 | +11 |  | [open](https://leonboutique.co/products/women-s-midi-wrap-dress-elegant-silhouette-for-all-occasions) |
-| 4 | Elfriede | Damen ärmelloses Plissee-Midi-Kleid mit drapierte | 311 | 300 | +11 | 67.95 | [open](https://leonboutique.co/products/elfriede-elegantes-plissee-midi-kleid-fr-hochzeitsgste-im-herbst) |
+| 1 | Sophie Damen Upf 50 Langarm Wander Bluse Safari Hemd Aufroll | 308 | 295 | +13 |  | [open](https://leonboutique.co/products/sophie-damen-upf-50-langarm-wander-bluse-safari-hemd-aufrollbare-rmel) |
+| 2 | Konrad Herren Fruhlings Strickpullover Mit Zopfmuster Und Re | 220 | 209 | +11 |  | [open](https://leonboutique.co/products/konrad-herren-fruhlings-strickpullover-mit-zopfmuster-und-reissverschluss-am-kragen) |
+| 3 | Isabella | Damen Ärmelloses Geplissiertes Blumen Midi Kleid | 265 | 255 | +10 | 58.95 | [open](https://leonboutique.co/products/isabella-damen-armelloses-geplissiertes-blumen-midi-kleid) |
 
 ### Lune London
 
 _geen data opgehaald_
 
-### Made by Jessica (1000 producten, 12 snapshots)
-
-| # | Product | Was | Nu | Stijging | Prijs | Link |
-|---|---------|----:|---:|---------:|------:|------|
-| 1 | Backless Tankini Set Womens Stylish Two Piece Swimwear | 485 | 273 | +212 |  | [open](https://madebyjessica.store/products/backless-tankini-set-womens-stylish-two-piece-swimwear) |
-| 2 | Sporty Two Piece Swim Dress For Women Tankini Skirt Set | 189 | 151 | +38 |  | [open](https://madebyjessica.store/products/sporty-two-piece-swim-dress-for-women-tankini-skirt-set) |
-| 3 | Women's Velvet Evening Dress with Relaxed Fit and Soft Fabri | 214 | 180 | +34 | 54.95 | [open](https://madebyjessica.store/products/womens-velvet-evening-dress-with-relaxed-fit-and-soft-fabric) |
-
-### Redlich & Becker (1000 producten, 12 snapshots)
+### Made by Jessica (1000 producten, 13 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-Nieuw binnengekomen: [Damen Blazer Und Midi Rock Set R B 5Qevp](https://redlich-becker.de/products/damen-blazer-und-midi-rock-set-r-b-5qevpxckga-r7k5o3) (#46)
+### Redlich & Becker (1000 producten, 13 snapshots)
 
-### The Hills Nashville (1000 producten, 15 snapshots)
+_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
+
+### The Hills Nashville (1000 producten, 16 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
