@@ -1,87 +1,83 @@
-## Snelste stijgers - 2026-09-16 09:56
+## Snelste stijgers - 2026-09-17 10:00
 
-Venster: 3 dagen | top 5 per store | 66 producten overgeslagen omdat je ze al eerder kreeg
+Venster: 3 dagen | top 5 per store | 95 producten overgeslagen omdat je ze al eerder kreeg
 
 Download onderaan deze pagina bij **Artifacts**: `shopify_import.csv` kun je direct in Shopify importeren via Producten, Importeren.
 
-### Avery Lane Brighton (1000 producten, 13 snapshots)
+### Avery Lane Brighton (1000 producten, 14 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Carmeliyah | Orthopaedic Trainers | 207 | 196 | +11 | 29.95 | [open](https://averylanebrighton.com/products/carmeliyah-orthopaedic-sneakers) |
-| 2 | Hilary | Sophisticated Trousers | 246 | 235 | +11 | 29.95 | [open](https://averylanebrighton.com/products/hilary-sophisticated-trousers) |
-| 3 | Madison Elegant Short Dress | 265 | 254 | +11 |  | [open](https://averylanebrighton.com/products/madison-elegant-short-dress) |
-| 4 | Saryphiah Comfortable Blouse | 203 | 193 | +10 |  | [open](https://averylanebrighton.com/products/saryphiah-comfortable-blouse) |
-| 5 | Sary Comfort Walkers | 258 | 248 | +10 |  | [open](https://averylanebrighton.com/products/sary-comfort-walkers) |
+| 1 | Winona Comfortable Trousers | 233 | 221 | +12 |  | [open](https://averylanebrighton.com/products/winona-comfortable-trousers) |
+| 2 | Jacqueline | Button-Front V-Neck Tie-Sleeve Midi Dress | 270 | 258 | +12 | 59.95 | [open](https://averylanebrighton.com/products/jacqueline-elegant-denim-dress) |
+| 3 | Hyelianne | Orthopaedic Loafers | 290 | 279 | +11 | 39.95 | [open](https://averylanebrighton.com/products/hyelianne-orthopaedic-loafers) |
+| 4 | Faye | Luxe Fleece Gilet | 307 | 296 | +11 | 29.95 | [open](https://averylanebrighton.com/products/faye-luxe-fleece-gilet) |
 
-### By Emilia Rose (1000 producten, 16 snapshots)
+### By Emilia Rose (1000 producten, 17 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Women S Two Piece Set With Crop Top And Drawstring Shorts | 260 | 193 | +67 |  | [open](https://byemiliarose.com/products/women-s-two-piece-set-with-crop-top-and-drawstring-shorts) |
-| 2 | Women’s Dress with High Neck and Draped Front | 268 | 242 | +26 | 59.00 | [open](https://byemiliarose.com/products/women-s-dress-with-high-neck-and-draped-front) |
-| 3 | Women’s Midi Dress with Pleated Skirt and Floral Print | 269 | 243 | +26 | 66.00 | [open](https://byemiliarose.com/products/pleated-floral-midi-dress-for-women) |
-| 4 | Women's Orthopaedic Loafers with Textured Upper for Everyday | 249 | 233 | +16 | 59.00 | [open](https://byemiliarose.com/products/womens-orthopaedic-loafers-with-textured-upper-for-everyday-wear) |
-| 5 | Women S V Neck Top With Sequin Decoration And Versatile Fit | 85 | 70 | +15 |  | [open](https://byemiliarose.com/products/women-s-v-neck-top-with-sequin-decoration-and-versatile-fit) |
+| 1 | Women's Orthopaedic Ankle Boots with Side Zip Closure for Fa | 121 | 98 | +23 | 40.00 | [open](https://byemiliarose.com/products/womens-orthopaedic-ankle-boots-with-side-zip-closure-for-fall) |
+| 2 | Women S Top And Trousers Set With Asymmetric Hem And Wide Le | 109 | 94 | +15 |  | [open](https://byemiliarose.com/products/women-s-top-and-trousers-set-with-asymmetric-hem-and-wide-legs) |
+| 3 | Women's Oxford Shoes with Lace Up Closure for Casual Wear | 200 | 185 | +15 | 88.00 | [open](https://byemiliarose.com/products/womens-oxford-shoes-with-lace-up-closure-for-casual-wear) |
+| 4 | Women's Orthopaedic Leather Sandals with Adjustable Strap | 245 | 231 | +14 | 55.00 | [open](https://byemiliarose.com/products/womens-orthopaedic-leather-sandals-with-adjustable-strap) |
 
 ### By Mayberry
 
 _geen data opgehaald_
 
-### By Seabourne (728 producten, 9 snapshots)
+### By Seabourne (756 producten, 10 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Rhea™ | Shoulder Bag | 269 | 202 | +67 | 79.95 | [open](https://byseabourne.com/products/rhea-shoulder-bag) |
-| 2 | Calvina | Women's Black Ankle Strap Wedge Sandals | 292 | 260 | +32 | 94.95 | [open](https://byseabourne.com/products/calvina-womens-black-ankle-strap-wedge-sandals) |
-| 3 | Elise%E2%84%A2 Embroidered Long Sleeve Blouse | 274 | 248 | +26 |  | [open](https://byseabourne.com/products/elise%E2%84%A2-embroidered-long-sleeve-blouse) |
-| 4 | Monroe%E2%84%A2 Soft Striped Blouse | 145 | 129 | +16 |  | [open](https://byseabourne.com/products/monroe%E2%84%A2-soft-striped-blouse) |
-| 5 | Sonia Solid High Waist Swimsuit | 207 | 192 | +15 |  | [open](https://byseabourne.com/products/sonia-solid-high-waist-swimsuit) |
+| 1 | Noelia | Effortless Comfort, Modern Simplicity | 363 | 289 | +74 | 79.95 | [open](https://byseabourne.com/products/noelia-effortless-comfort-modern-simplicity) |
+| 2 | Indie | Women's Boho V-Neck Lace-Up Blouse Long Sleeve Print | 176 | 161 | +15 | 84.95 | [open](https://byseabourne.com/products/indie-womens-boho-v-neck-lace-up-blouse-long-sleeve-print) |
+| 3 | Quinn | Women's Sleeveless V-Neck Blouse Smart Casual Top | 123 | 109 | +14 | 62.95 | [open](https://byseabourne.com/products/quinn-womens-sleeveless-v-neck-blouse-smart-casual-top) |
+| 4 | Zara Womens Printed Short Sleeve Blouse Floral Casual Top | 236 | 222 | +14 |  | [open](https://byseabourne.com/products/zara-womens-printed-short-sleeve-blouse-floral-casual-top) |
+| 5 | Retro Gold Double Circle Pendant Necklace | 203 | 190 | +13 | 59.95 | [open](https://byseabourne.com/products/retro-gold-double-circle-pendant-necklace) |
 
 ### Drune
 
 _geen data opgehaald_
 
-### Elle Charleston (1000 producten, 9 snapshots)
+### Elle Charleston (1000 producten, 10 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Rin | 121 | 110 | +11 |  | [open](https://elle-charleston.com/products/rin) |
+| 1 | Charlotte | Women's Wrap-Front Long-Sleeve V-Neck Satin Blou | 304 | 291 | +13 | 60.95 | [open](https://elle-charleston.com/products/charlotte-womens-wrap-front-long-sleeve-v-neck-satin-blouses) |
+| 2 | Victoria Womens Herringbone Tweed Military Style Jacket Gold | 305 | 292 | +13 |  | [open](https://elle-charleston.com/products/victoria-womens-herringbone-tweed-military-style-jacket-gold-button) |
 
-### Haus of Mode (1000 producten, 9 snapshots)
+### Haus of Mode (1000 producten, 10 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-### Jessica by Bee (679 producten, 14 snapshots)
+### Jessica by Bee (683 producten, 15 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Thalira | Sleeveless V Neck Pleated Maxi Dress | 220 | 198 | +22 | 44.95 | [open](https://jessicabybee.com/products/thalira-sleeveless-v-neck-pleated-maxi-dress) |
-| 2 | Solange | Halter Neck Blouse Floral Wide Leg Set | 281 | 264 | +17 | 54.95 | [open](https://jessicabybee.com/products/solange-halter-neck-blouse-floral-wide-leg-set) |
-| 3 | Elanthea | Sheer Bodice Floral Maxi Dress | 118 | 107 | +11 | 34.95 | [open](https://jessicabybee.com/products/elanthea-sheer-bodice-floral-maxi-dress) |
-| 4 | Marisol | Layered Drape Cold Shoulder Top Wide Leg Set | 182 | 171 | +11 | 64.95 | [open](https://jessicabybee.com/products/marisol-layered-drape-cold-shoulder-top-wide-leg-set) |
+| 1 | Tula | Gathered Neckline Silhouette Loose Lounge Dress | 273 | 252 | +21 | 29.95 | [open](https://jessicabybee.com/products/tula-gathered-neckline-silhouette-loose-lounge-dress) |
+| 2 | Amelie | Field Strap Jumpsuit | 161 | 149 | +12 | 34.95 | [open](https://jessicabybee.com/products/amelie-field-strap-jumpsuit) |
 
-### Leon Boutique (1000 producten, 9 snapshots)
+### Leon Boutique (1000 producten, 10 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Sophie Damen Upf 50 Langarm Wander Bluse Safari Hemd Aufroll | 308 | 295 | +13 |  | [open](https://leonboutique.co/products/sophie-damen-upf-50-langarm-wander-bluse-safari-hemd-aufrollbare-rmel) |
-| 2 | Konrad Herren Fruhlings Strickpullover Mit Zopfmuster Und Re | 220 | 209 | +11 |  | [open](https://leonboutique.co/products/konrad-herren-fruhlings-strickpullover-mit-zopfmuster-und-reissverschluss-am-kragen) |
-| 3 | Isabella | Damen Ärmelloses Geplissiertes Blumen Midi Kleid | 265 | 255 | +10 | 58.95 | [open](https://leonboutique.co/products/isabella-damen-armelloses-geplissiertes-blumen-midi-kleid) |
+| 1 | Elisabeth | Damen Trachten-Dirndl Midi-Kleid mit Schürze Okt | 360 | 282 | +78 | 84.95 | [open](https://leonboutique.co/products/elisabeth-damen-trachten-dirndl-midi-kleid-mit-schrze-oktoberfest) |
+| 2 | Moritz Herren Langarmhemd Im Smart Style | 191 | 181 | +10 |  | [open](https://leonboutique.co/products/moritz-herren-langarmhemd-im-smart-style) |
 
 ### Lune London
 
 _geen data opgehaald_
 
-### Made by Jessica (1000 producten, 13 snapshots)
+### Made by Jessica (1000 producten, 14 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-### Redlich & Becker (1000 producten, 13 snapshots)
+### Redlich & Becker (1000 producten, 14 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-### The Hills Nashville (1000 producten, 16 snapshots)
+### The Hills Nashville (1000 producten, 17 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
