@@ -1,75 +1,77 @@
-## Snelste stijgers - 2026-09-20 09:48
+## Snelste stijgers - 2026-09-21 10:41
 
-Venster: 3 dagen | top 5 per store | 62 producten overgeslagen omdat je ze al eerder kreeg
+Venster: 3 dagen | top 5 per store | 59 producten overgeslagen omdat je ze al eerder kreeg
 
 Download onderaan deze pagina bij **Artifacts**: `shopify_import.csv` kun je direct in Shopify importeren via Producten, Importeren.
 
-### Avery Lane Brighton (1000 producten, 17 snapshots)
-
-_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
-
-### By Emilia Rose (1000 producten, 20 snapshots)
+### Avery Lane Brighton (1000 producten, 18 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Women’s Long Dress with V-Neck and Side Slit | 279 | 248 | +31 | 66.00 | [open](https://byemiliarose.com/products/women-s-long-dress-with-v-neck-and-side-slit) |
-| 2 | Women's Orthopaedic Heeled Boots with Block Heel for All-Day | 209 | 192 | +17 | 91.00 | [open](https://byemiliarose.com/products/womens-orthopaedic-heeled-boots-with-block-heel-for-all-day-comfort) |
-| 3 | Women's Block Heel Sandals with Cushioned Insole | 204 | 190 | +14 | 69.00 | [open](https://byemiliarose.com/products/womens-block-heel-sandals-with-cushioned-insole) |
-| 4 | Women's Orthopaedic Pumps with Textured Outsole for Office W | 106 | 95 | +11 | 73.00 | [open](https://byemiliarose.com/products/womens-orthopaedic-pumps-with-textured-outsole-for-office-wear) |
+| 1 | Faybia | Comfortable Sandals | 230 | 214 | +16 | 29.95 | [open](https://averylanebrighton.com/products/faybia-comfortable-sandals) |
+| 2 | Jasmine | Women's Wedding Guest A-Line Maxi Dress | 294 | 280 | +14 | 44.95 | [open](https://averylanebrighton.com/products/jasmine-womens-wedding-guest-a-line-maxi-dress) |
+
+### By Emilia Rose (1000 producten, 21 snapshots)
+
+| # | Product | Was | Nu | Stijging | Prijs | Link |
+|---|---------|----:|---:|---------:|------:|------|
+| 1 | Women’s Midi Dress with Turned Collar and Waist Tie | 312 | 284 | +28 | 66.00 | [open](https://byemiliarose.com/products/women-s-midi-dress-with-turned-collar-and-waist-tie) |
+| 2 | Women S Two Piece Set With V Neck Waistcoat And Wide Trouser | 183 | 159 | +24 |  | [open](https://byemiliarose.com/products/women-s-two-piece-set-with-v-neck-waistcoat-and-wide-trousers) |
+| 3 | Women’s Longline Blazer with Notched Lapel and Front Buttons | 243 | 223 | +20 | 66.00 | [open](https://byemiliarose.com/products/longline-blazer-with-button-front) |
+| 4 | Women Midi Dress with Round Neck and Pockets | 101 | 82 | +19 | 70.00 | [open](https://byemiliarose.com/products/women-midi-dress-with-round-neck-and-pockets) |
+| 5 | Women’s Sleeveless Blouse with V-Neck and Lace Surface | 162 | 143 | +19 | 51.00 | [open](https://byemiliarose.com/products/women-s-sleeveless-blouse-with-v-neck-and-lace-surface) |
 
 ### By Mayberry
 
 _geen data opgehaald_
 
-### By Seabourne (756 producten, 13 snapshots)
+### By Seabourne (756 producten, 14 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Adèle | Women's Ruffle Front V-Neck 3/4 Sleeve Blouse | 375 | 295 | +80 | 84.95 | [open](https://byseabourne.com/products/adle-womens-ruffle-front-v-neck-34-sleeve-blouse) |
-| 2 | Jewel™ | Chic Wedge Sandals | 215 | 178 | +37 | 94.95 | [open](https://byseabourne.com/products/jevie-sandals) |
-| 3 | Lorraine™ | Shoulder Bag | 273 | 246 | +27 | 99.95 | [open](https://byseabourne.com/products/lorraine-shoulder-bag) |
-| 4 | Isla | Women's Ruffle Hem Cami Midi Dress Sleeveless Summer | 160 | 143 | +17 | 134.95 | [open](https://byseabourne.com/products/isla-womens-ruffle-hem-cami-midi-dress-sleeveless-summer) |
+| 1 | Seraphel Womens Floral Halter Midi Dress | 375 | 296 | +79 |  | [open](https://byseabourne.com/products/seraphel-womens-floral-halter-midi-dress) |
+| 2 | Bianca | Elegant Style, All-Day Comfort | 324 | 260 | +64 | 84.95 | [open](https://byseabourne.com/products/bianca-elegant-style-all-day-comfort) |
+| 3 | Emily | Coastal Rhythm Jumpsuit | 255 | 213 | +42 | 69.95 | [open](https://byseabourne.com/products/coastal-rhythm-jumpsuit) |
+| 4 | Genuine | Women's Large Black Leather Tote Bag | 106 | 89 | +17 | 79.95 | [open](https://byseabourne.com/products/genuine-leather-shoulder-bag) |
+| 5 | Hélène | Summer Dress with Floral Print | 190 | 175 | +15 | 79.95 | [open](https://byseabourne.com/products/helene-summer-dress-with-floral-print) |
 
 ### Drune
 
 _geen data opgehaald_
 
-### Elle Charleston (1000 producten, 13 snapshots)
+### Elle Charleston (1000 producten, 14 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Evelyn | Women's Waterproof Leather Knee High Boots Buckle S | 307 | 292 | +15 | 84.95 | [open](https://elle-charleston.com/products/evelyn-womens-waterproof-leather-knee-high-boots-buckle-strap-riding) |
+| 1 | Hannah | Women Wedding Guest Elegant Square Midi Dress | 253 | 238 | +15 | 56.95 | [open](https://elle-charleston.com/products/hannah-women-wedding-guest-elegant-square-midi-dress) |
 
-### Haus of Mode (1000 producten, 13 snapshots)
+### Haus of Mode (1000 producten, 14 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-### Jessica by Bee (740 producten, 18 snapshots)
+### Jessica by Bee (749 producten, 19 snapshots)
+
+_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
+
+### Leon Boutique (1000 producten, 14 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Women's Button-Front Mid-Length Coat with Collar | 535 | 267 | +268 | 44.95 | [open](https://jessicabybee.com/products/womens-button-front-mid-length-coat-with-collar) |
-| 2 | Women's Double-Breasted V-Neck Coat with Long Sleeves | 325 | 289 | +36 | 59.95 | [open](https://jessicabybee.com/products/womens-double-breasted-v-neck-coat-with-long-sleeves) |
-| 3 | Women's Biker Jacket with Zip Front and Fitted Cut | 322 | 287 | +35 | 29.95 | [open](https://jessicabybee.com/products/womens-biker-jacket-with-zip-front-and-fitted-cut) |
-| 4 | Marina | Floral V Neck Three Quarter Sleeve Maxi Dress | 242 | 223 | +19 | 34.95 | [open](https://jessicabybee.com/products/marina-floral-v-neck-three-quarter-sleeve-maxi-dress) |
-
-### Leon Boutique (1000 producten, 13 snapshots)
-
-_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
+| 1 | Daniel | Klassischer Herren Frühjahrs-Dreiteiler | 241 | 229 | +12 | 89.95 | [open](https://leonboutique.co/products/daniel-klassischer-herren-fruhjahrs-dreiteiler) |
 
 ### Lune London
 
 _geen data opgehaald_
 
-### Made by Jessica (1000 producten, 17 snapshots)
+### Made by Jessica (1000 producten, 18 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-### Redlich & Becker (1000 producten, 17 snapshots)
+### Redlich & Becker (1000 producten, 18 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-### The Hills Nashville (1000 producten, 20 snapshots)
+### The Hills Nashville (1000 producten, 21 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
