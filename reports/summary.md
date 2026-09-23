@@ -1,63 +1,57 @@
-## Snelste stijgers - 2026-09-22 09:56
+## Snelste stijgers - 2026-09-23 09:59
 
-Venster: 3 dagen | top 5 per store | 67 producten overgeslagen omdat je ze al eerder kreeg
+Venster: 3 dagen | top 5 per store | 68 producten overgeslagen omdat je ze al eerder kreeg
 
 Download onderaan deze pagina bij **Artifacts**: `shopify_import.csv` kun je direct in Shopify importeren via Producten, Importeren.
 
-### Avery Lane Brighton (1000 producten, 19 snapshots)
-
-_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
-
-### By Emilia Rose (1000 producten, 22 snapshots)
+### Avery Lane Brighton (1000 producten, 20 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Women’s Cozy Minimal Soft Knitted Jacket | 904 | 245 | +659 | 98.00 | [open](https://byemiliarose.com/products/women-s-cozy-minimal-soft-knitted-jacket) |
-| 2 | Women’s Dress with V Neck and Wrap Waist | 284 | 252 | +32 | 77.00 | [open](https://byemiliarose.com/products/women-s-dress-with-v-neck-and-wrap-waist) |
-| 3 | Women’s Maxi Skirt with Elastic Waist and Pleated Surface | 275 | 248 | +27 | 66.00 | [open](https://byemiliarose.com/products/women-maxi-skirt-with-elastic-waist-and-pleated-surface) |
-| 4 | Women S Trench Coat With Belt And Textured Surface | 146 | 132 | +14 |  | [open](https://byemiliarose.com/products/women-s-trench-coat-with-belt-and-textured-surface) |
-| 5 | Women’s Midi Dress with Sleeveless Design and Linen Blend | 179 | 169 | +10 | 37.00 | [open](https://byemiliarose.com/products/women-s-midi-dress-withsleeveless-design-and-linen-blend) |
+| 1 | Sylva Great Sole Sneakers | 332 | 297 | +35 |  | [open](https://averylanebrighton.com/products/sylva-great-sole-sneakers) |
+| 2 | Leila | Elegant Dress | 247 | 234 | +13 | 29.95 | [open](https://averylanebrighton.com/products/leila-elegant-dress) |
 
-Nieuw binnengekomen: [Women’s High-Waist Pencil Skirt with Bac](https://byemiliarose.com/products/women-s-high-waist-pencil-skirt-with-back-slit) (#99)
+### By Emilia Rose (1000 producten, 23 snapshots)
+
+| # | Product | Was | Nu | Stijging | Prijs | Link |
+|---|---------|----:|---:|---------:|------:|------|
+| 1 | Women's Cable-Knit Crew-Neck Sweater with Ribbed Trim | 918 | 197 | +721 | 69.00 | [open](https://byemiliarose.com/products/womens-cable-knit-crew-neck-sweater-with-ribbed-trim) |
+| 2 | Classic Knit Cardigan - Clara | 926 | 252 | +674 | 80.00 | [open](https://byemiliarose.com/products/classic-knit-cardigan-clara) |
+| 3 | Women's Quilted Down Jacket with Detachable Hood | 913 | 250 | +663 | 113.00 | [open](https://byemiliarose.com/products/womens-quilted-down-jacket-with-detachable-hood) |
+| 4 | Women’s Blouse with Collar and Short Sleeves | 253 | 208 | +45 | 47.00 | [open](https://byemiliarose.com/products/women-s-blouse-with-collar-and-short-sleeves) |
+| 5 | Women’s Denim Shorts with Distressed Surface and Fringe Hem | 281 | 255 | +26 | 62.00 | [open](https://byemiliarose.com/products/women-s-distressed-denim-shorts-with-fringe-hem) |
 
 ### By Mayberry
 
 _geen data opgehaald_
 
-### By Seabourne (728 producten, 15 snapshots)
+### By Seabourne (756 producten, 16 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Nora | Women's High Waist Pleated Linen Maxi Skirt Casual | 198 | 174 | +24 | 84.95 | [open](https://byseabourne.com/products/nora-womens-high-waist-pleated-linen-maxi-skirt-casual) |
-| 2 | Andrea | Vibrant Midi Dress | 84 | 67 | +17 | 79.95 | [open](https://byseabourne.com/products/andrea-dress) |
-| 3 | Sicily | 40 | 27 | +13 |  | [open](https://byseabourne.com/products/sicily) |
-| 4 | Luna | Women's Gold Chain Loafers Round Toe Slip-On Flats | 163 | 153 | +10 | 72.95 | [open](https://byseabourne.com/products/luna-womens-gold-chain-loafers-round-toe-slip-on-flats) |
-| 5 | Zoe Everyday Casual Dress | 164 | 154 | +10 |  | [open](https://byseabourne.com/products/zoe-everyday-casual-dress) |
+| 1 | Amity™ | Chic Flight Print Blouse | 347 | 259 | +88 | 74.95 | [open](https://byseabourne.com/products/amity-chic-flight-print-blouse) |
+| 2 | Harper | Women's Wide Leg Linen Jumpsuit Sleeveless Overalls | 338 | 292 | +46 | 74.95 | [open](https://byseabourne.com/products/harper-womens-wide-leg-linen-jumpsuit-sleeveless-overalls) |
+| 3 | Charmaine%E2%84%A2 Light Breezy Blouse With Fun Ruffles | 277 | 242 | +35 |  | [open](https://byseabourne.com/products/charmaine%E2%84%A2-light-breezy-blouse-with-fun-ruffles) |
+| 4 | Christine | Lightweight and Flowing Summer Dress | 229 | 203 | +26 | 79.95 | [open](https://byseabourne.com/products/christine-lightweight-and-flowing-summer-dress) |
+| 5 | Buzzin Around Jumpsuit | 212 | 187 | +25 |  | [open](https://byseabourne.com/products/buzzin-around-jumpsuit) |
 
 ### Drune
 
 _geen data opgehaald_
 
-### Elle Charleston (1000 producten, 15 snapshots)
-
-| # | Product | Was | Nu | Stijging | Prijs | Link |
-|---|---------|----:|---:|---------:|------:|------|
-| 1 | Mason Mens 3 Piece Linen Suit Tailored Fit Wedding | 294 | 274 | +20 |  | [open](https://elle-charleston.com/products/mason-mens-3-piece-linen-suit-tailored-fit-wedding) |
-| 2 | Hadyn | Women's Orthopedic Shoes with Wide Toe Box and Non-S | 177 | 166 | +11 | 69.95 | [open](https://elle-charleston.com/products/hadyn) |
-
-### Haus of Mode (1000 producten, 15 snapshots)
+### Elle Charleston (1000 producten, 16 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-### Jessica by Bee (759 producten, 20 snapshots)
+### Haus of Mode (1000 producten, 16 snapshots)
 
-| # | Product | Was | Nu | Stijging | Prijs | Link |
-|---|---------|----:|---:|---------:|------:|------|
-| 1 | Genevieve | Three Quarter Sleeve Wrap Bodice Midi Dress | 91 | 77 | +14 | 54.95 | [open](https://jessicabybee.com/products/genevieve-three-quarter-sleeve-wrap-bodice-midi-dress) |
-| 2 | Musal | Long Sleeve Natural Flow Midi Dress | 120 | 110 | +10 | 49.95 | [open](https://jessicabybee.com/products/musal-long-sleeve-natural-flow-midi-dress) |
-| 3 | Lioren | Soft Flow Maxi Dress | 179 | 169 | +10 | 49.95 | [open](https://jessicabybee.com/products/lioren-soft-flow-maxi-dress) |
+_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-### Leon Boutique (1000 producten, 15 snapshots)
+### Jessica by Bee (751 producten, 21 snapshots)
+
+_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
+
+### Leon Boutique (1000 producten, 16 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
@@ -65,19 +59,19 @@ _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen 
 
 _geen data opgehaald_
 
-### Made by Jessica (1000 producten, 19 snapshots)
+### Made by Jessica (1000 producten, 20 snapshots)
+
+_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
+
+### Redlich & Becker (1000 producten, 20 snapshots)
+
+_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
+
+### The Hills Nashville (1000 producten, 23 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Women S Floral Knit Button Cardigan With Long Sleeves | 183 | 150 | +33 |  | [open](https://madebyjessica.store/products/women-s-floral-knit-button-cardigan-with-long-sleeves) |
-
-### Redlich & Becker (1000 producten, 19 snapshots)
-
-_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
-
-### The Hills Nashville (1000 producten, 22 snapshots)
-
-_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
+| 1 | Adele | Orthopedic Wedge Heel Sandals | 35 | 24 | +11 | 59.95 | [open](https://thehillsnashville.com/products/adele-orthopedic-wedge-heel-sandals) |
 
 ### Wright London (638 producten, 7 snapshots)
 
