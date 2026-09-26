@@ -1,67 +1,77 @@
-## Snelste stijgers - 2026-09-25 10:12
+## Snelste stijgers - 2026-09-26 09:53
 
-Venster: 3 dagen | top 5 per store | 70 producten overgeslagen omdat je ze al eerder kreeg
+Venster: 3 dagen | top 5 per store | 51 producten overgeslagen omdat je ze al eerder kreeg
 
 Download onderaan deze pagina bij **Artifacts**: `shopify_import.csv` kun je direct in Shopify importeren via Producten, Importeren.
 
-### Avery Lane Brighton (1000 producten, 22 snapshots)
-
-_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
-
-### By Emilia Rose (1000 producten, 25 snapshots)
+### Avery Lane Brighton (1000 producten, 23 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Women's Orthopaedic Shoes with Mary Jane Strap for Everyday  | 268 | 221 | +47 | 54.00 | [open](https://byemiliarose.com/products/womens-orthopaedic-shoes-with-mary-jane-strap-for-everyday-wear) |
-| 2 | Women’s Midi Skirt with High Waist and Draped Cut | 225 | 205 | +20 | 65.00 | [open](https://byemiliarose.com/products/satin-look-high-waist-midi-skirt-with-draped-cut-for-women) |
-| 3 | Women Coat with Lapel Collar and Button Closure | 246 | 229 | +17 | 97.00 | [open](https://byemiliarose.com/products/women-coat-with-lapel-collar-and-button-closure) |
+| 1 | Tynni Orthopaedic Boots | 322 | 300 | +22 |  | [open](https://averylanebrighton.com/products/tynni-orthopaedic-boots) |
+| 2 | Prism Elegant Trousers | 300 | 285 | +15 |  | [open](https://averylanebrighton.com/products/prism-elegant-trousers) |
+
+### By Emilia Rose (1000 producten, 26 snapshots)
+
+| # | Product | Was | Nu | Stijging | Prijs | Link |
+|---|---------|----:|---:|---------:|------:|------|
+| 1 | Women’s High-Waist Suede-Look Mini Skirt with Long Fringe | 286 | 257 | +29 | 58.00 | [open](https://byemiliarose.com/products/women-s-mini-skirt-with-high-waist-and-fringe-hem) |
+| 2 | Women's Orthopaedic Sandals with Thick Heels for Summer | 110 | 100 | +10 | 58.00 | [open](https://byemiliarose.com/products/womens-orthopaedic-sandals-with-thick-heels-for-summer) |
 
 ### By Mayberry
 
 _geen data opgehaald_
 
-### By Seabourne (756 producten, 18 snapshots)
+### By Seabourne (756 producten, 19 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Finley™ | Maximum Support Sandals | 207 | 175 | +32 | 74.95 | [open](https://byseabourne.com/products/finley) |
-| 2 | Fern | Women's Graphic V-Neck T-Shirt Short Sleeve Relaxed C | 177 | 157 | +20 | 74.95 | [open](https://byseabourne.com/products/fern-womens-graphic-v-neck-t-shirt-short-sleeve-relaxed-casual-tee) |
+| 1 | Alessia | Supportive Style, All-Day Comfort | 321 | 284 | +37 | 84.95 | [open](https://byseabourne.com/products/alessia-supportive-style-all-day-comfort) |
 
 ### Drune
 
 _geen data opgehaald_
 
-### Elle Charleston (1000 producten, 18 snapshots)
-
-_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
-
-### Haus of Mode (1000 producten, 18 snapshots)
-
-_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
-
-### Jessica by Bee (771 producten, 23 snapshots)
-
-_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
-
-### Leon Boutique (1000 producten, 18 snapshots)
+### Elle Charleston (1000 producten, 19 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Fabian | Eleganter taillierter Herren-Cardigan mit Knopfleis | 303 | 290 | +13 | 71.95 | [open](https://leonboutique.co/products/fabian-eleganter-taillierter-herren-cardigan-mit-knopfleiste) |
+| 1 | Makayla Women S Wedding Guest Pleated Cape Maxi Dress | 182 | 168 | +14 |  | [open](https://elle-charleston.com/products/makayla-women-s-wedding-guest-pleated-cape-maxi-dress) |
+
+### Haus of Mode (1000 producten, 19 snapshots)
+
+_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
+
+Nieuw binnengekomen: [3-in-1 Figurformende Shorts: Bauchkontro](https://hausofmode.de/products/3-in-1-figurformende-shorts-bauchkontrolle-po-lifting-and-nahtloser-komfort) (#122)
+
+### Jessica by Bee (782 producten, 24 snapshots)
+
+| # | Product | Was | Nu | Stijging | Prijs | Link |
+|---|---------|----:|---:|---------:|------:|------|
+| 1 | Neverine | Plunge Halter Ruched Fitted Maxi Dress | 257 | 242 | +15 | 39.95 | [open](https://jessicabybee.com/products/neverine-plunge-halter-ruched-fitted-maxi-dress) |
+| 2 | June | Off Shoulder Draped Midi Dress | 121 | 111 | +10 | 49.95 | [open](https://jessicabybee.com/products/june-off-shoulder-draped-midi-dress) |
+
+### Leon Boutique (1000 producten, 19 snapshots)
+
+| # | Product | Was | Nu | Stijging | Prijs | Link |
+|---|---------|----:|---:|---------:|------:|------|
+| 1 | Elise | Damen Traditionelles Kleid mit Kragen und fließender | 358 | 229 | +129 | 39.95 | [open](https://leonboutique.co/products/elise-damen-traditionelles-kleid-mit-kragen-und-fliessender-passform) |
 
 ### Lune London
 
 _geen data opgehaald_
 
-### Made by Jessica (1000 producten, 22 snapshots)
+### Made by Jessica (1000 producten, 23 snapshots)
+
+| # | Product | Was | Nu | Stijging | Prijs | Link |
+|---|---------|----:|---:|---------:|------:|------|
+| 1 | Women S Knee High Boots With Block Heel And Pointed Toe | 498 | 284 | +214 |  | [open](https://madebyjessica.store/products/women-s-knee-high-boots-with-block-heel-and-pointed-toe) |
+
+### Redlich & Becker (1000 producten, 23 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-### Redlich & Becker (1000 producten, 22 snapshots)
-
-_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
-
-### The Hills Nashville (1000 producten, 25 snapshots)
+### The Hills Nashville (1000 producten, 26 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
