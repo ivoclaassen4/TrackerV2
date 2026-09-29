@@ -1,87 +1,71 @@
-## Snelste stijgers - 2026-09-28 11:42
+## Snelste stijgers - 2026-09-29 11:23
 
-Venster: 3 dagen | top 5 per store | 67 producten overgeslagen omdat je ze al eerder kreeg
+Venster: 3 dagen | top 5 per store | 72 producten overgeslagen omdat je ze al eerder kreeg
 
 Download onderaan deze pagina bij **Artifacts**: `shopify_import.csv` kun je direct in Shopify importeren via Producten, Importeren.
 
-### Avery Lane Brighton (1000 producten, 25 snapshots)
+### Avery Lane Brighton (1000 producten, 26 snapshots)
+
+_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
+
+### By Emilia Rose (1000 producten, 29 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Evelyn Quinn | Timeless Elegance With A Feminine Touch | 305 | 283 | +22 | 29.95 | [open](https://averylanebrighton.com/products/evelyn-quinn-retro-a-line-summer-dress) |
-| 2 | Coralynne | Elegant Dress | 207 | 187 | +20 | 34.95 | [open](https://averylanebrighton.com/products/coralynne-elegant-dress) |
-| 3 | Jorlynn | Elegant Sandals | 123 | 106 | +17 | 24.95 | [open](https://averylanebrighton.com/products/jorlynn-elegant-sandals) |
-
-### By Emilia Rose (1000 producten, 28 snapshots)
-
-| # | Product | Was | Nu | Stijging | Prijs | Link |
-|---|---------|----:|---:|---------:|------:|------|
-| 1 | Women's Double-Breasted Trench Coat with Tie Belt | 954 | 195 | +759 | 93.00 | [open](https://byemiliarose.com/products/womens-double-breasted-trench-coat-with-tie-belt) |
-| 2 | Women's Belted Wrap Coat with Faux Fur Collar | 313 | 260 | +53 | 93.00 | [open](https://byemiliarose.com/products/womens-belted-wrap-coat-with-faux-fur-collar) |
-| 3 | Women S Two Piece Set With V Neck Top And Wide Leg Pants | 228 | 197 | +31 |  | [open](https://byemiliarose.com/products/women-s-two-piece-set-with-v-neck-top-and-wide-leg-pants) |
-| 4 | Women’s Maxi Skirt with High Waist and Pleated Front | 320 | 294 | +26 | 68.00 | [open](https://byemiliarose.com/products/women-s-maxi-skirt-with-high-waist-and-pleated-front) |
-| 5 | Women’s Gloves with Lined Interior and Folded Cuffs | 314 | 289 | +25 | 36.00 | [open](https://byemiliarose.com/products/women-s-gloves-with-lined-interior-and-folded-cuffs) |
+| 1 | Women's Hooded Parka with Fur-Trim Hood and Slim Fit | 963 | 197 | +766 | 157.00 | [open](https://byemiliarose.com/products/womens-hooded-parka-with-fur-trim-hood-and-slim-fit) |
+| 2 | Women’s Bomber Jacket with Zipped Front and Straight Hem | 193 | 164 | +29 | 61.00 | [open](https://byemiliarose.com/products/women-s-bomber-jacket-with-zipped-front-and-straight-hem) |
+| 3 | Women’s Blouse with V Neckline and Ruched Waist | 214 | 191 | +23 | 54.00 | [open](https://byemiliarose.com/products/women-s-blouse-with-v-neckline-and-ruched-waist) |
+| 4 | Women’s Blazer with Lapels and | 127 | 114 | +13 | 108.00 | [open](https://byemiliarose.com/products/women-s-blazer-with-lapels-and) |
+| 5 | Women's Leather Ballerina Shoes with Orthopaedic Insole and  | 120 | 108 | +12 | 47.00 | [open](https://byemiliarose.com/products/womens-leather-ballerina-shoes-with-orthopaedic-insole-and-flat-sole) |
 
 ### By Mayberry
 
 _geen data opgehaald_
 
-### By Seabourne (756 producten, 21 snapshots)
+### By Seabourne (756 producten, 22 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Freya | Women's Dragonfly Print Short Sleeve Button Down Shi | 231 | 195 | +36 | 69.95 | [open](https://byseabourne.com/products/freya-womens-dragonfly-print-short-sleeve-button-down-shirt) |
-| 2 | Chloe™ | Classic Elegant Shoes | 139 | 129 | +10 | 129.95 | [open](https://byseabourne.com/products/chloe-classic-elegant-shoes) |
+| 1 | Catherine | Essential Elegant Dress | 93 | 83 | +10 | 74.95 | [open](https://byseabourne.com/products/catherine-essential-elegant-dress) |
 
 ### Drune
 
 _geen data opgehaald_
 
-### Elle Charleston (1000 producten, 21 snapshots)
-
-| # | Product | Was | Nu | Stijging | Prijs | Link |
-|---|---------|----:|---:|---------:|------:|------|
-| 1 | Sophia Womens Strappy Block Heel Comfortable Sandals Ankle S | 287 | 269 | +18 |  | [open](https://elle-charleston.com/products/sophia-womens-strappy-block-heel-comfortable-sandals-ankle-strap-open-toe) |
-| 2 | Andra | Women's Orthopedic Boots with Arch Support | 216 | 205 | +11 | 46.95 | [open](https://elle-charleston.com/products/andra) |
-
-### Haus of Mode (1000 producten, 21 snapshots)
+### Elle Charleston (1000 producten, 22 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-Nieuw binnengekomen: [2-in-1 Präzisionsbürste für Haarfaserpud](https://hausofmode.de/products/2-in-1-praezisionsbuerste-fuer-haarfaserpuder) (#50)
+### Haus of Mode (1000 producten, 22 snapshots)
 
-### Jessica by Bee (802 producten, 26 snapshots)
+_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-| # | Product | Was | Nu | Stijging | Prijs | Link |
-|---|---------|----:|---:|---------:|------:|------|
-| 1 | Women's Leather Tote Bag with Front Pocket and Shoulder Stra | 680 | 275 | +405 | 44.95 | [open](https://jessicabybee.com/products/womens-leather-tote-bag-with-front-pocket-and-shoulder-straps) |
-| 2 | Women's Layered Fringe Mini Dress Sleeveless V-Neck | 683 | 293 | +390 | 49.95 | [open](https://jessicabybee.com/products/womens-layered-fringe-mini-dress-sleeveless-v-neck) |
-| 3 | Women's Cable-Knit Round Neck Jumper Relaxed Fit | 430 | 250 | +180 | 44.95 | [open](https://jessicabybee.com/products/womens-cable-knit-round-neck-jumper-relaxed-fit) |
-| 4 | Women's Double-Breasted Longline Coat with Wide Lapels | 326 | 294 | +32 | 54.95 | [open](https://jessicabybee.com/products/womens-double-breasted-longline-coat-with-wide-lapels) |
-| 5 | Seraphina | Blue Porcelain Print Long Sleeve Belted Maxi Dre | 127 | 117 | +10 | 79.95 | [open](https://jessicabybee.com/products/lillian-floral-print-long-sleeve-belted-maxi-dress) |
-
-### Leon Boutique (1000 producten, 21 snapshots)
+### Jessica by Bee (805 producten, 27 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Johanna Oktoberfest Trachtenkleid Damen Figurbetontes Dirndl | 460 | 259 | +201 |  | [open](https://leonboutique.co/products/johanna-oktoberfest-trachtenkleid-damen-figurbetontes-dirndl-baumwollbluse) |
-| 2 | Sebastian Herren Steppjacke Wattierte Bomberjacke Knitterfre | 456 | 279 | +177 |  | [open](https://leonboutique.co/products/sebastian-herren-steppjacke-wattierte-bomberjacke-knitterfreie-winterjacke) |
-| 3 | Jacqueline | Damen U Boot Ausschnitt Fledermausärmel Midi Bo | 311 | 298 | +13 | 51.95 | [open](https://leonboutique.co/products/jacqueline-damen-u-boot-ausschnitt-fledermausarmel-midi-bodycon-kleid) |
-| 4 | Tim Herren Trendige Cargohose Mit Mehreren Taschen Und Schma | 242 | 232 | +10 |  | [open](https://leonboutique.co/products/tim-herren-trendige-cargohose-mit-mehreren-taschen-und-schmaler-passform) |
+| 1 | Greta | High Neck Keyhole Floral Pleated Midi Dress | 183 | 164 | +19 | 59.95 | [open](https://jessicabybee.com/products/greta-high-neck-keyhole-floral-pleated-midi-dress) |
+| 2 | Pallas | Sleeveless Square Neck Flared Skirt Midi Dress | 206 | 196 | +10 | 39.95 | [open](https://jessicabybee.com/products/pallas-sleeveless-square-neck-flared-skirt-midi-dress) |
+
+### Leon Boutique (1000 producten, 22 snapshots)
+
+| # | Product | Was | Nu | Stijging | Prijs | Link |
+|---|---------|----:|---:|---------:|------:|------|
+| 1 | Mia Damen Trachten Traditionelles Kleid Dirndl Midi Schnrung | 550 | 246 | +304 |  | [open](https://leonboutique.co/products/mia-damen-trachten-traditionelles-kleid-dirndl-midi-schnrung-schrze) |
 
 ### Lune London
 
 _geen data opgehaald_
 
-### Made by Jessica (1000 producten, 25 snapshots)
+### Made by Jessica (1000 producten, 26 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-### Redlich & Becker (1000 producten, 25 snapshots)
+### Redlich & Becker (1000 producten, 26 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-### The Hills Nashville (1000 producten, 28 snapshots)
+### The Hills Nashville (1000 producten, 29 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
