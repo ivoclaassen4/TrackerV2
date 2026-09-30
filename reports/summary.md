@@ -1,71 +1,70 @@
-## Snelste stijgers - 2026-09-29 11:23
+## Snelste stijgers - 2026-09-30 11:11
 
-Venster: 3 dagen | top 5 per store | 72 producten overgeslagen omdat je ze al eerder kreeg
+Venster: 3 dagen | top 5 per store | 74 producten overgeslagen omdat je ze al eerder kreeg
 
 Download onderaan deze pagina bij **Artifacts**: `shopify_import.csv` kun je direct in Shopify importeren via Producten, Importeren.
 
-### Avery Lane Brighton (1000 producten, 26 snapshots)
+### Avery Lane Brighton (1000 producten, 27 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-### By Emilia Rose (1000 producten, 29 snapshots)
+### By Emilia Rose (1000 producten, 30 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Women's Hooded Parka with Fur-Trim Hood and Slim Fit | 963 | 197 | +766 | 157.00 | [open](https://byemiliarose.com/products/womens-hooded-parka-with-fur-trim-hood-and-slim-fit) |
-| 2 | Women’s Bomber Jacket with Zipped Front and Straight Hem | 193 | 164 | +29 | 61.00 | [open](https://byemiliarose.com/products/women-s-bomber-jacket-with-zipped-front-and-straight-hem) |
-| 3 | Women’s Blouse with V Neckline and Ruched Waist | 214 | 191 | +23 | 54.00 | [open](https://byemiliarose.com/products/women-s-blouse-with-v-neckline-and-ruched-waist) |
-| 4 | Women’s Blazer with Lapels and | 127 | 114 | +13 | 108.00 | [open](https://byemiliarose.com/products/women-s-blazer-with-lapels-and) |
-| 5 | Women's Leather Ballerina Shoes with Orthopaedic Insole and  | 120 | 108 | +12 | 47.00 | [open](https://byemiliarose.com/products/womens-leather-ballerina-shoes-with-orthopaedic-insole-and-flat-sole) |
+| 1 | Women's Orthopaedic Loafers with Pointed Toe for Casual Wear | 175 | 162 | +13 | 111.00 | [open](https://byemiliarose.com/products/womens-orthopaedic-loafers-with-pointed-toe-for-casual-wear) |
 
 ### By Mayberry
 
 _geen data opgehaald_
 
-### By Seabourne (756 producten, 22 snapshots)
+### By Seabourne (756 producten, 23 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Catherine | Essential Elegant Dress | 93 | 83 | +10 | 74.95 | [open](https://byseabourne.com/products/catherine-essential-elegant-dress) |
+| 1 | Celeste | Women's Floral Wrap Midi Dress V-Neck Short Sleeve | 297 | 259 | +38 | 99.95 | [open](https://byseabourne.com/products/celeste-womens-floral-wrap-midi-dress-v-neck-short-sleeve) |
 
 ### Drune
 
 _geen data opgehaald_
 
-### Elle Charleston (1000 producten, 22 snapshots)
-
-_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
-
-### Haus of Mode (1000 producten, 22 snapshots)
-
-_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
-
-### Jessica by Bee (805 producten, 27 snapshots)
+### Elle Charleston (1000 producten, 23 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Greta | High Neck Keyhole Floral Pleated Midi Dress | 183 | 164 | +19 | 59.95 | [open](https://jessicabybee.com/products/greta-high-neck-keyhole-floral-pleated-midi-dress) |
-| 2 | Pallas | Sleeveless Square Neck Flared Skirt Midi Dress | 206 | 196 | +10 | 39.95 | [open](https://jessicabybee.com/products/pallas-sleeveless-square-neck-flared-skirt-midi-dress) |
+| 1 | Evelyn | Women's Faux-Fur Hooded Quilted Puffer Winter Coat | 365 | 240 | +125 | 47.95 | [open](https://elle-charleston.com/products/evelyn-womens-faux-fur-hooded-quilted-puffer-winter-coat) |
+| 2 | Madison Womens Draped Cowl Neck Long Sleeve Satin Blouses | 366 | 280 | +86 |  | [open](https://elle-charleston.com/products/madison-womens-draped-cowl-neck-long-sleeve-satin-blouses) |
+| 3 | Lucas Waterproof Boots Ankle Rain Chelsea Slip On Outdoor | 310 | 294 | +16 |  | [open](https://elle-charleston.com/products/lucas-waterproof-boots-ankle-rain-chelsea-slip-on-outdoor) |
+| 4 | Elegant Rhinestone Fish Tail Set | 192 | 177 | +15 | 16.95 | [open](https://elle-charleston.com/products/elegant-rhinestone-fish-tail-set) |
+| 5 | Nychelle | 182 | 172 | +10 |  | [open](https://elle-charleston.com/products/nychelle) |
 
-### Leon Boutique (1000 producten, 22 snapshots)
+### Haus of Mode (1000 producten, 23 snapshots)
 
-| # | Product | Was | Nu | Stijging | Prijs | Link |
-|---|---------|----:|---:|---------:|------:|------|
-| 1 | Mia Damen Trachten Traditionelles Kleid Dirndl Midi Schnrung | 550 | 246 | +304 |  | [open](https://leonboutique.co/products/mia-damen-trachten-traditionelles-kleid-dirndl-midi-schnrung-schrze) |
+_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
+
+Nieuw binnengekomen: [2-in-1 Nagelfräser und UV-Gel-Lampe für ](https://hausofmode.de/products/2-in-1-nagelfraeser-und-uv-gel-lampe-fuer-dicke-naegel-salon-finish) (#50), [2-in-1-Steppdecke – kein Bettbezug nötig](https://hausofmode.de/products/2-in-1-steppdecke-kein-bettbezug-noetig) (#62)
+
+### Jessica by Bee (819 producten, 28 snapshots)
+
+_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
+
+### Leon Boutique (1000 producten, 23 snapshots)
+
+_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
 ### Lune London
 
 _geen data opgehaald_
 
-### Made by Jessica (1000 producten, 26 snapshots)
+### Made by Jessica (1000 producten, 27 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-### Redlich & Becker (1000 producten, 26 snapshots)
+### Redlich & Becker (1000 producten, 27 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-### The Hills Nashville (1000 producten, 29 snapshots)
+### The Hills Nashville (1000 producten, 30 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
