@@ -1,73 +1,72 @@
-## Snelste stijgers - 2026-10-06 12:02
+## Snelste stijgers - 2026-10-07 11:48
 
-Venster: 3 dagen | top 5 per store | 65 producten overgeslagen omdat je ze al eerder kreeg
+Venster: 3 dagen | top 5 per store | 57 producten overgeslagen omdat je ze al eerder kreeg
 
 Download onderaan deze pagina bij **Artifacts**: `shopify_import.csv` kun je direct in Shopify importeren via Producten, Importeren.
 
-### Avery Lane Brighton (1000 producten, 33 snapshots)
+### Avery Lane Brighton (1000 producten, 34 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Olivia Womens Solid V Neck Tankini Swimsuit | 268 | 258 | +10 |  | [open](https://averylanebrighton.com/products/olivia-womens-solid-v-neck-tankini-swimsuit) |
+| 1 | Kendall | Orthopaedic Strass Sandals | 292 | 275 | +17 | 34.95 | [open](https://averylanebrighton.com/products/kendall-orthopaedic-strass-sandals-mm) |
 
-### By Emilia Rose (1000 producten, 36 snapshots)
+### By Emilia Rose (1000 producten, 37 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Women's Double-Breasted Trench Coat with Belted Cuffs | 973 | 242 | +731 | 22.00 | [open](https://byemiliarose.com/products/womens-double-breasted-trench-coat-with-belted-cuffs) |
-| 2 | Women's Grey Long Coat with Notch Collar and Button Closure | 701 | 295 | +406 | 22.00 | [open](https://byemiliarose.com/products/womens-grey-long-coat-with-notch-collar-and-button-closure) |
-| 3 | Women's Knee-High Riding Boots with Buckle Strap | 556 | 185 | +371 | 22.00 | [open](https://byemiliarose.com/products/womens-knee-high-riding-boots-with-buckle-strap) |
-| 4 | Women's Fluffy Knit Jumper with Tree Motif Round Neck | 389 | 297 | +92 | 15.00 | [open](https://byemiliarose.com/products/womens-fluffy-knit-jumper-with-tree-motif-round-neck) |
-| 5 | Women's Orthopaedic Sandals with Block Heel for Summer | 257 | 241 | +16 | 54.00 | [open](https://byemiliarose.com/products/womens-orthopaedic-sandals-with-block-heel-for-summer) |
+| 1 | Women's Hooded Long Winter Coat with Button Closure | 462 | 298 | +164 | 96.00 | [open](https://byemiliarose.com/products/womens-hooded-long-winter-coat-with-button-closure) |
+| 2 | Women's Tiered Pocket Midi Dress | 328 | 274 | +54 | 79.00 | [open](https://byemiliarose.com/products/womens-tiered-pocket-midi-dress) |
+| 3 | Women's Elegant Boho Dress with Button Front for Casual Wear | 116 | 97 | +19 | 86.00 | [open](https://byemiliarose.com/products/women-s-elegant-boho-dress-with-button-front-for-casual-wear) |
 
 ### By Mayberry
 
 _geen data opgehaald_
 
-### By Seabourne (812 producten, 29 snapshots)
+### By Seabourne (812 producten, 30 snapshots)
 
-_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
+| # | Product | Was | Nu | Stijging | Prijs | Link |
+|---|---------|----:|---:|---------:|------:|------|
+| 1 | Bea%E2%84%A2 Elegant Blouse With Enchanting Details | 318 | 268 | +50 |  | [open](https://byseabourne.com/products/bea%E2%84%A2-elegant-blouse-with-enchanting-details) |
+| 2 | Amelie%E2%84%A2 Retro Bloom Dress | 246 | 220 | +26 |  | [open](https://byseabourne.com/products/amelie%E2%84%A2-retro-bloom-dress) |
+| 3 | Desiree%E2%84%A2 Lightweight Summer Trousers | 123 | 106 | +17 |  | [open](https://byseabourne.com/products/desiree%E2%84%A2-lightweight-summer-trousers) |
+| 4 | Ubud Casual Dress | 110 | 96 | +14 |  | [open](https://byseabourne.com/products/ubud-casual-dress) |
+| 5 | Talia T Strap Wedge Sandals | 127 | 113 | +14 |  | [open](https://byseabourne.com/products/talia-t-strap-wedge-sandals) |
 
 ### Drune
 
 _geen data opgehaald_
 
-### Elle Charleston (1000 producten, 29 snapshots)
+### Elle Charleston (1000 producten, 30 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-Nieuw binnengekomen: [Isabrunel | Elegant Midi Dress](https://elle-charleston.com/products/isabrunel) (#4), [Martha](https://elle-charleston.com/products/martha) (#5), [Elina%E2%84%A2](https://elle-charleston.com/products/elina%E2%84%A2) (#10), [Seleneva Elegant Tailored Midi Dress](https://elle-charleston.com/products/seleneva-elegant-tailored-midi-dress) (#13), [Bryleigh | Elegant Maxi Dress Two-Piece ](https://elle-charleston.com/products/bryleigh) (#15)
+Nieuw binnengekomen: [Oriah](https://elle-charleston.com/products/oriah) (#17), [Elviera | Elegant Mini Dress](https://elle-charleston.com/products/elviera) (#18), [Darlene | Sophisticated Midi Dress](https://elle-charleston.com/products/darlene) (#23), [Eryzziah | Elegant Dress](https://elle-charleston.com/products/eryzziah) (#31), [Claribel | Refined Midi Dress](https://elle-charleston.com/products/claribel-refined-black-dress) (#32)
 
-### Haus of Mode (1000 producten, 29 snapshots)
-
-_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
-
-Nieuw binnengekomen: [1080p WiFi-Kamera für Zuhause und Büro –](https://hausofmode.de/products/1080p-wifi-kamera-f-r-zuhause-und-b-ro-secureview) (#15)
-
-### Jessica by Bee (836 producten, 34 snapshots)
+### Haus of Mode (1000 producten, 30 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-### Leon Boutique (1000 producten, 29 snapshots)
+Nieuw binnengekomen: [168-teiliges Murmelbahn-Bauset für Kinde](https://hausofmode.de/products/168-teiliges-murmelbahn-bauset-fuer-kinder-ab-3-jahren-logik-und-feinmotorik) (#33), [2-in-1 Laser-Schweiß- und Schneidwerkzeu](https://hausofmode.de/products/2-in-1-laser-schweiss-und-schneidwerkzeug-mit-20-sekunden-aufheizzeit) (#53), [2-in-1-Sternprojektor und warmes Nachtli](https://hausofmode.de/products/2-in-1-sternprojektor-und-warmes-nachtlicht-mit-austauschbaren-folien-usb-betrieben) (#68), [2-Wege Hoch-/Runter-Außenwandlicht, wett](https://hausofmode.de/products/2-wege-hoch-runter-aussenwandlicht-wetterbestaendige-aluminium-led-wandleuchte) (#97), [3-in-1 Akku-Staubsauger, Wischmopp und T](https://hausofmode.de/products/3-in-1-akku-staubsauger-wischmopp-und-textilreiniger-15-000-pa-saugkraft) (#125)
+
+### Jessica by Bee (852 producten, 35 snapshots)
+
+_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
+
+### Leon Boutique (1000 producten, 30 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Franziska | Damen Modische Stiefeletten mit dicker Sohle | 358 | 299 | +59 | 83.95 | [open](https://leonboutique.co/products/franziska-damen-modische-stiefeletten-mit-dicker-sohle) |
-| 2 | Anja | Damen Gestreifter Rundhals-Pullover für den Frühling | 267 | 256 | +11 | 41.95 | [open](https://leonboutique.co/products/anja-damen-gestreifter-rundhals-pullover-fur-den-fruhling) |
-| 3 | Katharina Damen Wickelkleid A Linie Kurze Rmel V Ausschnitt | 288 | 278 | +10 |  | [open](https://leonboutique.co/products/katharina-damen-wickelkleid-a-linie-kurze-rmel-v-ausschnitt) |
-| 4 | Elias | Herren Lässige Schnürstiefeletten | 304 | 294 | +10 | 81.95 | [open](https://leonboutique.co/products/elias-herren-lassige-schnurstiefeletten) |
+| 1 | Nora Damen Orthopdische Sneaker Mit Breiter Zehenbox Und Sch | 392 | 287 | +105 |  | [open](https://leonboutique.co/products/nora-damen-orthopdische-sneaker-mit-breiter-zehenbox-und-schnrung) |
 
 ### Lune London
 
 _geen data opgehaald_
 
-### Made by Jessica (1000 producten, 33 snapshots)
+### Made by Jessica (1000 producten, 34 snapshots)
 
-| # | Product | Was | Nu | Stijging | Prijs | Link |
-|---|---------|----:|---:|---------:|------:|------|
-| 1 | Airy Kaftan Dress With Ethnic Accent Women S Boho Summer Sty | 138 | 118 | +20 |  | [open](https://madebyjessica.store/products/airy-kaftan-dress-with-ethnic-accent-women-s-boho-summer-style) |
+_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-### Redlich & Becker (1000 producten, 33 snapshots)
+### Redlich & Becker (1000 producten, 34 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
