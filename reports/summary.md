@@ -1,72 +1,70 @@
-## Snelste stijgers - 2026-10-07 11:48
+## Snelste stijgers - 2026-10-08 12:02
 
-Venster: 3 dagen | top 5 per store | 57 producten overgeslagen omdat je ze al eerder kreeg
+Venster: 3 dagen | top 5 per store | 49 producten overgeslagen omdat je ze al eerder kreeg
 
 Download onderaan deze pagina bij **Artifacts**: `shopify_import.csv` kun je direct in Shopify importeren via Producten, Importeren.
 
-### Avery Lane Brighton (1000 producten, 34 snapshots)
+### Avery Lane Brighton (1000 producten, 35 snapshots)
+
+_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
+
+### By Emilia Rose (1000 producten, 38 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Kendall | Orthopaedic Strass Sandals | 292 | 275 | +17 | 34.95 | [open](https://averylanebrighton.com/products/kendall-orthopaedic-strass-sandals-mm) |
-
-### By Emilia Rose (1000 producten, 37 snapshots)
-
-| # | Product | Was | Nu | Stijging | Prijs | Link |
-|---|---------|----:|---:|---------:|------:|------|
-| 1 | Women's Hooded Long Winter Coat with Button Closure | 462 | 298 | +164 | 96.00 | [open](https://byemiliarose.com/products/womens-hooded-long-winter-coat-with-button-closure) |
-| 2 | Women's Tiered Pocket Midi Dress | 328 | 274 | +54 | 79.00 | [open](https://byemiliarose.com/products/womens-tiered-pocket-midi-dress) |
-| 3 | Women's Elegant Boho Dress with Button Front for Casual Wear | 116 | 97 | +19 | 86.00 | [open](https://byemiliarose.com/products/women-s-elegant-boho-dress-with-button-front-for-casual-wear) |
+| 1 | Women’s Dress with Round Neck and Short Sleeves | 370 | 275 | +95 | 50.00 | [open](https://byemiliarose.com/products/womens-dress-with-round-neck-and-short-sleeves) |
+| 2 | Women's Orthopaedic Sandals with Wedge Platform Sole for Sum | 238 | 221 | +17 | 61.00 | [open](https://byemiliarose.com/products/womens-orthopaedic-sandals-with-wedge-platform-sole-for-summer) |
+| 3 | Women’s Midi Dress with Puff Sleeves and Floral Print | 243 | 229 | +14 | 75.00 | [open](https://byemiliarose.com/products/floral-puff-sleeve-midi-dress-for-women) |
+| 4 | Women’s Maxi Dress with V-Neckline and Sheer Sleeves | 127 | 116 | +11 | 89.00 | [open](https://byemiliarose.com/products/floral-maxi-dress-with-flowing-fit) |
+| 5 | Women’s Blouse with Collar and Button Closure | 225 | 215 | +10 | 54.00 | [open](https://byemiliarose.com/products/women-s-blouse-with-collar-and-button-closure) |
 
 ### By Mayberry
 
 _geen data opgehaald_
 
-### By Seabourne (812 producten, 30 snapshots)
+### By Seabourne (812 producten, 31 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Bea%E2%84%A2 Elegant Blouse With Enchanting Details | 318 | 268 | +50 |  | [open](https://byseabourne.com/products/bea%E2%84%A2-elegant-blouse-with-enchanting-details) |
-| 2 | Amelie%E2%84%A2 Retro Bloom Dress | 246 | 220 | +26 |  | [open](https://byseabourne.com/products/amelie%E2%84%A2-retro-bloom-dress) |
-| 3 | Desiree%E2%84%A2 Lightweight Summer Trousers | 123 | 106 | +17 |  | [open](https://byseabourne.com/products/desiree%E2%84%A2-lightweight-summer-trousers) |
-| 4 | Ubud Casual Dress | 110 | 96 | +14 |  | [open](https://byseabourne.com/products/ubud-casual-dress) |
-| 5 | Talia T Strap Wedge Sandals | 127 | 113 | +14 |  | [open](https://byseabourne.com/products/talia-t-strap-wedge-sandals) |
+| 1 | Phoebe™ | Timeless Blouse | 424 | 296 | +128 | 94.95 | [open](https://byseabourne.com/products/phoebe-timeless-blouse) |
+| 2 | Cecilia%E2%84%A2 Trendy Striped Blouse | 275 | 240 | +35 |  | [open](https://byseabourne.com/products/cecilia%E2%84%A2-trendy-striped-blouse) |
+| 3 | Aiza™ | Meadow Glow Jumpsuit | 135 | 110 | +25 | 109.95 | [open](https://byseabourne.com/products/aiza-meadow-glow-jumpsuit) |
+| 4 | Vera%E2%84%A2 Relaxed Wide Leg Trousers | 242 | 219 | +23 |  | [open](https://byseabourne.com/products/vera%E2%84%A2-relaxed-wide-leg-trousers) |
+| 5 | Ingrid™ | Playful Hen Blouse | 92 | 77 | +15 | 94.95 | [open](https://byseabourne.com/products/ingrid-playful-hen-blouse) |
 
 ### Drune
 
 _geen data opgehaald_
 
-### Elle Charleston (1000 producten, 30 snapshots)
+### Elle Charleston (1000 producten, 31 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-Nieuw binnengekomen: [Oriah](https://elle-charleston.com/products/oriah) (#17), [Elviera | Elegant Mini Dress](https://elle-charleston.com/products/elviera) (#18), [Darlene | Sophisticated Midi Dress](https://elle-charleston.com/products/darlene) (#23), [Eryzziah | Elegant Dress](https://elle-charleston.com/products/eryzziah) (#31), [Claribel | Refined Midi Dress](https://elle-charleston.com/products/claribel-refined-black-dress) (#32)
+Nieuw binnengekomen: [Viola](https://elle-charleston.com/products/viola) (#32), [Ysavriann](https://elle-charleston.com/products/ysavriann) (#36), [Alexya | StyliSh Orthopedic Women’s Snea](https://elle-charleston.com/products/alexya-stylish-orthopedic-women-s-sneakers) (#38), [Rm32](https://elle-charleston.com/products/rm32) (#39), [Mykayla](https://elle-charleston.com/products/mykayla) (#53)
 
-### Haus of Mode (1000 producten, 30 snapshots)
-
-_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
-
-Nieuw binnengekomen: [168-teiliges Murmelbahn-Bauset für Kinde](https://hausofmode.de/products/168-teiliges-murmelbahn-bauset-fuer-kinder-ab-3-jahren-logik-und-feinmotorik) (#33), [2-in-1 Laser-Schweiß- und Schneidwerkzeu](https://hausofmode.de/products/2-in-1-laser-schweiss-und-schneidwerkzeug-mit-20-sekunden-aufheizzeit) (#53), [2-in-1-Sternprojektor und warmes Nachtli](https://hausofmode.de/products/2-in-1-sternprojektor-und-warmes-nachtlicht-mit-austauschbaren-folien-usb-betrieben) (#68), [2-Wege Hoch-/Runter-Außenwandlicht, wett](https://hausofmode.de/products/2-wege-hoch-runter-aussenwandlicht-wetterbestaendige-aluminium-led-wandleuchte) (#97), [3-in-1 Akku-Staubsauger, Wischmopp und T](https://hausofmode.de/products/3-in-1-akku-staubsauger-wischmopp-und-textilreiniger-15-000-pa-saugkraft) (#125)
-
-### Jessica by Bee (852 producten, 35 snapshots)
+### Haus of Mode (1000 producten, 31 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-### Leon Boutique (1000 producten, 30 snapshots)
+Nieuw binnengekomen: [1080p WiFi-Kamera für Zuhause und Büro –](https://hausofmode.de/products/1080p-wifi-kamera-fur-zuhause-und-buro-veyra) (#15), [3-in-1 Rotationsgemüseschneider mit Saug](https://hausofmode.de/products/3-in-1-rotationsgemueseschneider-mit-saugfuss-und-austauschbaren-trommeln) (#149)
 
-| # | Product | Was | Nu | Stijging | Prijs | Link |
-|---|---------|----:|---:|---------:|------:|------|
-| 1 | Nora Damen Orthopdische Sneaker Mit Breiter Zehenbox Und Sch | 392 | 287 | +105 |  | [open](https://leonboutique.co/products/nora-damen-orthopdische-sneaker-mit-breiter-zehenbox-und-schnrung) |
+### Jessica by Bee (866 producten, 36 snapshots)
+
+_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
+
+### Leon Boutique (1000 producten, 31 snapshots)
+
+_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
 ### Lune London
 
 _geen data opgehaald_
 
-### Made by Jessica (1000 producten, 34 snapshots)
+### Made by Jessica (1000 producten, 35 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-### Redlich & Becker (1000 producten, 34 snapshots)
+### Redlich & Becker (1000 producten, 35 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
