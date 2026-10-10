@@ -1,14 +1,14 @@
-## Snelste stijgers - 2026-10-09 11:55
+## Snelste stijgers - 2026-10-10 11:11
 
-Venster: 3 dagen | top 5 per store | 50 producten overgeslagen omdat je ze al eerder kreeg
+Venster: 3 dagen | top 5 per store | 41 producten overgeslagen omdat je ze al eerder kreeg
 
 Download onderaan deze pagina bij **Artifacts**: `shopify_import.csv` kun je direct in Shopify importeren via Producten, Importeren.
 
-### Avery Lane Brighton (1000 producten, 36 snapshots)
+### Avery Lane Brighton (1000 producten, 37 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-### By Emilia Rose (1000 producten, 39 snapshots)
+### By Emilia Rose (1000 producten, 40 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
@@ -16,47 +16,45 @@ _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen 
 
 _geen data opgehaald_
 
-### By Seabourne (812 producten, 32 snapshots)
+### By Seabourne (812 producten, 33 snapshots)
 
-| # | Product | Was | Nu | Stijging | Prijs | Link |
-|---|---------|----:|---:|---------:|------:|------|
-| 1 | Calveth | Women's Fringe Cocktail Dress Mini | 326 | 285 | +41 | 54.95 | [open](https://byseabourne.com/products/calveth-womens-fringe-cocktail-dress-mini) |
-| 2 | Selinda Elegant Shoulder Bag | 143 | 130 | +13 |  | [open](https://byseabourne.com/products/selinda-elegant-shoulder-bag) |
-| 3 | Eva%E2%84%A2 Premium V Neck Blouse | 81 | 71 | +10 |  | [open](https://byseabourne.com/products/eva%E2%84%A2-premium-v-neck-blouse) |
+_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
 ### Drune
 
 _geen data opgehaald_
 
-### Elle Charleston (1000 producten, 32 snapshots)
+### Elle Charleston (1000 producten, 33 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Arianell | Pure Wool Winter Knit Midi Dress | 297 | 263 | +34 | 59.95 | [open](https://elle-charleston.com/products/arianell-warm-knit-midi-dress-elegant-and-comfortable) |
+| 1 | Norajs | 288 | 277 | +11 |  | [open](https://elle-charleston.com/products/norajs) |
+| 2 | Charlotte | Satin Maxi Dress Ruched Sweetheart Split | 256 | 246 | +10 | 44.95 | [open](https://elle-charleston.com/products/charlotte-satin-maxi-dress-ruched-sweetheart-split) |
+| 3 | Scarlett Womens Boho Mini Dress V Neck Bell Sleeves Eyelet L | 290 | 280 | +10 |  | [open](https://elle-charleston.com/products/scarlett-womens-boho-mini-dress-v-neck-bell-sleeves-eyelet-lace) |
 
-### Haus of Mode (1000 producten, 32 snapshots)
-
-_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
-
-Nieuw binnengekomen: [10,000 Lumen Wiederaufladbare LED-Tasche](https://hausofmode.de/products/10-000-lumen-wiederaufladbare-led-taschenlampe-mit-zoom-usb-c-und-powerbank-funktion) (#7), [1000 elastische Einweg-Lebensmittelabdec](https://hausofmode.de/products/1000-elastische-einweg-lebensmittelabdeckungen-pe-schalen-und-tellerabdeckungen-35-cm) (#11), [20,000 mAh Tragbares Ladegerät mit 22.5W](https://hausofmode.de/products/20-000-mah-tragbares-ladegerat-mit-22-5w-schnellladen-und-15w-kabellosem-qi-laden) (#100), [3-in-1 faltbare magnetische kabellose La](https://hausofmode.de/products/3-in-1-faltbare-magnetische-kabellose-ladestation-qi2) (#135)
-
-### Jessica by Bee (866 producten, 37 snapshots)
+### Haus of Mode (1000 producten, 33 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-### Leon Boutique (1000 producten, 32 snapshots)
+### Jessica by Bee (882 producten, 38 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
+
+### Leon Boutique (1000 producten, 33 snapshots)
+
+| # | Product | Was | Nu | Stijging | Prijs | Link |
+|---|---------|----:|---:|---------:|------:|------|
+| 1 | Frieda | Damen Fleecegefütterte Wasserdichte Kapuzenjacke mi | 505 | 298 | +207 | 43.95 | [open](https://leonboutique.co/products/frieda-damen-fleecegeftterte-wasserdichte-kapuzenjacke-mit-reiverschluss) |
 
 ### Lune London
 
 _geen data opgehaald_
 
-### Made by Jessica (1000 producten, 36 snapshots)
+### Made by Jessica (1000 producten, 37 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-### Redlich & Becker (1000 producten, 36 snapshots)
+### Redlich & Becker (1000 producten, 37 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
