@@ -1,74 +1,72 @@
-## Snelste stijgers - 2026-10-11 11:25
+## Snelste stijgers - 2026-10-12 13:08
 
-Venster: 3 dagen | top 5 per store | 39 producten overgeslagen omdat je ze al eerder kreeg
+Venster: 3 dagen | top 5 per store | 53 producten overgeslagen omdat je ze al eerder kreeg
 
 Download onderaan deze pagina bij **Artifacts**: `shopify_import.csv` kun je direct in Shopify importeren via Producten, Importeren.
 
-### Avery Lane Brighton (1000 producten, 38 snapshots)
+### Avery Lane Brighton (1000 producten, 39 snapshots)
+
+_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
+
+### By Emilia Rose (1000 producten, 42 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Lorrie | Sophisticated Dress | 311 | 275 | +36 | 29.95 | [open](https://averylanebrighton.com/products/lorrie-sophisticated-dress) |
-| 2 | Scarlett Womens Floral Applique Sleeveless Maxi Dress | 266 | 256 | +10 |  | [open](https://averylanebrighton.com/products/scarlett-womens-floral-applique-sleeveless-maxi-dress) |
-
-### By Emilia Rose (1000 producten, 41 snapshots)
-
-| # | Product | Was | Nu | Stijging | Prijs | Link |
-|---|---------|----:|---:|---------:|------:|------|
-| 1 | Women's Cropped Wool Jacket with Flap Pockets | 999 | 267 | +732 | 18.00 | [open](https://byemiliarose.com/products/womens-cropped-wool-jacket-with-flap-pockets) |
-| 2 | Women's Leather Ballet Flats with Slip-On for Everyday Wear | 352 | 297 | +55 | 68.00 | [open](https://byemiliarose.com/products/womens-leather-ballet-flats-with-slip-on-for-everyday-wear) |
-| 3 | Women’s Jumpsuit with Round Neckline and Wide Legs | 309 | 279 | +30 | 68.00 | [open](https://byemiliarose.com/products/women-s-jumpsuit-with-round-neckline-and-wide-legs-1) |
-| 4 | Women's Leather Ankle Boots with Buckle and Zip | 322 | 293 | +29 | 89.00 | [open](https://byemiliarose.com/products/womens-leather-ankle-boots-with-buckle-and-zip) |
-| 5 | Women's Leather Pumps with Platform Sole and Side Zipper | 323 | 295 | +28 | 93.00 | [open](https://byemiliarose.com/products/womens-leather-pumps-with-platform-sole-and-side-zipper) |
+| 1 | Women's Leather Belt with Metal Turn-Lock Closure | 418 | 273 | +145 | 36.00 | [open](https://byemiliarose.com/products/womens-leather-belt-with-metal-turn-lock-closure) |
+| 2 | Women S T Shirt With V Neckline And Shortsleeves | 314 | 252 | +62 |  | [open](https://byemiliarose.com/products/women-s-t-shirt-with-v-neckline-and-shortsleeves) |
+| 3 | Women’s Midi Dress with Asymmetrical Neckline and Belt | 199 | 176 | +23 | 82.00 | [open](https://byemiliarose.com/products/women-s-midi-dress-with-asymmetrical-neckline-and-belt) |
+| 4 | Women's Oversized Blouse with Long Sleeves and Shimmering De | 200 | 178 | +22 | 72.00 | [open](https://byemiliarose.com/products/womens-oversized-blouse-with-long-sleeves-and-shimmering-design) |
+| 5 | Women’s Shorts with Elastic Waistband and Side Pockets | 85 | 74 | +11 | 55.00 | [open](https://byemiliarose.com/products/women-s-shorts-with-elastic-waistband-and-side-pockets) |
 
 ### By Mayberry
 
 _geen data opgehaald_
 
-### By Seabourne (812 producten, 34 snapshots)
+### By Seabourne (812 producten, 35 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Arvina | Women's Orthopedic Thong Sandals with Arch Support | 462 | 256 | +206 | 44.95 | [open](https://byseabourne.com/products/arvina-womens-orthopedic-thong-sandals-with-arch-support) |
-| 2 | Feline™ | Azure Stripe Blouse | 263 | 237 | +26 | 94.95 | [open](https://byseabourne.com/products/feline-azure-stripe-blouse) |
+| 1 | Calla | Embroidered Slide Sandals | 319 | 283 | +36 | 59.95 | [open](https://byseabourne.com/products/calla-embroidered-slide-sandals) |
+| 2 | Dolores™ | Comfortable Arch Support Shoes | 208 | 189 | +19 | 79.95 | [open](https://byseabourne.com/products/dolores) |
 
 ### Drune
 
 _geen data opgehaald_
 
-### Elle Charleston (1000 producten, 34 snapshots)
+### Elle Charleston (1000 producten, 35 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Sary Comfort Walkers | 309 | 285 | +24 |  | [open](https://elle-charleston.com/products/sary-comfort-walkers) |
-| 2 | Aradia | Elegant Black Velvet And Satin Midi Dress | 281 | 271 | +10 | 68.95 | [open](https://elle-charleston.com/products/aradia-elegant-black-velvet-and-satin-midi-dress-vervangt-vespera) |
+| 1 | Rosalie | 197 | 186 | +11 |  | [open](https://elle-charleston.com/products/rosalie) |
+| 2 | Lyzziane | 289 | 278 | +11 |  | [open](https://elle-charleston.com/products/lyzziane) |
+| 3 | Harper | Women's Platform Wedge Sandals Ankle Strap Orthoped | 174 | 164 | +10 | 36.95 | [open](https://elle-charleston.com/products/harper-womens-platform-wedge-sandals-ankle-strap-orthopedic) |
+| 4 | Penelope Womens Denim Overalls Sleeveless Loose Fit Button F | 293 | 283 | +10 |  | [open](https://elle-charleston.com/products/penelope-womens-denim-overalls-sleeveless-loose-fit-button-front) |
 
-### Haus of Mode (1000 producten, 34 snapshots)
+### Haus of Mode (1000 producten, 35 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-### Jessica by Bee (882 producten, 39 snapshots)
+### Jessica by Bee (898 producten, 40 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Women's Supportive Lace-Up Trainers with Cushioned Sole | 719 | 265 | +454 | 19.95 | [open](https://jessicabybee.com/products/womens-supportive-lace-up-trainers-with-cushioned-sole) |
+| 1 | Women's Relaxed Button-Front Cardigan with Pockets | 317 | 287 | +30 | 19.95 | [open](https://jessicabybee.com/products/womens-relaxed-button-front-cardigan-with-pockets) |
 
-### Leon Boutique (1000 producten, 34 snapshots)
+### Leon Boutique (1000 producten, 35 snapshots)
 
-| # | Product | Was | Nu | Stijging | Prijs | Link |
-|---|---------|----:|---:|---------:|------:|------|
-| 1 | Marlene Damen Geftterte Winterjacke Mit Kunstfell Kapuze Und | 420 | 297 | +123 |  | [open](https://leonboutique.co/products/marlene-damen-geftterte-winterjacke-mit-kunstfell-kapuze-und-taille) |
-| 2 | Emilia | Damen Schulterfreies langes Kleid für Hochzeitsgäst | 314 | 300 | +14 | 59.95 | [open](https://leonboutique.co/products/emilia-damen-schulterfreies-langes-kleid-fur-hochzeitsgaste) |
+_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
 ### Lune London
 
 _geen data opgehaald_
 
-### Made by Jessica (1000 producten, 38 snapshots)
+### Made by Jessica (1000 producten, 39 snapshots)
 
-_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
+| # | Product | Was | Nu | Stijging | Prijs | Link |
+|---|---------|----:|---:|---------:|------:|------|
+| 1 | Women's Sweatshirt with Half Button and Denim-Style Collar | 395 | 248 | +147 | 49.95 | [open](https://madebyjessica.store/products/womens-sweatshirt-with-half-button-and-denim-style-collarwomens-sweatshirt-with-half-button-and-denim-style-collar) |
 
-### Redlich & Becker (1000 producten, 38 snapshots)
+### Redlich & Becker (1000 producten, 39 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
