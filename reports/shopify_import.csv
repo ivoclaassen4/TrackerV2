@@ -1,75 +1,850 @@
 ﻿Handle,Title,Body (HTML),Vendor,Product Category,Type,Tags,Published,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Option3 Name,Option3 Value,Variant SKU,Variant Grams,Variant Inventory Tracker,Variant Inventory Qty,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Compare At Price,Variant Requires Shipping,Variant Taxable,Variant Barcode,Image Src,Image Position,Image Alt Text,Gift Card,SEO Title,SEO Description,Status,Bron store,Bron URL,Positie nu,Positie toen,Stijging
-womens-hooded-teddy-coat-with-button-closure,Women's Hooded Teddy Coat with Button Closure,"<h3><strong>A hooded teddy coat with button closure and long silhouette for everyday layering.</strong></h3>
-<p>This women's hooded teddy coat features a textured fleece finish, button-front closure, and a long straight-cut silhouette. The attached hood provides added coverage, while side pockets offer practical storage. The relaxed shape layers easily over casual outfits for daily wear, commuting, and seasonal styling.</p>
-<h3><strong>Features of the Women's Teddy Coat for Everyday Wear</strong></h3>
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,Women’s Maxi Skirt with Elastic Waist and Sequin Surface,"<h3><strong>Women’s high waist maxi skirt with full sequin surface</strong></h3>
+<p>This skirt features a high elastic waistband without visible fastening. It includes no pockets and follows a fitted cut from waist to hips. The skirt extends to a maxi length near the ankles with a straight hem. The surface is fully covered with sequins creating a textured surface.</p>
+<h3><strong>Features of the Women’s Maxi Skirt:</strong></h3>
+<ul>
+<li>
+<p><strong>High elastic waistband:</strong> Stretch waistband without buttons or zips.</p>
+</li>
+<li>
+<p><strong>Pull-on design:</strong> No visible fastening or closure system.</p>
+</li>
+<li>
+<p><strong>Fitted upper section:</strong> Close fit through waist and hips.</p>
+</li>
+<li>
+<p><strong>Maxi length:</strong> Hem falls near ankle level.</p>
+</li>
+<li>
+<p><strong>Sequin surface:</strong> Entire skirt covered with sequins creating texture.</p>
+</li>
+</ul>
+<table style=""width: 100%;"">
+<thead>
+<tr>
+<th>Size</th>
+<th>Waist (cm/in)</th>
+<th>Length (cm/in)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>S</td>
+<td>60 / 23.62</td>
+<td>76 / 29.92</td>
+</tr>
+<tr>
+<td>M</td>
+<td>62 / 24.41</td>
+<td>77 / 30.31</td>
+</tr>
+<tr>
+<td>L</td>
+<td>64 / 25.20</td>
+<td>78 / 30.71</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>66 / 25.98</td>
+<td>79 / 31.10</td>
+</tr>
+<tr>
+<td>2XL</td>
+<td>68 / 26.77</td>
+<td>80 / 31.50</td>
+</tr>
+</tbody>
+</table>",Emilia Melbourne,,Women’s Maxi Skirt,"rank-tracker, bron-by-emilia-rose, Women’s Maxi Skirt",FALSE,Colour,Apricot,Size,S,,,shopify_NL_10458751828309_52641027653973,0,shopify,100,continue,manual,94.95,189.95,TRUE,FALSE,,https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sMaxiSkirtwithElasticWaistandSequinSurface_8.png?v=1783333431,1,Women’s Maxi Skirt with Elastic Waist and Sequin Surface,FALSE,Women’s Maxi Skirt with Elastic Waist and Sequin Surface,"Women’s high waist maxi skirt with full sequin surface  
+ This skirt features a high elastic waistband without visible fastening. It includes no pockets and follows a fitted cut from waist to hips. The skirt extends to a maxi length near the ankles with a straight hem. The surface is fully covered with sequins creati",draft,By Emilia Rose,https://byemiliarose.com/products/women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,118,128,10
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,Colour,Black,Size,S,,,shopify_NL_10458751828309_52641027686741,0,shopify,100,continue,manual,94.95,189.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,Colour,Dark Green,Size,S,,,shopify_NL_10458751828309_52641027752277,0,shopify,100,continue,manual,94.95,189.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,Colour,Magenta,Size,S,,,shopify_NL_10458751828309_52641027621205,0,shopify,100,continue,manual,94.95,189.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,Colour,Silver,Size,S,,,shopify_NL_10458751828309_52641027719509,0,shopify,100,continue,manual,94.95,189.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,Colour,Turquoise,Size,S,,,shopify_NL_10458751828309_52641027785045,0,shopify,100,continue,manual,94.95,189.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,Colour,Apricot,Size,M,,,shopify_NL_10458751828309_52641027817813,0,shopify,100,continue,manual,94.95,189.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,Colour,Black,Size,M,,,shopify_NL_10458751828309_52641027850581,0,shopify,100,continue,manual,94.95,189.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,Colour,Dark Green,Size,M,,,shopify_NL_10458751828309_52641027916117,0,shopify,100,continue,manual,94.95,189.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,Colour,Magenta,Size,M,,,shopify_NL_10458751828309_52641027948885,0,shopify,100,continue,manual,94.95,189.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,Colour,Silver,Size,M,,,shopify_NL_10458751828309_52641027981653,0,shopify,100,continue,manual,94.95,189.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,Colour,Turquoise,Size,M,,,shopify_NL_10458751828309_52641027883349,0,shopify,100,continue,manual,94.95,189.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,Colour,Apricot,Size,L,,,shopify_NL_10458751828309_52641028112725,0,shopify,100,continue,manual,94.95,189.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,Colour,Black,Size,L,,,shopify_NL_10458751828309_52641028014421,0,shopify,100,continue,manual,94.95,189.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,Colour,Dark Green,Size,L,,,shopify_NL_10458751828309_52641028178261,0,shopify,100,continue,manual,94.95,189.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,Colour,Magenta,Size,L,,,shopify_NL_10458751828309_52641028145493,0,shopify,100,continue,manual,94.95,189.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,Colour,Silver,Size,L,,,shopify_NL_10458751828309_52641028047189,0,shopify,100,continue,manual,94.95,189.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,Colour,Turquoise,Size,L,,,shopify_NL_10458751828309_52641028079957,0,shopify,100,continue,manual,94.95,189.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,Colour,Apricot,Size,XL,,,shopify_NL_10458751828309_52641028407637,0,shopify,100,continue,manual,94.95,189.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,Colour,Black,Size,XL,,,shopify_NL_10458751828309_52641028702549,0,shopify,100,continue,manual,94.95,189.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,Colour,Dark Green,Size,XL,,,shopify_NL_10458751828309_52641028211029,0,shopify,100,continue,manual,94.95,189.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,Colour,Magenta,Size,XL,,,shopify_NL_10458751828309_52641028309333,0,shopify,100,continue,manual,94.95,189.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,Colour,Silver,Size,XL,,,shopify_NL_10458751828309_52641028505941,0,shopify,100,continue,manual,94.95,189.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,Colour,Turquoise,Size,XL,,,shopify_NL_10458751828309_52641028604245,0,shopify,100,continue,manual,94.95,189.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,Colour,Apricot,Size,2XL,,,shopify_NL_10458751828309_52641028440405,0,shopify,100,continue,manual,94.95,189.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,Colour,Black,Size,2XL,,,shopify_NL_10458751828309_52641028735317,0,shopify,100,continue,manual,94.95,189.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,Colour,Dark Green,Size,2XL,,,shopify_NL_10458751828309_52641028243797,0,shopify,100,continue,manual,94.95,189.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,Colour,Magenta,Size,2XL,,,shopify_NL_10458751828309_52641028342101,0,shopify,100,continue,manual,94.95,189.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,Colour,Silver,Size,2XL,,,shopify_NL_10458751828309_52641028538709,0,shopify,100,continue,manual,94.95,189.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,Colour,Turquoise,Size,2XL,,,shopify_NL_10458751828309_52641028637013,0,shopify,100,continue,manual,94.95,189.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sMaxiSkirtwithElasticWaistandSequinSurface_6.png?v=1783333435,2,,,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sMaxiSkirtwithElasticWaistandSequinSurface_4.png?v=1783333421,3,,,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sMaxiSkirtwithElasticWaistandSequinSurface_2.png?v=1783333413,4,,,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sMaxiSkirtwithElasticWaistandSequinSurface_1.png?v=1783333409,5,,,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sMaxiSkirtwithElasticWaistandSequinSurface_9.png?v=1783333428,6,,,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sMaxiSkirtwithElasticWaistandSequinSurface_3.png?v=1783333424,7,,,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sMaxiSkirtwithElasticWaistandSequinSurface_5.png?v=1783333438,8,,,,,,,,,,
+women-s-maxi-skirt-with-elastic-waist-and-sequin-surface,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sMaxiSkirtwithElasticWaistandSequinSurface_7.png?v=1783333417,9,,,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,Aldara | Women's Relaxed Fit Crinkle Button-Down Blouse,"<h3>Women's crinkle button-down blouse — relaxed fit, short sleeve</h3>
+<p>The Aldara is a short-sleeve button-down blouse with a crinkle texture that keeps things looking put-together without any extra effort. It's the kind of top you throw on with denim shorts in the morning and still feel sorted by afternoon. Loose enough to stay comfortable all day, polished enough to wear anywhere.</p>
+<h4>Why the Aldara relaxed crinkle blouse works so well:</h4>
+<ul>
+<li>
+<strong>Crinkle Texture:</strong> Hides creases naturally — no ironing needed</li>
+<li>
+<strong>Relaxed Fit:</strong> Loose through the body without looking shapeless</li>
+<li>
+<strong>Short Sleeve Button-Down:</strong> Easy to layer open or wear fully buttoned</li>
+<li>
+<strong>Chest Pocket Detail:</strong> Adds structure and a casual, lived-in feel</li>
+</ul>
+<p>Make the Aldara your go-to blouse for warm-weather days when you want to look sorted without trying too hard.</p>",SEABOURNE,,Blouse,"rank-tracker, bron-by-seabourne, Blouse",FALSE,Colour,White,Size,S,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,https://cdn.shopify.com/s/files/1/0952/6175/3687/files/aldara-womens-relaxed-fit-crinkle-button-down-blouse-1.png?v=1787066221,1,Aldara | Women's Relaxed Fit Crinkle Button-Down Blouse,FALSE,Aldara | Women's Relaxed Fit Crinkle Button-Down Blouse,"Women's crinkle button-down blouse — relaxed fit, short sleeve 
+ The Aldara is a short-sleeve button-down blouse with a crinkle texture that keeps things looking put-together without any extra effort. It's the kind of top you throw on with denim shorts in the morning and still feel sorted by afternoon. Loose enough to",draft,By Seabourne,https://byseabourne.com/products/aldara-womens-relaxed-fit-crinkle-button-down-blouse,287,385,98
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,White,Size,M,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,White,Size,L,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,White,Size,XL,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,White,Size,2XL,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,White,Size,3XL,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,White,Size,4XL,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,White,Size,5XL,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Sage,Size,S,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Sage,Size,M,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Sage,Size,L,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Sage,Size,XL,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Sage,Size,2XL,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Sage,Size,3XL,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Sage,Size,4XL,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Sage,Size,5XL,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Light Blue,Size,S,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Light Blue,Size,M,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Light Blue,Size,L,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Light Blue,Size,XL,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Light Blue,Size,2XL,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Light Blue,Size,3XL,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Light Blue,Size,4XL,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Light Blue,Size,5XL,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Black,Size,S,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Black,Size,M,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Black,Size,L,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Black,Size,XL,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Black,Size,2XL,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Black,Size,3XL,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Black,Size,4XL,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Black,Size,5XL,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Yellow,Size,S,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Yellow,Size,M,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Yellow,Size,L,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Yellow,Size,XL,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Yellow,Size,2XL,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Yellow,Size,3XL,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Yellow,Size,4XL,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Yellow,Size,5XL,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Lavender,Size,S,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Lavender,Size,M,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Lavender,Size,L,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Lavender,Size,XL,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Lavender,Size,2XL,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Lavender,Size,3XL,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Lavender,Size,4XL,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,Colour,Lavender,Size,5XL,,,,0,shopify,100,continue,manual,59.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0952/6175/3687/files/aldara-womens-relaxed-fit-crinkle-button-down-blouse-2.png?v=1787066224,2,,,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0952/6175/3687/files/aldara-womens-relaxed-fit-crinkle-button-down-blouse-3.png?v=1787066226,3,,,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0952/6175/3687/files/aldara-womens-relaxed-fit-crinkle-button-down-blouse-4.png?v=1787066229,4,,,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0952/6175/3687/files/aldara-womens-relaxed-fit-crinkle-button-down-blouse-5.png?v=1787066233,5,,,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0952/6175/3687/files/aldara-womens-relaxed-fit-crinkle-button-down-blouse-6.png?v=1787066236,6,,,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0952/6175/3687/files/aldara-womens-relaxed-fit-crinkle-button-down-blouse-7.png?v=1787066238,7,,,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0952/6175/3687/files/aldara-womens-relaxed-fit-crinkle-button-down-blouse-8.png?v=1787066241,8,,,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0952/6175/3687/files/aldara-womens-relaxed-fit-crinkle-button-down-blouse-9.png?v=1787066243,9,,,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0952/6175/3687/files/aldara-womens-relaxed-fit-crinkle-button-down-blouse-10.png?v=1787066246,10,,,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0952/6175/3687/files/aldara-womens-relaxed-fit-crinkle-button-down-blouse-11.png?v=1787066249,11,,,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0952/6175/3687/files/aldara-womens-relaxed-fit-crinkle-button-down-blouse-12.png?v=1787066251,12,,,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0952/6175/3687/files/aldara-womens-relaxed-fit-crinkle-button-down-blouse-13.png?v=1787066255,13,,,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0952/6175/3687/files/aldara-womens-relaxed-fit-crinkle-button-down-blouse-14.png?v=1787066258,14,,,,,,,,,,
+aldara-womens-relaxed-fit-crinkle-button-down-blouse,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0952/6175/3687/files/aldara-womens-relaxed-fit-crinkle-button-down-blouse-15.png?v=1787066260,15,,,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,Calveth | Women's Closed-Toe Flat Sandals,"<h3>Women's closed-toe sandals with ankle strap</h3>
+<p>The Calveth is a closed-toe flat sandal built around a breathable mesh upper and a cushioned footbed lined in natural-look textile — the kind of shoe you reach for on warm days when you need something comfortable but put-together. The ankle strap with a buckle closure keeps things secure without fuss, and the rounded toe gives it a quietly polished shape that works with jeans, linen trousers or a casual summer dress.</p>
+<h4>Why the Calveth closed-toe sandal is perfect for you:</h4>
+<ul>
+<li>
+<strong>Breathable Mesh Upper:</strong> Keeps feet cool and ventilated all day long</li>
+<li>
+<strong>Adjustable Ankle Strap:</strong> Buckle closure for a secure, customisable fit</li>
+<li>
+<strong>Cushioned Textile Footbed:</strong> Soft underfoot support for everyday walking comfort</li>
+<li>
+<strong>Flat Rubber Outsole:</strong> Stable, flexible sole suited to long days on your feet</li>
+</ul>
+<p>Make the Calveth your go-to warm-weather sandal for days when comfort and style both matter.</p>
+<table style=""border-collapse:collapse;width:100%;max-width:520px;margin:16px 0"">
+<caption style=""caption-side:top;text-align:left;font-weight:600;padding-bottom:6px"">Size guide</caption>
+<thead><tr>
+<th style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px;background:#f6f6f6;font-weight:600"">Foot length (cm)</th>
+<th style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px;background:#f6f6f6;font-weight:600"">AU</th>
+<th style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px;background:#f6f6f6;font-weight:600"">EU label size</th>
+</tr></thead>
+<tbody>
+<tr>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">22.0</td>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">AU 5</td>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">34</td>
+</tr>
+<tr>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">22.5</td>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">AU 5.5</td>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">35</td>
+</tr>
+<tr>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">23.0</td>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">AU 6</td>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">36</td>
+</tr>
+<tr>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">23.5</td>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">AU 6.5</td>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">37</td>
+</tr>
+<tr>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">24.0</td>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">AU 7</td>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">38</td>
+</tr>
+<tr>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">24.5</td>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">AU 7.5</td>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">38</td>
+</tr>
+<tr>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">25.0</td>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">AU 8</td>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">39</td>
+</tr>
+<tr>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">25.5</td>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">AU 8.5</td>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">40</td>
+</tr>
+<tr>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">26.0</td>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">AU 9</td>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">40</td>
+</tr>
+<tr>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">26.5</td>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">AU 9.5</td>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">41</td>
+</tr>
+<tr>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">27.0</td>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">AU 10</td>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">42</td>
+</tr>
+<tr>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">27.5</td>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">AU 10.5</td>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">42</td>
+</tr>
+<tr>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">28.0</td>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">AU 11</td>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">43</td>
+</tr>
+<tr>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">28.5</td>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">AU 11.5</td>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">44</td>
+</tr>
+<tr>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">29.0</td>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">AU 12</td>
+<td style=""padding:6px 10px;border:1px solid #e5e5e5;text-align:center;font-size:14px"">45</td>
+</tr>
+</tbody>
+</table><p style=""font-size:13px;color:#666;margin-top:6px"">Measure your foot from heel to longest toe. Between sizes, or wider feet — take the larger size.</p>",SEABOURNE,,Sandals,"rank-tracker, bron-by-seabourne, Sandals",FALSE,Colour,Khaki,Size,AU 5,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,https://cdn.shopify.com/s/files/1/0952/6175/3687/files/calveth-womens-closed-toe-flat-sandals-1.webp?v=1790694742,1,Calveth | Women's Closed-Toe Flat Sandals,FALSE,Calveth | Women's Closed-Toe Flat Sandals,"Women's closed-toe sandals with ankle strap 
+ The Calveth is a closed-toe flat sandal built around a breathable mesh upper and a cushioned footbed lined in natural-look textile — the kind of shoe you reach for on warm days when you need something comfortable but put-together. The ankle strap with a buckle closure keep",draft,By Seabourne,https://byseabourne.com/products/calveth-womens-closed-toe-flat-sandals,286,323,37
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Khaki,Size,AU 5.5,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Khaki,Size,AU 6,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Khaki,Size,AU 6.5,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Khaki,Size,AU 7,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Khaki,Size,AU 7.5,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Khaki,Size,AU 8,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Khaki,Size,AU 8.5,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Khaki,Size,AU 9,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Khaki,Size,AU 9.5,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Khaki,Size,AU 10,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Khaki,Size,AU 10.5,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Khaki,Size,AU 11,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Khaki,Size,AU 11.5,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Khaki,Size,AU 12,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Black,Size,AU 5,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Black,Size,AU 5.5,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Black,Size,AU 6,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Black,Size,AU 6.5,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Black,Size,AU 7,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Black,Size,AU 7.5,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Black,Size,AU 8,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Black,Size,AU 8.5,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Black,Size,AU 9,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Black,Size,AU 9.5,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Black,Size,AU 10,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Black,Size,AU 10.5,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Black,Size,AU 11,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Black,Size,AU 11.5,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Black,Size,AU 12,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Beige,Size,AU 5,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Beige,Size,AU 5.5,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Beige,Size,AU 6,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Beige,Size,AU 6.5,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Beige,Size,AU 7,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Beige,Size,AU 7.5,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Beige,Size,AU 8,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Beige,Size,AU 8.5,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Beige,Size,AU 9,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Beige,Size,AU 9.5,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Beige,Size,AU 10,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Beige,Size,AU 10.5,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Beige,Size,AU 11,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Beige,Size,AU 11.5,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,Colour,Beige,Size,AU 12,,,,0,shopify,100,continue,manual,54.95,,TRUE,TRUE,,,,,FALSE,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0952/6175/3687/files/calveth-womens-closed-toe-flat-sandals-2.jpg?v=1790694744,2,,,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0952/6175/3687/files/calveth-womens-closed-toe-flat-sandals-3.jpg?v=1790694746,3,,,,,,,,,,
+calveth-womens-closed-toe-flat-sandals,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0952/6175/3687/files/calveth-womens-closed-toe-flat-sandals-4.jpg?v=1790694749,4,,,,,,,,,,
+nicole™-elegant-loose-waistband-pants,Nicole™ | Elegant Loose Waistband Pants,"<h3><strong>Step into elegance and ease with pants that celebrate comfort and confidence in every movement.</strong></h3>
+<p>The Nicole™ pants blend refined sophistication with a relaxed fit, giving you a graceful, slimming look without ever feeling restricted. Perfect for women who value both polish and practicality.</p>
+<p><strong>Elegant, Flowing Silhouette</strong><br>The loose, fluid leg creates a beautifully balanced shape that flatters every figure. Move freely while maintaining a poised, confident look that feels light and effortless.</p>
+<p><strong>Gentle, Secure Waistband</strong><br>Designed to sit comfortably at your natural waist, the soft waistband smooths your middle without digging or squeezing. Enjoy an elegant shape and lasting comfort all day long.</p>
+<p><strong>Refined Everyday Style</strong><br>Chic enough for evenings yet relaxed for daily wear, these pants offer versatility that fits seamlessly into your lifestyle. Look poised and feel perfectly at ease, wherever the day takes you.</p>
+<p><strong>Light, Breathable Comfort</strong><br>Crafted to feel luxuriously soft and airy, keeping you cool and comfortable from morning to night. No stiffness — just graceful movement and easy elegance.</p>
+<p><strong>Experience the perfect blend of comfort and sophistication — order your Nicole™ Elegant Loose Waistband Pants today before stocks run out.</strong></p>
+<h3 style=""margin-top: 30px;"">SIZE CHART</h3>
+
+<div style=""border: 1px solid #999; padding: 10px; margin-top: 10px;"">
+  
+
+  <p style=""font-size: 13px; margin-top: 10px;"">
+    <em>Please allow a 1–3 cm difference due to manual measurement. When in doubt, opt for the larger size for extra comfort and a perfect fit.</em>
+  </p>
+</div>
+<table style=""width: 100%; border-collapse: collapse; font-size: 14px;"">
+<thead>
+<tr>
+<th style=""border: 1px solid rgb(153, 153, 153); padding: 10px; text-align: left; background-color: rgb(249, 249, 249);"">SIZE</th>
+<th style=""border: 1px solid rgb(153, 153, 153); padding: 10px; text-align: left; background-color: rgb(249, 249, 249);"">HIP (CM)</th>
+<th style=""border: 1px solid rgb(153, 153, 153); padding: 10px; text-align: left; background-color: rgb(249, 249, 249);"">WAIST (CM)</th>
+<th style=""border: 1px solid rgb(153, 153, 153); padding: 10px; text-align: left; background-color: rgb(249, 249, 249);"">LENGTH (CM)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style=""border: 1px solid rgb(153, 153, 153); padding: 10px; text-align: left;"">M</td>
+<td style=""border: 1px solid rgb(153, 153, 153); padding: 10px; text-align: left;"">112</td>
+<td style=""border: 1px solid rgb(153, 153, 153); padding: 10px; text-align: left;"">62–100</td>
+<td style=""border: 1px solid rgb(153, 153, 153); padding: 10px; text-align: left;"">87</td>
+</tr>
+<tr>
+<td style=""border: 1px solid rgb(153, 153, 153); padding: 10px; text-align: left;"">L</td>
+<td style=""border: 1px solid rgb(153, 153, 153); padding: 10px; text-align: left;"">116</td>
+<td style=""border: 1px solid rgb(153, 153, 153); padding: 10px; text-align: left;"">66–104</td>
+<td style=""border: 1px solid rgb(153, 153, 153); padding: 10px; text-align: left;"">88</td>
+</tr>
+<tr>
+<td style=""border: 1px solid rgb(153, 153, 153); padding: 10px; text-align: left;"">XL</td>
+<td style=""border: 1px solid rgb(153, 153, 153); padding: 10px; text-align: left;"">120</td>
+<td style=""border: 1px solid rgb(153, 153, 153); padding: 10px; text-align: left;"">70–108</td>
+<td style=""border: 1px solid rgb(153, 153, 153); padding: 10px; text-align: left;"">89</td>
+</tr>
+<tr>
+<td style=""border: 1px solid rgb(153, 153, 153); padding: 10px; text-align: left;"">2XL</td>
+<td style=""border: 1px solid rgb(153, 153, 153); padding: 10px; text-align: left;"">124</td>
+<td style=""border: 1px solid rgb(153, 153, 153); padding: 10px; text-align: left;"">74–112</td>
+<td style=""border: 1px solid rgb(153, 153, 153); padding: 10px; text-align: left;"">90</td>
+</tr>
+</tbody>
+</table>",SEABOURNE,,,"rank-tracker, bron-by-seabourne",FALSE,Colour,Brown,Size,M,,,,0,shopify,100,continue,manual,74.95,150.00,TRUE,TRUE,,https://cdn.shopify.com/s/files/1/0952/6175/3687/files/1746099547522.jpg?v=1760564872,1,Nicole™ | Elegant Loose Waistband Pants,FALSE,Nicole™ | Elegant Loose Waistband Pants,"Step into elegance and ease with pants that celebrate comfort and confidence in every movement.  
+ The Nicole™ pants blend refined sophistication with a relaxed fit, giving you a graceful, slimming look without ever feeling restricted. Perfect for women who value both polish and practicality. 
+  Elegant, Flowing Silh",draft,By Seabourne,https://byseabourne.com/products/nicole%E2%84%A2-elegant-loose-waistband-pants,163,182,19
+nicole™-elegant-loose-waistband-pants,,,,,,,,Colour,Brown,Size,L,,,,0,shopify,100,continue,manual,74.95,150.00,TRUE,TRUE,,,,,FALSE,,,,,,,,
+nicole™-elegant-loose-waistband-pants,,,,,,,,Colour,Brown,Size,XL,,,,0,shopify,100,continue,manual,74.95,150.00,TRUE,TRUE,,,,,FALSE,,,,,,,,
+nicole™-elegant-loose-waistband-pants,,,,,,,,Colour,Brown,Size,2XL,,,,0,shopify,100,continue,manual,74.95,150.00,TRUE,TRUE,,,,,FALSE,,,,,,,,
+nicole™-elegant-loose-waistband-pants,,,,,,,,Colour,Green,Size,M,,,,0,shopify,100,continue,manual,74.95,150.00,TRUE,TRUE,,,,,FALSE,,,,,,,,
+nicole™-elegant-loose-waistband-pants,,,,,,,,Colour,Green,Size,L,,,,0,shopify,100,continue,manual,74.95,150.00,TRUE,TRUE,,,,,FALSE,,,,,,,,
+nicole™-elegant-loose-waistband-pants,,,,,,,,Colour,Green,Size,XL,,,,0,shopify,100,continue,manual,74.95,150.00,TRUE,TRUE,,,,,FALSE,,,,,,,,
+nicole™-elegant-loose-waistband-pants,,,,,,,,Colour,Green,Size,2XL,,,,0,shopify,100,continue,manual,74.95,150.00,TRUE,TRUE,,,,,FALSE,,,,,,,,
+nicole™-elegant-loose-waistband-pants,,,,,,,,Colour,Gray,Size,M,,,,0,shopify,100,continue,manual,74.95,150.00,TRUE,TRUE,,,,,FALSE,,,,,,,,
+nicole™-elegant-loose-waistband-pants,,,,,,,,Colour,Gray,Size,L,,,,0,shopify,100,continue,manual,74.95,150.00,TRUE,TRUE,,,,,FALSE,,,,,,,,
+nicole™-elegant-loose-waistband-pants,,,,,,,,Colour,Gray,Size,XL,,,,0,shopify,100,continue,manual,74.95,150.00,TRUE,TRUE,,,,,FALSE,,,,,,,,
+nicole™-elegant-loose-waistband-pants,,,,,,,,Colour,Gray,Size,2XL,,,,0,shopify,100,continue,manual,74.95,150.00,TRUE,TRUE,,,,,FALSE,,,,,,,,
+nicole™-elegant-loose-waistband-pants,,,,,,,,Colour,Black,Size,M,,,,0,shopify,100,continue,manual,74.95,150.00,TRUE,TRUE,,,,,FALSE,,,,,,,,
+nicole™-elegant-loose-waistband-pants,,,,,,,,Colour,Black,Size,L,,,,0,shopify,100,continue,manual,74.95,150.00,TRUE,TRUE,,,,,FALSE,,,,,,,,
+nicole™-elegant-loose-waistband-pants,,,,,,,,Colour,Black,Size,XL,,,,0,shopify,100,continue,manual,74.95,150.00,TRUE,TRUE,,,,,FALSE,,,,,,,,
+nicole™-elegant-loose-waistband-pants,,,,,,,,Colour,Black,Size,2XL,,,,0,shopify,100,continue,manual,74.95,150.00,TRUE,TRUE,,,,,FALSE,,,,,,,,
+nicole™-elegant-loose-waistband-pants,,,,,,,,Colour,White,Size,M,,,,0,shopify,100,continue,manual,74.95,150.00,TRUE,TRUE,,,,,FALSE,,,,,,,,
+nicole™-elegant-loose-waistband-pants,,,,,,,,Colour,White,Size,L,,,,0,shopify,100,continue,manual,74.95,150.00,TRUE,TRUE,,,,,FALSE,,,,,,,,
+nicole™-elegant-loose-waistband-pants,,,,,,,,Colour,White,Size,XL,,,,0,shopify,100,continue,manual,74.95,150.00,TRUE,TRUE,,,,,FALSE,,,,,,,,
+nicole™-elegant-loose-waistband-pants,,,,,,,,Colour,White,Size,2XL,,,,0,shopify,100,continue,manual,74.95,150.00,TRUE,TRUE,,,,,FALSE,,,,,,,,
+nicole™-elegant-loose-waistband-pants,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0952/6175/3687/files/1746099547507.jpg?v=1760564872,2,,,,,,,,,,
+nicole™-elegant-loose-waistband-pants,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0952/6175/3687/files/1746099547485.jpg?v=1760564872,3,,,,,,,,,,
+nicole™-elegant-loose-waistband-pants,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0952/6175/3687/files/ChatGPT_Image_Jun_10_2026_03_48_26_PM.png?v=1781077803,4,,,,,,,,,,
+nicole™-elegant-loose-waistband-pants,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0952/6175/3687/files/ChatGPT_Image_Jun_10_2026_03_48_23_PM.png?v=1781077805,5,,,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,Julian | Herren Schnürstiefel Klassische Leder Boots Robuste Gummisohle,"<p>Diese klassischen mens boots sind die ideale Wahl für Männer, die Stil und Alltagstauglichkeit verbinden möchten. Mit ihrem zeitlosen Cap-Toe-Design, dem strapazierfähigen PU-Leder und der robusten Gummisohle eignen sie sich perfekt für jeden Anlass vom Büro bis zum Wochenendausflug.</p>
+<p><strong>Darum wirst du es lieben</strong></p>
+<ul>
+<li>
+<strong>Robustes Material:</strong> Hochwertiges PU-Leder ist langlebig, pflegeleicht und behält seinen eleganten Look auch nach intensivem Tragen.</li>
+<li>
+<strong>Sichere Schnürung:</strong> Die klassische Schnürung mit Metallösen sorgt für einen festen, individuell anpassbaren Sitz am Fuß.</li>
+<li>
+<strong>Griffige Gummisohle:</strong> Die strapazierfähige Außensohle bietet zuverlässigen Halt auf verschiedenen Untergründen und macht den Stiefel ideal für den täglichen Einsatz.</li>
+</ul>
+<p><strong>Perfekt für</strong></p>
+<p>Kombiniere die Stiefel mit einer dunklen Jeans und einem Flanellhemd für einen lässigen Freizeitlook, oder trage sie zum Chino und Blazer im Business-Casual-Stil. Auch bei Stadtbummel, Wochenmärkten oder Herbstwanderungen machen sie eine gute Figur.</p>
+<p><strong>Pflegehinweise</strong></p>
+<ul>
+<li>Oberfläche mit einem weichen, leicht feuchten Tuch abwischen.</li>
+<li>Nicht in der Waschmaschine waschen.</li>
+<li>Vor direkter Sonneneinstrahlung und Hitze schützen.</li>
+<li>Nach dem Tragen vollständig an der Luft trocknen lassen, bevor sie verstaut werden.</li>
+</ul>
+<h3>Häufig gestellte Fragen</h3>
+<p><strong>Welche Größen sind verfügbar?</strong><br>Die Stiefel sind in den EU-Größen 38 bis 48 erhältlich, sodass nahezu jede Fußgröße abgedeckt ist.</p>
+<p><strong>In welchen Farben sind die Stiefel erhältlich?</strong><br>Du kannst zwischen Braun, Dunkelbraun, Schwarz und Khaki wählen.</p>
+<p><strong>Sind die Stiefel für alle Jahreszeiten geeignet?</strong><br>Ja, dank ihres klassischen Designs und der robusten Verarbeitung sind sie für alle vier Jahreszeiten konzipiert.</p>
+<p><strong>Wie kombiniere ich die Stiefel am besten?</strong><br>Sie passen hervorragend zu Jeans oder Chinos und lassen sich sowohl zu legeren als auch zu halbformellen Outfits tragen.</p>
+<h3>Herren Schuhgrößentabelle</h3>
+<table dir=""auto"" class=""w-fit min-w-(--thread-content-width)"">
+<thead>
+<tr>
+<th class=""last:pe-10"">Größe</th>
+<th class=""last:pe-10"">Fußlänge (cm)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>38</td>
+<td>26.7</td>
+</tr>
+<tr>
+<td>39</td>
+<td>27.2</td>
+</tr>
+<tr>
+<td>40</td>
+<td>27.7</td>
+</tr>
+<tr>
+<td>41</td>
+<td>28.2</td>
+</tr>
+<tr>
+<td>42</td>
+<td>28.7</td>
+</tr>
+<tr>
+<td>43</td>
+<td>29.2</td>
+</tr>
+<tr>
+<td>44</td>
+<td>29.7</td>
+</tr>
+<tr>
+<td>45</td>
+<td>30.2</td>
+</tr>
+<tr>
+<td>46</td>
+<td>30.7</td>
+</tr>
+<tr>
+<td>47</td>
+<td>31.2</td>
+</tr>
+<tr>
+<td>48</td>
+<td>31.7</td>
+</tr>
+</tbody>
+</table>",Leon Boutique,,Classic,"rank-tracker, bron-leon-boutique, Classic",FALSE,Farbe,Braun,Größe,EU 37,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,https://cdn.shopify.com/s/files/1/0873/5080/4829/files/herren-schnrstiefel-klassische-leder-boots-robuste-gummisohl-1.jpg?v=1785469365,1,Julian | Herren Schnürstiefel Klassische Leder Boots Robuste Gummisohle,FALSE,Julian | Herren Schnürstiefel Klassische Leder Boots Robuste Gummisohl,"Diese klassischen mens boots sind die ideale Wahl für Männer, die Stil und Alltagstauglichkeit verbinden möchten. Mit ihrem zeitlosen Cap-Toe-Design, dem strapazierfähigen PU-Leder und der robusten Gummisohle eignen sie sich perfekt für jeden Anlass vom Büro bis zum Wochenendausflug. 
+  Darum wirst du es lieben",draft,Leon Boutique,https://leonboutique.co/products/julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,289,305,16
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Braun,Größe,EU 38,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Braun,Größe,EU 39,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Braun,Größe,EU 40,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Braun,Größe,EU 41,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Braun,Größe,EU 42,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Braun,Größe,EU 43,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Braun,Größe,EU 44,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Braun,Größe,EU 45,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Braun,Größe,EU 46,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Braun,Größe,EU 47,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Braun,Größe,EU 48,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Schwarz,Größe,EU 37,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Schwarz,Größe,EU 38,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Schwarz,Größe,EU 39,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Schwarz,Größe,EU 40,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Schwarz,Größe,EU 41,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Schwarz,Größe,EU 42,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Schwarz,Größe,EU 43,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Schwarz,Größe,EU 44,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Schwarz,Größe,EU 45,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Schwarz,Größe,EU 46,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Schwarz,Größe,EU 47,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Schwarz,Größe,EU 48,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Dunkelbraun,Größe,EU 37,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Dunkelbraun,Größe,EU 38,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Dunkelbraun,Größe,EU 39,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Dunkelbraun,Größe,EU 40,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Dunkelbraun,Größe,EU 41,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Dunkelbraun,Größe,EU 42,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Dunkelbraun,Größe,EU 43,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Dunkelbraun,Größe,EU 44,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Dunkelbraun,Größe,EU 45,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Dunkelbraun,Größe,EU 46,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Dunkelbraun,Größe,EU 47,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Dunkelbraun,Größe,EU 48,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Khaki,Größe,EU 37,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Khaki,Größe,EU 38,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Khaki,Größe,EU 39,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Khaki,Größe,EU 40,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Khaki,Größe,EU 41,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Khaki,Größe,EU 42,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Khaki,Größe,EU 43,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Khaki,Größe,EU 44,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Khaki,Größe,EU 45,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Khaki,Größe,EU 46,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Khaki,Größe,EU 47,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,Farbe,Khaki,Größe,EU 48,,,,0,shopify,100,continue,manual,66.95,134.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0873/5080/4829/files/herren-schnrstiefel-klassische-leder-boots-robuste-gummisohl-2.jpg?v=1785469365,2,,,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0873/5080/4829/files/herren-schnrstiefel-klassische-leder-boots-robuste-gummisohl-3.jpg?v=1785469366,3,,,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0873/5080/4829/files/herren-schnrstiefel-klassische-leder-boots-robuste-gummisohl-4.jpg?v=1785469366,4,,,,,,,,,,
+julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0873/5080/4829/files/herren-schnrstiefel-klassische-leder-boots-robuste-gummisohl-5.jpg?v=1785469366,5,,,,,,,,,,
+women-s-high-neck-midi-dress-elegant-high-waist-silhouette,Monika | Damen Langarm High-Neck Midikleid,"<h6 data-start=""0"" data-end=""45""><strong data-start=""7"" data-end=""43"">Wärme Und Komfort Für Wintertage</strong></h6>
+<p data-start=""46"" data-end=""359"">Dieses Damen Midikleid mit Langarm und High-Neck Design vereint elegante Zurückhaltung mit zeitloser Raffinesse und eignet sich ideal für stilvolle Wintertage, besondere und festliche Anlässe sowie gepflegte Alltagslooks und überzeugt zugleich als elegantes Hochzeitsgastkleid. Die fließende Silhouette und der erhöhte Ausschnitt sorgen für eine edle Ausstrahlung mit angenehmer Wärme.</p>
+<h6 data-start=""361"" data-end=""396""><strong data-start=""368"" data-end=""396"">Warum Du Es Lieben Wirst</strong></h6>
+<ul>
+<li data-start=""400"" data-end=""562"">
+<strong data-start=""400"" data-end=""424"">Elegante Silhouette:</strong> Der taillierte Schnitt in Kombination mit dem fließenden Rockverlauf schafft eine feminine, ausgewogene Form mit klassischem Charakter.<br><br>
+</li>
+<li data-start=""565"" data-end=""714"">
+<strong data-start=""565"" data-end=""587"">Stilvolle Details:</strong> Der High-Neck Ausschnitt, sanfte Drapierungen und dezente Abschlüsse verleihen dem Kleid eine hochwertige und moderne Optik.<br><br>
+</li>
+<li data-start=""717"" data-end=""861"">
+<strong data-start=""717"" data-end=""744"">Angenehmes Tragegefühl:</strong> Die durchdachte Passform unterstützt natürliche Bewegungen und bietet Komfort für lange Tage in der kalten Saison.<br><br>
+</li>
+<li data-start=""864"" data-end=""1020"">
+<strong data-start=""864"" data-end=""892"">Vielseitig kombinierbar:</strong> Dieses Damen Kleid lässt sich ideal mit Stiefeletten, Pumps oder eleganten Accessoires für unterschiedliche Winterlooks stylen.</li>
+</ul>
+<p data-start=""1022"" data-end=""1254"">Dieses Damen Fashion Kleid ergänzt Wintergarderoben auf besonders elegante Weise und bietet vielseitige Stylingmöglichkeiten. Dank seines zeitlosen Designs eignet es sich für formelle Anlässe ebenso wie für stilvolle Alltagsmomente.</p>
+<h6 data-start=""1274"" data-end=""1303""><strong data-start=""1281"" data-end=""1303"">Größentabelle (cm)</strong></h6>
+<table data-start=""19"" data-end=""265"" data-is-last-node="""" data-is-only-node="""" dir=""auto"" class=""w-fit min-w-(--thread-content-width)"" style=""width: 100.036%;"">
+<thead data-start=""19"" data-end=""97"">
+<tr data-start=""19"" data-end=""97"">
+<th data-start=""19"" data-end=""27"" data-col-size=""sm"" class=""last:pe-10"" style=""width: 9.77929%;"">Größe</th>
+<th data-start=""27"" data-end=""40"" data-col-size=""sm"" class=""last:pe-10"" style=""width: 16.4799%;"">Brust (cm)</th>
+<th data-start=""40"" data-end=""54"" data-col-size=""sm"" class=""last:pe-10"" style=""width: 16.2988%;"">Taille (cm)</th>
+<th data-start=""54"" data-end=""67"" data-col-size=""sm"" class=""last:pe-10"" style=""width: 17.5665%;"">Länge (cm)</th>
+<th data-start=""67"" data-end=""80"" data-col-size=""sm"" class=""last:pe-10"" style=""width: 17.7476%;"">Ärmel (cm)</th>
+<th data-start=""80"" data-end=""97"" data-col-size=""sm"" class=""last:pe-10"" style=""width: 21.0074%;"">Schulter (cm)</th>
+</tr>
+</thead>
+<tbody data-start=""129"" data-end=""265"" data-is-last-node="""">
+<tr data-start=""129"" data-end=""161"">
+<td data-start=""129"" data-end=""133"" data-col-size=""sm"" style=""width: 9.77929%;"">S</td>
+<td data-start=""133"" data-end=""139"" data-col-size=""sm"" style=""width: 16.4799%;"">108</td>
+<td data-start=""139"" data-end=""144"" data-col-size=""sm"" style=""width: 16.2988%;"">63</td>
+<td data-start=""144"" data-end=""150"" data-col-size=""sm"" style=""width: 17.5665%;"">123</td>
+<td data-start=""150"" data-end=""155"" data-col-size=""sm"" style=""width: 17.7476%;"">63</td>
+<td data-start=""155"" data-end=""161"" data-col-size=""sm"" style=""width: 21.0074%;"">36</td>
+</tr>
+<tr data-start=""162"" data-end=""196"">
+<td data-start=""162"" data-end=""166"" data-col-size=""sm"" style=""width: 9.77929%;"">M</td>
+<td data-start=""166"" data-end=""172"" data-col-size=""sm"" style=""width: 16.4799%;"">112</td>
+<td data-start=""172"" data-end=""177"" data-col-size=""sm"" style=""width: 16.2988%;"">67</td>
+<td data-start=""177"" data-end=""185"" data-col-size=""sm"" style=""width: 17.5665%;"">124,5</td>
+<td data-start=""185"" data-end=""190"" data-col-size=""sm"" style=""width: 17.7476%;"">64</td>
+<td data-start=""190"" data-end=""196"" data-col-size=""sm"" style=""width: 21.0074%;"">37</td>
+</tr>
+<tr data-start=""197"" data-end=""229"">
+<td data-start=""197"" data-end=""201"" data-col-size=""sm"" style=""width: 9.77929%;"">L</td>
+<td data-start=""201"" data-end=""207"" data-col-size=""sm"" style=""width: 16.4799%;"">116</td>
+<td data-start=""207"" data-end=""212"" data-col-size=""sm"" style=""width: 16.2988%;"">71</td>
+<td data-start=""212"" data-end=""218"" data-col-size=""sm"" style=""width: 17.5665%;"">126</td>
+<td data-start=""218"" data-end=""223"" data-col-size=""sm"" style=""width: 17.7476%;"">65</td>
+<td data-start=""223"" data-end=""229"" data-col-size=""sm"" style=""width: 21.0074%;"">38</td>
+</tr>
+<tr data-start=""230"" data-end=""265"" data-is-last-node="""">
+<td data-start=""230"" data-end=""235"" data-col-size=""sm"" style=""width: 9.77929%;"">XL</td>
+<td data-start=""235"" data-end=""241"" data-col-size=""sm"" style=""width: 16.4799%;"">120</td>
+<td data-start=""241"" data-end=""246"" data-col-size=""sm"" style=""width: 16.2988%;"">75</td>
+<td data-start=""246"" data-end=""254"" data-col-size=""sm"" style=""width: 17.5665%;"">127,5</td>
+<td data-start=""254"" data-end=""259"" data-col-size=""sm"" style=""width: 17.7476%;"">66</td>
+<td data-start=""259"" data-end=""265"" data-is-last-node="""" data-col-size=""sm"" style=""width: 21.0074%;"">39</td>
+</tr>
+</tbody>
+</table>",Fjorden Mode,,,"rank-tracker, bron-leon-boutique",FALSE,Farbe,Beige,Größe,S,,,,0,shopify,100,continue,manual,54.95,110.00,TRUE,FALSE,,https://cdn.shopify.com/s/files/1/0873/5080/4829/files/Womens-High-Neck-Midi-Dress-Elegant-High-Waist-Silhouette.png?v=1768898656,1,Monika | Damen Langarm High-Neck Midikleid,FALSE,Monika | Damen Langarm High-Neck Midikleid,"Wärme Und Komfort Für Wintertage  
+ Dieses Damen Midikleid mit Langarm und High-Neck Design vereint elegante Zurückhaltung mit zeitloser Raffinesse und eignet sich ideal für stilvolle Wintertage, besondere und festliche Anlässe sowie gepflegte Alltagslooks und überzeugt zugleich als elegantes Hochzeitsgastkleid. Die",draft,Leon Boutique,https://leonboutique.co/products/women-s-high-neck-midi-dress-elegant-high-waist-silhouette,291,302,11
+women-s-high-neck-midi-dress-elegant-high-waist-silhouette,,,,,,,,Farbe,Beige,Größe,M,,,,0,shopify,100,continue,manual,54.95,110.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-high-neck-midi-dress-elegant-high-waist-silhouette,,,,,,,,Farbe,Beige,Größe,L,,,,0,shopify,100,continue,manual,54.95,110.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-high-neck-midi-dress-elegant-high-waist-silhouette,,,,,,,,Farbe,Beige,Größe,XL,,,,0,shopify,100,continue,manual,54.95,110.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-high-neck-midi-dress-elegant-high-waist-silhouette,,,,,,,,Farbe,Schwarz,Größe,S,,,,0,shopify,100,continue,manual,54.95,110.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-high-neck-midi-dress-elegant-high-waist-silhouette,,,,,,,,Farbe,Schwarz,Größe,M,,,,0,shopify,100,continue,manual,54.95,110.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-high-neck-midi-dress-elegant-high-waist-silhouette,,,,,,,,Farbe,Schwarz,Größe,L,,,,0,shopify,100,continue,manual,54.95,110.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-high-neck-midi-dress-elegant-high-waist-silhouette,,,,,,,,Farbe,Schwarz,Größe,XL,,,,0,shopify,100,continue,manual,54.95,110.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-high-neck-midi-dress-elegant-high-waist-silhouette,,,,,,,,Farbe,Petrolblau,Größe,S,,,,0,shopify,100,continue,manual,54.95,110.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-high-neck-midi-dress-elegant-high-waist-silhouette,,,,,,,,Farbe,Petrolblau,Größe,M,,,,0,shopify,100,continue,manual,54.95,110.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-high-neck-midi-dress-elegant-high-waist-silhouette,,,,,,,,Farbe,Petrolblau,Größe,L,,,,0,shopify,100,continue,manual,54.95,110.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-high-neck-midi-dress-elegant-high-waist-silhouette,,,,,,,,Farbe,Petrolblau,Größe,XL,,,,0,shopify,100,continue,manual,54.95,110.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-high-neck-midi-dress-elegant-high-waist-silhouette,,,,,,,,Farbe,Knallpink,Größe,S,,,,0,shopify,100,continue,manual,54.95,110.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-high-neck-midi-dress-elegant-high-waist-silhouette,,,,,,,,Farbe,Knallpink,Größe,M,,,,0,shopify,100,continue,manual,54.95,110.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-high-neck-midi-dress-elegant-high-waist-silhouette,,,,,,,,Farbe,Knallpink,Größe,L,,,,0,shopify,100,continue,manual,54.95,110.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-high-neck-midi-dress-elegant-high-waist-silhouette,,,,,,,,Farbe,Knallpink,Größe,XL,,,,0,shopify,100,continue,manual,54.95,110.00,TRUE,FALSE,,,,,FALSE,,,,,,,,
+women-s-high-neck-midi-dress-elegant-high-waist-silhouette,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0873/5080/4829/files/Womens-High-Neck-Midi-Dress-Elegant-High-Waist-Silhouette-2.png?v=1768898656,2,,,,,,,,,,
+women-s-high-neck-midi-dress-elegant-high-waist-silhouette,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0873/5080/4829/files/Womens-High-Neck-Midi-Dress-Elegant-High-Waist-Silhouette-3.png?v=1768898656,3,,,,,,,,,,
+women-s-high-neck-midi-dress-elegant-high-waist-silhouette,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0873/5080/4829/files/Womens-High-Neck-Midi-Dress-Elegant-High-Waist-Silhouette-4.png?v=1768898656,4,,,,,,,,,,
+women-s-high-neck-midi-dress-elegant-high-waist-silhouette,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0873/5080/4829/files/Womens-High-Neck-Midi-Dress-Elegant-High-Waist-Silhouette-5.png?v=1768898656,5,,,,,,,,,,
+women-s-high-neck-midi-dress-elegant-high-waist-silhouette,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0873/5080/4829/files/Womens-High-Neck-Midi-Dress-Elegant-High-Waist-Silhouette-6.png?v=1768898657,6,,,,,,,,,,
+women-s-high-neck-midi-dress-elegant-high-waist-silhouette,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0873/5080/4829/files/Womens-High-Neck-Midi-Dress-Elegant-High-Waist-Silhouette-7.png?v=1768898656,7,,,,,,,,,,
+women-s-high-neck-midi-dress-elegant-high-waist-silhouette,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0873/5080/4829/files/Womens-High-Neck-Midi-Dress-Elegant-High-Waist-Silhouette-8.png?v=1768898656,8,,,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,Women's Tailored Velvet Blazer Single-Breasted,"<h3><strong>A tailored velvet blazer with a notch lapel and single gold button, made for work and smart occasions.</strong></h3>
+<p>This women's velvet blazer features a single-breasted cut with one gold button closure, a classic notch lapel, and a tailored fit that follows the waist. The long sleeves and structured shoulders suit office wear, evening events, and smart casual settings, with a silhouette that pairs easily with jeans or trousers.</p>
+<h3><strong>Features of the Women's Blazer for Work and Evening</strong></h3>
 <ul>
   <li>
-<strong>Textured Fleece:</strong> Soft fleece texture gives the coat a warm and tactile appearance.</li>
+<strong>Notch Lapel:</strong> Classic notch lapel adds a formal detail and frames the neckline.</li>
   <li>
-<strong>Button-Front Closure:</strong> Structured button fastening ensures secure closure and a clean front line.</li>
+<strong>Single-Breasted Closure:</strong> One gold button fastens at the front for a sleek, streamlined look.</li>
   <li>
-<strong>Attached Hood:</strong> Fixed hood adds coverage and a relaxed, casual silhouette.</li>
+<strong>Tailored Fit:</strong> Fitted shape follows the waist and creates a polished, feminine silhouette.</li>
   <li>
-<strong>Side Pockets:</strong> Practical pockets at each side hold small essentials like keys or a phone.</li>
+<strong>Structured Shoulders:</strong> Defined shoulder line gives the blazer a sharp, professional shape.</li>
   <li>
-<strong>Long Silhouette:</strong> Extended length provides coverage from shoulders to mid-thigh for layering.</li>
-</ul>",Made by Jessica,,Teddy Coat,"rank-tracker, bron-made-by-jessica, Teddy Coat",FALSE,Colour,Apricot,Size,S,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/5_803489c4-5d4a-4612-bfe7-ce7415520612.png?v=1791712198,1,Women's Hooded Teddy Coat with Button Closure,FALSE,Women's Hooded Teddy Coat with Button Closure,"A hooded teddy coat with button closure and long silhouette for everyday layering.  
- This women's hooded teddy coat features a textured fleece finish, button-front closure, and a long straight-cut silhouette. The attached hood provides added coverage, while side pockets offer practical storage. The relaxed shape lay",draft,Made by Jessica,https://madebyjessica.store/products/womens-hooded-teddy-coat-with-button-closure,217,544,327
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Black,Size,S,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Camel,Size,S,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Dark Blue,Size,S,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,TRUE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Dark Brown,Size,S,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Khaki,Size,S,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Light Grey,Size,S,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Red Wine,Size,S,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,White,Size,S,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Yellow Brown,Size,S,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Apricot,Size,M,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Black,Size,M,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Camel,Size,M,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Dark Blue,Size,M,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Dark Brown,Size,M,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Khaki,Size,M,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Light Grey,Size,M,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Red Wine,Size,M,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,White,Size,M,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Yellow Brown,Size,M,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Apricot,Size,L,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Black,Size,L,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Camel,Size,L,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Dark Blue,Size,L,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Dark Brown,Size,L,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Khaki,Size,L,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Light Grey,Size,L,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Red Wine,Size,L,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,White,Size,L,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Yellow Brown,Size,L,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Apricot,Size,XL,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Black,Size,XL,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Camel,Size,XL,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Dark Blue,Size,XL,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Dark Brown,Size,XL,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Khaki,Size,XL,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Light Grey,Size,XL,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Red Wine,Size,XL,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,White,Size,XL,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Yellow Brown,Size,XL,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Apricot,Size,2XL,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Black,Size,2XL,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Camel,Size,2XL,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Dark Blue,Size,2XL,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Dark Brown,Size,2XL,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Khaki,Size,2XL,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Light Grey,Size,2XL,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Red Wine,Size,2XL,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,White,Size,2XL,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,Colour,Yellow Brown,Size,2XL,,,,0,shopify,100,continue,manual,54.95,109.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/7.png?v=1791712198,2,,,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/11_706baee2-4b80-4d23-b106-e7debf0a467b.png?v=1791712198,3,,,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/14_890b0727-addc-4909-b95b-73e79d6ab036.png?v=1791712197,4,,,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/12_50a57e69-9e46-4c16-9364-dbf3834f4679.png?v=1791712198,5,,,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/13_2c59cc3d-62d2-45d8-b306-11c1c44d477c.png?v=1791712198,6,,,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/9_905b03b1-c085-40dd-9890-080308812528.png?v=1791712198,7,,,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/6.png?v=1791712198,8,,,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/8_ed8c0345-59c2-4676-acf9-f7c90f3fd05c.png?v=1791712197,9,,,,,,,,,,
-womens-hooded-teddy-coat-with-button-closure,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/10_a1cef3f4-93f8-4262-b1ff-4fac6a6b2aa8.png?v=1791712198,10,,,,,,,,,,
+<strong>Versatile Style:</strong> Combines with jeans, trousers, or skirts for work, evenings, and smart casual.</li>
+</ul>",Made by Jessica,,Blazer,"rank-tracker, bron-made-by-jessica, Blazer",FALSE,Colour,Black,Size,S,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/O1CN017HibDC1ONRdknjJWz__2219825371693-0-cib.jpg?v=1789081472,1,Women's Tailored Velvet Blazer Single-Breasted,FALSE,Women's Tailored Velvet Blazer Single-Breasted,"A tailored velvet blazer with a notch lapel and single gold button, made for work and smart occasions.  
+ This women's velvet blazer features a single-breasted cut with one gold button closure, a classic notch lapel, and a tailored fit that follows the waist. The long sleeves and structured shoulders suit office wear",draft,Made by Jessica,https://madebyjessica.store/products/womens-tailored-velvet-blazer-single-breasted,221,840,619
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Blue,Size,S,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,TRUE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Camouflage,Size,S,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Green,Size,S,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Khaki,Size,S,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Pink,Size,S,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Purple,Size,S,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Red,Size,S,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Teal,Size,S,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Yellow,Size,S,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Black,Size,M,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Blue,Size,M,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Camouflage,Size,M,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Green,Size,M,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Khaki,Size,M,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Pink,Size,M,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Purple,Size,M,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Red,Size,M,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Teal,Size,M,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Yellow,Size,M,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Black,Size,L,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Blue,Size,L,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Camouflage,Size,L,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Green,Size,L,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Khaki,Size,L,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Pink,Size,L,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Purple,Size,L,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Red,Size,L,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Teal,Size,L,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Yellow,Size,L,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Black,Size,XL,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Blue,Size,XL,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Camouflage,Size,XL,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Green,Size,XL,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Khaki,Size,XL,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Pink,Size,XL,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Purple,Size,XL,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Red,Size,XL,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Teal,Size,XL,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Yellow,Size,XL,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Black,Size,2XL,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Blue,Size,2XL,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Camouflage,Size,2XL,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Green,Size,2XL,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Khaki,Size,2XL,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Pink,Size,2XL,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Purple,Size,2XL,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Red,Size,2XL,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Teal,Size,2XL,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Yellow,Size,2XL,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Black,Size,3XL,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Blue,Size,3XL,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Camouflage,Size,3XL,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Green,Size,3XL,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Khaki,Size,3XL,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Pink,Size,3XL,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Purple,Size,3XL,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Red,Size,3XL,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Teal,Size,3XL,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,Colour,Yellow,Size,3XL,,,,0,shopify,100,continue,manual,39.95,79.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/O1CN01YwoQui1ONRdknfQHQ__2219825371693-0-cib.jpg?v=1789081473,2,,,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/O1CN01bnMk771ONRdl5me1Q__2219825371693-0-cib.jpg?v=1789081473,3,,,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/O1CN010ETPRp1ONRdl9sPz2__2219825371693-0-cib.jpg?v=1789081473,4,,,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/O1CN010hmTbF1ONRdkMva95__2219825371693-0-cib.jpg?v=1789081472,5,,,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/O1CN010SGJwz1ONRdlCd9Qk__2219825371693-0-cib.jpg?v=1789081472,6,,,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/O1CN013qqtCK1ONRdkuyR5Z__2219825371693-0-cib.jpg?v=1789081472,7,,,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/O1CN01zVTfHC1ONRdkMwaWb__2219825371693-0-cib.jpg?v=1789081472,8,,,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/O1CN01OzedV91ONRdlroLjj__2219825371693-0-cib.jpg?v=1789081472,9,,,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/O1CN01xJcimN1ONRdknhhl2__2219825371693-0-cib.jpg?v=1789081473,10,,,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/O1CN01PllYok1ONRdk0gMmd__2219825371693-0-cib.jpg?v=1789081472,11,,,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/O1CN01OItBCq1ONRdlaGhKk__2219825371693-0-cib.jpg?v=1789081472,12,,,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/O1CN01CPNwpf1ONRdknbath__2219825371693-0-cib.jpg?v=1789081472,13,,,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/O1CN01lxH18B1ONRdfh7jLy__2219825371693-0-cib.jpg?v=1789081472,14,,,,,,,,,,
+womens-tailored-velvet-blazer-single-breasted,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/O1CN018HOMKG1ONRdl5ismY__2219825371693-0-cib.jpg?v=1789081472,15,,,,,,,,,,
+womens-hooded-winter-coat-with-sherpa-lining,Women's Hooded Winter Coat with Sherpa Lining,"<h3><strong>A hooded winter coat with sherpa lining for warmth during cold weather.</strong></h3>
+<p>This women's winter coat features an attached hood, plush sherpa lining throughout the interior, and a full-length zip front closure. The extended silhouette layers easily over jumpers and trousers, while side pockets secure small essentials. The design suits everyday wear in autumn and winter, pairing with jeans, skirts, or knitwear for varied looks.</p>
+<h3><strong>Features of the Women's Winter Coat for Cold Weather</strong></h3>
+<ul>
+  <li>
+<strong>Sherpa Lining:</strong> Plush sherpa interior provides insulation and softness against the cold.</li>
+  <li>
+<strong>Attached Hood:</strong> Fixed hood gives extra coverage for the head and neck.</li>
+  <li>
+<strong>Zip Front Closure:</strong> Full-length zip secures the coat and creates a clean front profile.</li>
+  <li>
+<strong>Side Pockets:</strong> Practical pockets offer space for keys, phone, and small items.</li>
+  <li>
+<strong>Extended Cut:</strong> Longer length covers the hips and supports layered outfits in cooler months.</li>
+</ul>",Made by Jessica,,Women's Winter Coat,"rank-tracker, bron-made-by-jessica, Women's Winter Coat",FALSE,Colour,Brown,Size,S,,,,0,shopify,100,continue,manual,79.95,159.95,TRUE,TRUE,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/40_605bf6cb-912a-40a7-8ab1-9caf8c59e1b5.png?v=1790056531,1,Women's Hooded Winter Coat with Sherpa Lining,FALSE,Women's Hooded Winter Coat with Sherpa Lining,"A hooded winter coat with sherpa lining for warmth during cold weather.  
+ This women's winter coat features an attached hood, plush sherpa lining throughout the interior, and a full-length zip front closure. The extended silhouette layers easily over jumpers and trousers, while side pockets secure small essentials.",draft,Made by Jessica,https://madebyjessica.store/products/womens-hooded-winter-coat-with-sherpa-lining,220,761,541
+womens-hooded-winter-coat-with-sherpa-lining,,,,,,,,Colour,Burgundy,Size,S,,,,0,shopify,100,continue,manual,79.95,159.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-hooded-winter-coat-with-sherpa-lining,,,,,,,,Colour,Khaki,Size,S,,,,0,shopify,100,continue,manual,79.95,159.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-hooded-winter-coat-with-sherpa-lining,,,,,,,,Colour,Brown,Size,M,,,,0,shopify,100,continue,manual,79.95,159.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-hooded-winter-coat-with-sherpa-lining,,,,,,,,Colour,Burgundy,Size,M,,,,0,shopify,100,continue,manual,79.95,159.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-hooded-winter-coat-with-sherpa-lining,,,,,,,,Colour,Khaki,Size,M,,,,0,shopify,100,continue,manual,79.95,159.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-hooded-winter-coat-with-sherpa-lining,,,,,,,,Colour,Brown,Size,L,,,,0,shopify,100,continue,manual,79.95,159.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-hooded-winter-coat-with-sherpa-lining,,,,,,,,Colour,Burgundy,Size,L,,,,0,shopify,100,continue,manual,79.95,159.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-hooded-winter-coat-with-sherpa-lining,,,,,,,,Colour,Khaki,Size,L,,,,0,shopify,100,continue,manual,79.95,159.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-hooded-winter-coat-with-sherpa-lining,,,,,,,,Colour,Brown,Size,XL,,,,0,shopify,100,continue,manual,79.95,159.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-hooded-winter-coat-with-sherpa-lining,,,,,,,,Colour,Burgundy,Size,XL,,,,0,shopify,100,continue,manual,79.95,159.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-hooded-winter-coat-with-sherpa-lining,,,,,,,,Colour,Khaki,Size,XL,,,,0,shopify,100,continue,manual,79.95,159.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-hooded-winter-coat-with-sherpa-lining,,,,,,,,Colour,Brown,Size,2XL,,,,0,shopify,100,continue,manual,79.95,159.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-hooded-winter-coat-with-sherpa-lining,,,,,,,,Colour,Burgundy,Size,2XL,,,,0,shopify,100,continue,manual,79.95,159.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-hooded-winter-coat-with-sherpa-lining,,,,,,,,Colour,Khaki,Size,2XL,,,,0,shopify,100,continue,manual,79.95,159.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-hooded-winter-coat-with-sherpa-lining,,,,,,,,Colour,Brown,Size,3XL,,,,0,shopify,100,continue,manual,79.95,159.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-hooded-winter-coat-with-sherpa-lining,,,,,,,,Colour,Burgundy,Size,3XL,,,,0,shopify,100,continue,manual,79.95,159.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-hooded-winter-coat-with-sherpa-lining,,,,,,,,Colour,Khaki,Size,3XL,,,,0,shopify,100,continue,manual,79.95,159.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-hooded-winter-coat-with-sherpa-lining,,,,,,,,Colour,Brown,Size,4XL,,,,0,shopify,100,continue,manual,79.95,159.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-hooded-winter-coat-with-sherpa-lining,,,,,,,,Colour,Burgundy,Size,4XL,,,,0,shopify,100,continue,manual,79.95,159.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-hooded-winter-coat-with-sherpa-lining,,,,,,,,Colour,Khaki,Size,4XL,,,,0,shopify,100,continue,manual,79.95,159.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-hooded-winter-coat-with-sherpa-lining,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/39_a91ae590-37dd-4f08-875b-748a91afb6b8.png?v=1790056532,2,,,,,,,,,,
+womens-hooded-winter-coat-with-sherpa-lining,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/38_dcea013d-67cd-4b83-af8d-76d9da96fb9d.png?v=1790056532,3,,,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,Women's Platform Mary Jane Shoes with Block Heel,"<h3><strong>Platform Mary Jane court shoes with a block heel and ankle strap, styled for evening events and occasions.</strong></h3>
+<p>These women's platform Mary Jane shoes feature a rounded toe, a stable block heel, and an adjustable ankle strap with buckle detail. The platform sole adds height whilst maintaining balance, and the closed-toe silhouette suits parties, weddings, and dressy evening looks. The ankle strap keeps the foot secure for confident wear throughout the event.</p>
+<h3><strong>Features of the Women's Platform Shoes for Evening Events</strong></h3>
+<ul>
+  <li>
+<strong>Block Heel:</strong> Wide block heel delivers stability and confident footing for extended wear.</li>
+  <li>
+<strong>Platform Sole:</strong> Raised platform at the toe balances the heel height and cushions the foot.</li>
+  <li>
+<strong>Ankle Strap with Buckle:</strong> Adjustable ankle strap wraps around the ankle and secures with a metal buckle.</li>
+  <li>
+<strong>Round Toe:</strong> Rounded toe box gives the front of the foot comfortable room and a softer shape.</li>
+  <li>
+<strong>Mary Jane Silhouette:</strong> Classic Mary Jane style with closed toe suits parties, weddings, and smart occasions.</li>
+</ul>",Made by Jessica,,Mary Jane Shoes,"rank-tracker, bron-made-by-jessica, Mary Jane Shoes",FALSE,Colour,Black,Size,UK 3.5,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/O1CN014UBBbM1cUE9TS0gUU__2220857303603-0-cib.jpg?v=1790545266,1,Women's Platform Mary Jane Shoes with Block Heel,FALSE,Women's Platform Mary Jane Shoes with Block Heel,"Platform Mary Jane court shoes with a block heel and ankle strap, styled for evening events and occasions.  
+ These women's platform Mary Jane shoes feature a rounded toe, a stable block heel, and an adjustable ankle strap with buckle detail. The platform sole adds height whilst maintaining balance, and the closed-to",draft,Made by Jessica,https://madebyjessica.store/products/womens-platform-mary-jane-shoes-with-block-heel,219,695,476
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,Brown,Size,UK 3.5,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,Purple,Size,UK 3.5,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,TRUE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,White,Size,UK 3.5,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,Yellow,Size,UK 3.5,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,Black,Size,UK 4,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,Brown,Size,UK 4,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,Purple,Size,UK 4,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,White,Size,UK 4,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,Yellow,Size,UK 4,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,Black,Size,UK 5,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,Brown,Size,UK 5,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,Purple,Size,UK 5,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,White,Size,UK 5,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,Yellow,Size,UK 5,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,Black,Size,UK 6,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,Brown,Size,UK 6,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,Purple,Size,UK 6,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,White,Size,UK 6,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,Yellow,Size,UK 6,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,Black,Size,UK 6.5,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,Brown,Size,UK 6.5,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,Purple,Size,UK 6.5,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,White,Size,UK 6.5,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,Yellow,Size,UK 6.5,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,Black,Size,UK 7.5,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,Brown,Size,UK 7.5,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,Purple,Size,UK 7.5,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,White,Size,UK 7.5,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,Yellow,Size,UK 7.5,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,Black,Size,UK 8,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,Brown,Size,UK 8,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,Purple,Size,UK 8,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,White,Size,UK 8,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,Yellow,Size,UK 8,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,Black,Size,UK 9,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,Brown,Size,UK 9,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,Purple,Size,UK 9,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,White,Size,UK 9,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,Colour,Yellow,Size,UK 9,,,,0,shopify,100,continue,manual,49.95,99.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/O1CN016MJtE91cUE9OX1zx5__2220857303603-0-cib.jpg?v=1790545266,2,,,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/O1CN01mnEsob1cUE9TZ4Pq2__2220857303603-0-cib.jpg?v=1790545266,3,,,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/O1CN01LeS0mA1cUE9TRxrgm__2220857303603-0-cib.jpg?v=1790545266,4,,,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/O1CN012rrx901cUE9TTTCca__2220857303603-0-cib.jpg?v=1790545265,5,,,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/O1CN01f51Kok2EHopGMI178__2219445108720-0-cib.jpg?v=1790545266,6,,,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/O1CN01QRpOFS2EHopGycndy__2219445108720-0-cib.jpg?v=1790545266,7,,,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/O1CN01V0cq2P2EHopHHptFK__2219445108720-0-cib.jpg?v=1790545266,8,,,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/O1CN01X2ouF52EHopHHoDII__2219445108720-0-cib.jpg?v=1790545265,9,,,,,,,,,,
+womens-platform-mary-jane-shoes-with-block-heel,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/O1CN01wXym1D2EHopGycbIk__2219445108720-0-cib.jpg?v=1790545266,10,,,,,,,,,,
+womens-orthopedic-trainers-with-arch-support,Women's Orthopedic Trainers with Arch Support,"<h3><strong>Orthopedic trainers with arch support and a lace-up front, designed for all-day comfort and foot health.</strong></h3>
+<p>These women's orthopedic trainers combine supportive footwear design with a sporty look. The orthopedic sole provides arch support and promotes healthy posture, whilst the lace-up closure ensures a secure fit. The two-tone design pairs with jeans, trousers, and casual outfits for everyday wear, work, and errands.</p>
+<h3><strong>Features of the Women's Trainers for Everyday Comfort</strong></h3>
+<ul>
+  <li>
+<strong>Orthopedic Sole:</strong> Structured sole with arch support promotes healthy posture and reduces foot strain.</li>
+  <li>
+<strong>Lace-Up Closure:</strong> Adjustable laces allow a customised, secure fit throughout the day.</li>
+  <li>
+<strong>Cushioned Footbed:</strong> Padded insole provides comfort and support for extended wear.</li>
+  <li>
+<strong>Two-Tone Design:</strong> Contrasting colour panels and trim create a modern, sporty look.</li>
+  <li>
+<strong>Grippy Sole:</strong> Textured outsole delivers traction on various surfaces for confident steps.</li>
+</ul>",Made by Jessica,,Trainers,"rank-tracker, bron-made-by-jessica, Trainers",FALSE,Colour,Navy,Size,UK 3.5,,,,0,shopify,100,continue,manual,24.95,49.95,TRUE,TRUE,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/P1_bb8c1ec4-8d99-4c2f-a20c-04cfbdef6b8e.jpg?v=1790946640,1,Women's Orthopedic Trainers with Arch Support,FALSE,Women's Orthopedic Trainers with Arch Support,"Orthopedic trainers with arch support and a lace-up front, designed for all-day comfort and foot health.  
+ These women's orthopedic trainers combine supportive footwear design with a sporty look. The orthopedic sole provides arch support and promotes healthy posture, whilst the lace-up closure ensures a secure fit.",draft,Made by Jessica,https://madebyjessica.store/products/womens-orthopedic-trainers-with-arch-support,218,651,433
+womens-orthopedic-trainers-with-arch-support,,,,,,,,Colour,Navy,Size,UK 4,,,,0,shopify,100,continue,manual,24.95,49.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-orthopedic-trainers-with-arch-support,,,,,,,,Colour,Navy,Size,UK 5,,,,0,shopify,100,continue,manual,24.95,49.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-orthopedic-trainers-with-arch-support,,,,,,,,Colour,Navy,Size,UK 6,,,,0,shopify,100,continue,manual,24.95,49.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-orthopedic-trainers-with-arch-support,,,,,,,,Colour,Navy,Size,UK 6.5,,,,0,shopify,100,continue,manual,24.95,49.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-orthopedic-trainers-with-arch-support,,,,,,,,Colour,Navy,Size,UK 7.5,,,,0,shopify,100,continue,manual,24.95,49.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-orthopedic-trainers-with-arch-support,,,,,,,,Colour,Navy,Size,UK 8,,,,0,shopify,100,continue,manual,24.95,49.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-orthopedic-trainers-with-arch-support,,,,,,,,Colour,White,Size,UK 3.5,,,,0,shopify,100,continue,manual,24.95,49.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-orthopedic-trainers-with-arch-support,,,,,,,,Colour,White,Size,UK 4,,,,0,shopify,100,continue,manual,24.95,49.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-orthopedic-trainers-with-arch-support,,,,,,,,Colour,White,Size,UK 5,,,,0,shopify,100,continue,manual,24.95,49.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-orthopedic-trainers-with-arch-support,,,,,,,,Colour,White,Size,UK 6,,,,0,shopify,100,continue,manual,24.95,49.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-orthopedic-trainers-with-arch-support,,,,,,,,Colour,White,Size,UK 6.5,,,,0,shopify,100,continue,manual,24.95,49.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-orthopedic-trainers-with-arch-support,,,,,,,,Colour,White,Size,UK 7.5,,,,0,shopify,100,continue,manual,24.95,49.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-orthopedic-trainers-with-arch-support,,,,,,,,Colour,White,Size,UK 8,,,,0,shopify,100,continue,manual,24.95,49.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-orthopedic-trainers-with-arch-support,,,,,,,,Colour,Beige,Size,UK 3.5,,,,0,shopify,100,continue,manual,24.95,49.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-orthopedic-trainers-with-arch-support,,,,,,,,Colour,Beige,Size,UK 4,,,,0,shopify,100,continue,manual,24.95,49.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-orthopedic-trainers-with-arch-support,,,,,,,,Colour,Beige,Size,UK 5,,,,0,shopify,100,continue,manual,24.95,49.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-orthopedic-trainers-with-arch-support,,,,,,,,Colour,Beige,Size,UK 6,,,,0,shopify,100,continue,manual,24.95,49.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-orthopedic-trainers-with-arch-support,,,,,,,,Colour,Beige,Size,UK 6.5,,,,0,shopify,100,continue,manual,24.95,49.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-orthopedic-trainers-with-arch-support,,,,,,,,Colour,Beige,Size,UK 7.5,,,,0,shopify,100,continue,manual,24.95,49.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-orthopedic-trainers-with-arch-support,,,,,,,,Colour,Beige,Size,UK 8,,,,0,shopify,100,continue,manual,24.95,49.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-orthopedic-trainers-with-arch-support,,,,,,,,Colour,Black,Size,UK 3.5,,,,0,shopify,100,continue,manual,24.95,49.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-orthopedic-trainers-with-arch-support,,,,,,,,Colour,Black,Size,UK 4,,,,0,shopify,100,continue,manual,24.95,49.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-orthopedic-trainers-with-arch-support,,,,,,,,Colour,Black,Size,UK 5,,,,0,shopify,100,continue,manual,24.95,49.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-orthopedic-trainers-with-arch-support,,,,,,,,Colour,Black,Size,UK 6,,,,0,shopify,100,continue,manual,24.95,49.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-orthopedic-trainers-with-arch-support,,,,,,,,Colour,Black,Size,UK 6.5,,,,0,shopify,100,continue,manual,24.95,49.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-orthopedic-trainers-with-arch-support,,,,,,,,Colour,Black,Size,UK 7.5,,,,0,shopify,100,continue,manual,24.95,49.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-orthopedic-trainers-with-arch-support,,,,,,,,Colour,Black,Size,UK 8,,,,0,shopify,100,continue,manual,24.95,49.95,TRUE,FALSE,,,,,FALSE,,,,,,,,
+womens-orthopedic-trainers-with-arch-support,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/P2_198ecab9-877d-495f-a03a-de61c5cd14cb.jpg?v=1790946640,2,,,,,,,,,,
+womens-orthopedic-trainers-with-arch-support,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/P3_00c68e08-b512-44ab-af97-155b7bf184a7.jpg?v=1790946640,3,,,,,,,,,,
+womens-orthopedic-trainers-with-arch-support,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0874/8846/3176/files/P4_d5e45c11-9195-4a91-a7fe-64fcc684be2d.jpg?v=1790946640,4,,,,,,,,,,
