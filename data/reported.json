@@ -1,11 +1,5 @@
 {
  "averylanebrighton.com": {
-  "adeline-polka-dots-cardigan": {
-   "first_reported": "2026-10-21",
-   "rank": 279,
-   "title": "Adeline | Polka Dots Cardigan",
-   "url": "https://averylanebrighton.com/products/adeline-polka-dots-cardigan"
-  },
   "alana-elegant-dress": {
    "first_reported": "2026-08-25",
    "rank": 255,
@@ -78,12 +72,6 @@
    "title": "Calinae | Orthopaedic Sandals",
    "url": "https://averylanebrighton.com/products/calinae-orthopaedic-sandals"
   },
-  "calirenne-elegant-cardigan": {
-   "first_reported": "2026-10-21",
-   "rank": 281,
-   "title": "Calirenne | Elegant Cardigan",
-   "url": "https://averylanebrighton.com/products/calirenne-elegant-cardigan"
-  },
   "cara-sophisticated-boots": {
    "first_reported": "2026-09-10",
    "rank": 299,
@@ -138,6 +126,12 @@
    "title": "Claudia | Vintage Flair Trench Coat",
    "url": "https://averylanebrighton.com/products/claudia-vintage-flair-trench-coat"
   },
+  "coralyeth-elegant-dress": {
+   "first_reported": "2026-10-21",
+   "rank": 293,
+   "title": "Coralyeth | Elegant Dress",
+   "url": "https://averylanebrighton.com/products/coralyeth-elegant-dress"
+  },
   "coralynne-elegant-dress": {
    "first_reported": "2026-09-28",
    "rank": 187,
@@ -168,6 +162,12 @@
    "title": "Elara | Sequin Corset Evening Dress",
    "url": "https://averylanebrighton.com/products/elara-sequin-corset-evening-dress"
   },
+  "elvanya-orthopaedic-shoes": {
+   "first_reported": "2026-10-21",
+   "rank": 268,
+   "title": "Elvanya | Orthopaedic Shoes",
+   "url": "https://averylanebrighton.com/products/elvanya-orthopaedic-shoes"
+  },
   "evelyn-quinn-retro-a-line-summer-dress": {
    "first_reported": "2026-09-28",
    "rank": 283,
@@ -185,6 +185,12 @@
    "rank": 296,
    "title": "Faye | Luxe Fleece Gilet",
    "url": "https://averylanebrighton.com/products/faye-luxe-fleece-gilet"
+  },
+  "flore-orthopaedic-sandals": {
+   "first_reported": "2026-10-21",
+   "rank": 296,
+   "title": "Flore | Orthopaedic Sandals",
+   "url": "https://averylanebrighton.com/products/flore-orthopaedic-sandals"
   },
   "haele-orthopaedic-ankle-boots": {
    "first_reported": "2026-09-12",
@@ -245,12 +251,6 @@
    "rank": 106,
    "title": "Jorlynn | Elegant Sandals",
    "url": "https://averylanebrighton.com/products/jorlynn-elegant-sandals"
-  },
-  "jyn-elegant-bag": {
-   "first_reported": "2026-10-21",
-   "rank": 297,
-   "title": "Jyn | Elegant Bag",
-   "url": "https://averylanebrighton.com/products/jyn-elegant-bag"
   },
   "jynna-orthopaedic-shoes": {
    "first_reported": "2026-08-26",
@@ -318,6 +318,12 @@
    "title": "Liah Orthopaedic Boots",
    "url": "https://averylanebrighton.com/products/liah-orthopaedic-boots"
   },
+  "lorie-sophisticated-sweater": {
+   "first_reported": "2026-10-21",
+   "rank": 259,
+   "title": "Lorie | Sophisticated Jumper",
+   "url": "https://averylanebrighton.com/products/lorie-sophisticated-sweater"
+  },
   "lorrie-sophisticated-dress": {
    "first_reported": "2026-10-11",
    "rank": 275,
@@ -335,6 +341,12 @@
    "rank": 254,
    "title": "Madison Elegant Short Dress",
    "url": "https://averylanebrighton.com/products/madison-elegant-short-dress"
+  },
+  "maple-orthopaedic-shoes": {
+   "first_reported": "2026-10-21",
+   "rank": 292,
+   "title": "Maple | Orthopaedic Shoes",
+   "url": "https://averylanebrighton.com/products/maple-orthopaedic-shoes"
   },
   "margaritte-stylish-midi-dress": {
    "first_reported": "2026-09-19",
@@ -492,12 +504,6 @@
    "title": "Saryphiah Comfortable Blouse",
    "url": "https://averylanebrighton.com/products/saryphiah-comfortable-blouse"
   },
-  "scarlethia-sophisticated-coat": {
-   "first_reported": "2026-10-21",
-   "rank": 266,
-   "title": "Scarlethia Sophisticated Coat",
-   "url": "https://averylanebrighton.com/products/scarlethia-sophisticated-coat"
-  },
   "scarlett-womens-floral-applique-sleeveless-maxi-dress": {
    "first_reported": "2026-10-11",
    "rank": 256,
@@ -533,12 +539,6 @@
    "rank": 85,
    "title": "Talen Orthopaedic Boots",
    "url": "https://averylanebrighton.com/products/talen-orthopaedic-boots"
-  },
-  "tameric-sophisticated-embroidered-raw-blouse-wide-trousers": {
-   "first_reported": "2026-10-21",
-   "rank": 298,
-   "title": "Tameric Sophisticated Embroidered Raw Blouse Wide Trousers",
-   "url": "https://averylanebrighton.com/products/tameric-sophisticated-embroidered-raw-blouse-wide-trousers"
   },
   "tivona-sophisticated-jacket": {
    "first_reported": "2026-09-01",
@@ -643,6 +643,12 @@
    "rank": 275,
    "title": "Women’s Maxi Dress with V-Neck and Fitted Waist",
    "url": "https://byemiliarose.com/products/sleeveless-maxi-dress-with-flowing-silhouette"
+  },
+  "sleeveless-wide-leg-jumpsuit-for-women": {
+   "first_reported": "2026-10-24",
+   "rank": 185,
+   "title": "Women’s Sleeveless Jumpsuit with V-Neck and Tie Waist",
+   "url": "https://byemiliarose.com/products/sleeveless-wide-leg-jumpsuit-for-women"
   },
   "v-neck-midi-dress-with-short-sleeves": {
    "first_reported": "2026-09-14",
@@ -1256,6 +1262,12 @@
    "title": "Women’s Coat with Hood and Double Button Front",
    "url": "https://byemiliarose.com/products/womens-coat-with-hood-and-double-button-front"
   },
+  "womens-collared-button-front-shacket-with-chest-pockets": {
+   "first_reported": "2026-10-24",
+   "rank": 260,
+   "title": "Women's Collared Button-Front Shacket with Chest Pockets",
+   "url": "https://byemiliarose.com/products/womens-collared-button-front-shacket-with-chest-pockets"
+  },
   "womens-collared-polo-jumper-with-button-placket": {
    "first_reported": "2026-09-14",
    "rank": 232,
@@ -1273,6 +1285,12 @@
    "rank": 267,
    "title": "Women's Cropped Wool Jacket with Flap Pockets",
    "url": "https://byemiliarose.com/products/womens-cropped-wool-jacket-with-flap-pockets"
+  },
+  "womens-double-breasted-blazer-and-trouser-suit-set": {
+   "first_reported": "2026-10-24",
+   "rank": 234,
+   "title": "Women's Double-Breasted Blazer and Trouser Suit Set",
+   "url": "https://byemiliarose.com/products/womens-double-breasted-blazer-and-trouser-suit-set"
   },
   "womens-double-breasted-long-coat-with-wide-lapels": {
    "first_reported": "2026-09-07",
@@ -1768,6 +1786,12 @@
    "rank": 147,
    "title": "Alexandra%E2%84%A2 Trendy Two Piece Set",
    "url": "https://byseabourne.com/products/alexandra%E2%84%A2-trendy-two-piece-set"
+  },
+  "alexandra-boho-style-dress": {
+   "first_reported": "2026-10-24",
+   "rank": 150,
+   "title": "Alexandra | Women's Boho Floral Patchwork Mini Dress",
+   "url": "https://byseabourne.com/products/alexandra-boho-style-dress"
   },
   "amara%E2%84%A2-boho-woven-wedge-sandals": {
    "first_reported": "2026-09-15",
@@ -4232,6 +4256,12 @@
    "title": "Anja | Damen Gestreifter Rundhals-Pullover für den Frühling",
    "url": "https://leonboutique.co/products/anja-damen-gestreifter-rundhals-pullover-fur-den-fruhling"
   },
+  "annika-damen-eleganter-oversized-pullover": {
+   "first_reported": "2026-10-24",
+   "rank": 296,
+   "title": "Annika | Damen Eleganter Oversized Pullover",
+   "url": "https://leonboutique.co/products/annika-damen-eleganter-oversized-pullover"
+  },
   "beatrice-herren-winter-casual-jacke-mit-reissverschluss": {
    "first_reported": "2026-09-18",
    "rank": 159,
@@ -4375,6 +4405,12 @@
    "rank": 277,
    "title": "Gunnar | Herren Maßgeschneiderte Smart-Casual Jacke aus Wildleder",
    "url": "https://leonboutique.co/products/gunnar-herren-massgeschneiderte-smart-casual-jacke-aus-wildleder"
+  },
+  "helene-damen-langer-zweireihiger-wintermantel": {
+   "first_reported": "2026-10-24",
+   "rank": 300,
+   "title": "Helene | Damen Langer Zweireihiger Wintermantel",
+   "url": "https://leonboutique.co/products/helene-damen-langer-zweireihiger-wintermantel"
   },
   "isabella-damen-armelloses-geplissiertes-blumen-midi-kleid": {
    "first_reported": "2026-09-16",
@@ -4715,6 +4751,12 @@
    "title": "Women's Knitted Button Cardigan with V-Neckline and Long Sleeves",
    "url": "https://madebyjessica.store/products/knitted-button-cardigan-for-women-soft-cozy-layering-piece"
   },
+  "lark-zip-front-stripe-panel-jumpsuit": {
+   "first_reported": "2026-10-24",
+   "rank": 217,
+   "title": "Lark | Zip Front Stripe Panel Jumpsuit",
+   "url": "https://madebyjessica.store/products/lark-zip-front-stripe-panel-jumpsuit"
+  },
   "patchwork-knit-sweater-womens-colour-block-jumper": {
    "first_reported": "2026-08-26",
    "rank": 221,
@@ -4792,6 +4834,12 @@
    "rank": 239,
    "title": "Women's Cable Knit Oversized Jumper Dress with Ribbed Cuffs",
    "url": "https://madebyjessica.store/products/womens-cable-knit-oversized-jumper-dress-with-ribbed-cuffs"
+  },
+  "womens-cable-knit-roll-neck-jumper-relaxed-fit": {
+   "first_reported": "2026-10-24",
+   "rank": 189,
+   "title": "Women's Cable Knit Roll Neck Jumper Relaxed Fit",
+   "url": "https://madebyjessica.store/products/womens-cable-knit-roll-neck-jumper-relaxed-fit"
   },
   "womens-cape-coat-with-funnel-neck-and-tie-belt": {
    "first_reported": "2026-10-18",
@@ -4876,6 +4924,12 @@
    "rank": 228,
    "title": "Women's Knee-High Boots with Buckle Detail and Low Heel",
    "url": "https://madebyjessica.store/products/womens-knee-high-boots-with-buckle-detail-and-low-heel"
+  },
+  "womens-knit-cardigan-with-button-up-closure-and-relaxed-fit": {
+   "first_reported": "2026-10-24",
+   "rank": 155,
+   "title": "Women's Knit Cardigan with Button-Up Closure and Relaxed Fit",
+   "url": "https://madebyjessica.store/products/womens-knit-cardigan-with-button-up-closure-and-relaxed-fit"
   },
   "womens-leather-ballet-flats-with-scalloped-topline": {
    "first_reported": "2026-10-23",
@@ -5026,6 +5080,12 @@
    "rank": 188,
    "title": "Women's Wide-Collar Jacket with Concealed Front",
    "url": "https://madebyjessica.store/products/womens-wide-collar-jacket-with-concealed-front"
+  },
+  "wrap-swimsuit-womens-v-neck-one-piece-with-tummy-control": {
+   "first_reported": "2026-10-24",
+   "rank": 147,
+   "title": "Wrap Swimsuit Womens V Neck One Piece With Tummy Control",
+   "url": "https://madebyjessica.store/products/wrap-swimsuit-womens-v-neck-one-piece-with-tummy-control"
   }
  },
  "redlich-becker.de": {
