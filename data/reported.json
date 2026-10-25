@@ -1,5 +1,11 @@
 {
  "averylanebrighton.com": {
+  "adeline-polka-dots-cardigan": {
+   "first_reported": "2026-10-21",
+   "rank": 279,
+   "title": "Adeline | Polka Dots Cardigan",
+   "url": "https://averylanebrighton.com/products/adeline-polka-dots-cardigan"
+  },
   "alana-elegant-dress": {
    "first_reported": "2026-08-25",
    "rank": 255,
@@ -72,6 +78,12 @@
    "title": "Calinae | Orthopaedic Sandals",
    "url": "https://averylanebrighton.com/products/calinae-orthopaedic-sandals"
   },
+  "calirenne-elegant-cardigan": {
+   "first_reported": "2026-10-21",
+   "rank": 281,
+   "title": "Calirenne | Elegant Cardigan",
+   "url": "https://averylanebrighton.com/products/calirenne-elegant-cardigan"
+  },
   "cara-sophisticated-boots": {
    "first_reported": "2026-09-10",
    "rank": 299,
@@ -126,12 +138,6 @@
    "title": "Claudia | Vintage Flair Trench Coat",
    "url": "https://averylanebrighton.com/products/claudia-vintage-flair-trench-coat"
   },
-  "coralyeth-elegant-dress": {
-   "first_reported": "2026-10-21",
-   "rank": 293,
-   "title": "Coralyeth | Elegant Dress",
-   "url": "https://averylanebrighton.com/products/coralyeth-elegant-dress"
-  },
   "coralynne-elegant-dress": {
    "first_reported": "2026-09-28",
    "rank": 187,
@@ -162,12 +168,6 @@
    "title": "Elara | Sequin Corset Evening Dress",
    "url": "https://averylanebrighton.com/products/elara-sequin-corset-evening-dress"
   },
-  "elvanya-orthopaedic-shoes": {
-   "first_reported": "2026-10-21",
-   "rank": 268,
-   "title": "Elvanya | Orthopaedic Shoes",
-   "url": "https://averylanebrighton.com/products/elvanya-orthopaedic-shoes"
-  },
   "evelyn-quinn-retro-a-line-summer-dress": {
    "first_reported": "2026-09-28",
    "rank": 283,
@@ -185,12 +185,6 @@
    "rank": 296,
    "title": "Faye | Luxe Fleece Gilet",
    "url": "https://averylanebrighton.com/products/faye-luxe-fleece-gilet"
-  },
-  "flore-orthopaedic-sandals": {
-   "first_reported": "2026-10-21",
-   "rank": 296,
-   "title": "Flore | Orthopaedic Sandals",
-   "url": "https://averylanebrighton.com/products/flore-orthopaedic-sandals"
   },
   "haele-orthopaedic-ankle-boots": {
    "first_reported": "2026-09-12",
@@ -251,6 +245,12 @@
    "rank": 106,
    "title": "Jorlynn | Elegant Sandals",
    "url": "https://averylanebrighton.com/products/jorlynn-elegant-sandals"
+  },
+  "jyn-elegant-bag": {
+   "first_reported": "2026-10-21",
+   "rank": 297,
+   "title": "Jyn | Elegant Bag",
+   "url": "https://averylanebrighton.com/products/jyn-elegant-bag"
   },
   "jynna-orthopaedic-shoes": {
    "first_reported": "2026-08-26",
@@ -318,12 +318,6 @@
    "title": "Liah Orthopaedic Boots",
    "url": "https://averylanebrighton.com/products/liah-orthopaedic-boots"
   },
-  "lorie-sophisticated-sweater": {
-   "first_reported": "2026-10-21",
-   "rank": 259,
-   "title": "Lorie | Sophisticated Jumper",
-   "url": "https://averylanebrighton.com/products/lorie-sophisticated-sweater"
-  },
   "lorrie-sophisticated-dress": {
    "first_reported": "2026-10-11",
    "rank": 275,
@@ -341,12 +335,6 @@
    "rank": 254,
    "title": "Madison Elegant Short Dress",
    "url": "https://averylanebrighton.com/products/madison-elegant-short-dress"
-  },
-  "maple-orthopaedic-shoes": {
-   "first_reported": "2026-10-21",
-   "rank": 292,
-   "title": "Maple | Orthopaedic Shoes",
-   "url": "https://averylanebrighton.com/products/maple-orthopaedic-shoes"
   },
   "margaritte-stylish-midi-dress": {
    "first_reported": "2026-09-19",
@@ -504,6 +492,12 @@
    "title": "Saryphiah Comfortable Blouse",
    "url": "https://averylanebrighton.com/products/saryphiah-comfortable-blouse"
   },
+  "scarlethia-sophisticated-coat": {
+   "first_reported": "2026-10-21",
+   "rank": 266,
+   "title": "Scarlethia Sophisticated Coat",
+   "url": "https://averylanebrighton.com/products/scarlethia-sophisticated-coat"
+  },
   "scarlett-womens-floral-applique-sleeveless-maxi-dress": {
    "first_reported": "2026-10-11",
    "rank": 256,
@@ -539,6 +533,12 @@
    "rank": 85,
    "title": "Talen Orthopaedic Boots",
    "url": "https://averylanebrighton.com/products/talen-orthopaedic-boots"
+  },
+  "tameric-sophisticated-embroidered-raw-blouse-wide-trousers": {
+   "first_reported": "2026-10-21",
+   "rank": 298,
+   "title": "Tameric Sophisticated Embroidered Raw Blouse Wide Trousers",
+   "url": "https://averylanebrighton.com/products/tameric-sophisticated-embroidered-raw-blouse-wide-trousers"
   },
   "tivona-sophisticated-jacket": {
    "first_reported": "2026-09-01",
@@ -1172,6 +1172,12 @@
    "title": "Women’s Blouse with Collar and Button Fastening",
    "url": "https://byemiliarose.com/products/women-sblouse-with-collar-and-button-fastening"
   },
+  "women-st-shirt-with-round-neckline-and-rolled-sleeves": {
+   "first_reported": "2026-10-25",
+   "rank": 175,
+   "title": "Women St Shirt With Round Neckline And Rolled Sleeves",
+   "url": "https://byemiliarose.com/products/women-st-shirt-with-round-neckline-and-rolled-sleeves"
+  },
   "womens-belted-ribbed-midi-dress-with-collar-and-v-neck": {
    "first_reported": "2026-09-13",
    "rank": 295,
@@ -1430,6 +1436,12 @@
    "title": "Women's Leather Pumps with Platform Sole and Side Zipper",
    "url": "https://byemiliarose.com/products/womens-leather-pumps-with-platform-sole-and-side-zipper"
   },
+  "womens-leather-pumps-with-slip-on-design-and-block-heel": {
+   "first_reported": "2026-10-25",
+   "rank": 97,
+   "title": "Women's Leather Pumps with Slip On Design and Block Heel",
+   "url": "https://byemiliarose.com/products/womens-leather-pumps-with-slip-on-design-and-block-heel"
+  },
   "womens-leather-sandals-with-round-toe-and-slip-on": {
    "first_reported": "2026-08-26",
    "rank": 280,
@@ -1471,6 +1483,12 @@
    "rank": 271,
    "title": "Women's Mary Jane Shoes with T Bar Strap for Everyday Wear",
    "url": "https://byemiliarose.com/products/womens-mary-jane-shoes-with-t-bar-strap-for-everyday-wear"
+  },
+  "womens-open-front-blazer-with-long-sleeves": {
+   "first_reported": "2026-10-25",
+   "rank": 289,
+   "title": "Women's Open-Front Blazer with Long Sleeves",
+   "url": "https://byemiliarose.com/products/womens-open-front-blazer-with-long-sleeves"
   },
   "womens-orthopaedic-ankle-boots-with-side-zip-closure-for-fall": {
    "first_reported": "2026-09-17",
@@ -2620,6 +2638,12 @@
    "rank": 219,
    "title": "Vera%E2%84%A2 Relaxed Wide Leg Trousers",
    "url": "https://byseabourne.com/products/vera%E2%84%A2-relaxed-wide-leg-trousers"
+  },
+  "veradelle-womens-boho-print-blouse": {
+   "first_reported": "2026-10-25",
+   "rank": 178,
+   "title": "Veradelle Womens Boho Print Blouse",
+   "url": "https://byseabourne.com/products/veradelle-womens-boho-print-blouse"
   },
   "verity-womens-lace-up-ankle-boots": {
    "first_reported": "2026-09-24",
@@ -4817,6 +4841,12 @@
    "title": "Women's Wide-Leg Trousers with Adjustable Drawstring Waistband",
    "url": "https://madebyjessica.store/products/women-s-wide-leg-full-length-trousers-with-drawstring-waist"
   },
+  "womens-belted-trench-coat-with-wide-lapel-collar": {
+   "first_reported": "2026-10-25",
+   "rank": 250,
+   "title": "Women's Belted Trench Coat with Wide Lapel Collar",
+   "url": "https://madebyjessica.store/products/womens-belted-trench-coat-with-wide-lapel-collar"
+  },
   "womens-cable-knit-jumper-with-crew-neck": {
    "first_reported": "2026-10-20",
    "rank": 234,
@@ -4888,6 +4918,12 @@
    "rank": 244,
    "title": "Women's Faux Fur Coat with Hook Fastening",
    "url": "https://madebyjessica.store/products/womens-faux-fur-coat-with-hook-fastening"
+  },
+  "womens-half-zip-tracksuit-set-with-crop-top-and-joggers": {
+   "first_reported": "2026-10-25",
+   "rank": 251,
+   "title": "Women's Half-Zip Tracksuit Set with Crop Top and Joggers",
+   "url": "https://madebyjessica.store/products/womens-half-zip-tracksuit-set-with-crop-top-and-joggers"
   },
   "womens-hooded-long-jacket-with-zip-and-drawstring": {
    "first_reported": "2026-10-23",
