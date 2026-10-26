@@ -1,11 +1,5 @@
 {
  "averylanebrighton.com": {
-  "adeline-polka-dots-cardigan": {
-   "first_reported": "2026-10-21",
-   "rank": 279,
-   "title": "Adeline | Polka Dots Cardigan",
-   "url": "https://averylanebrighton.com/products/adeline-polka-dots-cardigan"
-  },
   "alana-elegant-dress": {
    "first_reported": "2026-08-25",
    "rank": 255,
@@ -78,12 +72,6 @@
    "title": "Calinae | Orthopaedic Sandals",
    "url": "https://averylanebrighton.com/products/calinae-orthopaedic-sandals"
   },
-  "calirenne-elegant-cardigan": {
-   "first_reported": "2026-10-21",
-   "rank": 281,
-   "title": "Calirenne | Elegant Cardigan",
-   "url": "https://averylanebrighton.com/products/calirenne-elegant-cardigan"
-  },
   "cara-sophisticated-boots": {
    "first_reported": "2026-09-10",
    "rank": 299,
@@ -138,6 +126,12 @@
    "title": "Claudia | Vintage Flair Trench Coat",
    "url": "https://averylanebrighton.com/products/claudia-vintage-flair-trench-coat"
   },
+  "coralyeth-elegant-dress": {
+   "first_reported": "2026-10-21",
+   "rank": 293,
+   "title": "Coralyeth | Elegant Dress",
+   "url": "https://averylanebrighton.com/products/coralyeth-elegant-dress"
+  },
   "coralynne-elegant-dress": {
    "first_reported": "2026-09-28",
    "rank": 187,
@@ -168,6 +162,12 @@
    "title": "Elara | Sequin Corset Evening Dress",
    "url": "https://averylanebrighton.com/products/elara-sequin-corset-evening-dress"
   },
+  "elvanya-orthopaedic-shoes": {
+   "first_reported": "2026-10-21",
+   "rank": 268,
+   "title": "Elvanya | Orthopaedic Shoes",
+   "url": "https://averylanebrighton.com/products/elvanya-orthopaedic-shoes"
+  },
   "evelyn-quinn-retro-a-line-summer-dress": {
    "first_reported": "2026-09-28",
    "rank": 283,
@@ -185,6 +185,12 @@
    "rank": 296,
    "title": "Faye | Luxe Fleece Gilet",
    "url": "https://averylanebrighton.com/products/faye-luxe-fleece-gilet"
+  },
+  "flore-orthopaedic-sandals": {
+   "first_reported": "2026-10-21",
+   "rank": 296,
+   "title": "Flore | Orthopaedic Sandals",
+   "url": "https://averylanebrighton.com/products/flore-orthopaedic-sandals"
   },
   "haele-orthopaedic-ankle-boots": {
    "first_reported": "2026-09-12",
@@ -245,12 +251,6 @@
    "rank": 106,
    "title": "Jorlynn | Elegant Sandals",
    "url": "https://averylanebrighton.com/products/jorlynn-elegant-sandals"
-  },
-  "jyn-elegant-bag": {
-   "first_reported": "2026-10-21",
-   "rank": 297,
-   "title": "Jyn | Elegant Bag",
-   "url": "https://averylanebrighton.com/products/jyn-elegant-bag"
   },
   "jynna-orthopaedic-shoes": {
    "first_reported": "2026-08-26",
@@ -318,6 +318,12 @@
    "title": "Liah Orthopaedic Boots",
    "url": "https://averylanebrighton.com/products/liah-orthopaedic-boots"
   },
+  "lorie-sophisticated-sweater": {
+   "first_reported": "2026-10-21",
+   "rank": 259,
+   "title": "Lorie | Sophisticated Jumper",
+   "url": "https://averylanebrighton.com/products/lorie-sophisticated-sweater"
+  },
   "lorrie-sophisticated-dress": {
    "first_reported": "2026-10-11",
    "rank": 275,
@@ -335,6 +341,12 @@
    "rank": 254,
    "title": "Madison Elegant Short Dress",
    "url": "https://averylanebrighton.com/products/madison-elegant-short-dress"
+  },
+  "maple-orthopaedic-shoes": {
+   "first_reported": "2026-10-21",
+   "rank": 292,
+   "title": "Maple | Orthopaedic Shoes",
+   "url": "https://averylanebrighton.com/products/maple-orthopaedic-shoes"
   },
   "margaritte-stylish-midi-dress": {
    "first_reported": "2026-09-19",
@@ -492,12 +504,6 @@
    "title": "Saryphiah Comfortable Blouse",
    "url": "https://averylanebrighton.com/products/saryphiah-comfortable-blouse"
   },
-  "scarlethia-sophisticated-coat": {
-   "first_reported": "2026-10-21",
-   "rank": 266,
-   "title": "Scarlethia Sophisticated Coat",
-   "url": "https://averylanebrighton.com/products/scarlethia-sophisticated-coat"
-  },
   "scarlett-womens-floral-applique-sleeveless-maxi-dress": {
    "first_reported": "2026-10-11",
    "rank": 256,
@@ -533,12 +539,6 @@
    "rank": 85,
    "title": "Talen Orthopaedic Boots",
    "url": "https://averylanebrighton.com/products/talen-orthopaedic-boots"
-  },
-  "tameric-sophisticated-embroidered-raw-blouse-wide-trousers": {
-   "first_reported": "2026-10-21",
-   "rank": 298,
-   "title": "Tameric Sophisticated Embroidered Raw Blouse Wide Trousers",
-   "url": "https://averylanebrighton.com/products/tameric-sophisticated-embroidered-raw-blouse-wide-trousers"
   },
   "tivona-sophisticated-jacket": {
    "first_reported": "2026-09-01",
@@ -854,6 +854,12 @@
    "title": "Women’s High-Waist Pencil Skirt with Back Slit",
    "url": "https://byemiliarose.com/products/women-s-high-waist-pencil-skirt-with-back-slit"
   },
+  "women-s-jacket-with-zipper-and-textured-surface": {
+   "first_reported": "2026-10-26",
+   "rank": 290,
+   "title": "Women’s Jacket with Zipper and Textured Surface",
+   "url": "https://byemiliarose.com/products/women-s-jacket-with-zipper-and-textured-surface"
+  },
   "women-s-jumper-dress-with-high-neck-and-button-placket": {
    "first_reported": "2026-09-07",
    "rank": 280,
@@ -895,6 +901,12 @@
    "rank": 219,
    "title": "Women’s Layered Dress with Round Neck and Sheer Overlay",
    "url": "https://byemiliarose.com/products/women-s-layered-dress-with-round-neck-and-sheer-overlay"
+  },
+  "women-s-long-coat-with-double-buttons-and": {
+   "first_reported": "2026-10-26",
+   "rank": 292,
+   "title": "Women’s Long Coat with Double Buttons and",
+   "url": "https://byemiliarose.com/products/women-s-long-coat-with-double-buttons-and"
   },
   "women-s-long-coat-withhood-and-zip": {
    "first_reported": "2026-10-04",
@@ -1003,6 +1015,12 @@
    "rank": 243,
    "title": "Women’s Mini Dress with Mock Neck and Split Sleeves",
    "url": "https://byemiliarose.com/products/women-s-mini-dress-with-mock-neck-and-split-sleeves"
+  },
+  "women-s-mini-dress-with-v-neck-and-sheer-sleeves": {
+   "first_reported": "2026-10-26",
+   "rank": 298,
+   "title": "Women’s Mini Dress with V Neck and Sheer Sleeves",
+   "url": "https://byemiliarose.com/products/women-s-mini-dress-with-v-neck-and-sheer-sleeves"
   },
   "women-s-mini-dress-with-v-neckline-and-fringe-surface": {
    "first_reported": "2026-09-14",
@@ -1154,6 +1172,12 @@
    "title": "Women S V Neck Cami Top With Spaghetti Straps",
    "url": "https://byemiliarose.com/products/women-s-v-neck-cami-top-with-spaghetti-straps"
   },
+  "women-s-v-neck-textured-knit-sweater-with-chevron-pattern-and-long-sleeves": {
+   "first_reported": "2026-10-26",
+   "rank": 293,
+   "title": "Women S V Neck Textured Knit Sweater With Chevron Pattern And Long Sleeves",
+   "url": "https://byemiliarose.com/products/women-s-v-neck-textured-knit-sweater-with-chevron-pattern-and-long-sleeves"
+  },
   "women-s-v-neck-top-with-sequin-decoration-and-versatile-fit": {
    "first_reported": "2026-09-16",
    "rank": 70,
@@ -1249,6 +1273,12 @@
    "rank": 168,
    "title": "Women's Cable-Knit Turtleneck Jumper Long Sleeve",
    "url": "https://byemiliarose.com/products/womens-cable-knit-turtleneck-jumper-long-sleeve"
+  },
+  "womens-cape-coat-with-double-breasted-closure": {
+   "first_reported": "2026-10-26",
+   "rank": 286,
+   "title": "Women's Cape Coat with Double-Breasted Closure",
+   "url": "https://byemiliarose.com/products/womens-cape-coat-with-double-breasted-closure"
   },
   "womens-chelsea-boots-with-elastic-panels-and-pull-tabs": {
    "first_reported": "2026-10-13",
@@ -1876,6 +1906,12 @@
    "rank": 299,
    "title": "Aria | Women's Sleeveless Wide Leg Jumpsuit V-Neck Tie Waist Print",
    "url": "https://byseabourne.com/products/aria-womens-sleeveless-wide-leg-jumpsuit-v-neck-tie-waist-print"
+  },
+  "ariawedgesandals": {
+   "first_reported": "2026-10-26",
+   "rank": 106,
+   "title": "Aria™ | Premium Orthopedic Wedge Sandals",
+   "url": "https://byseabourne.com/products/ariawedgesandals"
   },
   "arvina-womens-orthopedic-thong-sandals-with-arch-support": {
    "first_reported": "2026-10-11",
@@ -3406,11 +3442,23 @@
    "title": "16MP Wildkamera mit Nachtsicht und Bewegungserkennung, wetterfest",
    "url": "https://hausofmode.de/products/16mp-wildkamera-mit-nachtsicht-und-bewegungserkennung-wetterfest"
   },
+  "16tb-wasserfester-und-stossfester-usb-3-2-flashlaufwerk-fur-windows-und-mac": {
+   "first_reported": "2026-10-26",
+   "rank": 41,
+   "title": "16TB wasserfester und stoßfester USB-3.2-Flashlaufwerk für Windows und Mac",
+   "url": "https://hausofmode.de/products/16tb-wasserfester-und-stossfester-usb-3-2-flashlaufwerk-fur-windows-und-mac"
+  },
   "1800-w-wandklimageraet-4-in-1-kuehlen-heizen-ventilator-und-luftentfeuchter": {
    "first_reported": "2026-10-01",
    "rank": 32,
    "title": "1800 W Wandklimagerät – 4-in-1: Kühlen, Heizen, Ventilator und Luftentfeuchter",
    "url": "https://hausofmode.de/products/1800-w-wandklimageraet-4-in-1-kuehlen-heizen-ventilator-und-luftentfeuchter"
+  },
+  "1800w-elektrischer-wandheizer-mit-einstellbarer-temperatur-16-40-c-ventilatormodus-fernbedienung-und-zeitschaltuhr": {
+   "first_reported": "2026-10-26",
+   "rank": 43,
+   "title": "1800W Elektrischer Wandheizer mit einstellbarer Temperatur 16-40°C, Ventilatormodus, Fernbedienung und Zeitschaltuhr",
+   "url": "https://hausofmode.de/products/1800w-elektrischer-wandheizer-mit-einstellbarer-temperatur-16-40-c-ventilatormodus-fernbedienung-und-zeitschaltuhr"
   },
   "2-in-1-damenrasierer-fuer-glatte-sanft-gepflegte-haut": {
    "first_reported": "2026-10-05",
@@ -3513,6 +3561,18 @@
    "rank": 112,
    "title": "24-Tage Weihnachtskugel Adventskalender 2026: Jeden Tag ein neues Ornament",
    "url": "https://hausofmode.de/products/24-tage-weihnachtskugel-adventskalender-2026-jeden-tag-ein-neues-ornament"
+  },
+  "2tb-tragbare-externe-ssd-mit-schnellen-ubertragungsgeschwindigkeiten-bis-zu-1050-mb-s": {
+   "first_reported": "2026-10-26",
+   "rank": 130,
+   "title": "2TB Tragbare externe SSD mit schnellen Übertragungsgeschwindigkeiten bis zu 1050 MB/s",
+   "url": "https://hausofmode.de/products/2tb-tragbare-externe-ssd-mit-schnellen-ubertragungsgeschwindigkeiten-bis-zu-1050-mb-s"
+  },
+  "2tb-tragbare-externe-ssd-mit-usb-c-und-schnellen-ubertragungsgeschwindigkeiten": {
+   "first_reported": "2026-10-26",
+   "rank": 131,
+   "title": "2TB Tragbare externe SSD mit USB-C und schnellen Übertragungsgeschwindigkeiten",
+   "url": "https://hausofmode.de/products/2tb-tragbare-externe-ssd-mit-usb-c-und-schnellen-ubertragungsgeschwindigkeiten"
   },
   "3-in-1-akku-staubsauger-wischmopp-und-textilreiniger-15-000-pa-saugkraft": {
    "first_reported": "2026-10-07",
@@ -4769,6 +4829,12 @@
    "title": "Women’s Blouse with Button Fastening and Printed Design",
    "url": "https://madebyjessica.store/products/floral-printed-summer-top-for-women-soft-stylish"
   },
+  "indoor-outdoor-slippers-with-soft-lining-and-flexible-sole": {
+   "first_reported": "2026-10-26",
+   "rank": 264,
+   "title": "Indoor-Outdoor Slippers with Soft Lining and Flexible Sole",
+   "url": "https://madebyjessica.store/products/indoor-outdoor-slippers-with-soft-lining-and-flexible-sole"
+  },
   "knitted-button-cardigan-for-women-soft-cozy-layering-piece": {
    "first_reported": "2026-08-25",
    "rank": 81,
@@ -5033,6 +5099,12 @@
    "title": "Women's Quilted Hooded Coat Long Insulated for Winter",
    "url": "https://madebyjessica.store/products/womens-quilted-hooded-coat-long-insulated-for-winter"
   },
+  "womens-quilted-parka-jacket-with-faux-fur-hood": {
+   "first_reported": "2026-10-26",
+   "rank": 242,
+   "title": "Women's Quilted Parka Jacket with Faux Fur Hood",
+   "url": "https://madebyjessica.store/products/womens-quilted-parka-jacket-with-faux-fur-hood"
+  },
   "womens-quilted-puffer-jacket-with-striped-design": {
    "first_reported": "2026-10-23",
    "rank": 254,
@@ -5050,6 +5122,18 @@
    "rank": 244,
    "title": "Women's Ribbed Crew Neck Jumper with Button Cuffs",
    "url": "https://madebyjessica.store/products/womens-ribbed-crew-neck-jumper-with-button-cuffs"
+  },
+  "womens-satin-bias-cut-midi-skirt-high-waisted": {
+   "first_reported": "2026-10-26",
+   "rank": 189,
+   "title": "Womens Satin Bias Cut Midi Skirt High Waisted",
+   "url": "https://madebyjessica.store/products/womens-satin-bias-cut-midi-skirt-high-waisted"
+  },
+  "womens-sequin-mini-dress-with-fringe-sleeves-and-v-neckline": {
+   "first_reported": "2026-10-26",
+   "rank": 265,
+   "title": "Women's Sequin Mini Dress with Fringe Sleeves and V-Neckline",
+   "url": "https://madebyjessica.store/products/womens-sequin-mini-dress-with-fringe-sleeves-and-v-neckline"
   },
   "womens-sequin-mini-dress-with-v-neck-and-tassel-sleeves": {
    "first_reported": "2026-10-19",
@@ -5086,6 +5170,12 @@
    "rank": 248,
    "title": "Women's Sweatshirt with Half Button and Denim-Style Collar",
    "url": "https://madebyjessica.store/products/womens-sweatshirt-with-half-button-and-denim-style-collarwomens-sweatshirt-with-half-button-and-denim-style-collar"
+  },
+  "womens-tailored-blazer-with-single-button-closure": {
+   "first_reported": "2026-10-26",
+   "rank": 252,
+   "title": "Womens Tailored Blazer With Single Button Closure",
+   "url": "https://madebyjessica.store/products/womens-tailored-blazer-with-single-button-closure"
   },
   "womens-tailored-velvet-blazer-single-breasted": {
    "first_reported": "2026-10-15",
