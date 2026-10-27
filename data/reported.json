@@ -1,5 +1,11 @@
 {
  "averylanebrighton.com": {
+  "adeline-polka-dots-cardigan": {
+   "first_reported": "2026-10-21",
+   "rank": 279,
+   "title": "Adeline | Polka Dots Cardigan",
+   "url": "https://averylanebrighton.com/products/adeline-polka-dots-cardigan"
+  },
   "alana-elegant-dress": {
    "first_reported": "2026-08-25",
    "rank": 255,
@@ -72,6 +78,12 @@
    "title": "Calinae | Orthopaedic Sandals",
    "url": "https://averylanebrighton.com/products/calinae-orthopaedic-sandals"
   },
+  "calirenne-elegant-cardigan": {
+   "first_reported": "2026-10-21",
+   "rank": 281,
+   "title": "Calirenne | Elegant Cardigan",
+   "url": "https://averylanebrighton.com/products/calirenne-elegant-cardigan"
+  },
   "cara-sophisticated-boots": {
    "first_reported": "2026-09-10",
    "rank": 299,
@@ -126,12 +138,6 @@
    "title": "Claudia | Vintage Flair Trench Coat",
    "url": "https://averylanebrighton.com/products/claudia-vintage-flair-trench-coat"
   },
-  "coralyeth-elegant-dress": {
-   "first_reported": "2026-10-21",
-   "rank": 293,
-   "title": "Coralyeth | Elegant Dress",
-   "url": "https://averylanebrighton.com/products/coralyeth-elegant-dress"
-  },
   "coralynne-elegant-dress": {
    "first_reported": "2026-09-28",
    "rank": 187,
@@ -162,12 +168,6 @@
    "title": "Elara | Sequin Corset Evening Dress",
    "url": "https://averylanebrighton.com/products/elara-sequin-corset-evening-dress"
   },
-  "elvanya-orthopaedic-shoes": {
-   "first_reported": "2026-10-21",
-   "rank": 268,
-   "title": "Elvanya | Orthopaedic Shoes",
-   "url": "https://averylanebrighton.com/products/elvanya-orthopaedic-shoes"
-  },
   "evelyn-quinn-retro-a-line-summer-dress": {
    "first_reported": "2026-09-28",
    "rank": 283,
@@ -185,12 +185,6 @@
    "rank": 296,
    "title": "Faye | Luxe Fleece Gilet",
    "url": "https://averylanebrighton.com/products/faye-luxe-fleece-gilet"
-  },
-  "flore-orthopaedic-sandals": {
-   "first_reported": "2026-10-21",
-   "rank": 296,
-   "title": "Flore | Orthopaedic Sandals",
-   "url": "https://averylanebrighton.com/products/flore-orthopaedic-sandals"
   },
   "haele-orthopaedic-ankle-boots": {
    "first_reported": "2026-09-12",
@@ -251,6 +245,12 @@
    "rank": 106,
    "title": "Jorlynn | Elegant Sandals",
    "url": "https://averylanebrighton.com/products/jorlynn-elegant-sandals"
+  },
+  "jyn-elegant-bag": {
+   "first_reported": "2026-10-21",
+   "rank": 297,
+   "title": "Jyn | Elegant Bag",
+   "url": "https://averylanebrighton.com/products/jyn-elegant-bag"
   },
   "jynna-orthopaedic-shoes": {
    "first_reported": "2026-08-26",
@@ -318,12 +318,6 @@
    "title": "Liah Orthopaedic Boots",
    "url": "https://averylanebrighton.com/products/liah-orthopaedic-boots"
   },
-  "lorie-sophisticated-sweater": {
-   "first_reported": "2026-10-21",
-   "rank": 259,
-   "title": "Lorie | Sophisticated Jumper",
-   "url": "https://averylanebrighton.com/products/lorie-sophisticated-sweater"
-  },
   "lorrie-sophisticated-dress": {
    "first_reported": "2026-10-11",
    "rank": 275,
@@ -341,12 +335,6 @@
    "rank": 254,
    "title": "Madison Elegant Short Dress",
    "url": "https://averylanebrighton.com/products/madison-elegant-short-dress"
-  },
-  "maple-orthopaedic-shoes": {
-   "first_reported": "2026-10-21",
-   "rank": 292,
-   "title": "Maple | Orthopaedic Shoes",
-   "url": "https://averylanebrighton.com/products/maple-orthopaedic-shoes"
   },
   "margaritte-stylish-midi-dress": {
    "first_reported": "2026-09-19",
@@ -504,6 +492,12 @@
    "title": "Saryphiah Comfortable Blouse",
    "url": "https://averylanebrighton.com/products/saryphiah-comfortable-blouse"
   },
+  "scarlethia-sophisticated-coat": {
+   "first_reported": "2026-10-21",
+   "rank": 266,
+   "title": "Scarlethia Sophisticated Coat",
+   "url": "https://averylanebrighton.com/products/scarlethia-sophisticated-coat"
+  },
   "scarlett-womens-floral-applique-sleeveless-maxi-dress": {
    "first_reported": "2026-10-11",
    "rank": 256,
@@ -539,6 +533,12 @@
    "rank": 85,
    "title": "Talen Orthopaedic Boots",
    "url": "https://averylanebrighton.com/products/talen-orthopaedic-boots"
+  },
+  "tameric-sophisticated-embroidered-raw-blouse-wide-trousers": {
+   "first_reported": "2026-10-21",
+   "rank": 298,
+   "title": "Tameric Sophisticated Embroidered Raw Blouse Wide Trousers",
+   "url": "https://averylanebrighton.com/products/tameric-sophisticated-embroidered-raw-blouse-wide-trousers"
   },
   "tivona-sophisticated-jacket": {
    "first_reported": "2026-09-01",
@@ -824,6 +824,12 @@
    "title": "Women’s Dress with V Neck and Wrap Waist",
    "url": "https://byemiliarose.com/products/women-s-dress-with-v-neck-and-wrap-waist"
   },
+  "women-s-dress-with-v-neckline-and-long-sleeves": {
+   "first_reported": "2026-10-27",
+   "rank": 300,
+   "title": "Women’s Dress with V-Neckline and Long Sleeves",
+   "url": "https://byemiliarose.com/products/women-s-dress-with-v-neckline-and-long-sleeves"
+  },
   "women-s-elegant-boho-dress-with-button-front-for-casual-wear": {
    "first_reported": "2026-10-07",
    "rank": 97,
@@ -932,6 +938,12 @@
    "title": "Women’s Loungewear Set with Elastic Waistband and Short Sleeves",
    "url": "https://byemiliarose.com/products/women-s-loungewear-set-with-elastic-waistband-and-short-sleeves"
   },
+  "women-s-maxi-dress-with-printed-surface-and-flowing-skirt": {
+   "first_reported": "2026-10-27",
+   "rank": 278,
+   "title": "Women’s Maxi Dress with Printed Surface and Flowing Skirt",
+   "url": "https://byemiliarose.com/products/women-s-maxi-dress-with-printed-surface-and-flowing-skirt"
+  },
   "women-s-maxi-skirt-with-elastic-waist-and-sequin-surface": {
    "first_reported": "2026-10-15",
    "rank": 118,
@@ -955,6 +967,12 @@
    "rank": 294,
    "title": "Women’s Maxi Skirt with High Waist and Pleated Front",
    "url": "https://byemiliarose.com/products/women-s-maxi-skirt-with-high-waist-and-pleated-front"
+  },
+  "women-s-maxi-skirt-with-side-pockets-and-high-slit": {
+   "first_reported": "2026-10-27",
+   "rank": 296,
+   "title": "Women’s Maxi Skirt with Side Pockets and High Slit",
+   "url": "https://byemiliarose.com/products/women-s-maxi-skirt-with-side-pockets-and-high-slit"
   },
   "women-s-midi-dress-with-asymmetrical-neckline-and-belt": {
    "first_reported": "2026-10-12",
@@ -1051,6 +1069,12 @@
    "rank": 235,
    "title": "Women S Short Dress With V Neck And Long Sleeves",
    "url": "https://byemiliarose.com/products/women-s-short-dress-with-v-neck-and-long-sleeves"
+  },
+  "women-s-short-dress-with-v-neck-and-ruffle-hem": {
+   "first_reported": "2026-10-27",
+   "rank": 297,
+   "title": "Women’s Short Dress with V-Neck and Ruffle Hem",
+   "url": "https://byemiliarose.com/products/women-s-short-dress-with-v-neck-and-ruffle-hem"
   },
   "women-s-shorts-with-drawstring-waist-and-sequin-surface": {
    "first_reported": "2026-10-13",
@@ -1195,6 +1219,12 @@
    "rank": 232,
    "title": "Women’s Blouse with Collar and Button Fastening",
    "url": "https://byemiliarose.com/products/women-sblouse-with-collar-and-button-fastening"
+  },
+  "women-smaxi-skirt-with-elastic-waist-and-tiered-panel": {
+   "first_reported": "2026-10-27",
+   "rank": 295,
+   "title": "Women’s Printed Maxi Skirt with Elastic Waist and Tiered Design",
+   "url": "https://byemiliarose.com/products/women-smaxi-skirt-with-elastic-waist-and-tiered-panel"
   },
   "women-st-shirt-with-round-neckline-and-rolled-sleeves": {
    "first_reported": "2026-10-25",
@@ -2027,6 +2057,12 @@
    "title": "Cecilia%E2%84%A2 Trendy Striped Blouse",
    "url": "https://byseabourne.com/products/cecilia%E2%84%A2-trendy-striped-blouse"
   },
+  "celeste%E2%84%A2-floral-dress": {
+   "first_reported": "2026-10-27",
+   "rank": 150,
+   "title": "Celeste%E2%84%A2 Floral Dress",
+   "url": "https://byseabourne.com/products/celeste%E2%84%A2-floral-dress"
+  },
   "celeste-womens-cowl-neck-batwing-sleeve-midi-dress": {
    "first_reported": "2026-10-20",
    "rank": 159,
@@ -2530,6 +2566,12 @@
    "rank": 202,
    "title": "Rhea™ | Shoulder Bag",
    "url": "https://byseabourne.com/products/rhea-shoulder-bag"
+  },
+  "rica%E2%84%A2-relaxed-embroidered-shorts": {
+   "first_reported": "2026-10-27",
+   "rank": 188,
+   "title": "Rica%E2%84%A2 Relaxed Embroidered Shorts",
+   "url": "https://byseabourne.com/products/rica%E2%84%A2-relaxed-embroidered-shorts"
   },
   "rolandi": {
    "first_reported": "2026-09-24",
@@ -4966,6 +5008,12 @@
    "rank": 238,
    "title": "Women's Double-Breasted Trench Coat Long Length",
    "url": "https://madebyjessica.store/products/womens-double-breasted-trench-coat-long-length"
+  },
+  "womens-draped-wrap-coat-with-shawl-collar": {
+   "first_reported": "2026-10-27",
+   "rank": 253,
+   "title": "Women's Draped Wrap Coat with Shawl Collar",
+   "url": "https://madebyjessica.store/products/womens-draped-wrap-coat-with-shawl-collar"
   },
   "womens-fair-isle-jumper-with-diamond-pattern": {
    "first_reported": "2026-10-20",
