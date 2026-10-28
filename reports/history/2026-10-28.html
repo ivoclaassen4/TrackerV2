@@ -1,0 +1,616 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Snelste stijgers</title>
+<style>
+:root {
+  color-scheme: light;
+  --surface-0: #f4f3f0;
+  --surface-1: #fcfcfb;
+  --surface-2: #eeede9;
+  --border:    #dedcd6;
+  --text-primary:   #0b0b0b;
+  --text-secondary: #52514e;
+  --text-muted:     #7d7c76;
+  --series-1: #2a78d6;
+  --good:     #0ca30c;
+  --critical: #d03b3b;
+  --warning:  #fab219;
+  --accent-soft: #e8f0fc;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --surface-0: #121211;
+    --surface-1: #1a1a19;
+    --surface-2: #232322;
+    --border:    #34342f;
+    --text-primary:   #ffffff;
+    --text-secondary: #c3c2b7;
+    --text-muted:     #8d8c83;
+    --series-1: #3987e5;
+    --accent-soft: #16263a;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --surface-0: #121211; --surface-1: #1a1a19; --surface-2: #232322;
+  --border: #34342f; --text-primary: #ffffff; --text-secondary: #c3c2b7;
+  --text-muted: #8d8c83; --series-1: #3987e5; --accent-soft: #16263a;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--surface-0); color: var(--text-primary);
+  font: 15px/1.5 ui-sans-serif, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+.wrap { max-width: 1180px; margin: 0 auto; padding: 32px 20px 72px; }
+header h1 { font-size: 26px; margin: 0 0 4px; letter-spacing: -0.01em; }
+header .lede { color: var(--text-secondary); margin: 0 0 24px; font-size: 14px; }
+.tiles { display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(168px, 1fr)); margin-bottom: 26px; }
+.tile { background: var(--surface-1); border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px; }
+.tile-label { font-size: 11px; text-transform: uppercase; letter-spacing: .07em; color: var(--text-muted); }
+.tile-value { font-size: 26px; font-weight: 650; margin: 4px 0 2px; letter-spacing: -0.02em; }
+.tile-sub { font-size: 12px; color: var(--text-secondary); }
+nav { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 26px; }
+nav a { font-size: 13px; padding: 5px 11px; border-radius: 999px; background: var(--surface-2);
+        color: var(--text-secondary); text-decoration: none; border: 1px solid var(--border); }
+nav a:hover { color: var(--text-primary); }
+.store { background: var(--surface-1); border: 1px solid var(--border); border-radius: 14px;
+          padding: 20px; margin-bottom: 22px; }
+.store-head { display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;
+               align-items: baseline; margin-bottom: 14px; }
+.store-head h3 { margin: 0; font-size: 18px; letter-spacing: -0.01em; }
+.domain { font-size: 13px; color: var(--series-1); text-decoration: none; }
+.store-meta { font-size: 12.5px; color: var(--text-muted); }
+.sub { font-size: 13px; text-transform: uppercase; letter-spacing: .06em;
+        color: var(--text-muted); margin: 22px 0 10px; font-weight: 600; }
+.grid { display: grid; gap: 12px; grid-template-columns: repeat(auto-fill, minmax(198px, 1fr)); }
+.card { background: var(--surface-2); border: 1px solid var(--border); border-radius: 12px;
+         overflow: hidden; display: flex; flex-direction: column; }
+.card-new { border-style: dashed; }
+.thumb { aspect-ratio: 1/1; background: var(--surface-1); display: flex; align-items: center; justify-content: center; }
+.thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.thumb.no-img::after { content: "geen foto"; font-size: 12px; color: var(--text-muted); }
+.card-body { padding: 11px 12px 13px; display: flex; flex-direction: column; gap: 7px; }
+.card-top { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.badge { font-size: 12px; font-weight: 650; padding: 2px 8px; border-radius: 6px; white-space: nowrap; }
+.badge-up { background: color-mix(in srgb, var(--good) 16%, transparent); color: var(--good); }
+.badge-down { background: color-mix(in srgb, var(--critical) 16%, transparent); color: var(--critical); }
+.badge-new { background: var(--accent-soft); color: var(--series-1); }
+.badge-flat { background: var(--surface-1); color: var(--text-muted); }
+.rank { font-size: 12.5px; color: var(--text-secondary); font-variant-numeric: tabular-nums; }
+.card-title { margin: 0; font-size: 14px; line-height: 1.35; font-weight: 600; }
+.card-title a { color: var(--text-primary); text-decoration: none; }
+.card-title a:hover { text-decoration: underline; }
+.card-meta { font-size: 13px; color: var(--text-secondary); font-variant-numeric: tabular-nums; }
+.spark { display: block; overflow: visible; }
+.spark-line { fill: none; stroke: var(--series-1); stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+.spark-end { fill: var(--series-1); stroke: var(--surface-2); stroke-width: 2; }
+.spark-flat { stroke: var(--border); stroke-width: 2; stroke-dasharray: 3 4; }
+.chips { display: flex; flex-wrap: wrap; gap: 5px; }
+.chip { font-size: 11px; color: var(--text-muted); background: var(--surface-1);
+         border: 1px solid var(--border); border-radius: 5px; padding: 1px 6px; }
+.note { font-size: 13px; color: var(--text-secondary); background: var(--surface-2);
+         border-left: 3px solid var(--warning); padding: 9px 12px; border-radius: 0 8px 8px 0; margin: 0 0 14px; }
+.muted { color: var(--text-muted); font-size: 13.5px; }
+.more { margin-top: 16px; }
+.more summary { cursor: pointer; font-size: 13px; color: var(--text-secondary); }
+.table-wrap { overflow-x: auto; margin-top: 12px; }
+table { border-collapse: collapse; width: 100%; font-size: 13px; }
+th, td { text-align: left; padding: 7px 10px; border-bottom: 1px solid var(--border); white-space: nowrap; }
+th { color: var(--text-muted); font-weight: 600; font-size: 11.5px;
+      text-transform: uppercase; letter-spacing: .05em; }
+td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+td a { color: var(--series-1); }
+footer { margin-top: 30px; font-size: 12px; color: var(--text-muted); line-height: 1.7; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Snelste stijgers</h1>
+    <p class="lede">Run van 2026-10-28 11:20 &middot; stijging gemeten over 3 dagen &middot;
+       top 5 per store &middot; drempel: minstens 10 plekken omhoog en nu binnen de top 300</p>
+  </header>
+  <div class="tiles"><div class='tile'><div class='tile-label'>Stores gevolgd</div><div class='tile-value'>11</div><div class='tile-sub'>actief in deze run</div></div><div class='tile'><div class='tile-label'>Producten in beeld</div><div class='tile-value'>10 465</div><div class='tile-sub'>posities vastgelegd</div></div><div class='tile'><div class='tile-label'>Historie</div><div class='tile-value'>58</div><div class='tile-sub'>snapshots diep</div></div><div class='tile'><div class='tile-label'>Nieuwe binnenkomers</div><div class='tile-value'>0</div><div class='tile-sub'>top 150</div></div><div class='tile'><div class='tile-label'>Al eerder gehad</div><div class='tile-value'>240</div><div class='tile-sub'>overgeslagen, nooit dubbel</div></div><div class='tile'><div class='tile-label'>Grootste sprong</div><div class='tile-value'>+542</div><div class='tile-sub'>Women&#x27;s Orthopedic Block Heel Sandals  bij By Emilia Rose</div></div></div>
+  <nav><a href='#store-averylanebrighton.com'>Avery Lane Brighton</a><a href='#store-byemiliarose.com'>By Emilia Rose</a><a href='#store-byseabourne.com'>By Seabourne</a><a href='#store-elle-charleston.com'>Elle Charleston</a><a href='#store-hausofmode.de'>Haus of Mode</a><a href='#store-jessicabybee.com'>Jessica by Bee</a><a href='#store-leonboutique.co'>Leon Boutique</a><a href='#store-madebyjessica.store'>Made by Jessica</a><a href='#store-redlich-becker.de'>Redlich &amp; Becker</a><a href='#store-thehillsnashville.com'>The Hills Nashville</a><a href='#store-wright-london.co'>Wright London</a></nav>
+  
+    <section class="store" id="store-averylanebrighton.com">
+      <div class="store-head">
+        <div>
+          <h3>Avery Lane Brighton</h3>
+          <a class="domain" href="https://averylanebrighton.com/collections/all?sort_by=best-selling"
+             target="_blank" rel="noopener">averylanebrighton.com</a>
+        </div>
+        <div class="store-meta">1000 producten gevolgd &middot; 48 snapshots &middot; vergeleken met 2026-10-18 (3 dagen terug)</div>
+      </div>
+      
+      <div class="grid">
+      <article class="card">
+        <div class="thumb"><img src="https://cdn.shopify.com/s/files/1/0739/9948/2949/files/Emily____Cozy_Women_s_Sweater_7.jpg?v=1783338260" alt="" loading="lazy" onerror="this.closest('.thumb').classList.add('no-img')"></div>
+        <div class="card-body">
+          <div class="card-top">
+            <span class="badge badge-up">▲ +40</span>
+            <span class="rank">#299 → <strong>#259</strong></span>
+          </div>
+          <h4 class="card-title"><a href="https://averylanebrighton.com/products/lorie-sophisticated-sweater" target="_blank" rel="noopener">Lorie | Sophisticated Jumper</a></h4>
+          <div class="card-meta">€29.95</div>
+          <svg class="spark" width="132" height="34" role="img" aria-label="Rangverloop: 301 → 302 → 302 → 302 → 303 → 304 → 299 → 301 → 301 → 259"><path d="M6.0,26.5 L19.3,27.0 L32.7,27.0 L46.0,27.0 L59.3,27.5 L72.7,28.0 L86.0,25.6 L99.3,26.5 L112.7,26.5 L126.0,6.0" class="spark-line"/><circle cx="126.0" cy="6.0" r="4" class="spark-end"/></svg>
+          <div class="chips"><span class="chip">13.4% van vorige positie</span><span class="chip">score 2.49</span><span class="chip">sinds 2026-07-07</span><span class="chip">+43 over 7d</span><span class="chip">+40 over 14d</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="thumb"><img src="https://cdn.shopify.com/s/files/1/0739/9948/2949/files/nedladdning-2024-06-17T234551.103_644c683f-3afe-4834-aadc-1a3c52c35132.webp?v=1783337894" alt="" loading="lazy" onerror="this.closest('.thumb').classList.add('no-img')"></div>
+        <div class="card-body">
+          <div class="card-top">
+            <span class="badge badge-up">▲ +40</span>
+            <span class="rank">#336 → <strong>#296</strong></span>
+          </div>
+          <h4 class="card-title"><a href="https://averylanebrighton.com/products/flore-orthopaedic-sandals" target="_blank" rel="noopener">Flore | Orthopaedic Sandals</a></h4>
+          <div class="card-meta">€39.95</div>
+          <svg class="spark" width="132" height="34" role="img" aria-label="Rangverloop: 334 → 336 → 336 → 336 → 336 → 336 → 336 → 336 → 336 → 296"><path d="M6.0,26.9 L19.3,28.0 L32.7,28.0 L46.0,28.0 L59.3,28.0 L72.7,28.0 L86.0,28.0 L99.3,28.0 L112.7,28.0 L126.0,6.0" class="spark-line"/><circle cx="126.0" cy="6.0" r="4" class="spark-end"/></svg>
+          <div class="chips"><span class="chip">11.9% van vorige positie</span><span class="chip">score 2.32</span><span class="chip">sinds 2026-07-07</span><span class="chip">+40 over 7d</span><span class="chip">+35 over 14d</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="thumb"><img src="https://cdn.shopify.com/s/files/1/0739/9948/2949/files/Seab21a62a51f44078af015f3a50bf81ct_jpg_960x960q75_jpg_720x-Photoroom.webp?v=1783337655" alt="" loading="lazy" onerror="this.closest('.thumb').classList.add('no-img')"></div>
+        <div class="card-body">
+          <div class="card-top">
+            <span class="badge badge-up">▲ +39</span>
+            <span class="rank">#307 → <strong>#268</strong></span>
+          </div>
+          <h4 class="card-title"><a href="https://averylanebrighton.com/products/elvanya-orthopaedic-shoes" target="_blank" rel="noopener">Elvanya | Orthopaedic Shoes</a></h4>
+          <div class="card-meta">€39.95</div>
+          <svg class="spark" width="132" height="34" role="img" aria-label="Rangverloop: 303 → 304 → 304 → 304 → 305 → 306 → 307 → 308 → 308 → 268"><path d="M6.0,25.2 L19.3,25.8 L32.7,25.8 L46.0,25.8 L59.3,26.4 L72.7,26.9 L86.0,27.4 L99.3,28.0 L112.7,28.0 L126.0,6.0" class="spark-line"/><circle cx="126.0" cy="6.0" r="4" class="spark-end"/></svg>
+          <div class="chips"><span class="chip">12.7% van vorige positie</span><span class="chip">score 2.38</span><span class="chip">sinds 2026-07-06</span><span class="chip">+36 over 7d</span><span class="chip">+34 over 14d</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="thumb"><img src="https://cdn.shopify.com/s/files/1/0739/9948/2949/files/360f7035a5e04baa914822770f4983e7.jpg?v=1783337818" alt="" loading="lazy" onerror="this.closest('.thumb').classList.add('no-img')"></div>
+        <div class="card-body">
+          <div class="card-top">
+            <span class="badge badge-up">▲ +39</span>
+            <span class="rank">#331 → <strong>#292</strong></span>
+          </div>
+          <h4 class="card-title"><a href="https://averylanebrighton.com/products/maple-orthopaedic-shoes" target="_blank" rel="noopener">Maple | Orthopaedic Shoes</a></h4>
+          <div class="card-meta">€39.95</div>
+          <svg class="spark" width="132" height="34" role="img" aria-label="Rangverloop: 329 → 330 → 330 → 330 → 330 → 330 → 331 → 332 → 332 → 292"><path d="M6.0,26.4 L19.3,26.9 L32.7,26.9 L46.0,26.9 L59.3,26.9 L72.7,26.9 L86.0,27.4 L99.3,28.0 L112.7,28.0 L126.0,6.0" class="spark-line"/><circle cx="126.0" cy="6.0" r="4" class="spark-end"/></svg>
+          <div class="chips"><span class="chip">11.8% van vorige positie</span><span class="chip">score 2.28</span><span class="chip">sinds 2026-07-07</span><span class="chip">+38 over 7d</span><span class="chip">+35 over 14d</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="thumb"><img src="https://cdn.shopify.com/s/files/1/0739/9948/2949/files/10001_3f06af5a-6d28-4406-a527-2a86cc5b024e-Photoroom.jpg?v=1783338339" alt="" loading="lazy" onerror="this.closest('.thumb').classList.add('no-img')"></div>
+        <div class="card-body">
+          <div class="card-top">
+            <span class="badge badge-up">▲ +39</span>
+            <span class="rank">#332 → <strong>#293</strong></span>
+          </div>
+          <h4 class="card-title"><a href="https://averylanebrighton.com/products/coralyeth-elegant-dress" target="_blank" rel="noopener">Coralyeth | Elegant Dress</a></h4>
+          <div class="card-meta">€49.95</div>
+          <svg class="spark" width="132" height="34" role="img" aria-label="Rangverloop: 342 → 331 → 331 → 331 → 331 → 331 → 332 → 333 → 333 → 293"><path d="M6.0,28.0 L19.3,23.1 L32.7,23.1 L46.0,23.1 L59.3,23.1 L72.7,23.1 L86.0,23.5 L99.3,24.0 L112.7,24.0 L126.0,6.0" class="spark-line"/><circle cx="126.0" cy="6.0" r="4" class="spark-end"/></svg>
+          <div class="chips"><span class="chip">11.7% van vorige positie</span><span class="chip">score 2.28</span><span class="chip">sinds 2026-07-07</span><span class="chip">+38 over 7d</span><span class="chip">+46 over 14d</span></div>
+        </div>
+      </article></div>
+      
+      <details class="more">
+        <summary>Tabelweergave en volgende 15 stijgers</summary>
+        <div class='table-wrap'><table><thead><tr><th>#</th><th>Product</th><th class='num'>Was</th><th class='num'>Nu</th><th class='num'>Delta</th><th class='num'>Prijs</th><th>Link</th></tr></thead><tbody><tr><td>1</td><td>Lorie | Sophisticated Jumper</td><td class='num'>299</td><td class='num'>259</td><td class='num'>+40</td><td class='num'>€29.95</td><td><a href="https://averylanebrighton.com/products/lorie-sophisticated-sweater" target='_blank' rel='noopener'>open</a></td></tr><tr><td>2</td><td>Flore | Orthopaedic Sandals</td><td class='num'>336</td><td class='num'>296</td><td class='num'>+40</td><td class='num'>€39.95</td><td><a href="https://averylanebrighton.com/products/flore-orthopaedic-sandals" target='_blank' rel='noopener'>open</a></td></tr><tr><td>3</td><td>Elvanya | Orthopaedic Shoes</td><td class='num'>307</td><td class='num'>268</td><td class='num'>+39</td><td class='num'>€39.95</td><td><a href="https://averylanebrighton.com/products/elvanya-orthopaedic-shoes" target='_blank' rel='noopener'>open</a></td></tr><tr><td>4</td><td>Maple | Orthopaedic Shoes</td><td class='num'>331</td><td class='num'>292</td><td class='num'>+39</td><td class='num'>€39.95</td><td><a href="https://averylanebrighton.com/products/maple-orthopaedic-shoes" target='_blank' rel='noopener'>open</a></td></tr><tr><td>5</td><td>Coralyeth | Elegant Dress</td><td class='num'>332</td><td class='num'>293</td><td class='num'>+39</td><td class='num'>€49.95</td><td><a href="https://averylanebrighton.com/products/coralyeth-elegant-dress" target='_blank' rel='noopener'>open</a></td></tr><tr><td>6</td><td>Naomi | Thick Orthopaedic Sandals</td><td class='num'>333</td><td class='num'>294</td><td class='num'>+39</td><td class='num'>€29.95</td><td><a href="https://averylanebrighton.com/products/naomi-thick-orthopaedic-sandals" target='_blank' rel='noopener'>open</a></td></tr><tr><td>7</td><td>Rai Orthopaedic Heels</td><td class='num'>334</td><td class='num'>295</td><td class='num'>+39</td><td class='num'>n.v.t.</td><td><a href="https://averylanebrighton.com/products/rai-orthopaedic-heels" target='_blank' rel='noopener'>open</a></td></tr><tr><td>8</td><td>Comely | Flex Orthopaedic Loafer</td><td class='num'>339</td><td class='num'>300</td><td class='num'>+39</td><td class='num'>€34.95</td><td><a href="https://averylanebrighton.com/products/comely-flex-orthopaedic-loafer" target='_blank' rel='noopener'>open</a></td></tr><tr><td>9</td><td>Gen | Classic Jumper</td><td class='num'>316</td><td class='num'>278</td><td class='num'>+38</td><td class='num'>€34.95</td><td><a href="https://averylanebrighton.com/products/gen-classic-sweater" target='_blank' rel='noopener'>open</a></td></tr><tr><td>10</td><td>Nychelle Orthopaedic Shoes</td><td class='num'>324</td><td class='num'>286</td><td class='num'>+38</td><td class='num'>n.v.t.</td><td><a href="https://averylanebrighton.com/products/nychelle-orthopaedic-shoes" target='_blank' rel='noopener'>open</a></td></tr><tr><td>11</td><td>Jamyrisse | Orthopaedic Shoes</td><td class='num'>325</td><td class='num'>287</td><td class='num'>+38</td><td class='num'>€34.95</td><td><a href="https://averylanebrighton.com/products/jamyrisse-orthopaedic-shoes" target='_blank' rel='noopener'>open</a></td></tr><tr><td>12</td><td>Anna | Orthopaedic Sandals</td><td class='num'>326</td><td class='num'>288</td><td class='num'>+38</td><td class='num'>€29.95</td><td><a href="https://averylanebrighton.com/products/anna-orthopaedic-sandals" target='_blank' rel='noopener'>open</a></td></tr><tr><td>13</td><td>Stella Comfy Hooded Long Sleeve Faux Coat</td><td class='num'>327</td><td class='num'>289</td><td class='num'>+38</td><td class='num'>n.v.t.</td><td><a href="https://averylanebrighton.com/products/stella-comfy-hooded-long-sleeve-faux-coat" target='_blank' rel='noopener'>open</a></td></tr><tr><td>14</td><td>Lexa | Orthopaedic Shoes</td><td class='num'>328</td><td class='num'>290</td><td class='num'>+38</td><td class='num'>€29.95</td><td><a href="https://averylanebrighton.com/products/lexa-orthopaedic-shoes" target='_blank' rel='noopener'>open</a></td></tr><tr><td>15</td><td>Marilysa | Orthopaedic Sandals</td><td class='num'>329</td><td class='num'>291</td><td class='num'>+38</td><td class='num'>€39.95</td><td><a href="https://averylanebrighton.com/products/marilysa-orthopaedic-sandals" target='_blank' rel='noopener'>open</a></td></tr><tr><td>16</td><td>Nora | Cozy Orthopaedic Sandals</td><td class='num'>337</td><td class='num'>299</td><td class='num'>+38</td><td class='num'>€54.95</td><td><a href="https://averylanebrighton.com/products/nora-cozy-orthopaedic-sandals" target='_blank' rel='noopener'>open</a></td></tr><tr><td>17</td><td>Luna | Luxe For Every Day</td><td class='num'>311</td><td class='num'>274</td><td class='num'>+37</td><td class='num'>€34.95</td><td><a href="https://averylanebrighton.com/products/luna-luxe-for-every-day" target='_blank' rel='noopener'>open</a></td></tr><tr><td>18</td><td>Stephanie Geometric Dress</td><td class='num'>312</td><td class='num'>275</td><td class='num'>+37</td><td class='num'>n.v.t.</td><td><a href="https://averylanebrighton.com/products/stephanie-geometric-dress" target='_blank' rel='noopener'>open</a></td></tr><tr><td>19</td><td>Olivia Orthopaedic Sandals</td><td class='num'>313</td><td class='num'>276</td><td class='num'>+37</td><td class='num'>n.v.t.</td><td><a href="https://averylanebrighton.com/products/olivia-orthopaedic-sandals" target='_blank' rel='noopener'>open</a></td></tr><tr><td>20</td><td>Sofiane Orthopaedic Loafers</td><td class='num'>314</td><td class='num'>277</td><td class='num'>+37</td><td class='num'>n.v.t.</td><td><a href="https://averylanebrighton.com/products/sofiane-orthopaedic-loafers" target='_blank' rel='noopener'>open</a></td></tr></tbody></table></div>
+      </details>
+    </section>
+    <section class="store" id="store-byemiliarose.com">
+      <div class="store-head">
+        <div>
+          <h3>By Emilia Rose</h3>
+          <a class="domain" href="https://byemiliarose.com/collections/all?sort_by=best-selling"
+             target="_blank" rel="noopener">byemiliarose.com</a>
+        </div>
+        <div class="store-meta">1000 producten gevolgd &middot; 58 snapshots &middot; vergeleken met 2026-10-25 (3 dagen terug)</div>
+      </div>
+      
+      <div class="grid">
+      <article class="card">
+        <div class="thumb"><img src="https://cdn.shopify.com/s/files/1/0898/4746/4277/files/538f8cd5-7a38-4331-ba10-dd1b92c442e3.jpg?v=1792759076" alt="" loading="lazy" onerror="this.closest('.thumb').classList.add('no-img')"></div>
+        <div class="card-body">
+          <div class="card-top">
+            <span class="badge badge-up">▲ +542</span>
+            <span class="rank">#804 → <strong>#262</strong></span>
+          </div>
+          <h4 class="card-title"><a href="https://byemiliarose.com/products/womens-orthopedic-block-heel-sandals-open-toe" target="_blank" rel="noopener">Women&#x27;s Orthopedic Block Heel Sandals Open-Toe</a></h4>
+          <div class="card-meta">€76.00</div>
+          <svg class="spark" width="132" height="34" role="img" aria-label="Rangverloop: 804 → 450 → 317 → 262"><path d="M6.0,28.0 L46.0,13.6 L86.0,8.2 L126.0,6.0" class="spark-line"/><circle cx="126.0" cy="6.0" r="4" class="spark-end"/></svg>
+          <div class="chips"><span class="chip">67.4% van vorige positie</span><span class="chip">3 dagen op rij omhoog</span><span class="chip">score 33.48</span><span class="chip">sinds 2026-10-23</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="thumb"><img src="https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sJumpsuitwithV-NeckandWaistBelt_1_5f0c9707-ed56-4aa8-b1ba-e19d5317d378.png?v=1783335616" alt="" loading="lazy" onerror="this.closest('.thumb').classList.add('no-img')"></div>
+        <div class="card-body">
+          <div class="card-top">
+            <span class="badge badge-up">▲ +32</span>
+            <span class="rank">#331 → <strong>#299</strong></span>
+          </div>
+          <h4 class="card-title"><a href="https://byemiliarose.com/products/women-s-jumpsuit-with-v-neck-and-waist-belt" target="_blank" rel="noopener">Women’s Jumpsuit with V-Neck and Waist Belt</a></h4>
+          <div class="card-meta">€72.00</div>
+          <svg class="spark" width="132" height="34" role="img" aria-label="Rangverloop: 323 → 323 → 326 → 328 → 329 → 331 → 331 → 297 → 298 → 299"><path d="M6.0,22.8 L19.3,22.8 L32.7,24.8 L46.0,26.1 L59.3,26.7 L72.7,28.0 L86.0,28.0 L99.3,6.0 L112.7,6.6 L126.0,7.3" class="spark-line"/><circle cx="126.0" cy="7.3" r="4" class="spark-end"/></svg>
+          <div class="chips"><span class="chip">9.7% van vorige positie</span><span class="chip">score 1.85</span><span class="chip">sinds 2026-07-10</span><span class="chip">+27 over 7d</span><span class="chip">+52 over 14d</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="thumb"><img src="https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sBootswithLowBlockHeelforFall_6_aa0af610-5b0f-47d9-ab35-aa348a7c2867.png?v=1783335587" alt="" loading="lazy" onerror="this.closest('.thumb').classList.add('no-img')"></div>
+        <div class="card-body">
+          <div class="card-top">
+            <span class="badge badge-up">▲ +31</span>
+            <span class="rank">#316 → <strong>#285</strong></span>
+          </div>
+          <h4 class="card-title"><a href="https://byemiliarose.com/products/womens-boots-with-low-block-heel-for-fall" target="_blank" rel="noopener">Women&#x27;s Boots with Low Block Heel for Fall</a></h4>
+          <div class="card-meta">€94.00</div>
+          <svg class="spark" width="132" height="34" role="img" aria-label="Rangverloop: 306 → 307 → 308 → 310 → 313 → 316 → 316 → 283 → 284 → 285"><path d="M6.0,21.3 L19.3,22.0 L32.7,22.7 L46.0,24.0 L59.3,26.0 L72.7,28.0 L86.0,28.0 L99.3,6.0 L112.7,6.7 L126.0,7.3" class="spark-line"/><circle cx="126.0" cy="7.3" r="4" class="spark-end"/></svg>
+          <div class="chips"><span class="chip">9.8% van vorige positie</span><span class="chip">score 1.84</span><span class="chip">sinds 2026-07-08</span><span class="chip">+23 over 7d</span><span class="chip">+18 over 14d</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="thumb"><img src="https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sOrthopaedicAdjustableSandalswithCrisscrossStrapsforAll-DayComfort_4.png?v=1783335033" alt="" loading="lazy" onerror="this.closest('.thumb').classList.add('no-img')"></div>
+        <div class="card-body">
+          <div class="card-top">
+            <span class="badge badge-up">▲ +31</span>
+            <span class="rank">#317 → <strong>#286</strong></span>
+          </div>
+          <h4 class="card-title"><a href="https://byemiliarose.com/products/womens-orthopaedic-adjustable-sandals-with-crisscross-straps-for-all-day-comfort" target="_blank" rel="noopener">Women&#x27;s Orthopaedic Adjustable Sandals with Crisscross Straps for All-Day Comfort</a></h4>
+          <div class="card-meta">€58.00</div>
+          <svg class="spark" width="132" height="34" role="img" aria-label="Rangverloop: 307 → 308 → 309 → 311 → 314 → 317 → 317 → 284 → 285 → 286"><path d="M6.0,21.3 L19.3,22.0 L32.7,22.7 L46.0,24.0 L59.3,26.0 L72.7,28.0 L86.0,28.0 L99.3,6.0 L112.7,6.7 L126.0,7.3" class="spark-line"/><circle cx="126.0" cy="7.3" r="4" class="spark-end"/></svg>
+          <div class="chips"><span class="chip">9.8% van vorige positie</span><span class="chip">score 1.83</span><span class="chip">sinds 2026-07-08</span><span class="chip">+23 over 7d</span><span class="chip">+18 over 14d</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="thumb"><img src="https://cdn.shopify.com/s/files/1/0898/4746/4277/files/Women_sOrthopaedicHeelswithAnkleStrapforOfficeWear_1.png?v=1783333841" alt="" loading="lazy" onerror="this.closest('.thumb').classList.add('no-img')"></div>
+        <div class="card-body">
+          <div class="card-top">
+            <span class="badge badge-up">▲ +31</span>
+            <span class="rank">#318 → <strong>#287</strong></span>
+          </div>
+          <h4 class="card-title"><a href="https://byemiliarose.com/products/womens-orthopaedic-heels-with-ankle-strap-for-office-wear" target="_blank" rel="noopener">Women&#x27;s Orthopaedic Heels with Ankle Strap for Office Wear</a></h4>
+          <div class="card-meta">€72.00</div>
+          <svg class="spark" width="132" height="34" role="img" aria-label="Rangverloop: 308 → 309 → 310 → 312 → 315 → 318 → 318 → 285 → 286 → 287"><path d="M6.0,21.3 L19.3,22.0 L32.7,22.7 L46.0,24.0 L59.3,26.0 L72.7,28.0 L86.0,28.0 L99.3,6.0 L112.7,6.7 L126.0,7.3" class="spark-line"/><circle cx="126.0" cy="7.3" r="4" class="spark-end"/></svg>
+          <div class="chips"><span class="chip">9.7% van vorige positie</span><span class="chip">score 1.83</span><span class="chip">sinds 2026-07-08</span><span class="chip">+23 over 7d</span><span class="chip">+18 over 14d</span></div>
+        </div>
+      </article></div>
+      
+      <details class="more">
+        <summary>Tabelweergave en volgende 15 stijgers</summary>
+        <div class='table-wrap'><table><thead><tr><th>#</th><th>Product</th><th class='num'>Was</th><th class='num'>Nu</th><th class='num'>Delta</th><th class='num'>Prijs</th><th>Link</th></tr></thead><tbody><tr><td>1</td><td>Women&#x27;s Orthopedic Block Heel Sandals Open-Toe</td><td class='num'>804</td><td class='num'>262</td><td class='num'>+542</td><td class='num'>€76.00</td><td><a href="https://byemiliarose.com/products/womens-orthopedic-block-heel-sandals-open-toe" target='_blank' rel='noopener'>open</a></td></tr><tr><td>2</td><td>Women’s Jumpsuit with V-Neck and Waist Belt</td><td class='num'>331</td><td class='num'>299</td><td class='num'>+32</td><td class='num'>€72.00</td><td><a href="https://byemiliarose.com/products/women-s-jumpsuit-with-v-neck-and-waist-belt" target='_blank' rel='noopener'>open</a></td></tr><tr><td>3</td><td>Women&#x27;s Boots with Low Block Heel for Fall</td><td class='num'>316</td><td class='num'>285</td><td class='num'>+31</td><td class='num'>€94.00</td><td><a href="https://byemiliarose.com/products/womens-boots-with-low-block-heel-for-fall" target='_blank' rel='noopener'>open</a></td></tr><tr><td>4</td><td>Women&#x27;s Orthopaedic Adjustable Sandals with Crisscross Straps for All-Day Comfort</td><td class='num'>317</td><td class='num'>286</td><td class='num'>+31</td><td class='num'>€58.00</td><td><a href="https://byemiliarose.com/products/womens-orthopaedic-adjustable-sandals-with-crisscross-straps-for-all-day-comfort" target='_blank' rel='noopener'>open</a></td></tr><tr><td>5</td><td>Women&#x27;s Orthopaedic Heels with Ankle Strap for Office Wear</td><td class='num'>318</td><td class='num'>287</td><td class='num'>+31</td><td class='num'>€72.00</td><td><a href="https://byemiliarose.com/products/womens-orthopaedic-heels-with-ankle-strap-for-office-wear" target='_blank' rel='noopener'>open</a></td></tr><tr><td>6</td><td>Women’s Jumpsuit with Shoulder Straps and Wide Legs</td><td class='num'>310</td><td class='num'>280</td><td class='num'>+30</td><td class='num'>€58.00</td><td><a href="https://byemiliarose.com/products/women-s-jumpsuit-with-shoulder-straps-and-wide-legs" target='_blank' rel='noopener'>open</a></td></tr><tr><td>7</td><td>Women&#x27;s Fleece Jacket with Stand-Up Collar and Zip</td><td class='num'>222</td><td class='num'>196</td><td class='num'>+26</td><td class='num'>€83.00</td><td><a href="https://byemiliarose.com/products/women-s-fleece-jacket-with-stand-up-collar-and-zip" target='_blank' rel='noopener'>open</a></td></tr><tr><td>8</td><td>Women’s Jumpsuit with Adjustable Straps and Wide Legs</td><td class='num'>276</td><td class='num'>254</td><td class='num'>+22</td><td class='num'>€61.00</td><td><a href="https://byemiliarose.com/products/women-s-jumpsuit-with-adjustable-straps-and-wide-legs-1" target='_blank' rel='noopener'>open</a></td></tr><tr><td>9</td><td>Women’s Midi Dress with Sleeveless Design and Round Neckline</td><td class='num'>178</td><td class='num'>159</td><td class='num'>+19</td><td class='num'>€49.95</td><td><a href="https://byemiliarose.com/products/women-s-midi-dress-with-sleeveless-design-and-round-neckline" target='_blank' rel='noopener'>open</a></td></tr><tr><td>10</td><td>Women&#x27;s Orthopaedic Loafers with Slip-On Design for Everyday Wear</td><td class='num'>257</td><td class='num'>239</td><td class='num'>+18</td><td class='num'>€69.00</td><td><a href="https://byemiliarose.com/products/womens-orthopaedic-loafers-with-slip-on-design-for-everyday-wear" target='_blank' rel='noopener'>open</a></td></tr><tr><td>11</td><td>Women&#x27;s Orthopaedic Sandals with Mid Height Heel for Summer</td><td class='num'>258</td><td class='num'>240</td><td class='num'>+18</td><td class='num'>€54.00</td><td><a href="https://byemiliarose.com/products/womens-orthopaedic-sandals-with-mid-height-heel-for-summer" target='_blank' rel='noopener'>open</a></td></tr><tr><td>12</td><td>Women’s Maxi Dress with V Neckline and Sleeveless Design</td><td class='num'>135</td><td class='num'>118</td><td class='num'>+17</td><td class='num'>€79.95</td><td><a href="https://byemiliarose.com/products/women-s-maxi-dress-with-v-neckline-and-sleeveless-design" target='_blank' rel='noopener'>open</a></td></tr><tr><td>13</td><td>Women’s Maxi Dress with Floral Pattern and Pockets</td><td class='num'>252</td><td class='num'>237</td><td class='num'>+15</td><td class='num'>€83.00</td><td><a href="https://byemiliarose.com/products/women-s-maxi-dress-with-floral-pattern-and-pockets" target='_blank' rel='noopener'>open</a></td></tr><tr><td>14</td><td>Women’s Maxi Skirt with Elastic Waist and Printed Surface</td><td class='num'>224</td><td class='num'>211</td><td class='num'>+13</td><td class='num'>€89.95</td><td><a href="https://byemiliarose.com/products/women-s-maxi-skirt-with-elastic-waist-and-printed-surface" target='_blank' rel='noopener'>open</a></td></tr><tr><td>15</td><td>Women S Wrap Dress With V Neck And Waist Tie</td><td class='num'>129</td><td class='num'>117</td><td class='num'>+12</td><td class='num'>n.v.t.</td><td><a href="https://byemiliarose.com/products/women-s-wrap-dress-with-v-neck-and-waist-tie" target='_blank' rel='noopener'>open</a></td></tr><tr><td>16</td><td>Women’s Jumpsuit with V Neck and Tied Waist</td><td class='num'>209</td><td class='num'>197</td><td class='num'>+12</td><td class='num'>€58.00</td><td><a href="https://byemiliarose.com/products/women-s-jumpsuit-with-v-neck-and-tied-waist" target='_blank' rel='noopener'>open</a></td></tr><tr><td>17</td><td>Women’s Casual Two-Piece Set with Oversized Round-Neck Top and Biker Shorts</td><td class='num'>210</td><td class='num'>198</td><td class='num'>+12</td><td class='num'>€69.00</td><td><a href="https://byemiliarose.com/products/women-s-jumpsuit-with-round-neckline-and-side-pockets-1" target='_blank' rel='noopener'>open</a></td></tr><tr><td>18</td><td>Women’s Blouse with Collar and Button Fastening</td><td class='num'>127</td><td class='num'>116</td><td class='num'>+11</td><td class='num'>€51.00</td><td><a href="https://byemiliarose.com/products/women-s-blouse-with-collarand-button-fastening" target='_blank' rel='noopener'>open</a></td></tr><tr><td>19</td><td>Women S Wide Leg Trousers With High Waist And Side Pockets</td><td class='num'>84</td><td class='num'>74</td><td class='num'>+10</td><td class='num'>n.v.t.</td><td><a href="https://byemiliarose.com/products/women-s-wide-leg-trousers-with-high-waist-and-side-pockets" target='_blank' rel='noopener'>open</a></td></tr><tr><td>20</td><td>Women&#x27;s Orthopaedic Sandals with Adjustable Strap</td><td class='num'>215</td><td class='num'>205</td><td class='num'>+10</td><td class='num'>€72.00</td><td><a href="https://byemiliarose.com/products/womens-orthopaedic-sandals-with-adjustable-strap" target='_blank' rel='noopener'>open</a></td></tr></tbody></table></div>
+      </details>
+    </section>
+    <section class="store" id="store-bymayberry.co">
+      <div class="store-head">
+        <div>
+          <h3>By Mayberry</h3>
+          <a class="domain" href="https://bymayberry.co/collections/all?sort_by=best-selling"
+             target="_blank" rel="noopener">bymayberry.co</a>
+        </div>
+        <div class="store-meta">0 producten gevolgd &middot; 0 snapshots</div>
+      </div>
+      <p class='note'>nog geen snapshots</p>
+      <div class="grid"><p class='muted'>Geen stijgers boven de drempel.</p></div>
+      
+      <details class="more">
+        <summary>Tabelweergave en volgende 0 stijgers</summary>
+        <p class='muted'>Geen rijen.</p>
+      </details>
+    </section>
+    <section class="store" id="store-byseabourne.com">
+      <div class="store-head">
+        <div>
+          <h3>By Seabourne</h3>
+          <a class="domain" href="https://byseabourne.com/collections/all?sort_by=best-selling"
+             target="_blank" rel="noopener">byseabourne.com</a>
+        </div>
+        <div class="store-meta">896 producten gevolgd &middot; 51 snapshots &middot; vergeleken met 2026-10-25 (3 dagen terug)</div>
+      </div>
+      
+      <div class="grid">
+      <article class="card">
+        <div class="thumb"><img src="https://cdn.shopify.com/s/files/1/0952/6175/3687/files/cavrielle-womens-print-midi-dress-1.jpg?v=1791988332" alt="" loading="lazy" onerror="this.closest('.thumb').classList.add('no-img')"></div>
+        <div class="card-body">
+          <div class="card-top">
+            <span class="badge badge-up">▲ +314</span>
+            <span class="rank">#606 → <strong>#292</strong></span>
+          </div>
+          <h4 class="card-title"><a href="https://byseabourne.com/products/cavrielle-womens-print-midi-dress" target="_blank" rel="noopener">Cavrielle | Women&#x27;s Print Midi Dress</a></h4>
+          <div class="card-meta">€69.95</div>
+          <svg class="spark" width="132" height="34" role="img" aria-label="Rangverloop: 586 → 587 → 588 → 593 → 598 → 604 → 606 → 608 → 601 → 292"><path d="M6.0,26.5 L19.3,26.5 L32.7,26.6 L46.0,27.0 L59.3,27.3 L72.7,27.7 L86.0,27.9 L99.3,28.0 L112.7,27.5 L126.0,6.0" class="spark-line"/><circle cx="126.0" cy="6.0" r="4" class="spark-end"/></svg>
+          <div class="chips"><span class="chip">51.8% van vorige positie</span><span class="chip">2 dagen op rij omhoog</span><span class="chip">score 18.38</span><span class="chip">sinds 2026-10-16</span><span class="chip">+296 over 7d</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="thumb"><img src="https://cdn.shopify.com/s/files/1/0952/6175/3687/files/Untitleddesign_50_62e7ad22-dc28-4e21-8370-04de38be27d4.png?v=1760563642" alt="" loading="lazy" onerror="this.closest('.thumb').classList.add('no-img')"></div>
+        <div class="card-body">
+          <div class="card-top">
+            <span class="badge badge-up">▲ +15</span>
+            <span class="rank">#113 → <strong>#98</strong></span>
+          </div>
+          <h4 class="card-title"><a href="https://byseabourne.com/products/nature-inspired-embroidery-jumpsuit" target="_blank" rel="noopener">Eliza | Nature-Inspired Embroidery Jumpsuit</a></h4>
+          <div class="card-meta">€69.95</div>
+          <svg class="spark" width="132" height="34" role="img" aria-label="Rangverloop: 112 → 114 → 112 → 112 → 113 → 113 → 113 → 114 → 112 → 98"><path d="M6.0,25.2 L19.3,28.0 L32.7,25.2 L46.0,25.2 L59.3,26.6 L72.7,26.6 L86.0,26.6 L99.3,28.0 L112.7,25.2 L126.0,6.0" class="spark-line"/><circle cx="126.0" cy="6.0" r="4" class="spark-end"/></svg>
+          <div class="chips"><span class="chip">13.3% van vorige positie</span><span class="chip">2 dagen op rij omhoog</span><span class="chip">score 1.52</span><span class="chip">sinds 2025-10-16</span><span class="chip">+14 over 7d</span><span class="chip">+14 over 14d</span></div>
+        </div>
+      </article></div>
+      
+      <details class="more">
+        <summary>Tabelweergave en volgende 0 stijgers</summary>
+        <div class='table-wrap'><table><thead><tr><th>#</th><th>Product</th><th class='num'>Was</th><th class='num'>Nu</th><th class='num'>Delta</th><th class='num'>Prijs</th><th>Link</th></tr></thead><tbody><tr><td>1</td><td>Cavrielle | Women&#x27;s Print Midi Dress</td><td class='num'>606</td><td class='num'>292</td><td class='num'>+314</td><td class='num'>€69.95</td><td><a href="https://byseabourne.com/products/cavrielle-womens-print-midi-dress" target='_blank' rel='noopener'>open</a></td></tr><tr><td>2</td><td>Eliza | Nature-Inspired Embroidery Jumpsuit</td><td class='num'>113</td><td class='num'>98</td><td class='num'>+15</td><td class='num'>€69.95</td><td><a href="https://byseabourne.com/products/nature-inspired-embroidery-jumpsuit" target='_blank' rel='noopener'>open</a></td></tr></tbody></table></div>
+      </details>
+    </section>
+    <section class="store" id="store-drune.de">
+      <div class="store-head">
+        <div>
+          <h3>Drune</h3>
+          <a class="domain" href="https://drune.de/collections/all?sort_by=best-selling"
+             target="_blank" rel="noopener">drune.de</a>
+        </div>
+        <div class="store-meta">0 producten gevolgd &middot; 0 snapshots</div>
+      </div>
+      <p class='note'>nog geen snapshots</p>
+      <div class="grid"><p class='muted'>Geen stijgers boven de drempel.</p></div>
+      
+      <details class="more">
+        <summary>Tabelweergave en volgende 0 stijgers</summary>
+        <p class='muted'>Geen rijen.</p>
+      </details>
+    </section>
+    <section class="store" id="store-elle-charleston.com">
+      <div class="store-head">
+        <div>
+          <h3>Elle Charleston</h3>
+          <a class="domain" href="https://elle-charleston.com/collections/all?sort_by=best-selling"
+             target="_blank" rel="noopener">elle-charleston.com</a>
+        </div>
+        <div class="store-meta">1000 producten gevolgd &middot; 51 snapshots &middot; vergeleken met 2026-10-25 (3 dagen terug)</div>
+      </div>
+      
+      <div class="grid">
+      <article class="card">
+        <div class="thumb"><img src="https://cdn.shopify.com/s/files/1/0959/2776/3327/files/womens-elegant-square-toe-block-heel-suede-mid-calf-boots-1.jpg?v=1789552398" alt="" loading="lazy" onerror="this.closest('.thumb').classList.add('no-img')"></div>
+        <div class="card-body">
+          <div class="card-top">
+            <span class="badge badge-up">▲ +24</span>
+            <span class="rank">#322 → <strong>#298</strong></span>
+          </div>
+          <h4 class="card-title"><a href="https://elle-charleston.com/products/isabella-womens-elegant-square-toe-block-heel-suede-mid-calf-boots" target="_blank" rel="noopener">Isabella | Women&#x27;s Elegant Square-Toe Block-Heel Suede Mid-Calf Boots</a></h4>
+          <div class="card-meta">€49.95</div>
+          <svg class="spark" width="132" height="34" role="img" aria-label="Rangverloop: 373 → 361 → 356 → 350 → 345 → 331 → 322 → 316 → 310 → 298"><path d="M6.0,28.0 L19.3,24.5 L32.7,23.0 L46.0,21.3 L59.3,19.8 L72.7,15.7 L86.0,13.0 L99.3,11.3 L112.7,9.5 L126.0,6.0" class="spark-line"/><circle cx="126.0" cy="6.0" r="4" class="spark-end"/></svg>
+          <div class="chips"><span class="chip">7.5% van vorige positie</span><span class="chip">9 dagen op rij omhoog</span><span class="chip">score 1.39</span><span class="chip">sinds 2026-09-16</span><span class="chip">+58 over 7d</span><span class="chip">+153 over 14d</span></div>
+        </div>
+      </article></div>
+      
+      <details class="more">
+        <summary>Tabelweergave en volgende 0 stijgers</summary>
+        <div class='table-wrap'><table><thead><tr><th>#</th><th>Product</th><th class='num'>Was</th><th class='num'>Nu</th><th class='num'>Delta</th><th class='num'>Prijs</th><th>Link</th></tr></thead><tbody><tr><td>1</td><td>Isabella | Women&#x27;s Elegant Square-Toe Block-Heel Suede Mid-Calf Boots</td><td class='num'>322</td><td class='num'>298</td><td class='num'>+24</td><td class='num'>€49.95</td><td><a href="https://elle-charleston.com/products/isabella-womens-elegant-square-toe-block-heel-suede-mid-calf-boots" target='_blank' rel='noopener'>open</a></td></tr></tbody></table></div>
+      </details>
+    </section>
+    <section class="store" id="store-hausofmode.de">
+      <div class="store-head">
+        <div>
+          <h3>Haus of Mode</h3>
+          <a class="domain" href="https://hausofmode.de/collections/all?sort_by=best-selling"
+             target="_blank" rel="noopener">hausofmode.de</a>
+        </div>
+        <div class="store-meta">1000 producten gevolgd &middot; 51 snapshots &middot; vergeleken met 2026-10-25 (3 dagen terug)</div>
+      </div>
+      <p class='note'>geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300).</p>
+      <div class="grid"><p class='muted'>Geen stijgers boven de drempel.</p></div>
+      
+      <details class="more">
+        <summary>Tabelweergave en volgende 0 stijgers</summary>
+        <p class='muted'>Geen rijen.</p>
+      </details>
+    </section>
+    <section class="store" id="store-jessicabybee.com">
+      <div class="store-head">
+        <div>
+          <h3>Jessica by Bee</h3>
+          <a class="domain" href="https://jessicabybee.com/collections/all?sort_by=best-selling"
+             target="_blank" rel="noopener">jessicabybee.com</a>
+        </div>
+        <div class="store-meta">931 producten gevolgd &middot; 44 snapshots &middot; vergeleken met 2026-10-13 (3 dagen terug)</div>
+      </div>
+      <p class='note'>geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300).</p>
+      <div class="grid"><p class='muted'>Geen stijgers boven de drempel.</p></div>
+      
+      <details class="more">
+        <summary>Tabelweergave en volgende 0 stijgers</summary>
+        <p class='muted'>Geen rijen.</p>
+      </details>
+    </section>
+    <section class="store" id="store-leonboutique.co">
+      <div class="store-head">
+        <div>
+          <h3>Leon Boutique</h3>
+          <a class="domain" href="https://leonboutique.co/collections/all?sort_by=best-selling"
+             target="_blank" rel="noopener">leonboutique.co</a>
+        </div>
+        <div class="store-meta">1000 producten gevolgd &middot; 51 snapshots &middot; vergeleken met 2026-10-25 (3 dagen terug)</div>
+      </div>
+      
+      <div class="grid">
+      <article class="card">
+        <div class="thumb"><img src="https://cdn.shopify.com/s/files/1/0873/5080/4829/files/1_54ab770c-5e06-4599-b745-dab65877ca4b.png?v=1761807099" alt="" loading="lazy" onerror="this.closest('.thumb').classList.add('no-img')"></div>
+        <div class="card-body">
+          <div class="card-top">
+            <span class="badge badge-up">▲ +10</span>
+            <span class="rank">#208 → <strong>#198</strong></span>
+          </div>
+          <h4 class="card-title"><a href="https://leonboutique.co/products/alexander-herren-langer-winter-steppmantel-mit-kapuze" target="_blank" rel="noopener">Alexander | Herren Langer Winter Steppmantel mit Kapuze</a></h4>
+          <div class="card-meta">€64.95</div>
+          <svg class="spark" width="132" height="34" role="img" aria-label="Rangverloop: 201 → 202 → 204 → 206 → 207 → 208 → 208 → 202 → 202 → 198"><path d="M6.0,12.6 L19.3,14.8 L32.7,19.2 L46.0,23.6 L59.3,25.8 L72.7,28.0 L86.0,28.0 L99.3,14.8 L112.7,14.8 L126.0,6.0" class="spark-line"/><circle cx="126.0" cy="6.0" r="4" class="spark-end"/></svg>
+          <div class="chips"><span class="chip">4.8% van vorige positie</span><span class="chip">score 0.71</span><span class="chip">sinds 2026-08-25</span><span class="chip">+6 over 7d</span><span class="chip">+10 over 14d</span></div>
+        </div>
+      </article></div>
+      
+      <details class="more">
+        <summary>Tabelweergave en volgende 0 stijgers</summary>
+        <div class='table-wrap'><table><thead><tr><th>#</th><th>Product</th><th class='num'>Was</th><th class='num'>Nu</th><th class='num'>Delta</th><th class='num'>Prijs</th><th>Link</th></tr></thead><tbody><tr><td>1</td><td>Alexander | Herren Langer Winter Steppmantel mit Kapuze</td><td class='num'>208</td><td class='num'>198</td><td class='num'>+10</td><td class='num'>€64.95</td><td><a href="https://leonboutique.co/products/alexander-herren-langer-winter-steppmantel-mit-kapuze" target='_blank' rel='noopener'>open</a></td></tr></tbody></table></div>
+      </details>
+    </section>
+    <section class="store" id="store-lunelondon.co.uk">
+      <div class="store-head">
+        <div>
+          <h3>Lune London</h3>
+          <a class="domain" href="https://lunelondon.co.uk/collections/all?sort_by=best-selling"
+             target="_blank" rel="noopener">lunelondon.co.uk</a>
+        </div>
+        <div class="store-meta">0 producten gevolgd &middot; 0 snapshots</div>
+      </div>
+      <p class='note'>nog geen snapshots</p>
+      <div class="grid"><p class='muted'>Geen stijgers boven de drempel.</p></div>
+      
+      <details class="more">
+        <summary>Tabelweergave en volgende 0 stijgers</summary>
+        <p class='muted'>Geen rijen.</p>
+      </details>
+    </section>
+    <section class="store" id="store-madebyjessica.store">
+      <div class="store-head">
+        <div>
+          <h3>Made by Jessica</h3>
+          <a class="domain" href="https://madebyjessica.store/collections/all?sort_by=best-selling"
+             target="_blank" rel="noopener">madebyjessica.store</a>
+        </div>
+        <div class="store-meta">1000 producten gevolgd &middot; 55 snapshots &middot; vergeleken met 2026-10-25 (3 dagen terug)</div>
+      </div>
+      
+      <div class="grid">
+      <article class="card">
+        <div class="thumb"></div>
+        <div class="card-body">
+          <div class="card-top">
+            <span class="badge badge-up">▲ +497</span>
+            <span class="rank">#741 → <strong>#244</strong></span>
+          </div>
+          <h4 class="card-title"><a href="https://madebyjessica.store/products/womens-waterproof-hooded-raincoat-with-striped-lining" target="_blank" rel="noopener">Womens Waterproof Hooded Raincoat With Striped Lining</a></h4>
+          <div class="card-meta">n.v.t.</div>
+          <svg class="spark" width="132" height="34" role="img" aria-label="Rangverloop: 649 → 703 → 712 → 741 → 764 → 771 → 244"><path d="M6.0,22.9 L26.0,25.2 L46.0,25.5 L66.0,26.7 L86.0,27.7 L106.0,28.0 L126.0,6.0" class="spark-line"/><circle cx="126.0" cy="6.0" r="4" class="spark-end"/></svg>
+          <div class="chips"><span class="chip">67.1% van vorige positie</span><span class="chip">score 31.82</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="thumb"></div>
+        <div class="card-body">
+          <div class="card-top">
+            <span class="badge badge-up">▲ +431</span>
+            <span class="rank">#674 → <strong>#243</strong></span>
+          </div>
+          <h4 class="card-title"><a href="https://madebyjessica.store/products/womens-silk-lined-winter-beanie-for-hair-protection" target="_blank" rel="noopener">Womens Silk Lined Winter Beanie For Hair Protection</a></h4>
+          <div class="card-meta">n.v.t.</div>
+          <svg class="spark" width="132" height="34" role="img" aria-label="Rangverloop: 674 → 698 → 705 → 243"><path d="M6.0,26.5 L46.0,27.7 L86.0,28.0 L126.0,6.0" class="spark-line"/><circle cx="126.0" cy="6.0" r="4" class="spark-end"/></svg>
+          <div class="chips"><span class="chip">63.9% van vorige positie</span><span class="chip">score 27.65</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="thumb"><img src="https://cdn.shopify.com/s/files/1/0874/8846/3176/files/S198ef5b49997418e98b10e589b59319fS_e02ca4a7-998a-4c7d-ada6-9e1385b9a049.webp?v=1789341032" alt="" loading="lazy" onerror="this.closest('.thumb').classList.add('no-img')"></div>
+        <div class="card-body">
+          <div class="card-top">
+            <span class="badge badge-up">▲ +136</span>
+            <span class="rank">#411 → <strong>#275</strong></span>
+          </div>
+          <h4 class="card-title"><a href="https://madebyjessica.store/products/womens-teddy-jacket-button-front-with-notch-collar" target="_blank" rel="noopener">Women&#x27;s Teddy Jacket Button Front with Notch Collar</a></h4>
+          <div class="card-meta">€24.95</div>
+          <svg class="spark" width="132" height="34" role="img" aria-label="Rangverloop: 909 → 944 → 945 → 968 → 411 → 416 → 269 → 275"><path d="M6.0,26.1 L19.3,27.2 L32.7,27.3 L46.0,28.0 L86.0,10.5 L99.3,10.6 L112.7,6.0 L126.0,6.2" class="spark-line"/><circle cx="126.0" cy="6.2" r="4" class="spark-end"/></svg>
+          <div class="chips"><span class="chip">33.1% van vorige positie</span><span class="chip">score 8.2</span><span class="chip">sinds 2026-09-14</span><span class="chip">+670 over 7d</span><span class="chip">+570 over 14d</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="thumb"></div>
+        <div class="card-body">
+          <div class="card-top">
+            <span class="badge badge-up">▲ +111</span>
+            <span class="rank">#356 → <strong>#245</strong></span>
+          </div>
+          <h4 class="card-title"><a href="https://madebyjessica.store/products/womens-teddy-fleece-jacket-with-hood-and-front-pockets" target="_blank" rel="noopener">Womens Teddy Fleece Jacket With Hood And Front Pockets</a></h4>
+          <div class="card-meta">n.v.t.</div>
+          <svg class="spark" width="132" height="34" role="img" aria-label="Rangverloop: 332 → 336 → 341 → 350 → 351 → 353 → 356 → 361 → 364 → 245"><path d="M6.0,22.1 L19.3,22.8 L32.7,23.7 L46.0,25.4 L59.3,25.6 L72.7,26.0 L86.0,26.5 L99.3,27.4 L112.7,28.0 L126.0,6.0" class="spark-line"/><circle cx="126.0" cy="6.0" r="4" class="spark-end"/></svg>
+          <div class="chips"><span class="chip">31.2% van vorige positie</span><span class="chip">score 7.09</span><span class="chip">+96 over 7d</span></div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="thumb"><img src="https://cdn.shopify.com/s/files/1/0874/8846/3176/files/1_326431d8-b457-4b7d-8481-2c126604698d.png?v=1783334289" alt="" loading="lazy" onerror="this.closest('.thumb').classList.add('no-img')"></div>
+        <div class="card-body">
+          <div class="card-top">
+            <span class="badge badge-up">▲ +32</span>
+            <span class="rank">#164 → <strong>#132</strong></span>
+          </div>
+          <h4 class="card-title"><a href="https://madebyjessica.store/products/amaris-split-sleeve-fitted-midi-dress" target="_blank" rel="noopener">Amaris | Split Sleeve Fitted Midi Dress</a></h4>
+          <div class="card-meta">€39.95</div>
+          <svg class="spark" width="132" height="34" role="img" aria-label="Rangverloop: 159 → 159 → 161 → 162 → 163 → 164 → 164 → 164 → 166 → 132"><path d="M6.0,23.5 L19.3,23.5 L32.7,24.8 L46.0,25.4 L59.3,26.1 L72.7,26.7 L86.0,26.7 L99.3,26.7 L112.7,28.0 L126.0,6.0" class="spark-line"/><circle cx="126.0" cy="6.0" r="4" class="spark-end"/></svg>
+          <div class="chips"><span class="chip">19.5% van vorige positie</span><span class="chip">score 2.79</span><span class="chip">sinds 2026-07-08</span><span class="chip">+29 over 7d</span><span class="chip">+24 over 14d</span></div>
+        </div>
+      </article></div>
+      
+      <details class="more">
+        <summary>Tabelweergave en volgende 0 stijgers</summary>
+        <div class='table-wrap'><table><thead><tr><th>#</th><th>Product</th><th class='num'>Was</th><th class='num'>Nu</th><th class='num'>Delta</th><th class='num'>Prijs</th><th>Link</th></tr></thead><tbody><tr><td>1</td><td>Womens Waterproof Hooded Raincoat With Striped Lining</td><td class='num'>741</td><td class='num'>244</td><td class='num'>+497</td><td class='num'>n.v.t.</td><td><a href="https://madebyjessica.store/products/womens-waterproof-hooded-raincoat-with-striped-lining" target='_blank' rel='noopener'>open</a></td></tr><tr><td>2</td><td>Womens Silk Lined Winter Beanie For Hair Protection</td><td class='num'>674</td><td class='num'>243</td><td class='num'>+431</td><td class='num'>n.v.t.</td><td><a href="https://madebyjessica.store/products/womens-silk-lined-winter-beanie-for-hair-protection" target='_blank' rel='noopener'>open</a></td></tr><tr><td>3</td><td>Women&#x27;s Teddy Jacket Button Front with Notch Collar</td><td class='num'>411</td><td class='num'>275</td><td class='num'>+136</td><td class='num'>€24.95</td><td><a href="https://madebyjessica.store/products/womens-teddy-jacket-button-front-with-notch-collar" target='_blank' rel='noopener'>open</a></td></tr><tr><td>4</td><td>Womens Teddy Fleece Jacket With Hood And Front Pockets</td><td class='num'>356</td><td class='num'>245</td><td class='num'>+111</td><td class='num'>n.v.t.</td><td><a href="https://madebyjessica.store/products/womens-teddy-fleece-jacket-with-hood-and-front-pockets" target='_blank' rel='noopener'>open</a></td></tr><tr><td>5</td><td>Amaris | Split Sleeve Fitted Midi Dress</td><td class='num'>164</td><td class='num'>132</td><td class='num'>+32</td><td class='num'>€39.95</td><td><a href="https://madebyjessica.store/products/amaris-split-sleeve-fitted-midi-dress" target='_blank' rel='noopener'>open</a></td></tr></tbody></table></div>
+      </details>
+    </section>
+    <section class="store" id="store-redlich-becker.de">
+      <div class="store-head">
+        <div>
+          <h3>Redlich &amp; Becker</h3>
+          <a class="domain" href="https://redlich-becker.de/collections/all?sort_by=best-selling"
+             target="_blank" rel="noopener">redlich-becker.de</a>
+        </div>
+        <div class="store-meta">1000 producten gevolgd &middot; 55 snapshots &middot; vergeleken met 2026-10-25 (3 dagen terug)</div>
+      </div>
+      <p class='note'>geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300).</p>
+      <div class="grid"><p class='muted'>Geen stijgers boven de drempel.</p></div>
+      
+      <details class="more">
+        <summary>Tabelweergave en volgende 0 stijgers</summary>
+        <p class='muted'>Geen rijen.</p>
+      </details>
+    </section>
+    <section class="store" id="store-thehillsnashville.com">
+      <div class="store-head">
+        <div>
+          <h3>The Hills Nashville</h3>
+          <a class="domain" href="https://thehillsnashville.com/collections/all?sort_by=best-selling"
+             target="_blank" rel="noopener">thehillsnashville.com</a>
+        </div>
+        <div class="store-meta">1000 producten gevolgd &middot; 34 snapshots &middot; vergeleken met 2026-10-01 (3 dagen terug)</div>
+      </div>
+      <p class='note'>geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300).</p>
+      <div class="grid"><p class='muted'>Geen stijgers boven de drempel.</p></div>
+      
+      <details class="more">
+        <summary>Tabelweergave en volgende 0 stijgers</summary>
+        <p class='muted'>Geen rijen.</p>
+      </details>
+    </section>
+    <section class="store" id="store-wright-london.co">
+      <div class="store-head">
+        <div>
+          <h3>Wright London</h3>
+          <a class="domain" href="https://wright-london.co/collections/all?sort_by=best-selling"
+             target="_blank" rel="noopener">wright-london.co</a>
+        </div>
+        <div class="store-meta">638 producten gevolgd &middot; 7 snapshots &middot; vergeleken met 2026-09-04 (4 dagen terug)</div>
+      </div>
+      <p class='note'>geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300).</p>
+      <div class="grid"><p class='muted'>Geen stijgers boven de drempel.</p></div>
+      
+      <details class="more">
+        <summary>Tabelweergave en volgende 0 stijgers</summary>
+        <p class='muted'>Geen rijen.</p>
+      </details>
+    </section>
+  <section class='store'><h3>Zonder data</h3><p class='muted'>bymayberry.co, drune.de, lunelondon.co.uk</p></section>
+  <footer>
+    Positie 1 is de bestverkopende. Een sprong van #340 naar #45 telt als +295.<br>
+    De sparkline toont het rangverloop over de laatste snapshots; omhoog betekent stijgen.<br>
+    Score = plekken gestegen gedeeld door de wortel van de huidige positie, zodat winst dicht bij de top zwaarder weegt.<br>
+    Elk product hier is nieuw voor jou: alles wat al eens in een rapport stond wordt automatisch overgeslagen.<br>
+    Naast dit dashboard staat <strong>shopify_import.csv</strong>, klaar voor Producten &rarr; Importeren in je eigen store.
+  </footer>
+</div>
+</body>
+</html>
