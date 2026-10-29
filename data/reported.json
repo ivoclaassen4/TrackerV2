@@ -1,5 +1,11 @@
 {
  "averylanebrighton.com": {
+  "adeline-polka-dots-cardigan": {
+   "first_reported": "2026-10-21",
+   "rank": 279,
+   "title": "Adeline | Polka Dots Cardigan",
+   "url": "https://averylanebrighton.com/products/adeline-polka-dots-cardigan"
+  },
   "alana-elegant-dress": {
    "first_reported": "2026-08-25",
    "rank": 255,
@@ -72,6 +78,12 @@
    "title": "Calinae | Orthopaedic Sandals",
    "url": "https://averylanebrighton.com/products/calinae-orthopaedic-sandals"
   },
+  "calirenne-elegant-cardigan": {
+   "first_reported": "2026-10-21",
+   "rank": 281,
+   "title": "Calirenne | Elegant Cardigan",
+   "url": "https://averylanebrighton.com/products/calirenne-elegant-cardigan"
+  },
   "cara-sophisticated-boots": {
    "first_reported": "2026-09-10",
    "rank": 299,
@@ -126,12 +138,6 @@
    "title": "Claudia | Vintage Flair Trench Coat",
    "url": "https://averylanebrighton.com/products/claudia-vintage-flair-trench-coat"
   },
-  "coralyeth-elegant-dress": {
-   "first_reported": "2026-10-21",
-   "rank": 293,
-   "title": "Coralyeth | Elegant Dress",
-   "url": "https://averylanebrighton.com/products/coralyeth-elegant-dress"
-  },
   "coralynne-elegant-dress": {
    "first_reported": "2026-09-28",
    "rank": 187,
@@ -162,12 +168,6 @@
    "title": "Elara | Sequin Corset Evening Dress",
    "url": "https://averylanebrighton.com/products/elara-sequin-corset-evening-dress"
   },
-  "elvanya-orthopaedic-shoes": {
-   "first_reported": "2026-10-21",
-   "rank": 268,
-   "title": "Elvanya | Orthopaedic Shoes",
-   "url": "https://averylanebrighton.com/products/elvanya-orthopaedic-shoes"
-  },
   "evelyn-quinn-retro-a-line-summer-dress": {
    "first_reported": "2026-09-28",
    "rank": 283,
@@ -185,12 +185,6 @@
    "rank": 296,
    "title": "Faye | Luxe Fleece Gilet",
    "url": "https://averylanebrighton.com/products/faye-luxe-fleece-gilet"
-  },
-  "flore-orthopaedic-sandals": {
-   "first_reported": "2026-10-21",
-   "rank": 296,
-   "title": "Flore | Orthopaedic Sandals",
-   "url": "https://averylanebrighton.com/products/flore-orthopaedic-sandals"
   },
   "haele-orthopaedic-ankle-boots": {
    "first_reported": "2026-09-12",
@@ -251,6 +245,12 @@
    "rank": 106,
    "title": "Jorlynn | Elegant Sandals",
    "url": "https://averylanebrighton.com/products/jorlynn-elegant-sandals"
+  },
+  "jyn-elegant-bag": {
+   "first_reported": "2026-10-21",
+   "rank": 297,
+   "title": "Jyn | Elegant Bag",
+   "url": "https://averylanebrighton.com/products/jyn-elegant-bag"
   },
   "jynna-orthopaedic-shoes": {
    "first_reported": "2026-08-26",
@@ -318,12 +318,6 @@
    "title": "Liah Orthopaedic Boots",
    "url": "https://averylanebrighton.com/products/liah-orthopaedic-boots"
   },
-  "lorie-sophisticated-sweater": {
-   "first_reported": "2026-10-21",
-   "rank": 259,
-   "title": "Lorie | Sophisticated Jumper",
-   "url": "https://averylanebrighton.com/products/lorie-sophisticated-sweater"
-  },
   "lorrie-sophisticated-dress": {
    "first_reported": "2026-10-11",
    "rank": 275,
@@ -341,12 +335,6 @@
    "rank": 254,
    "title": "Madison Elegant Short Dress",
    "url": "https://averylanebrighton.com/products/madison-elegant-short-dress"
-  },
-  "maple-orthopaedic-shoes": {
-   "first_reported": "2026-10-21",
-   "rank": 292,
-   "title": "Maple | Orthopaedic Shoes",
-   "url": "https://averylanebrighton.com/products/maple-orthopaedic-shoes"
   },
   "margaritte-stylish-midi-dress": {
    "first_reported": "2026-09-19",
@@ -504,6 +492,12 @@
    "title": "Saryphiah Comfortable Blouse",
    "url": "https://averylanebrighton.com/products/saryphiah-comfortable-blouse"
   },
+  "scarlethia-sophisticated-coat": {
+   "first_reported": "2026-10-21",
+   "rank": 266,
+   "title": "Scarlethia Sophisticated Coat",
+   "url": "https://averylanebrighton.com/products/scarlethia-sophisticated-coat"
+  },
   "scarlett-womens-floral-applique-sleeveless-maxi-dress": {
    "first_reported": "2026-10-11",
    "rank": 256,
@@ -539,6 +533,12 @@
    "rank": 85,
    "title": "Talen Orthopaedic Boots",
    "url": "https://averylanebrighton.com/products/talen-orthopaedic-boots"
+  },
+  "tameric-sophisticated-embroidered-raw-blouse-wide-trousers": {
+   "first_reported": "2026-10-21",
+   "rank": 298,
+   "title": "Tameric Sophisticated Embroidered Raw Blouse Wide Trousers",
+   "url": "https://averylanebrighton.com/products/tameric-sophisticated-embroidered-raw-blouse-wide-trousers"
   },
   "tivona-sophisticated-jacket": {
    "first_reported": "2026-09-01",
@@ -836,6 +836,12 @@
    "title": "Women's Elegant Boho Dress with Button Front for Casual Wear",
    "url": "https://byemiliarose.com/products/women-s-elegant-boho-dress-with-button-front-for-casual-wear"
   },
+  "women-s-fleece-jacket-with-stand-up-collar-and-zip": {
+   "first_reported": "2026-10-29",
+   "rank": 197,
+   "title": "Women's Fleece Jacket with Stand-Up Collar and Zip",
+   "url": "https://byemiliarose.com/products/women-s-fleece-jacket-with-stand-up-collar-and-zip"
+  },
   "women-s-floral-dress-with-round-neckline-and-tie-waist": {
    "first_reported": "2026-08-26",
    "rank": 122,
@@ -949,6 +955,12 @@
    "rank": 278,
    "title": "Women’s Maxi Dress with Printed Surface and Flowing Skirt",
    "url": "https://byemiliarose.com/products/women-s-maxi-dress-with-printed-surface-and-flowing-skirt"
+  },
+  "women-s-maxi-dress-with-v-neckline-and-sleeveless-design": {
+   "first_reported": "2026-10-29",
+   "rank": 118,
+   "title": "Women’s Maxi Dress with V Neckline and Sleeveless Design",
+   "url": "https://byemiliarose.com/products/women-s-maxi-dress-with-v-neckline-and-sleeveless-design"
   },
   "women-s-maxi-skirt-with-elastic-waist-and-sequin-surface": {
    "first_reported": "2026-10-15",
@@ -1853,6 +1865,12 @@
  },
  "bymayberry.co": {},
  "byseabourne.com": {
+  "adeline%E2%84%A2-elegant-v-neck-summer-dress-1": {
+   "first_reported": "2026-10-29",
+   "rank": 119,
+   "title": "Adeline%E2%84%A2 Elegant V Neck Summer Dress 1",
+   "url": "https://byseabourne.com/products/adeline%E2%84%A2-elegant-v-neck-summer-dress-1"
+  },
   "adle-womens-ruffle-front-v-neck-34-sleeve-blouse": {
    "first_reported": "2026-09-20",
    "rank": 295,
@@ -2501,6 +2519,12 @@
    "title": "Monroe%E2%84%A2 Soft Striped Blouse",
    "url": "https://byseabourne.com/products/monroe%E2%84%A2-soft-striped-blouse"
   },
+  "morgane-chic-and-lightweight-midi-polka-dot-dress": {
+   "first_reported": "2026-10-29",
+   "rank": 227,
+   "title": "Morgane™ | Chic and Lightweight Midi Polka Dot Dress",
+   "url": "https://byseabourne.com/products/morgane-chic-and-lightweight-midi-polka-dot-dress"
+  },
   "mykahlynn-elegant-bag": {
    "first_reported": "2026-09-13",
    "rank": 287,
@@ -2893,6 +2917,12 @@
    "rank": 266,
    "title": "Camila | Wide Leg Pants Floral Embroidered Drawstring",
    "url": "https://elle-charleston.com/products/camila-wide-leg-pants-floral-embroidered-drawstring"
+  },
+  "camila-womens-orthopedic-memory-foam-slip-on-loafer-sneakers": {
+   "first_reported": "2026-10-29",
+   "rank": 292,
+   "title": "Camila | Women's Orthopedic Memory-Foam Slip-On Loafer Sneakers",
+   "url": "https://elle-charleston.com/products/camila-womens-orthopedic-memory-foam-slip-on-loafer-sneakers"
   },
   "camila-womens-relaxed-fit-longline-henley-ribbed-tunic-top": {
    "first_reported": "2026-09-10",
@@ -3386,6 +3416,12 @@
    "title": "Seleneva Elegant Tailored Midi Dress",
    "url": "https://elle-charleston.com/products/seleneva-elegant-tailored-midi-dress"
   },
+  "siara%E2%84%A2-blouse": {
+   "first_reported": "2026-10-29",
+   "rank": 266,
+   "title": "Siara%E2%84%A2 Blouse",
+   "url": "https://elle-charleston.com/products/siara%E2%84%A2-blouse"
+  },
   "sofia": {
    "first_reported": "2026-10-20",
    "rank": 270,
@@ -3633,6 +3669,12 @@
    "rank": 100,
    "title": "20,000 mAh Tragbares Ladegerät mit 22.5W Schnellladen und 15W kabellosem Qi-Laden",
    "url": "https://hausofmode.de/products/20-000-mah-tragbares-ladegerat-mit-22-5w-schnellladen-und-15w-kabellosem-qi-laden"
+  },
+  "2026-survival-adventskalender-mit-24-outdoor-ausrustungsteilen": {
+   "first_reported": "2026-10-29",
+   "rank": 112,
+   "title": "2026 Survival Adventskalender mit 24 Outdoor Ausrüstungsteilen",
+   "url": "https://hausofmode.de/products/2026-survival-adventskalender-mit-24-outdoor-ausrustungsteilen"
   },
   "24-tage-adventskalender-fur-kinder-brynnis": {
    "first_reported": "2026-10-13",
@@ -4460,6 +4502,12 @@
    "title": "Clara | Damen Elegantes Cocktailkleid Maxi V-Ausschnitt Chiffon Festkleid",
    "url": "https://leonboutique.co/products/clara-damen-elegantes-cocktailkleid-maxi-v-ausschnitt-chiffon-festkleid"
   },
+  "clara-damen-taillierter-zweireihiger-hosenanzug-mit-weiter-hose-burgundy": {
+   "first_reported": "2026-10-29",
+   "rank": 300,
+   "title": "Clara | Damen Taillierter Zweireihiger Hosenanzug mit Weiter Hose, Burgundy",
+   "url": "https://leonboutique.co/products/clara-damen-taillierter-zweireihiger-hosenanzug-mit-weiter-hose-burgundy"
+  },
   "daniel-klassischer-herren-fruhjahrs-dreiteiler": {
    "first_reported": "2026-09-21",
    "rank": 229,
@@ -4865,11 +4913,23 @@
  },
  "lunelondon.co.uk": {},
  "madebyjessica.store": {
+  "adriana-short-sleeve-abstract-print-knee-length-dress": {
+   "first_reported": "2026-10-29",
+   "rank": 117,
+   "title": "Adriana | Short Sleeve Abstract Print Knee Length Dress",
+   "url": "https://madebyjessica.store/products/adriana-short-sleeve-abstract-print-knee-length-dress"
+  },
   "airy-kaftan-dress-with-ethnic-accent-women-s-boho-summer-style": {
    "first_reported": "2026-10-06",
    "rank": 118,
    "title": "Airy Kaftan Dress With Ethnic Accent Women S Boho Summer Style",
    "url": "https://madebyjessica.store/products/airy-kaftan-dress-with-ethnic-accent-women-s-boho-summer-style"
+  },
+  "alaia-relaxed-line-midi-dress": {
+   "first_reported": "2026-10-29",
+   "rank": 112,
+   "title": "Alaia | Relaxed Line Midi Dress",
+   "url": "https://madebyjessica.store/products/alaia-relaxed-line-midi-dress"
   },
   "althea-long-sleeve-floral-maxi-dress": {
    "first_reported": "2026-09-01",
@@ -4924,6 +4984,12 @@
    "rank": 96,
    "title": "Elia | Gathered Waist Keyhole Maxi Dress",
    "url": "https://madebyjessica.store/products/elia-gathered-waist-keyhole-maxi-dress"
+  },
+  "ember": {
+   "first_reported": "2026-10-29",
+   "rank": 230,
+   "title": "Ember",
+   "url": "https://madebyjessica.store/products/ember"
   },
   "floral-printed-summer-top-for-women-soft-stylish": {
    "first_reported": "2026-10-17",
@@ -5057,6 +5123,12 @@
    "title": "Women's Colour Block Knit Jumper and Jogger Set",
    "url": "https://madebyjessica.store/products/womens-colour-block-knit-jumper-and-jogger-set"
   },
+  "womens-colourblock-waffle-knit-henley-jumper-with-buttons": {
+   "first_reported": "2026-10-29",
+   "rank": 267,
+   "title": "Women's Colourblock Waffle Knit Henley Jumper with Buttons",
+   "url": "https://madebyjessica.store/products/womens-colourblock-waffle-knit-henley-jumper-with-buttons"
+  },
   "womens-double-breasted-long-wool-coat-with-notch-collar": {
    "first_reported": "2026-10-19",
    "rank": 232,
@@ -5182,6 +5254,12 @@
    "rank": 218,
    "title": "Women's Orthopedic Trainers with Arch Support",
    "url": "https://madebyjessica.store/products/womens-orthopedic-trainers-with-arch-support"
+  },
+  "womens-oversized-faux-fur-jacket-with-wide-sleeves": {
+   "first_reported": "2026-10-29",
+   "rank": 279,
+   "title": "Women's Oversized Faux Fur Jacket with Wide Sleeves",
+   "url": "https://madebyjessica.store/products/womens-oversized-faux-fur-jacket-with-wide-sleeves"
   },
   "womens-perforated-slip-on-trainers-with-arch-support": {
    "first_reported": "2026-10-19",
