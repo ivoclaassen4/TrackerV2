@@ -1,11 +1,5 @@
 {
  "averylanebrighton.com": {
-  "adeline-polka-dots-cardigan": {
-   "first_reported": "2026-10-21",
-   "rank": 279,
-   "title": "Adeline | Polka Dots Cardigan",
-   "url": "https://averylanebrighton.com/products/adeline-polka-dots-cardigan"
-  },
   "alana-elegant-dress": {
    "first_reported": "2026-08-25",
    "rank": 255,
@@ -78,12 +72,6 @@
    "title": "Calinae | Orthopaedic Sandals",
    "url": "https://averylanebrighton.com/products/calinae-orthopaedic-sandals"
   },
-  "calirenne-elegant-cardigan": {
-   "first_reported": "2026-10-21",
-   "rank": 281,
-   "title": "Calirenne | Elegant Cardigan",
-   "url": "https://averylanebrighton.com/products/calirenne-elegant-cardigan"
-  },
   "cara-sophisticated-boots": {
    "first_reported": "2026-09-10",
    "rank": 299,
@@ -138,6 +126,12 @@
    "title": "Claudia | Vintage Flair Trench Coat",
    "url": "https://averylanebrighton.com/products/claudia-vintage-flair-trench-coat"
   },
+  "coralyeth-elegant-dress": {
+   "first_reported": "2026-10-21",
+   "rank": 293,
+   "title": "Coralyeth | Elegant Dress",
+   "url": "https://averylanebrighton.com/products/coralyeth-elegant-dress"
+  },
   "coralynne-elegant-dress": {
    "first_reported": "2026-09-28",
    "rank": 187,
@@ -168,6 +162,12 @@
    "title": "Elara | Sequin Corset Evening Dress",
    "url": "https://averylanebrighton.com/products/elara-sequin-corset-evening-dress"
   },
+  "elvanya-orthopaedic-shoes": {
+   "first_reported": "2026-10-21",
+   "rank": 268,
+   "title": "Elvanya | Orthopaedic Shoes",
+   "url": "https://averylanebrighton.com/products/elvanya-orthopaedic-shoes"
+  },
   "evelyn-quinn-retro-a-line-summer-dress": {
    "first_reported": "2026-09-28",
    "rank": 283,
@@ -185,6 +185,12 @@
    "rank": 296,
    "title": "Faye | Luxe Fleece Gilet",
    "url": "https://averylanebrighton.com/products/faye-luxe-fleece-gilet"
+  },
+  "flore-orthopaedic-sandals": {
+   "first_reported": "2026-10-21",
+   "rank": 296,
+   "title": "Flore | Orthopaedic Sandals",
+   "url": "https://averylanebrighton.com/products/flore-orthopaedic-sandals"
   },
   "haele-orthopaedic-ankle-boots": {
    "first_reported": "2026-09-12",
@@ -245,12 +251,6 @@
    "rank": 106,
    "title": "Jorlynn | Elegant Sandals",
    "url": "https://averylanebrighton.com/products/jorlynn-elegant-sandals"
-  },
-  "jyn-elegant-bag": {
-   "first_reported": "2026-10-21",
-   "rank": 297,
-   "title": "Jyn | Elegant Bag",
-   "url": "https://averylanebrighton.com/products/jyn-elegant-bag"
   },
   "jynna-orthopaedic-shoes": {
    "first_reported": "2026-08-26",
@@ -318,6 +318,12 @@
    "title": "Liah Orthopaedic Boots",
    "url": "https://averylanebrighton.com/products/liah-orthopaedic-boots"
   },
+  "lorie-sophisticated-sweater": {
+   "first_reported": "2026-10-21",
+   "rank": 259,
+   "title": "Lorie | Sophisticated Jumper",
+   "url": "https://averylanebrighton.com/products/lorie-sophisticated-sweater"
+  },
   "lorrie-sophisticated-dress": {
    "first_reported": "2026-10-11",
    "rank": 275,
@@ -335,6 +341,12 @@
    "rank": 254,
    "title": "Madison Elegant Short Dress",
    "url": "https://averylanebrighton.com/products/madison-elegant-short-dress"
+  },
+  "maple-orthopaedic-shoes": {
+   "first_reported": "2026-10-21",
+   "rank": 292,
+   "title": "Maple | Orthopaedic Shoes",
+   "url": "https://averylanebrighton.com/products/maple-orthopaedic-shoes"
   },
   "margaritte-stylish-midi-dress": {
    "first_reported": "2026-09-19",
@@ -492,12 +504,6 @@
    "title": "Saryphiah Comfortable Blouse",
    "url": "https://averylanebrighton.com/products/saryphiah-comfortable-blouse"
   },
-  "scarlethia-sophisticated-coat": {
-   "first_reported": "2026-10-21",
-   "rank": 266,
-   "title": "Scarlethia Sophisticated Coat",
-   "url": "https://averylanebrighton.com/products/scarlethia-sophisticated-coat"
-  },
   "scarlett-womens-floral-applique-sleeveless-maxi-dress": {
    "first_reported": "2026-10-11",
    "rank": 256,
@@ -533,12 +539,6 @@
    "rank": 85,
    "title": "Talen Orthopaedic Boots",
    "url": "https://averylanebrighton.com/products/talen-orthopaedic-boots"
-  },
-  "tameric-sophisticated-embroidered-raw-blouse-wide-trousers": {
-   "first_reported": "2026-10-21",
-   "rank": 298,
-   "title": "Tameric Sophisticated Embroidered Raw Blouse Wide Trousers",
-   "url": "https://averylanebrighton.com/products/tameric-sophisticated-embroidered-raw-blouse-wide-trousers"
   },
   "tivona-sophisticated-jacket": {
    "first_reported": "2026-09-01",
@@ -578,6 +578,12 @@
   }
  },
  "byemiliarose.com": {
+  "black-friday-mystery-gift": {
+   "first_reported": "2026-10-30",
+   "rank": 53,
+   "title": "Black Friday Mystery Gift – Free With Your Order",
+   "url": "https://byemiliarose.com/products/black-friday-mystery-gift"
+  },
   "button-front-cropped-jacket-with-flap-pockets": {
    "first_reported": "2026-08-23",
    "rank": 285,
@@ -1165,6 +1171,12 @@
    "rank": 132,
    "title": "Women S Trench Coat With Belt And Textured Surface",
    "url": "https://byemiliarose.com/products/women-s-trench-coat-with-belt-and-textured-surface"
+  },
+  "women-s-trousers-with-elastic-waistband-and-wide-legs-2": {
+   "first_reported": "2026-10-30",
+   "rank": 282,
+   "title": "Women S Trousers With Elastic Waistband And Wide Legs 2",
+   "url": "https://byemiliarose.com/products/women-s-trousers-with-elastic-waistband-and-wide-legs-2"
   },
   "women-s-trousers-with-elasticated-waistband-and-drawstring": {
    "first_reported": "2026-09-24",
@@ -3194,6 +3206,12 @@
    "title": "Kylie | Women's Orthopedic Sandals with Velcro Closure and Anatomic Sole",
    "url": "https://elle-charleston.com/products/kylie"
   },
+  "lara-eb": {
+   "first_reported": "2026-10-30",
+   "rank": 268,
+   "title": "Lara Elegant Blouse With Design",
+   "url": "https://elle-charleston.com/products/lara-eb"
+  },
   "lily%E2%84%A2-ultra-light-quilted-jacket": {
    "first_reported": "2026-09-12",
    "rank": 265,
@@ -3482,6 +3500,12 @@
    "title": "Viola",
    "url": "https://elle-charleston.com/products/viola"
   },
+  "violetta": {
+   "first_reported": "2026-10-30",
+   "rank": 267,
+   "title": "Violetta",
+   "url": "https://elle-charleston.com/products/violetta"
+  },
   "vittoria-women-s-gold-loafers": {
    "first_reported": "2026-10-20",
    "rank": 217,
@@ -3513,6 +3537,12 @@
    "rank": 7,
    "title": "10,000 Lumen Wiederaufladbare LED-Taschenlampe mit Zoom, USB-C und Powerbank-Funktion",
    "url": "https://hausofmode.de/products/10-000-lumen-wiederaufladbare-led-taschenlampe-mit-zoom-usb-c-und-powerbank-funktion"
+  },
+  "10-tb-tragbare-externe-festplatte-usb-3-0-fur-dateien-und-sicherungen": {
+   "first_reported": "2026-10-30",
+   "rank": 6,
+   "title": "10 TB Tragbare externe Festplatte, USB 3.0, für Dateien und Sicherungen",
+   "url": "https://hausofmode.de/products/10-tb-tragbare-externe-festplatte-usb-3-0-fur-dateien-und-sicherungen"
   },
   "1000-elastische-einweg-lebensmittelabdeckungen-pe-schalen-und-tellerabdeckungen-35-cm": {
    "first_reported": "2026-10-09",
@@ -4490,6 +4520,12 @@
    "title": "Beatrice | Herren Winter-Casual-Jacke mit Reißverschluss",
    "url": "https://leonboutique.co/products/beatrice-herren-winter-casual-jacke-mit-reissverschluss"
   },
+  "birgit-damen-freizeit-strickjacke-mit-v-ausschnitt-und-knopfen": {
+   "first_reported": "2026-10-30",
+   "rank": 233,
+   "title": "Birgit | Damen Freizeit-Strickjacke mit V-Ausschnitt und Knöpfen",
+   "url": "https://leonboutique.co/products/birgit-damen-freizeit-strickjacke-mit-v-ausschnitt-und-knopfen"
+  },
   "bruno-herren-sportliches-trainingsanzug-set": {
    "first_reported": "2026-10-20",
    "rank": 295,
@@ -4688,6 +4724,12 @@
    "title": "Julian Herren Schnrstiefel Klassische Leder Boots Robuste Gummisohle",
    "url": "https://leonboutique.co/products/julian-herren-schnrstiefel-klassische-leder-boots-robuste-gummisohle"
   },
+  "karl-herren-robuste-winterjacke-mit-kapuze-und-fellfutter": {
+   "first_reported": "2026-10-30",
+   "rank": 288,
+   "title": "Karl Herren Robuste Winterjacke Mit Kapuze Und Fellfutter",
+   "url": "https://leonboutique.co/products/karl-herren-robuste-winterjacke-mit-kapuze-und-fellfutter"
+  },
   "katharina-damen-rmellose-stehkragen-v-ausschnitt-gestreifte-bluse": {
    "first_reported": "2026-09-12",
    "rank": 198,
@@ -4736,6 +4778,12 @@
    "title": "Leonie Damen Plissee Midi Slip Kleid Mit Bustier Korsett",
    "url": "https://leonboutique.co/products/leonie-damen-plissee-midi-slip-kleid-mit-bustier-korsett"
   },
+  "luisa-damen-tailliertes-two-piece-blazer-hosenanzug-set": {
+   "first_reported": "2026-10-30",
+   "rank": 286,
+   "title": "Luisa Damen Tailliertes Two Piece Blazer Hosenanzug Set",
+   "url": "https://leonboutique.co/products/luisa-damen-tailliertes-two-piece-blazer-hosenanzug-set"
+  },
   "luisa-damen-wildleder-westernstiefel-fr-einen-stilvollen-look-mit-niedrigem-absatz": {
    "first_reported": "2026-10-05",
    "rank": 284,
@@ -4772,6 +4820,12 @@
    "title": "Mia Damen Trachten Traditionelles Kleid Dirndl Midi Schnrung Schrze",
    "url": "https://leonboutique.co/products/mia-damen-trachten-traditionelles-kleid-dirndl-midi-schnrung-schrze"
   },
+  "michaela-damen-lockere-strickpullover-mit-hohem-kragen": {
+   "first_reported": "2026-10-30",
+   "rank": 284,
+   "title": "Michaela Damen Lockere Strickpullover Mit Hohem Kragen",
+   "url": "https://leonboutique.co/products/michaela-damen-lockere-strickpullover-mit-hohem-kragen"
+  },
   "moritz-herren-langarmhemd-im-smart-style": {
    "first_reported": "2026-09-17",
    "rank": 181,
@@ -4801,6 +4855,12 @@
    "rank": 287,
    "title": "Nora Damen Orthopdische Sneaker Mit Breiter Zehenbox Und Schnrung",
    "url": "https://leonboutique.co/products/nora-damen-orthopdische-sneaker-mit-breiter-zehenbox-und-schnrung"
+  },
+  "nora-damen-peacoat-vintage-kunstfell-kragen-taillierter-wintermantel": {
+   "first_reported": "2026-10-30",
+   "rank": 289,
+   "title": "Nora Damen Peacoat Vintage Kunstfell Kragen Taillierter Wintermantel",
+   "url": "https://leonboutique.co/products/nora-damen-peacoat-vintage-kunstfell-kragen-taillierter-wintermantel"
   },
   "paul-herren-locker-geschnittener-pullover-lounge-sweatshirt": {
    "first_reported": "2026-10-02",
@@ -4979,6 +5039,12 @@
    "title": "Elegant Off Shoulder Vintage Midi Dress For Women Timeless Look",
    "url": "https://madebyjessica.store/products/elegant-off-shoulder-vintage-midi-dress-for-women-timeless-look"
   },
+  "elegant-velvet-maxi-dress-for-women": {
+   "first_reported": "2026-10-30",
+   "rank": 214,
+   "title": "Women's Velvet Maxi Dress with Flowing Silhouette and Formal Fit",
+   "url": "https://madebyjessica.store/products/elegant-velvet-maxi-dress-for-women"
+  },
   "elia-gathered-waist-keyhole-maxi-dress": {
    "first_reported": "2026-09-01",
    "rank": 96,
@@ -5068,6 +5134,12 @@
    "rank": 284,
    "title": "Women S Knee High Boots With Block Heel And Pointed Toe",
    "url": "https://madebyjessica.store/products/women-s-knee-high-boots-with-block-heel-and-pointed-toe"
+  },
+  "women-s-wide-leg-floral-trousers-with-high-waist-and-zip-closure": {
+   "first_reported": "2026-10-30",
+   "rank": 242,
+   "title": "Women S Wide Leg Floral Trousers With High Waist And Zip Closure",
+   "url": "https://madebyjessica.store/products/women-s-wide-leg-floral-trousers-with-high-waist-and-zip-closure"
   },
   "women-s-wide-leg-full-length-trousers-with-drawstring-waist": {
    "first_reported": "2026-08-26",
@@ -5249,6 +5321,12 @@
    "title": "Women's Multicolour Fair Isle Jumper Round Neck",
    "url": "https://madebyjessica.store/products/womens-multicolour-fair-isle-jumper-round-neck"
   },
+  "womens-one-shoulder-maxi-dress-with-draped-bodice": {
+   "first_reported": "2026-10-30",
+   "rank": 252,
+   "title": "Womens One Shoulder Maxi Dress With Draped Bodice",
+   "url": "https://madebyjessica.store/products/womens-one-shoulder-maxi-dress-with-draped-bodice"
+  },
   "womens-orthopedic-trainers-with-arch-support": {
    "first_reported": "2026-10-15",
    "rank": 218,
@@ -5369,6 +5447,12 @@
    "title": "Womens Tailored Blazer With Single Button Closure",
    "url": "https://madebyjessica.store/products/womens-tailored-blazer-with-single-button-closure"
   },
+  "womens-tailored-button-front-blazer-with-side-pockets": {
+   "first_reported": "2026-10-30",
+   "rank": 265,
+   "title": "Womens Tailored Button Front Blazer With Side Pockets",
+   "url": "https://madebyjessica.store/products/womens-tailored-button-front-blazer-with-side-pockets"
+  },
   "womens-tailored-velvet-blazer-single-breasted": {
    "first_reported": "2026-10-15",
    "rank": 221,
@@ -5386,6 +5470,12 @@
    "rank": 275,
    "title": "Women's Teddy Jacket Button Front with Notch Collar",
    "url": "https://madebyjessica.store/products/womens-teddy-jacket-button-front-with-notch-collar"
+  },
+  "womens-utility-shirt-jacket-with-chest-pockets": {
+   "first_reported": "2026-10-30",
+   "rank": 253,
+   "title": "Womens Utility Shirt Jacket With Chest Pockets",
+   "url": "https://madebyjessica.store/products/womens-utility-shirt-jacket-with-chest-pockets"
   },
   "womens-velvet-evening-dress-with-relaxed-fit-and-soft-fabric": {
    "first_reported": "2026-09-15",

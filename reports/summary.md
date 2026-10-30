@@ -1,6 +1,6 @@
-## Snelste stijgers - 2026-10-29 11:31
+## Snelste stijgers - 2026-10-30 11:24
 
-Venster: 3 dagen | top 5 per store | 145 producten overgeslagen omdat je ze al eerder kreeg
+Venster: 3 dagen | top 5 per store | 176 producten overgeslagen omdat je ze al eerder kreeg
 
 Download onderaan deze pagina bij **Artifacts**: `shopify_import.csv` kun je direct in Shopify importeren via Producten, Importeren.
 
@@ -8,72 +8,74 @@ Download onderaan deze pagina bij **Artifacts**: `shopify_import.csv` kun je dir
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Jyn | Elegant Bag | 364 | 297 | +67 | 34.95 | [open](https://averylanebrighton.com/products/jyn-elegant-bag) |
-| 2 | Tameric Sophisticated Embroidered Raw Blouse Wide Trousers | 365 | 298 | +67 |  | [open](https://averylanebrighton.com/products/tameric-sophisticated-embroidered-raw-blouse-wide-trousers) |
-| 3 | Adeline | Polka Dots Cardigan | 335 | 279 | +56 | 34.95 | [open](https://averylanebrighton.com/products/adeline-polka-dots-cardigan) |
-| 4 | Scarlethia Sophisticated Coat | 315 | 266 | +49 |  | [open](https://averylanebrighton.com/products/scarlethia-sophisticated-coat) |
-| 5 | Calirenne | Elegant Cardigan | 330 | 281 | +49 | 49.95 | [open](https://averylanebrighton.com/products/calirenne-elegant-cardigan) |
+| 1 | Lorie | Sophisticated Jumper | 299 | 259 | +40 | 29.95 | [open](https://averylanebrighton.com/products/lorie-sophisticated-sweater) |
+| 2 | Flore | Orthopaedic Sandals | 336 | 296 | +40 | 39.95 | [open](https://averylanebrighton.com/products/flore-orthopaedic-sandals) |
+| 3 | Elvanya | Orthopaedic Shoes | 307 | 268 | +39 | 39.95 | [open](https://averylanebrighton.com/products/elvanya-orthopaedic-shoes) |
+| 4 | Maple | Orthopaedic Shoes | 331 | 292 | +39 | 39.95 | [open](https://averylanebrighton.com/products/maple-orthopaedic-shoes) |
+| 5 | Coralyeth | Elegant Dress | 332 | 293 | +39 | 49.95 | [open](https://averylanebrighton.com/products/coralyeth-elegant-dress) |
 
-### By Emilia Rose (1000 producten, 59 snapshots)
+### By Emilia Rose (1000 producten, 60 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Women’s Maxi Dress with V Neckline and Sleeveless Design | 128 | 118 | +10 | 79.95 | [open](https://byemiliarose.com/products/women-s-maxi-dress-with-v-neckline-and-sleeveless-design) |
-| 2 | Women's Fleece Jacket with Stand-Up Collar and Zip | 207 | 197 | +10 | 83.00 | [open](https://byemiliarose.com/products/women-s-fleece-jacket-with-stand-up-collar-and-zip) |
+| 1 | Women S Trousers With Elastic Waistband And Wide Legs 2 | 341 | 282 | +59 |  | [open](https://byemiliarose.com/products/women-s-trousers-with-elastic-waistband-and-wide-legs-2) |
+
+Nieuw binnengekomen: [Black Friday Mystery Gift – Free With Yo](https://byemiliarose.com/products/black-friday-mystery-gift) (#53)
 
 ### By Mayberry
 
 _geen data opgehaald_
 
-### By Seabourne (896 producten, 52 snapshots)
+### By Seabourne (896 producten, 53 snapshots)
 
-| # | Product | Was | Nu | Stijging | Prijs | Link |
-|---|---------|----:|---:|---------:|------:|------|
-| 1 | Morgane™ | Chic and Lightweight Midi Polka Dot Dress | 286 | 227 | +59 | 74.95 | [open](https://byseabourne.com/products/morgane-chic-and-lightweight-midi-polka-dot-dress) |
-| 2 | Adeline%E2%84%A2 Elegant V Neck Summer Dress 1 | 129 | 119 | +10 |  | [open](https://byseabourne.com/products/adeline%E2%84%A2-elegant-v-neck-summer-dress-1) |
+_geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
 ### Drune
 
 _geen data opgehaald_
 
-### Elle Charleston (1000 producten, 52 snapshots)
+### Elle Charleston (1000 producten, 53 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Camila | Women's Orthopedic Memory-Foam Slip-On Loafer Sneak | 334 | 292 | +42 | 49.95 | [open](https://elle-charleston.com/products/camila-womens-orthopedic-memory-foam-slip-on-loafer-sneakers) |
-| 2 | Siara%E2%84%A2 Blouse | 276 | 266 | +10 |  | [open](https://elle-charleston.com/products/siara%E2%84%A2-blouse) |
+| 1 | Lara Elegant Blouse With Design | 283 | 268 | +15 | 45.95 | [open](https://elle-charleston.com/products/lara-eb) |
+| 2 | Violetta | 277 | 267 | +10 |  | [open](https://elle-charleston.com/products/violetta) |
 
-### Haus of Mode (1000 producten, 52 snapshots)
+### Haus of Mode (1000 producten, 53 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-Nieuw binnengekomen: [2026 Survival Adventskalender mit 24 Out](https://hausofmode.de/products/2026-survival-adventskalender-mit-24-outdoor-ausrustungsteilen) (#112)
+Nieuw binnengekomen: [10 TB Tragbare externe Festplatte, USB 3](https://hausofmode.de/products/10-tb-tragbare-externe-festplatte-usb-3-0-fur-dateien-und-sicherungen) (#6)
 
 ### Jessica by Bee (931 producten, 44 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
-### Leon Boutique (1000 producten, 52 snapshots)
+### Leon Boutique (1000 producten, 53 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Clara | Damen Taillierter Zweireihiger Hosenanzug mit Weiter | 331 | 300 | +31 | 69.95 | [open](https://leonboutique.co/products/clara-damen-taillierter-zweireihiger-hosenanzug-mit-weiter-hose-burgundy) |
+| 1 | Nora Damen Peacoat Vintage Kunstfell Kragen Taillierter Wint | 332 | 289 | +43 |  | [open](https://leonboutique.co/products/nora-damen-peacoat-vintage-kunstfell-kragen-taillierter-wintermantel) |
+| 2 | Luisa Damen Tailliertes Two Piece Blazer Hosenanzug Set | 315 | 286 | +29 |  | [open](https://leonboutique.co/products/luisa-damen-tailliertes-two-piece-blazer-hosenanzug-set) |
+| 3 | Karl Herren Robuste Winterjacke Mit Kapuze Und Fellfutter | 313 | 288 | +25 |  | [open](https://leonboutique.co/products/karl-herren-robuste-winterjacke-mit-kapuze-und-fellfutter) |
+| 4 | Michaela Damen Lockere Strickpullover Mit Hohem Kragen | 307 | 284 | +23 |  | [open](https://leonboutique.co/products/michaela-damen-lockere-strickpullover-mit-hohem-kragen) |
+| 5 | Birgit | Damen Freizeit-Strickjacke mit V-Ausschnitt und Knö | 255 | 233 | +22 | 39.95 | [open](https://leonboutique.co/products/birgit-damen-freizeit-strickjacke-mit-v-ausschnitt-und-knopfen) |
 
 ### Lune London
 
 _geen data opgehaald_
 
-### Made by Jessica (1000 producten, 56 snapshots)
+### Made by Jessica (1000 producten, 57 snapshots)
 
 | # | Product | Was | Nu | Stijging | Prijs | Link |
 |---|---------|----:|---:|---------:|------:|------|
-| 1 | Women's Oversized Faux Fur Jacket with Wide Sleeves | 419 | 279 | +140 | 29.95 | [open](https://madebyjessica.store/products/womens-oversized-faux-fur-jacket-with-wide-sleeves) |
-| 2 | Women's Colourblock Waffle Knit Henley Jumper with Buttons | 405 | 267 | +138 | 29.95 | [open](https://madebyjessica.store/products/womens-colourblock-waffle-knit-henley-jumper-with-buttons) |
-| 3 | Ember | 311 | 230 | +81 |  | [open](https://madebyjessica.store/products/ember) |
-| 4 | Adriana | Short Sleeve Abstract Print Knee Length Dress | 140 | 117 | +23 | 24.95 | [open](https://madebyjessica.store/products/adriana-short-sleeve-abstract-print-knee-length-dress) |
-| 5 | Alaia | Relaxed Line Midi Dress | 134 | 112 | +22 | 34.95 | [open](https://madebyjessica.store/products/alaia-relaxed-line-midi-dress) |
+| 1 | Womens Tailored Button Front Blazer With Side Pockets | 989 | 265 | +724 |  | [open](https://madebyjessica.store/products/womens-tailored-button-front-blazer-with-side-pockets) |
+| 2 | Womens Utility Shirt Jacket With Chest Pockets | 758 | 253 | +505 |  | [open](https://madebyjessica.store/products/womens-utility-shirt-jacket-with-chest-pockets) |
+| 3 | Womens One Shoulder Maxi Dress With Draped Bodice | 745 | 252 | +493 |  | [open](https://madebyjessica.store/products/womens-one-shoulder-maxi-dress-with-draped-bodice) |
+| 4 | Women's Velvet Maxi Dress with Flowing Silhouette and Formal | 457 | 214 | +243 | 34.95 | [open](https://madebyjessica.store/products/elegant-velvet-maxi-dress-for-women) |
+| 5 | Women S Wide Leg Floral Trousers With High Waist And Zip Clo | 337 | 242 | +95 |  | [open](https://madebyjessica.store/products/women-s-wide-leg-floral-trousers-with-high-waist-and-zip-closure) |
 
-### Redlich & Becker (1000 producten, 56 snapshots)
+### Redlich & Becker (1000 producten, 57 snapshots)
 
 _geen product voldeed aan de drempel (minstens 10 plekken gestegen en nu binnen de top 300)._
 
